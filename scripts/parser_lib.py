@@ -295,7 +295,19 @@ INDIA_SIGNALS = re.compile(
     r"SBI|HDFC|ICICI|Axis|Kotak|IndusInd|Yes\s+Bank|PNB|Canara|Bank\s+of\s+Baroda|Union\s+Bank|LIC|Bajaj|Tata|Reliance|Adani|Birla|Mahindra|Infosys|Wipro|TCS|HCL|Jio|Airtel|Vedanta|ITC|Maruti|Hero|Godrej|Dabur|Cipla|Lupin|Biocon|Zydus|Glenmark|Torrent|Sun\s+Pharma|Dr\.?\s*Reddy|Apollo|Fortis|Max\s+Healthcare|Manipal|Narayana|NIMHANS|Paytm|PhonePe|Razorpay|Zerodha|Byju|Unacademy|UPSC|NEET|CBSE|ICSE|Manappuram|Muthoot|Shriram|Chola|IDFC|RBL|Federal\s+Bank|South\s+Indian\s+Bank|Karur|Tamilnad|Ujjivan|Equitas|Fincare|Jana|AU\s+Small|Utkarsh|Suryoday|ESAF)\b")
 
 
-def region_of(title, publisher):
+# explicitly non-Indian entities that Indian-named publishers report on
+# ("The Business Standard" / "The Financial Express" are also Bangladeshi papers)
+FOREIGN_SIGNALS = re.compile(
+    r"\b(?:Dhaka|Bangladesh|Chattogram|Sonali\s+Bank|Meghna\s+Bank|Janata\s+Bank|"
+    r"Agrani\s+Bank|Rupali\s+Bank|Pubali\s+Bank|Krishi\s+Bank|Islami\s+Bank|"
+    r"Shahjalal|NCC\s+Bank|ONE\s+Bank|United\s+Commercial\s+Bank|Mutual\s+Trust\s+Bank|"
+    r"Modhumoti|BRAC\s+Bank|Pakistan|Karachi|Lahore|Sri\s+Lanka|Colombo|Nepal|"
+    r"Kathmandu|Tribhuvan|Nabil\s+Bank|Bhutan|Maldives)\b")
+
+
+def region_of(title, publisher, company=""):
+    if FOREIGN_SIGNALS.search(title) or (company and FOREIGN_SIGNALS.search(company)):
+        return "Global"
     pub = (publisher or "").lower()
     if any(p in pub for p in INDIA_PUBS) or pub.endswith(".in"):
         return "India"

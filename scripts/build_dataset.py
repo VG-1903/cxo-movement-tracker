@@ -7,6 +7,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from parser_lib import extract_all, extract_moved_from, region_of, sector_of
+from dedupe_lib import dedupe
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "data" / "raw" / "items.jsonl"
@@ -64,7 +65,7 @@ def main():
             frm = extract_moved_from(it["title"], rec["company"])
             rec.update({
                 "sector": sector_of(it["title"], it["sector_hint"], rec["company"]),
-                "region": region_of(it["title"], it.get("publisher", "")),
+                "region": region_of(it["title"], it.get("publisher", ""), rec["company"]),
                 "date": it.get("date", ""),
                 "headline": title_base.strip(),
                 "publisher": it.get("publisher", ""),
@@ -75,6 +76,10 @@ def main():
             merge(moves, rec)
 
     out = sorted(moves.values(), key=lambda r: r["date"] or "0000", reverse=True)
+
+    # entity-resolution dedupe: name variants, company variants, junk companies,
+    # and same-event stories reported with different movement verbs
+    out, merged_away = dedupe(out)
 
     # cross-reference pass: an Appointment by someone whose exit we also tracked
     # at a different company inherits that company as moved_from
@@ -106,7 +111,8 @@ def main():
     by_sector = {}
     for r in out:
         by_sector[r["sector"]] = by_sector.get(r["sector"], 0) + 1
-    print(f"raw items: {len(items)}  parsed moves: {len(out)}  unparsed titles: {misses}")
+    print(f"raw items: {len(items)}  parsed moves: {len(out)}  "
+          f"(dedupe removed {merged_away})  unparsed titles: {misses}")
     print("by sector:", json.dumps(by_sector))
     india = sum(1 for r in out if r["region"] == "India")
     print(f"India: {india}  Global: {len(out) - india}")

@@ -13,6 +13,7 @@ Consumers then query with the anon key, e.g.:
 import hashlib
 import json
 import sys
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -104,6 +105,31 @@ def main():
                 sys.exit(1)
         sent += len(rows[i:i + BATCH])
         print(f"upserted {sent}/{len(rows)}")
+
+    # remove rows no longer in the master dataset (e.g. collapsed by dedupe)
+    local_ids = {r["id"] for r in rows}
+    remote_ids, offset = set(), 0
+    while True:
+        req = urllib.request.Request(
+            f"{url}/rest/v1/moves?select=id&limit=1000&offset={offset}",
+            headers={"apikey": key, "Authorization": f"Bearer {key}"})
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            page = json.loads(resp.read().decode("utf-8"))
+        remote_ids.update(r["id"] for r in page)
+        if len(page) < 1000:
+            break
+        offset += 1000
+    stale = sorted(remote_ids - local_ids)
+    for i in range(0, len(stale), 80):
+        chunk = ",".join(f'"{s}"' for s in stale[i:i + 80])
+        req = urllib.request.Request(
+            f"{url}/rest/v1/moves?id=in.({urllib.parse.quote(chunk)})",
+            headers={"apikey": key, "Authorization": f"Bearer {key}",
+                     "Prefer": "return=minimal"},
+            method="DELETE")
+        urllib.request.urlopen(req, timeout=60).read()
+    if stale:
+        print(f"deleted {len(stale)} stale rows")
     print("supabase sync complete" + (" (WITHOUT moved_from columns)" if dropped else ""))
 
 
