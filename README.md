@@ -33,6 +33,16 @@ with a self-contained HTML dashboard.
 3. **Render** (`scripts/make_dashboard.py`) — regenerates the dashboard from the
    template in `scripts/dashboard_template.html`.
 
+## Deployment & API
+- **Live site**: https://cxo-movement-tracker.vercel.app (Vercel, auto-deploys on every push)
+- **Static JSON API**: `api/v1/{all,bfsi,pharma,education,corporate}.json` (+ `*_latest.json`),
+  CORS-open, regenerated daily by `scripts/make_api.py`.
+- **Queryable API**: Supabase `moves` table (project `ovcjcdzabuavspbqiqbr`), synced daily by
+  `scripts/push_supabase.py`. Read-only for the publishable key via row-level security;
+  supports server-side filters, sorting and pagination (PostgREST syntax).
+- **Widget**: `embed.js` — one script tag, `data-sector` / `data-limit` / `data-region` / `data-theme`.
+- **Credentials** live in `.env.local` (gitignored, excluded from Vercel). Schema: `supabase/schema.sql`.
+
 ## Daily automation
 A Windows Task Scheduler job **"CXO Portal Daily Update"** runs the whole pipeline
 every day at **08:30** (`scripts/run_daily.py`, logs in `data/logs/`). Manage it:

@@ -77,6 +77,34 @@ parsed automatically from public news headlines. Free JSON API + drop-in widget.
 const { records } = await res.json();
 const indiaMoves = records.filter(r =&gt; r.region === "India").slice(0, 10);</code></pre>
 
+<h2>Queryable API (Supabase)</h2>
+<p>For server-side filtering, sorting and pagination over the full dataset, query the
+Supabase REST endpoint directly. Send the publishable key as both <code>apikey</code> and
+<code>Authorization: Bearer</code>. It is read-only — writes are rejected.</p>
+<pre><code>const SUPABASE = "https://ovcjcdzabuavspbqiqbr.supabase.co/rest/v1";
+const KEY = "sb_publishable_fMn8ipZjzvY3az3MP4TbGg_MSyoXVw7";
+
+// newest 20 pharma moves in India
+const res = await fetch(
+  `${SUPABASE}/moves?sector=eq.Pharma%20%26%20Healthcare&region=eq.India` +
+  `&order=date.desc&limit=20`,
+  { headers: { apikey: KEY, Authorization: `Bearer ${KEY}` } }
+);
+const rows = await res.json();</code></pre>
+<h3>Useful filters</h3>
+<table>
+  <tr><th>Goal</th><th>Query string</th></tr>
+  <tr><td>One sector</td><td><code>?sector=eq.BFSI</code></td></tr>
+  <tr><td>India only</td><td><code>?region=eq.India</code></td></tr>
+  <tr><td>Only exits</td><td><code>?movement=in.(Resignation,Retirement)</code></td></tr>
+  <tr><td>Since a date</td><td><code>?date=gte.2026-01-01</code></td></tr>
+  <tr><td>Company search</td><td><code>?company=ilike.*pharma*</code></td></tr>
+  <tr><td>CEOs only</td><td><code>?role=ilike.*CEO*</code></td></tr>
+  <tr><td>Sort + paginate</td><td><code>?order=date.desc&amp;limit=20&amp;offset=40</code></td></tr>
+</table>
+<p>Combine any of them with <code>&amp;</code>. Full syntax: PostgREST operators
+(<code>eq</code>, <code>neq</code>, <code>gte</code>, <code>lte</code>, <code>in</code>, <code>ilike</code>).</p>
+
 <h2>Embed the widget on your site</h2>
 <p>One script tag — no build step, no dependencies. It renders the latest movements
 for the sector you pick (styles are isolated in a shadow root, so it can't clash with your CSS):</p>
