@@ -137,6 +137,7 @@
       <th data-k="movement">Movement <span class="arr"></span></th>
       <th data-k="role">Role <span class="arr"></span></th>
       <th data-k="company">Company <span class="arr"></span></th>
+      <th data-k="moved_from">Moved from <span class="arr"></span></th>
       <th data-k="sector">Sector <span class="arr"></span></th>
       <th data-k="region">Region <span class="arr"></span></th>
       <th>Source</th>
@@ -147,7 +148,7 @@
 </div>
 
 <div id="tip"></div>
-<footer>Built from Google News &amp; ET vertical RSS feeds. Records are parsed automatically from headlines — always verify via the source link before publishing.</footer>
+<footer>Built from Google News &amp; publisher RSS feeds. Records are parsed automatically from headlines — always verify via the source link before publishing. “Moved from” marked&nbsp;* is inferred by cross-referencing this dataset’s own exit records rather than stated in the headline.</footer>
 
 <script>
 const DATA = __DATA__;
@@ -290,6 +291,7 @@ function render() {
       <td><span class="mv ${cls}">${ic} ${esc(r.movement)}</span></td>
       <td>${esc(r.role)}</td>
       <td class="co">${esc(r.company || "—")}</td>
+      <td class="co">${r.moved_from ? esc(r.moved_from) + (r.moved_from_source === "cross-reference" ? " *" : "") : "—"}</td>
       <td><span class="sec"><span class="dot" style="background:var(${SC[r.sector]})"></span>${esc(r.sector)}</span></td>
       <td>${esc(r.region)}</td>
       <td>${r.link ? `<a href="${esc(r.link)}" target="_blank" rel="noopener">${esc(r.publisher || "link")}</a>` : esc(r.publisher)}<span class="co">${esc(extra)}</span></td>

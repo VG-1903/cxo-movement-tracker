@@ -50,7 +50,10 @@ def main():
         rows.append({
             "id": rid, "date": r.get("date") or None, "person": r["person"],
             "movement": r["movement"], "role": r.get("role", ""),
-            "company": r.get("company", ""), "sector": r.get("sector", ""),
+            "company": r.get("company", ""),
+            "moved_from": r.get("moved_from", ""),
+            "moved_from_source": r.get("moved_from_source", ""),
+            "sector": r.get("sector", ""),
             "region": r.get("region", ""), "publisher": r.get("publisher", ""),
             "headline": r.get("headline", ""), "link": r.get("link", ""),
             "also_reported_by": r.get("also_reported_by", []),
@@ -62,25 +65,46 @@ def main():
         "Content-Type": "application/json",
         "Prefer": "resolution=merge-duplicates,return=minimal",
     }
-    sent = 0
-    for i in range(0, len(rows), BATCH):
-        body = json.dumps(rows[i:i + BATCH], ensure_ascii=False).encode("utf-8")
+    # columns that may not exist yet in older tables; dropped on PGRST204
+    OPTIONAL_COLS = ["moved_from", "moved_from_source"]
+
+    def post(batch):
+        body = json.dumps(batch, ensure_ascii=False).encode("utf-8")
         req = urllib.request.Request(endpoint, data=body, headers=headers, method="POST")
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            return resp.status
+
+    sent, dropped = 0, False
+    for i in range(0, len(rows), BATCH):
+        batch = rows[i:i + BATCH]
+        if dropped:
+            batch = [{k: v for k, v in r.items() if k not in OPTIONAL_COLS} for r in batch]
         try:
-            with urllib.request.urlopen(req, timeout=60) as resp:
-                if resp.status not in (200, 201, 204):
-                    print(f"batch {i}: HTTP {resp.status}")
-                    sys.exit(1)
+            post(batch)
         except urllib.error.HTTPError as e:
             detail = e.read().decode("utf-8", "replace")[:500]
-            print(f"batch {i}: HTTP {e.code} — {detail}")
-            if e.code == 404:
-                print("\nThe 'moves' table does not exist yet. Run supabase/schema.sql "
-                      "in Supabase Studio -> SQL Editor first.")
-            sys.exit(1)
-        sent += min(BATCH, len(rows) - i)
+            if e.code == 400 and "PGRST204" in detail and not dropped:
+                dropped = True
+                print(f"table lacks {OPTIONAL_COLS} — syncing without them. "
+                      "To store them, run in Supabase SQL Editor:\n"
+                      "  alter table public.moves add column if not exists moved_from text,"
+                      " add column if not exists moved_from_source text;")
+                batch = [{k: v for k, v in r.items() if k not in OPTIONAL_COLS} for r in batch]
+                try:
+                    post(batch)
+                except urllib.error.HTTPError as e2:
+                    print(f"batch {i}: HTTP {e2.code} — "
+                          f"{e2.read().decode('utf-8', 'replace')[:300]}")
+                    sys.exit(1)
+            else:
+                print(f"batch {i}: HTTP {e.code} — {detail}")
+                if e.code == 404:
+                    print("\nThe 'moves' table does not exist yet. Run supabase/schema.sql "
+                          "in Supabase Studio -> SQL Editor first.")
+                sys.exit(1)
+        sent += len(rows[i:i + BATCH])
         print(f"upserted {sent}/{len(rows)}")
-    print("supabase sync complete")
+    print("supabase sync complete" + (" (WITHOUT moved_from columns)" if dropped else ""))
 
 
 if __name__ == "__main__":

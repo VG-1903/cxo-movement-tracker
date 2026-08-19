@@ -70,6 +70,7 @@
         return "<li><span class='b " + b[1] + "'>" + b[0] + " " + esc(r.movement) + "</span>" +
           head + " — " + esc(r.role) +
           (r.company ? '<span class="c">, ' + esc(r.company) + "</span>" : "") +
+          (r.moved_from ? '<span class="c"> (from ' + esc(r.moved_from) + ")</span>" : "") +
           '<span class="d">' + esc(r.date || "") + "</span></li>";
       }).join("");
       root.innerHTML = "<style>" + css + "</style>" +

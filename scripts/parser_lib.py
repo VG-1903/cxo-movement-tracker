@@ -218,6 +218,55 @@ def extract(title):
     return recs[0] if recs else None
 
 
+# ---------------------------------------------------------------- moved-from
+_CO_PHRASE = r"[A-Z][\w&.'’-]*(?:\s+(?:of\s+)?[A-Z&][\w&.'’-]*){0,3}?"
+_FILLER = r"(?:[a-z][\w&-]*\s+){0,2}"   # "finance", "food delivery", "oncology"
+_FROM_ROLE = (r"(?i:executive|exec|officer|veteran|alum|banker|hand|leader|chief|head|"
+              r"founder|co-founder|honcho|boss|"
+              r"CEO|CFO|COO|CTO|CIO|CMO|CHRO|MD|president|director|chairman)")
+_FROM_PATTERNS = [
+    # "former Dr Reddy's executive", "ex-Visa finance head", "former Zomato food delivery CEO"
+    re.compile(rf"(?i:\bformer|\bex)[-\s]+(?P<co>{_CO_PHRASE})(?:['’]s)?\s+{_FILLER}{_FROM_ROLE}"),
+    # "joins X from Y", "moves from Y", "switches from Y"
+    re.compile(rf"(?i:joins?\s+[^,;]*?\s+from|moves?\s+from|switches?\s+from|"
+               rf"crosses\s+over\s+from)\s+(?P<co>{_CO_PHRASE})"),
+    # "quits Y to join X", "leaves Y for X"
+    re.compile(rf"(?i:quits|leaves|exits)\s+(?P<co>{_CO_PHRASE})\s+(?i:to\s+join|for)\b"),
+    # "AstraZeneca oncology veteran Alan Barge"
+    re.compile(rf"(?P<co>{_CO_PHRASE})\s+{_FILLER}(?i:veteran|alum|alumnus)\s+[A-Z]"),
+]
+_FROM_JUNK = re.compile(
+    r"^(?:The|A|An|New|Its|His|Her|Their|India|Indian|Global|Group|Board|Company|"
+    r"Former|Ex|Veteran|Senior|Chief|Executive|Managing|Deputy|Director|President|"
+    r"CEO|CFO|COO|CTO|MD|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec|"
+    r"March|April|May|June|July|August|September|October|"
+    r"November|December|January|February|Monday|Tuesday|Wednesday|Thursday|Friday)"
+    r"(?:\s+\d.*)?$",
+    re.IGNORECASE)
+
+
+def extract_moved_from(title, dest_company):
+    """Previous employer, if the headline names one. '' otherwise."""
+    t = title.rsplit(" - ", 1)[0] if " - " in title else title
+    dest = re.sub(r"[^a-z0-9]", "", (dest_company or "").lower())
+    for rx in _FROM_PATTERNS:
+        m = rx.search(t)
+        if not m:
+            continue
+        co = clean_company(m.group("co"))
+        if not co or _FROM_JUNK.match(co):
+            continue
+        if co.split()[0].lower() in ("adds", "names", "appoints", "taps", "welcomes",
+                                     "hires", "elevates", "promotes", "and", "with", "as"):
+            continue
+        key = re.sub(r"[^a-z0-9]", "", co.lower())
+        # must not be the destination itself (or a prefix of it)
+        if dest and (key == dest or dest.startswith(key) or key.startswith(dest)):
+            continue
+        return co
+    return ""
+
+
 # ---------------------------------------------------------------- region + sector
 INDIA_PUBS = {
     "moneycontrol", "economic times", "economictimes", "livemint", "mint",

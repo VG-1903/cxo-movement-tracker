@@ -8,6 +8,8 @@ create table if not exists public.moves (
   movement      text not null,               -- Appointment | Promotion | Re-appointment | Resignation | Retirement
   role          text,
   company       text,
+  moved_from    text,                        -- previous employer, when known
+  moved_from_source text,                    -- headline | cross-reference | ''
   sector        text,                        -- BFSI | Education | Pharma & Healthcare | Corporate
   region        text,                        -- India | Global
   publisher     text,

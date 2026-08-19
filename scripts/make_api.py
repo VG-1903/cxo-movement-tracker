@@ -23,8 +23,9 @@ SECTORS = {
     "education": "Education",
     "corporate": "Corporate",
 }
-FIELDS = ["date", "person", "movement", "role", "company", "sector", "region",
-          "publisher", "headline", "link", "also_reported_by"]
+FIELDS = ["date", "person", "movement", "role", "company", "moved_from",
+          "moved_from_source", "sector", "region", "publisher", "headline",
+          "link", "also_reported_by"]
 
 
 def payload(slug, label, records, updated):
