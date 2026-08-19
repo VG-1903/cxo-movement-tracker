@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CXO Movement Tracker</title>
+<style>
+  :root { color-scheme: light dark; }
+  * { box-sizing: border-box; margin: 0; }
+  .viz-root {
+    color-scheme: light;
+    --surface-1: #fcfcfb; --page: #f9f9f7;
+    --ink-1: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+    --grid: #e1e0d9; --baseline: #c3c2b7; --ring: rgba(11,11,11,0.10);
+    --s-bfsi: #2a78d6; --s-pharma: #eb6834; --s-edu: #1baf7a; --s-corp: #eda100;
+    --good: #006300; --serious: #ec835a; --critical: #d03b3b; --accent: #2a78d6;
+    --chip-bg: #f0efec;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) .viz-root {
+      color-scheme: dark;
+      --surface-1: #1a1a19; --page: #0d0d0d;
+      --ink-1: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
+      --grid: #2c2c2a; --baseline: #383835; --ring: rgba(255,255,255,0.10);
+      --s-bfsi: #3987e5; --s-pharma: #d95926; --s-edu: #199e70; --s-corp: #c98500;
+      --good: #0ca30c; --accent: #3987e5; --chip-bg: #262624;
+    }
+  }
+  :root[data-theme="dark"] .viz-root {
+    color-scheme: dark;
+    --surface-1: #1a1a19; --page: #0d0d0d;
+    --ink-1: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
+    --grid: #2c2c2a; --baseline: #383835; --ring: rgba(255,255,255,0.10);
+    --s-bfsi: #3987e5; --s-pharma: #d95926; --s-edu: #199e70; --s-corp: #c98500;
+    --good: #0ca30c; --accent: #3987e5; --chip-bg: #262624;
+  }
+  body.viz-root {
+    background: var(--page); color: var(--ink-1);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 14px; line-height: 1.45; padding: 24px clamp(12px, 3vw, 40px) 60px;
+  }
+  header h1 { font-size: 22px; font-weight: 700; }
+  header .sub { color: var(--ink-2); margin-top: 2px; }
+  header .stamp { color: var(--muted); font-size: 12px; margin-top: 2px; }
+
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 18px 0; }
+  .tile { background: var(--surface-1); border: 1px solid var(--ring); border-radius: 10px; padding: 12px 16px; }
+  .tile .v { font-size: 26px; font-weight: 700; }
+  .tile .l { color: var(--ink-2); font-size: 12px; margin-top: 2px; }
+
+  .filters { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 14px 0 18px; }
+  .filters input[type=search] { flex: 1 1 220px; max-width: 320px; padding: 7px 10px; border: 1px solid var(--baseline); border-radius: 8px; background: var(--surface-1); color: var(--ink-1); font: inherit; }
+  .chip { border: 1px solid var(--baseline); background: var(--surface-1); color: var(--ink-2); border-radius: 999px; padding: 5px 12px; cursor: pointer; font: inherit; font-size: 13px; display: inline-flex; align-items: center; gap: 6px; }
+  .chip:hover { background: var(--chip-bg); }
+  .chip.on { background: var(--ink-1); color: var(--page); border-color: var(--ink-1); font-weight: 600; }
+  .chip .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+  .chip.on .dot { outline: 2px solid var(--page); outline-offset: -1px; }
+  select.ctl { padding: 6px 8px; border: 1px solid var(--baseline); border-radius: 8px; background: var(--surface-1); color: var(--ink-1); font: inherit; }
+  .btn { padding: 6px 14px; border-radius: 8px; border: 1px solid var(--baseline); background: var(--surface-1); color: var(--ink-1); cursor: pointer; font: inherit; }
+  .btn:hover { background: var(--chip-bg); }
+  .grow { flex: 1; }
+
+  .charts { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px; margin-bottom: 18px; }
+  .card { background: var(--surface-1); border: 1px solid var(--ring); border-radius: 10px; padding: 14px 16px; overflow-x: auto; }
+  .card h3 { font-size: 13px; font-weight: 600; color: var(--ink-2); margin-bottom: 10px; }
+  .card svg { display: block; width: 100%; height: auto; }
+  .bar-lbl { font-size: 11px; fill: var(--ink-2); }
+  .bar-val { font-size: 11px; font-weight: 600; fill: var(--ink-1); }
+  .axis-lbl { font-size: 10px; fill: var(--muted); }
+  .gridline { stroke: var(--grid); stroke-width: 1; }
+
+  #tip { position: fixed; pointer-events: none; background: var(--surface-1); border: 1px solid var(--ring); border-radius: 8px; padding: 6px 10px; font-size: 12px; box-shadow: 0 2px 10px rgba(0,0,0,.18); display: none; z-index: 10; max-width: 320px; }
+  #tip b { display: block; }
+
+  .tablewrap { background: var(--surface-1); border: 1px solid var(--ring); border-radius: 10px; overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; min-width: 900px; }
+  th, td { text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--grid); vertical-align: top; }
+  th { font-size: 12px; color: var(--ink-2); cursor: pointer; user-select: none; white-space: nowrap; position: sticky; top: 0; background: var(--surface-1); }
+  th .arr { color: var(--muted); font-size: 10px; }
+  td { font-size: 13px; }
+  td.date { white-space: nowrap; font-variant-numeric: tabular-nums; color: var(--ink-2); }
+  td .person { font-weight: 600; }
+  td .co { color: var(--ink-2); }
+  .mv { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 999px; background: var(--chip-bg); white-space: nowrap; }
+  .mv.up { color: var(--good); }
+  .mv.down { color: var(--critical); }
+  .mv.flat { color: var(--ink-2); }
+  .sec { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }
+  .sec .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+  td a { color: var(--accent); text-decoration: none; }
+  td a:hover { text-decoration: underline; }
+  .more { text-align: center; padding: 10px; }
+  .count { color: var(--muted); font-size: 12px; margin: 8px 2px; }
+  footer { color: var(--muted); font-size: 12px; margin-top: 18px; }
+</style>
+</head>
+<body class="viz-root">
+<header>
+  <h1>CXO Movement Tracker</h1>
+  <div class="sub">CEO &amp; CXO appointments, promotions and exits — BFSI · Education · Pharma &amp; Healthcare · Corporate</div>
+  <div class="stamp">Last updated: __GENERATED__ · __TOTAL__ tracked movements</div>
+</header>
+
+<div class="tiles" id="tiles"></div>
+
+<div class="filters">
+  <input type="search" id="q" placeholder="Search person, company, role…">
+  <span id="sectorChips"></span>
+  <span id="mvChips"></span>
+  <select class="ctl" id="region">
+    <option value="India">India</option>
+    <option value="" selected>All regions</option>
+    <option value="Global">Global</option>
+  </select>
+  <select class="ctl" id="range">
+    <option value="">All time</option>
+    <option value="7">Last 7 days</option>
+    <option value="30">Last 30 days</option>
+    <option value="90">Last 90 days</option>
+  </select>
+  <span class="grow"></span>
+  <button class="btn" id="export">Export CSV</button>
+</div>
+
+<div class="charts">
+  <div class="card"><h3>Movements by sector</h3><svg id="cSector" viewBox="0 0 340 190" role="img" aria-label="Bar chart of movements by sector"></svg></div>
+  <div class="card"><h3>By movement type</h3><svg id="cMove" viewBox="0 0 340 190" role="img" aria-label="Bar chart of movements by type"></svg></div>
+  <div class="card"><h3>Movements per week</h3><svg id="cWeek" viewBox="0 0 340 190" role="img" aria-label="Bar chart of movements per week"></svg></div>
+</div>
+
+<div class="count" id="count"></div>
+<div class="tablewrap">
+  <table id="tbl">
+    <thead><tr>
+      <th data-k="date">Date <span class="arr"></span></th>
+      <th data-k="person">Person <span class="arr"></span></th>
+      <th data-k="movement">Movement <span class="arr"></span></th>
+      <th data-k="role">Role <span class="arr"></span></th>
+      <th data-k="company">Company <span class="arr"></span></th>
+      <th data-k="sector">Sector <span class="arr"></span></th>
+      <th data-k="region">Region <span class="arr"></span></th>
+      <th>Source</th>
+    </tr></thead>
+    <tbody></tbody>
+  </table>
+  <div class="more"><button class="btn" id="moreBtn">Show more</button></div>
+</div>
+
+<div id="tip"></div>
+<footer>Built from Google News &amp; ET vertical RSS feeds. Records are parsed automatically from headlines — always verify via the source link before publishing.</footer>
+
+<script>
+const DATA = __DATA__;
+const SECTORS = ["BFSI", "Pharma & Healthcare", "Education", "Corporate"];
+const SC = { "BFSI": "--s-bfsi", "Pharma & Healthcare": "--s-pharma", "Education": "--s-edu", "Corporate": "--s-corp" };
+const MOVES = ["Appointment", "Promotion", "Re-appointment", "Resignation", "Retirement"];
+const MVICON = { "Appointment": ["▲","up"], "Promotion": ["▲","up"], "Re-appointment": ["↻","flat"], "Resignation": ["▼","down"], "Retirement": ["▼","flat"] };
+
+const state = { q: "", sector: "", movement: "", region: "", range: "", sortK: "date", sortDir: -1, limit: 100 };
+const css = v => getComputedStyle(document.body).getPropertyValue(v).trim();
+const esc = s => String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+
+function filtered() {
+  const q = state.q.toLowerCase();
+  let cutoff = "";
+  if (state.range) {
+    const d = new Date(); d.setDate(d.getDate() - +state.range);
+    cutoff = d.toISOString().slice(0, 10);
+  }
+  return DATA.filter(r =>
+    (!state.sector || r.sector === state.sector) &&
+    (!state.movement || r.movement === state.movement) &&
+    (!state.region || r.region === state.region) &&
+    (!cutoff || (r.date && r.date >= cutoff)) &&
+    (!q || (r.person + " " + r.company + " " + r.role + " " + r.headline).toLowerCase().includes(q))
+  );
+}
+
+function chips(el, values, key, withDot) {
+  el.innerHTML = values.map(v =>
+    `<button class="chip${state[key] === v ? " on" : ""}" data-v="${esc(v)}">` +
+    (withDot && v ? `<span class="dot" style="background:var(${SC[v]})"></span>` : "") + `${esc(v || "All")}</button>`
+  ).join("");
+  el.querySelectorAll(".chip").forEach(b => b.onclick = () => { state[key] = b.dataset.v; state.limit = 100; render(); });
+}
+
+const tip = document.getElementById("tip");
+function showTip(e, html) { tip.innerHTML = html; tip.style.display = "block"; moveTip(e); }
+function moveTip(e) {
+  const w = tip.offsetWidth, x = Math.min(e.clientX + 14, innerWidth - w - 8);
+  tip.style.left = x + "px"; tip.style.top = (e.clientY + 14) + "px";
+}
+function hideTip() { tip.style.display = "none"; }
+
+// horizontal bars: rows = [{label, value, color}]
+function hbar(svg, rows) {
+  const W = 340, rowH = 30, top = 6, H = top + rows.length * rowH + 8;
+  svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+  const max = Math.max(1, ...rows.map(r => r.value));
+  const lw = 118, bw = W - lw - 40;
+  let s = "";
+  rows.forEach((r, i) => {
+    const y = top + i * rowH, w = Math.max(2, r.value / max * bw);
+    s += `<text class="bar-lbl" x="${lw - 6}" y="${y + 19}" text-anchor="end">${esc(r.label.length > 18 ? r.label.slice(0, 17) + "…" : r.label)}</text>`;
+    s += `<rect data-i="${i}" x="${lw}" y="${y + 7}" width="${w}" height="16" rx="4" fill="${r.color}"></rect>`;
+    s += `<text class="bar-val" x="${lw + w + 5}" y="${y + 19}">${r.value}</text>`;
+  });
+  s += `<line x1="${lw}" y1="${top}" x2="${lw}" y2="${H - 6}" stroke="${css("--baseline")}" stroke-width="1"/>`;
+  svg.innerHTML = s;
+  svg.querySelectorAll("rect").forEach(rc => {
+    const r = rows[+rc.dataset.i];
+    rc.addEventListener("mousemove", e => showTip(e, `<b>${esc(r.label)}</b>${r.value} movement${r.value === 1 ? "" : "s"}`));
+    rc.addEventListener("mouseleave", hideTip);
+  });
+}
+
+// weekly vertical bars
+function weekChart(svg, rows) {
+  const W = 340, H = 190, mL = 28, mB = 30, mT = 10;
+  svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+  if (!rows.length) { svg.innerHTML = `<text class="axis-lbl" x="${W/2}" y="${H/2}" text-anchor="middle">No dated records in view</text>`; return; }
+  const max = Math.max(1, ...rows.map(r => r.value));
+  const bw = Math.min(22, (W - mL - 10) / rows.length - 2);
+  let s = "";
+  [0.5, 1].forEach(f => {
+    const y = H - mB - f * (H - mB - mT);
+    s += `<line class="gridline" x1="${mL}" y1="${y}" x2="${W - 6}" y2="${y}"/>`;
+    s += `<text class="axis-lbl" x="${mL - 4}" y="${y + 3}" text-anchor="end">${Math.round(f * max)}</text>`;
+  });
+  const step = (W - mL - 10) / rows.length;
+  const lblEvery = Math.ceil(rows.length / 6);
+  rows.forEach((r, i) => {
+    const x = mL + i * step + (step - bw) / 2;
+    const h = Math.max(2, r.value / max * (H - mB - mT));
+    s += `<rect data-i="${i}" x="${x}" y="${H - mB - h}" width="${bw}" height="${h}" rx="4" fill="${css("--accent")}"></rect>`;
+    if (i % lblEvery === 0) s += `<text class="axis-lbl" x="${x + bw / 2}" y="${H - mB + 13}" text-anchor="middle">${r.label}</text>`;
+  });
+  s += `<line x1="${mL}" y1="${H - mB}" x2="${W - 6}" y2="${H - mB}" stroke="${css("--baseline")}" stroke-width="1"/>`;
+  svg.innerHTML = s;
+  svg.querySelectorAll("rect").forEach(rc => {
+    const r = rows[+rc.dataset.i];
+    rc.addEventListener("mousemove", e => showTip(e, `<b>Week of ${esc(r.label)}</b>${r.value} movement${r.value === 1 ? "" : "s"}`));
+    rc.addEventListener("mouseleave", hideTip);
+  });
+}
+
+function weekKey(dstr) {
+  const d = new Date(dstr + "T00:00:00Z");
+  d.setUTCDate(d.getUTCDate() - ((d.getUTCDay() + 6) % 7));  // Monday
+  return d.toISOString().slice(0, 10);
+}
+
+function render() {
+  const rows = filtered();
+
+  const now = new Date(); now.setDate(now.getDate() - 7);
+  const wk = now.toISOString().slice(0, 10);
+  const exits = rows.filter(r => r.movement === "Resignation" || r.movement === "Retirement").length;
+  document.getElementById("tiles").innerHTML = [
+    [rows.length, "movements in view"],
+    [rows.filter(r => r.date >= wk).length, "in the last 7 days"],
+    [rows.filter(r => r.movement === "Appointment" || r.movement === "Promotion" || r.movement === "Re-appointment").length, "appointments & promotions"],
+    [exits, "exits & retirements"],
+  ].map(([v, l]) => `<div class="tile"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
+
+  chips(document.getElementById("sectorChips"), ["", ...SECTORS], "sector", true);
+  chips(document.getElementById("mvChips"), ["", ...MOVES], "movement", false);
+
+  hbar(document.getElementById("cSector"),
+    SECTORS.map(sec => ({ label: sec, value: rows.filter(r => r.sector === sec).length, color: css(SC[sec]) })));
+  hbar(document.getElementById("cMove"),
+    MOVES.map(m => ({ label: m, value: rows.filter(r => r.movement === m).length, color: css("--accent") })));
+
+  const byWeek = {};
+  rows.forEach(r => { if (r.date) { const k = weekKey(r.date); byWeek[k] = (byWeek[k] || 0) + 1; } });
+  const weeks = Object.keys(byWeek).sort().slice(-16)
+    .map(k => ({ label: k.slice(5), value: byWeek[k] }));
+  weekChart(document.getElementById("cWeek"), weeks);
+
+  const k = state.sortK, dir = state.sortDir;
+  const sorted = [...rows].sort((a, b) => (a[k] || "").localeCompare(b[k] || "") * dir);
+  document.getElementById("count").textContent =
+    `${rows.length} records` + (rows.length > state.limit ? ` — showing ${state.limit}` : "");
+  document.querySelector("#tbl tbody").innerHTML = sorted.slice(0, state.limit).map(r => {
+    const [ic, cls] = MVICON[r.movement] || ["•", "flat"];
+    const extra = r.also_reported_by && r.also_reported_by.length ? ` +${r.also_reported_by.length} more` : "";
+    return `<tr title="${esc(r.headline)}">
+      <td class="date">${r.date || "—"}</td>
+      <td><span class="person">${esc(r.person)}</span></td>
+      <td><span class="mv ${cls}">${ic} ${esc(r.movement)}</span></td>
+      <td>${esc(r.role)}</td>
+      <td class="co">${esc(r.company || "—")}</td>
+      <td><span class="sec"><span class="dot" style="background:var(${SC[r.sector]})"></span>${esc(r.sector)}</span></td>
+      <td>${esc(r.region)}</td>
+      <td>${r.link ? `<a href="${esc(r.link)}" target="_blank" rel="noopener">${esc(r.publisher || "link")}</a>` : esc(r.publisher)}<span class="co">${esc(extra)}</span></td>
+    </tr>`;
+  }).join("");
+  document.getElementById("moreBtn").style.display = rows.length > state.limit ? "" : "none";
+
+  document.querySelectorAll("#tbl th[data-k]").forEach(th => {
+    th.querySelector(".arr").textContent = th.dataset.k === k ? (dir === 1 ? "▲" : "▼") : "";
+  });
+}
+
+document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; state.limit = 100; render(); });
+document.getElementById("region").addEventListener("change", e => { state.region = e.target.value; render(); });
+document.getElementById("range").addEventListener("change", e => { state.range = e.target.value; render(); });
+document.getElementById("moreBtn").addEventListener("click", () => { state.limit += 200; render(); });
+document.querySelectorAll("#tbl th[data-k]").forEach(th => th.addEventListener("click", () => {
+  if (state.sortK === th.dataset.k) state.sortDir *= -1;
+  else { state.sortK = th.dataset.k; state.sortDir = th.dataset.k === "date" ? -1 : 1; }
+  render();
+}));
+document.getElementById("export").addEventListener("click", () => {
+  const cols = ["date", "person", "movement", "role", "company", "sector", "region", "publisher", "headline", "link"];
+  const q = v => `"${String(v == null ? "" : v).replace(/"/g, '""')}"`;
+  const csv = [cols.join(",")].concat(filtered().map(r => cols.map(c => q(r[c])).join(","))).join("\r\n");
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob(["﻿" + csv], { type: "text/csv" }));
+  a.download = "cxo_moves_filtered.csv"; a.click(); URL.revokeObjectURL(a.href);
+});
+
+render();
+</script>
+</body>
+</html>

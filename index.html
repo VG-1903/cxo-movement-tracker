@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CXO Movement Tracker — API &amp; Embed</title>
+<style>
+  :root { color-scheme: light dark;
+    --bg: #f9f9f7; --card: #fcfcfb; --ink: #0b0b0b; --ink2: #52514e; --muted: #898781;
+    --line: #e1e0d9; --ring: rgba(11,11,11,.10); --accent: #2a78d6; --chip: #f0efec; }
+  @media (prefers-color-scheme: dark) { :root {
+    --bg: #0d0d0d; --card: #1a1a19; --ink: #fff; --ink2: #c3c2b7;
+    --line: #2c2c2a; --ring: rgba(255,255,255,.10); --accent: #3987e5; --chip: #262624; } }
+  * { box-sizing: border-box; margin: 0; }
+  body { background: var(--bg); color: var(--ink); font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 15px; line-height: 1.55; padding: 32px clamp(16px, 5vw, 64px) 80px; max-width: 980px; margin: 0 auto; }
+  h1 { font-size: 26px; } h2 { font-size: 19px; margin: 36px 0 10px; } h3 { font-size: 15px; margin: 20px 0 6px; }
+  p { color: var(--ink2); margin: 8px 0; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+  .cta { display: inline-block; background: var(--accent); color: #fff; padding: 8px 18px; border-radius: 8px;
+    font-weight: 600; margin: 14px 12px 0 0; }
+  .cta.ghost { background: var(--card); color: var(--ink); border: 1px solid var(--line); }
+  table { border-collapse: collapse; width: 100%; margin: 10px 0; background: var(--card);
+    border: 1px solid var(--ring); border-radius: 10px; overflow: hidden; font-size: 14px; }
+  th, td { text-align: left; padding: 8px 14px; border-bottom: 1px solid var(--line); }
+  th { color: var(--ink2); font-size: 12px; } tr:last-child td { border-bottom: none; }
+  code { background: var(--chip); border-radius: 5px; padding: 1px 6px; font-size: 13px; }
+  pre { background: var(--card); border: 1px solid var(--ring); border-radius: 10px; padding: 14px 16px;
+    overflow-x: auto; font-size: 13px; line-height: 1.5; margin: 10px 0; }
+  pre code { background: none; padding: 0; }
+  .note { background: var(--card); border-left: 3px solid var(--accent); border-radius: 6px;
+    padding: 10px 14px; margin: 14px 0; font-size: 14px; color: var(--ink2); }
+  #demo { margin-top: 10px; max-width: 560px; }
+</style>
+</head>
+<body>
+<h1>CXO Movement Tracker</h1>
+<p>Daily-updated feed of CEO &amp; CXO appointments, promotions and exits across
+<b>BFSI</b>, <b>Education</b>, <b>Pharma &amp; Healthcare</b> and <b>Corporate</b> —
+parsed automatically from public news headlines. Free JSON API + drop-in widget.</p>
+<a class="cta" href="output/CXO_Moves_Dashboard.html">Open the dashboard</a>
+<a class="cta ghost" href="api/v1/index.json">API catalog</a>
+
+<h2>API endpoints</h2>
+<p>Plain JSON over HTTPS, CORS enabled — call them from any website or backend. Base URL is this site.</p>
+<table>
+  <tr><th>Endpoint</th><th>Contents</th></tr>
+  <tr><td><a href="api/v1/index.json"><code>api/v1/index.json</code></a></td><td>Catalog, record counts, field reference</td></tr>
+  <tr><td><a href="api/v1/all.json"><code>api/v1/all.json</code></a></td><td>Every tracked movement</td></tr>
+  <tr><td><a href="api/v1/bfsi.json"><code>api/v1/bfsi.json</code></a></td><td>BFSI only</td></tr>
+  <tr><td><a href="api/v1/pharma.json"><code>api/v1/pharma.json</code></a></td><td>Pharma &amp; Healthcare only</td></tr>
+  <tr><td><a href="api/v1/education.json"><code>api/v1/education.json</code></a></td><td>Education only</td></tr>
+  <tr><td><a href="api/v1/corporate.json"><code>api/v1/corporate.json</code></a></td><td>Corporate only</td></tr>
+  <tr><td><code>api/v1/&lt;sector&gt;_latest.json</code></td><td>The 50 most recent per sector (small &amp; fast — use these on websites)</td></tr>
+</table>
+
+<h3>Response shape</h3>
+<pre><code>{
+  "api_version": "1",
+  "sector": "Pharma &amp; Healthcare",
+  "updated": "2026-08-19T09:00:00+00:00",
+  "count": 340,
+  "records": [
+    {
+      "date": "2026-08-14", "person": "Deepak Sapra",
+      "movement": "Appointment",          // Appointment | Promotion | Re-appointment | Resignation | Retirement
+      "role": "CEO", "company": "Gland Pharma",
+      "sector": "Pharma &amp; Healthcare", "region": "India",   // India | Global
+      "publisher": "Pharmabiz.com", "headline": "…", "link": "https://…",
+      "also_reported_by": ["ET Pharma", "…"]
+    }
+  ]
+}</code></pre>
+
+<h3>Fetch example</h3>
+<pre><code>const res = await fetch("https://vg-1903.github.io/cxo-movement-tracker/api/v1/pharma_latest.json");
+const { records } = await res.json();
+const indiaMoves = records.filter(r =&gt; r.region === "India").slice(0, 10);</code></pre>
+
+<h2>Embed the widget on your site</h2>
+<p>One script tag — no build step, no dependencies. It renders the latest movements
+for the sector you pick (styles are isolated in a shadow root, so it can't clash with your CSS):</p>
+<pre><code>&lt;script src="https://vg-1903.github.io/cxo-movement-tracker/embed.js"
+        data-sector="pharma"          &lt;!-- all | bfsi | pharma | education | corporate --&gt;
+        data-limit="8"
+        data-region="India"           &lt;!-- India | Global | omit for both --&gt;
+        data-theme="auto"             &lt;!-- light | dark | auto --&gt;
+        data-title="Pharma leadership moves"&gt;&lt;/script&gt;</code></pre>
+
+<h3>Live demo</h3>
+<div id="demo">
+<script src="embed.js" data-sector="pharma" data-limit="6" data-region="India" data-title="Pharma leadership moves — India"></script>
+</div>
+
+<h2>Notes</h2>
+<div class="note">Records are parsed automatically from public news headlines and refreshed daily.
+Names, roles and companies are as the headlines stated them — verify via the
+<code>link</code> field before republishing. Attribution appreciated: “Data: CXO Movement Tracker”.</div>
+</body>
+</html>
