@@ -66,10 +66,18 @@ def main():
     for i in range(0, len(rows), BATCH):
         body = json.dumps(rows[i:i + BATCH], ensure_ascii=False).encode("utf-8")
         req = urllib.request.Request(endpoint, data=body, headers=headers, method="POST")
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            if resp.status not in (200, 201, 204):
-                print(f"batch {i}: HTTP {resp.status}")
-                sys.exit(1)
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                if resp.status not in (200, 201, 204):
+                    print(f"batch {i}: HTTP {resp.status}")
+                    sys.exit(1)
+        except urllib.error.HTTPError as e:
+            detail = e.read().decode("utf-8", "replace")[:500]
+            print(f"batch {i}: HTTP {e.code} — {detail}")
+            if e.code == 404:
+                print("\nThe 'moves' table does not exist yet. Run supabase/schema.sql "
+                      "in Supabase Studio -> SQL Editor first.")
+            sys.exit(1)
         sent += min(BATCH, len(rows) - i)
         print(f"upserted {sent}/{len(rows)}")
     print("supabase sync complete")
