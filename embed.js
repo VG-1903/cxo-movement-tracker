@@ -63,10 +63,7 @@
       rows = rows.slice(0, limit);
       var items = rows.map(function (r) {
         var b = badge[r.movement] || ["•", "flat"];
-        var safeLink = /^https?:\/\//i.test(r.link || "") ? r.link : "";
-        var head = safeLink
-          ? '<a href="' + esc(safeLink) + '" target="_blank" rel="noopener" class="p">' + esc(r.person) + "</a>"
-          : '<span class="p">' + esc(r.person) + "</span>";
+        var head = '<span class="p">' + esc(r.person) + "</span>";
         return "<li><span class='b " + b[1] + "'>" + b[0] + " " + esc(r.movement) + "</span>" +
           head + " — " + esc(r.role) +
           (r.company ? '<span class="c">, ' + esc(r.company) + "</span>" : "") +

@@ -65,9 +65,11 @@ parsed automatically from public news headlines. Free JSON API + drop-in widget.
       "date": "2026-08-14", "person": "Deepak Sapra",
       "movement": "Appointment",          // Appointment | Promotion | Re-appointment | Resignation | Retirement
       "role": "CEO", "company": "Gland Pharma",
+      "moved_from": "Dr Reddy's",         // previous employer when known, else ""
+      "moved_from_source": "headline",    // headline | cross-reference | ""
       "sector": "Pharma &amp; Healthcare", "region": "India",   // India | Global
-      "publisher": "Pharmabiz.com", "headline": "…", "link": "https://…",
-      "also_reported_by": ["ET Pharma", "…"]
+      "headline": "…",
+      "source_count": 4                   // how many outlets reported this move
     }
   ]
 }</code></pre>
@@ -86,7 +88,7 @@ const KEY = "sb_publishable_fMn8ipZjzvY3az3MP4TbGg_MSyoXVw7";
 
 // newest 20 pharma moves in India
 const res = await fetch(
-  `${SUPABASE}/moves?sector=eq.Pharma%20%26%20Healthcare&region=eq.India` +
+  `${SUPABASE}/moves_feed?sector=eq.Pharma%20%26%20Healthcare&region=eq.India` +
   `&order=date.desc&limit=20`,
   { headers: { apikey: KEY, Authorization: `Bearer ${KEY}` } }
 );
@@ -122,7 +124,7 @@ for the sector you pick (styles are isolated in a shadow root, so it can't clash
 
 <h2>Notes</h2>
 <div class="note">Records are parsed automatically from public news headlines and refreshed daily.
-Names, roles and companies are as the headlines stated them — verify via the
-<code>link</code> field before republishing. Attribution appreciated: “Data: CXO Movement Tracker”.</div>
+Names, roles and companies are as the headlines stated them — <code>source_count</code>
+indicates how many outlets reported a move. Attribution appreciated: “Data: CXO Movement Tracker”.</div>
 </body>
 </html>

@@ -23,9 +23,11 @@ SECTORS = {
     "education": "Education",
     "corporate": "Corporate",
 }
+# source attribution (publisher, link, outlet list) is intentionally NOT exposed
+# via the API — it stays on the dashboard only. source_count keeps the
+# how-many-outlets-reported-this confidence signal without naming them.
 FIELDS = ["date", "person", "movement", "role", "company", "moved_from",
-          "moved_from_source", "sector", "region", "publisher", "headline",
-          "link", "also_reported_by"]
+          "moved_from_source", "sector", "region", "headline"]
 
 
 def payload(slug, label, records, updated):
@@ -35,7 +37,11 @@ def payload(slug, label, records, updated):
         "sector": label,
         "updated": updated,
         "count": len(records),
-        "records": [{k: r.get(k, "") for k in FIELDS} for r in records],
+        "records": [
+            {**{k: r.get(k, "") for k in FIELDS},
+             "source_count": 1 + len(r.get("also_reported_by", []))}
+            for r in records
+        ],
     }
 
 
@@ -66,7 +72,7 @@ def main():
         "counts": stats,
         "endpoints": ["all.json", "all_latest.json"] + sorted(
             f"{s}{suf}.json" for s in SECTORS for suf in ("", "_latest")),
-        "record_fields": FIELDS,
+        "record_fields": FIELDS + ["source_count"],
         "movement_types": ["Appointment", "Promotion", "Re-appointment",
                            "Resignation", "Retirement"],
         "regions": ["India", "Global"],
