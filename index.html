@@ -73,14 +73,14 @@ parsed automatically from public news headlines. Free JSON API + drop-in widget.
 }</code></pre>
 
 <h3>Fetch example</h3>
-<pre><code>const res = await fetch("https://vg-1903.github.io/cxo-movement-tracker/api/v1/pharma_latest.json");
+<pre><code>const res = await fetch("https://cxo-movement-tracker.vercel.app/api/v1/pharma_latest.json");
 const { records } = await res.json();
 const indiaMoves = records.filter(r =&gt; r.region === "India").slice(0, 10);</code></pre>
 
 <h2>Embed the widget on your site</h2>
 <p>One script tag — no build step, no dependencies. It renders the latest movements
 for the sector you pick (styles are isolated in a shadow root, so it can't clash with your CSS):</p>
-<pre><code>&lt;script src="https://vg-1903.github.io/cxo-movement-tracker/embed.js"
+<pre><code>&lt;script src="https://cxo-movement-tracker.vercel.app/embed.js"
         data-sector="pharma"          &lt;!-- all | bfsi | pharma | education | corporate --&gt;
         data-limit="8"
         data-region="India"           &lt;!-- India | Global | omit for both --&gt;
