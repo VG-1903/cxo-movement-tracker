@@ -27,7 +27,8 @@ def git_push(f):
 def main():
     LOGS.mkdir(parents=True, exist_ok=True)
     log = LOGS / f"run_{datetime.now():%Y%m%d}.log"
-    steps = ["fetch_news.py", "build_dataset.py", "make_dashboard.py", "make_api.py"]
+    steps = ["fetch_news.py", "build_dataset.py", "make_dashboard.py", "make_api.py",
+             "push_supabase.py"]  # supabase step no-ops until .env.local exists
     with log.open("a", encoding="utf-8") as f:
         f.write(f"\n===== run started {datetime.now():%Y-%m-%d %H:%M:%S} =====\n")
         for step in steps:
