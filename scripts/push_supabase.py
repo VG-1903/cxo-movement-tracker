@@ -13,6 +13,7 @@ Consumers then query with the anon key, e.g.:
 import hashlib
 import json
 import sys
+import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -72,9 +73,22 @@ def main():
 
     def post(batch):
         body = json.dumps(batch, ensure_ascii=False).encode("utf-8")
-        req = urllib.request.Request(endpoint, data=body, headers=headers, method="POST")
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            return resp.status
+        # connections get dropped mid-upload sometimes (SSLEOFError/URLError);
+        # upserts are idempotent, so retry with backoff before giving up
+        for attempt in range(4):
+            req = urllib.request.Request(endpoint, data=body, headers=headers,
+                                         method="POST")
+            try:
+                with urllib.request.urlopen(req, timeout=60) as resp:
+                    return resp.status
+            except urllib.error.HTTPError:
+                raise  # real API error — let the caller inspect it
+            except (urllib.error.URLError, OSError) as e:
+                if attempt == 3:
+                    raise
+                print(f"  transient error ({e.reason if hasattr(e, 'reason') else e}) "
+                      f"— retry {attempt + 1}/3 in {2 ** attempt * 5}s")
+                time.sleep(2 ** attempt * 5)
 
     sent, dropped = 0, False
     for i in range(0, len(rows), BATCH):
