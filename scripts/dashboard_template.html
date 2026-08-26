@@ -107,6 +107,7 @@
   <input type="search" id="q" placeholder="Search person, company, role…">
   <span id="sectorChips"></span>
   <span id="mvChips"></span>
+  <select class="ctl" id="roleSel" title="Filter by role"></select>
   <select class="ctl" id="region">
     <option value="India">India</option>
     <option value="" selected>All regions</option>
@@ -124,6 +125,7 @@
 
 <div class="charts">
   <div class="card"><h3>Movements by sector</h3><svg id="cSector" viewBox="0 0 340 190" role="img" aria-label="Bar chart of movements by sector"></svg></div>
+  <div class="card"><h3>Movements by role</h3><svg id="cRole" viewBox="0 0 340 190" role="img" aria-label="Bar chart of movements by role group"></svg></div>
   <div class="card"><h3>By movement type</h3><svg id="cMove" viewBox="0 0 340 190" role="img" aria-label="Bar chart of movements by type"></svg></div>
   <div class="card"><h3>Movements per week</h3><svg id="cWeek" viewBox="0 0 340 190" role="img" aria-label="Bar chart of movements per week"></svg></div>
 </div>
@@ -156,8 +158,12 @@ const SECTORS = ["BFSI", "Pharma & Healthcare", "Education", "Corporate"];
 const SC = { "BFSI": "--s-bfsi", "Pharma & Healthcare": "--s-pharma", "Education": "--s-edu", "Corporate": "--s-corp" };
 const MOVES = ["Appointment", "Promotion", "Re-appointment", "Resignation", "Retirement"];
 const MVICON = { "Appointment": ["▲","up"], "Promotion": ["▲","up"], "Re-appointment": ["↻","flat"], "Resignation": ["▼","down"], "Retirement": ["▼","flat"] };
+// same order as ROLE_GROUPS in scripts/parser_lib.py
+const ROLES = ["CEO", "MD", "CFO", "COO", "CMO", "CHRO", "CTO", "CIO", "CDO", "CISO",
+               "Other C-suite", "Chairman", "Academic Leadership", "Board & Directors",
+               "Business Heads", "President", "Other"];
 
-const state = { q: "", sector: "", movement: "", region: "", range: "", sortK: "date", sortDir: -1, limit: 100 };
+const state = { q: "", sector: "", movement: "", role: "", region: "", range: "", sortK: "date", sortDir: -1, limit: 100 };
 const css = v => getComputedStyle(document.body).getPropertyValue(v).trim();
 const esc = s => String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
 
@@ -171,6 +177,7 @@ function filtered() {
   return DATA.filter(r =>
     (!state.sector || r.sector === state.sector) &&
     (!state.movement || r.movement === state.movement) &&
+    (!state.role || r.role_group === state.role) &&
     (!state.region || r.region === state.region) &&
     (!cutoff || (r.date && r.date >= cutoff)) &&
     (!q || (r.person + " " + r.company + " " + r.role + " " + r.headline).toLowerCase().includes(q))
@@ -269,6 +276,10 @@ function render() {
 
   hbar(document.getElementById("cSector"),
     SECTORS.map(sec => ({ label: sec, value: rows.filter(r => r.sector === sec).length, color: css(SC[sec]) })));
+  // roles are long-tailed — show the ten busiest in the current view
+  hbar(document.getElementById("cRole"),
+    ROLES.map(rg => ({ label: rg, value: rows.filter(r => r.role_group === rg).length, color: css("--accent") }))
+      .filter(r => r.value).sort((a, b) => b.value - a.value).slice(0, 10));
   hbar(document.getElementById("cMove"),
     MOVES.map(m => ({ label: m, value: rows.filter(r => r.movement === m).length, color: css("--accent") })));
 
@@ -304,6 +315,13 @@ function render() {
   });
 }
 
+const roleSel = document.getElementById("roleSel");
+roleSel.innerHTML = '<option value="">All roles</option>' + ROLES
+  .map(rg => [rg, DATA.filter(r => r.role_group === rg).length])
+  .filter(([, n]) => n)
+  .map(([rg, n]) => `<option value="${esc(rg)}">${esc(rg)} (${n})</option>`).join("");
+roleSel.addEventListener("change", e => { state.role = e.target.value; state.limit = 100; render(); });
+
 document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; state.limit = 100; render(); });
 document.getElementById("region").addEventListener("change", e => { state.region = e.target.value; render(); });
 document.getElementById("range").addEventListener("change", e => { state.range = e.target.value; render(); });
@@ -314,7 +332,7 @@ document.querySelectorAll("#tbl th[data-k]").forEach(th => th.addEventListener("
   render();
 }));
 document.getElementById("export").addEventListener("click", () => {
-  const cols = ["date", "person", "movement", "role", "company", "sector", "region", "publisher", "headline", "link"];
+  const cols = ["date", "person", "movement", "role", "role_group", "company", "sector", "region", "publisher", "headline", "link"];
   const q = v => `"${String(v == null ? "" : v).replace(/"/g, '""')}"`;
   const csv = [cols.join(",")].concat(filtered().map(r => cols.map(c => q(r[c])).join(","))).join("\r\n");
   const a = document.createElement("a");

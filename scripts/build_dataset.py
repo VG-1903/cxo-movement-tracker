@@ -6,7 +6,8 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from parser_lib import extract_all, extract_moved_from, region_of, sector_of
+from parser_lib import (extract_all, extract_moved_from, region_of,
+                        role_group_of, sector_of)
 from dedupe_lib import dedupe
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -64,6 +65,7 @@ def main():
         for rec in recs:
             frm = extract_moved_from(it["title"], rec["company"])
             rec.update({
+                "role_group": role_group_of(rec["role"]),
                 "sector": sector_of(it["title"], it["sector_hint"], rec["company"]),
                 "region": region_of(it["title"], it.get("publisher", ""), rec["company"]),
                 "date": it.get("date", ""),
@@ -101,8 +103,9 @@ def main():
     OUT_JSON.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
 
     OUT_CSV.parent.mkdir(parents=True, exist_ok=True)
-    cols = ["date", "person", "movement", "role", "company", "moved_from",
-            "moved_from_source", "sector", "region", "publisher", "headline", "link"]
+    cols = ["date", "person", "movement", "role", "role_group", "company",
+            "moved_from", "moved_from_source", "sector", "region", "publisher",
+            "headline", "link"]
     with OUT_CSV.open("w", newline="", encoding="utf-8-sig") as f:
         w = csv.DictWriter(f, fieldnames=cols, extrasaction="ignore")
         w.writeheader()

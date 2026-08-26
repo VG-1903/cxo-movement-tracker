@@ -51,7 +51,34 @@ parsed automatically from public news headlines. Free JSON API + drop-in widget.
   <tr><td><a href="api/v1/pharma.json"><code>api/v1/pharma.json</code></a></td><td>Pharma &amp; Healthcare only</td></tr>
   <tr><td><a href="api/v1/education.json"><code>api/v1/education.json</code></a></td><td>Education only</td></tr>
   <tr><td><a href="api/v1/corporate.json"><code>api/v1/corporate.json</code></a></td><td>Corporate only</td></tr>
+  <tr><td><a href="api/v1/corporate_ceo.json"><code>api/v1/corporate_&lt;role&gt;.json</code></a></td><td>Corporate split by role — see the role table below</td></tr>
   <tr><td><code>api/v1/&lt;sector&gt;_latest.json</code></td><td>The 50 most recent per sector (small &amp; fast — use these on websites)</td></tr>
+</table>
+
+<h3>Corporate by role</h3>
+<p>Corporate movements are also served role by role, so a CEO feed and a CMO feed
+stay separate. Every record in every endpoint carries a <code>role_group</code>
+field, so the other sectors can be sliced the same way client-side.</p>
+<table>
+  <tr><th>Role endpoint</th><th><code>role_group</code></th><th>Role endpoint</th><th><code>role_group</code></th></tr>
+  <tr><td><a href="api/v1/corporate_ceo.json"><code>corporate_ceo.json</code></a></td><td>CEO</td>
+      <td><a href="api/v1/corporate_ciso.json"><code>corporate_ciso.json</code></a></td><td>CISO</td></tr>
+  <tr><td><a href="api/v1/corporate_md.json"><code>corporate_md.json</code></a></td><td>MD (incl. CMD, Deputy/Joint MD)</td>
+      <td><a href="api/v1/corporate_csuite.json"><code>corporate_csuite.json</code></a></td><td>Other C-suite (CPO, CRO, CBO…)</td></tr>
+  <tr><td><a href="api/v1/corporate_cfo.json"><code>corporate_cfo.json</code></a></td><td>CFO</td>
+      <td><a href="api/v1/corporate_chairman.json"><code>corporate_chairman.json</code></a></td><td>Chairman</td></tr>
+  <tr><td><a href="api/v1/corporate_coo.json"><code>corporate_coo.json</code></a></td><td>COO</td>
+      <td><a href="api/v1/corporate_board.json"><code>corporate_board.json</code></a></td><td>Board &amp; Directors</td></tr>
+  <tr><td><a href="api/v1/corporate_cmo.json"><code>corporate_cmo.json</code></a></td><td>CMO</td>
+      <td><a href="api/v1/corporate_head.json"><code>corporate_head.json</code></a></td><td>Business Heads (Head, VP, Country Head)</td></tr>
+  <tr><td><a href="api/v1/corporate_chro.json"><code>corporate_chro.json</code></a></td><td>CHRO</td>
+      <td><a href="api/v1/corporate_president.json"><code>corporate_president.json</code></a></td><td>President</td></tr>
+  <tr><td><a href="api/v1/corporate_cto.json"><code>corporate_cto.json</code></a></td><td>CTO</td>
+      <td colspan="2">Each also has a <code>_latest.json</code> (50 newest).</td></tr>
+  <tr><td><a href="api/v1/corporate_cio.json"><code>corporate_cio.json</code></a></td><td>CIO</td>
+      <td colspan="2">Live counts per role: <a href="api/v1/index.json"><code>index.json → corporate_by_role</code></a></td></tr>
+  <tr><td><a href="api/v1/corporate_cdo.json"><code>corporate_cdo.json</code></a></td><td>CDO (digital / data)</td>
+      <td colspan="2"></td></tr>
 </table>
 
 <h3>Response shape</h3>
@@ -64,7 +91,8 @@ parsed automatically from public news headlines. Free JSON API + drop-in widget.
     {
       "date": "2026-08-14", "person": "Deepak Sapra",
       "movement": "Appointment",          // Appointment | Promotion | Re-appointment | Resignation | Retirement
-      "role": "CEO", "company": "Gland Pharma",
+      "role": "CEO", "role_group": "CEO",  // bucket: CEO | MD | CFO | CMO | CDO | CHRO | …
+      "company": "Gland Pharma",
       "moved_from": "Dr Reddy's",         // previous employer when known, else ""
       "moved_from_source": "headline",    // headline | cross-reference | ""
       "sector": "Pharma &amp; Healthcare", "region": "India",   // India | Global
@@ -101,7 +129,8 @@ const rows = await res.json();</code></pre>
   <tr><td>Only exits</td><td><code>?movement=in.(Resignation,Retirement)</code></td></tr>
   <tr><td>Since a date</td><td><code>?date=gte.2026-01-01</code></td></tr>
   <tr><td>Company search</td><td><code>?company=ilike.*pharma*</code></td></tr>
-  <tr><td>CEOs only</td><td><code>?role=ilike.*CEO*</code></td></tr>
+  <tr><td>CEOs only</td><td><code>?role_group=eq.CEO</code></td></tr>
+  <tr><td>Corporate CMOs</td><td><code>?sector=eq.Corporate&amp;role_group=eq.CMO</code></td></tr>
   <tr><td>Sort + paginate</td><td><code>?order=date.desc&amp;limit=20&amp;offset=40</code></td></tr>
 </table>
 <p>Combine any of them with <code>&amp;</code>. Full syntax: PostgREST operators
@@ -112,10 +141,16 @@ const rows = await res.json();</code></pre>
 for the sector you pick (styles are isolated in a shadow root, so it can't clash with your CSS):</p>
 <pre><code>&lt;script src="https://cxo-movement-tracker.vercel.app/embed.js"
         data-sector="pharma"          &lt;!-- all | bfsi | pharma | education | corporate --&gt;
+        data-role="ceo"               &lt;!-- ceo | md | cfo | coo | cmo | chro | cto | cio |
+                                           cdo | ciso | csuite | chairman | board | head |
+                                           president — omit for all roles --&gt;
         data-limit="8"
         data-region="India"           &lt;!-- India | Global | omit for both --&gt;
         data-theme="auto"             &lt;!-- light | dark | auto --&gt;
         data-title="Pharma leadership moves"&gt;&lt;/script&gt;</code></pre>
+<div class="note"><code>data-role</code> with <code>data-sector="corporate"</code> loads that role's own
+endpoint. For the other sectors it filters the 50 most recent moves of that sector client-side,
+so a rare role can return fewer rows than <code>data-limit</code>.</div>
 
 <h3>Live demo</h3>
 <div id="demo">

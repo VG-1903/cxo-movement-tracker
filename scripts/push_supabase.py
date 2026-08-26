@@ -51,6 +51,7 @@ def main():
         rows.append({
             "id": rid, "date": r.get("date") or None, "person": r["person"],
             "movement": r["movement"], "role": r.get("role", ""),
+            "role_group": r.get("role_group", ""),
             "company": r.get("company", ""),
             "moved_from": r.get("moved_from", ""),
             "moved_from_source": r.get("moved_from_source", ""),
@@ -67,7 +68,7 @@ def main():
         "Prefer": "resolution=merge-duplicates,return=minimal",
     }
     # columns that may not exist yet in older tables; dropped on PGRST204
-    OPTIONAL_COLS = ["moved_from", "moved_from_source"]
+    OPTIONAL_COLS = ["moved_from", "moved_from_source", "role_group"]
 
     def post(batch):
         body = json.dumps(batch, ensure_ascii=False).encode("utf-8")
@@ -89,7 +90,8 @@ def main():
                 print(f"table lacks {OPTIONAL_COLS} — syncing without them. "
                       "To store them, run in Supabase SQL Editor:\n"
                       "  alter table public.moves add column if not exists moved_from text,"
-                      " add column if not exists moved_from_source text;")
+                      " add column if not exists moved_from_source text,"
+                      " add column if not exists role_group text;")
                 batch = [{k: v for k, v in r.items() if k not in OPTIONAL_COLS} for r in batch]
                 try:
                     post(batch)

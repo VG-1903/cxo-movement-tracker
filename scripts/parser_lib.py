@@ -218,6 +218,44 @@ def extract(title):
     return recs[0] if recs else None
 
 
+# ---------------------------------------------------------------- role groups
+# A canonical role often names several posts at once ("MD & CEO", "President &
+# CHRO"), so the first group that matches wins — the order below is the
+# seniority tie-break. Slugs are the API endpoint suffixes.
+ROLE_GROUPS = [
+    ("CEO", "ceo", r"\bCEO\b|Chief\s+Executive"),
+    ("MD", "md", r"\bMD\b|\bCMD\b|Managing\s+Director|Managing\s+Partner"),
+    ("CFO", "cfo", r"\bCFO\b|Chief\s+Financial"),
+    ("COO", "coo", r"\bCOO\b|Chief\s+Operating"),
+    ("CMO", "cmo", r"\bCMO\b|Chief\s+Marketing|Chief\s+Brand"),
+    ("CHRO", "chro", r"\bCHRO\b|Chief\s+(?:Human|People|Talent)"),
+    ("CTO", "cto", r"\bCTO\b|\bCTIO\b|Chief\s+Techn"),
+    ("CIO", "cio", r"\bCIO\b|Chief\s+Information\s+Officer"),
+    ("CDO", "cdo", r"\bCDO\b|Chief\s+(?:Digital|Data)"),
+    ("CISO", "ciso", r"\bCISO\b|Chief\s+Information\s+Security"),
+    ("Other C-suite", "csuite", r"\bChief\b|\bCPO\b|\bCBO\b|\bCRO\b|\bCCO\b|\bCSO\b|\bCXO\b"),
+    ("Chairman", "chairman", r"Chair(?:man|person|woman)"),
+    ("Academic Leadership", "academic",
+     r"\bChancellor\b|\bVC\b|\bDean\b|\bRegistrar\b|\bPrincipal\b|\bProvost\b|\bRector\b"),
+    ("Board & Directors", "board", r"\bDirector\b"),
+    ("Business Heads", "head",
+     r"\bHead\b|Vice\s+President|\bVP\b|\bEVP\b|\bSVP\b|General\s+Manager"),
+    ("President", "president", r"\bPresident\b"),
+]
+_ROLE_GROUPS = [(lbl, slug, re.compile(rx, re.IGNORECASE))
+                for lbl, slug, rx in ROLE_GROUPS]
+ROLE_GROUP_LABELS = [lbl for lbl, _, _ in ROLE_GROUPS] + ["Other"]
+ROLE_GROUP_SLUG = dict([(lbl, slug) for lbl, slug, _ in ROLE_GROUPS] + [("Other", "other")])
+
+
+def role_group_of(role):
+    """Bucket a canonical role into one of ROLE_GROUP_LABELS."""
+    for label, _slug, rx in _ROLE_GROUPS:
+        if rx.search(role or ""):
+            return label
+    return "Other"
+
+
 # ---------------------------------------------------------------- moved-from
 _CO_PHRASE = r"[A-Z][\w&.'’-]*(?:\s+(?:of\s+)?[A-Z&][\w&.'’-]*){0,3}?"
 _FILLER = r"(?:[a-z][\w&-]*\s+){0,2}"   # "finance", "food delivery", "oncology"

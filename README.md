@@ -8,7 +8,8 @@ with a self-contained HTML dashboard.
 
 ## 📊 Open this first
 - **`output/CXO_Moves_Dashboard.html`** — double-click to open (self-contained, no internet).
-  Search, sector & movement-type chips, India/Global toggle, date ranges, charts,
+  Search, sector & movement-type chips, **role filter (CEO / CMO / CDO / CFO / CHRO…)**,
+  India/Global toggle, date ranges, charts,
   sortable table with source links, **Export filtered CSV**. Light & dark mode.
 - **`output/moves.csv`** — the full dataset for Excel.
 
@@ -27,7 +28,11 @@ with a self-contained HTML dashboard.
    New headlines accumulate in `data/raw/items.jsonl` (deduped by title).
 2. **Parse** (`scripts/parser_lib.py` + `build_dataset.py`) — ~20 regex patterns turn
    each headline into `person · role · company · movement type`, canonicalise roles
-   (MD & CEO, CFO, Vice Chancellor…), classify **sector** and **region (India/Global)**,
+   (MD & CEO, CFO, Vice Chancellor…), bucket each into a **role group**
+   (`role_group`: CEO · MD · CFO · COO · CMO · CHRO · CTO · CIO · CDO · CISO ·
+   Other C-suite · Chairman · Academic Leadership · Board & Directors ·
+   Business Heads · President — first match wins, so "MD & CEO" is a CEO move),
+   classify **sector** and **region (India/Global)**,
    and dedupe the same story across outlets (extra outlets recorded in
    `also_reported_by`). Master dataset: `data/moves_master.json`.
 3. **Render** (`scripts/make_dashboard.py`) — regenerates the dashboard from the
@@ -36,11 +41,16 @@ with a self-contained HTML dashboard.
 ## Deployment & API
 - **Live site**: https://cxo-movement-tracker.vercel.app (Vercel, auto-deploys on every push)
 - **Static JSON API**: `api/v1/{all,bfsi,pharma,education,corporate}.json` (+ `*_latest.json`),
-  CORS-open, regenerated daily by `scripts/make_api.py`.
+  CORS-open, regenerated daily by `scripts/make_api.py`. Corporate is additionally
+  split by role — `api/v1/corporate_{ceo,md,cfo,coo,cmo,chro,cto,cio,cdo,ciso,csuite,
+  chairman,board,head,president}.json` (+ `*_latest.json`); per-role counts live in
+  `index.json → corporate_by_role`. Every record everywhere carries `role_group`,
+  so the other sectors can be sliced the same way.
 - **Queryable API**: Supabase `moves` table (project `ovcjcdzabuavspbqiqbr`), synced daily by
   `scripts/push_supabase.py`. Read-only for the publishable key via row-level security;
   supports server-side filters, sorting and pagination (PostgREST syntax).
-- **Widget**: `embed.js` — one script tag, `data-sector` / `data-limit` / `data-region` / `data-theme`.
+- **Widget**: `embed.js` — one script tag, `data-sector` / `data-role` / `data-limit` /
+  `data-region` / `data-theme`.
 - **Credentials** live in `.env.local` (gitignored, excluded from Vercel). Schema: `supabase/schema.sql`.
 
 ## Daily automation
