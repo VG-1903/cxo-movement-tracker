@@ -11,7 +11,7 @@ create table if not exists public.moves (
   company       text,
   moved_from    text,                        -- previous employer, when known
   moved_from_source text,                    -- headline | cross-reference | ''
-  sector        text,                        -- BFSI | Education | Pharma & Healthcare | Corporate
+  sector        text,                        -- BFSI | Pharma | Healthcare | Education | Corporate
   region        text,                        -- India | Global
   publisher     text,
   headline      text,

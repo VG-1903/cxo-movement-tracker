@@ -12,7 +12,7 @@
     --surface-1: #fcfcfb; --page: #f9f9f7;
     --ink-1: #0b0b0b; --ink-2: #52514e; --muted: #898781;
     --grid: #e1e0d9; --baseline: #c3c2b7; --ring: rgba(11,11,11,0.10);
-    --s-bfsi: #2a78d6; --s-pharma: #eb6834; --s-edu: #1baf7a; --s-corp: #eda100;
+    --s-bfsi: #2a78d6; --s-pharma: #eb6834; --s-health: #14919b; --s-edu: #1baf7a; --s-corp: #eda100;
     --good: #006300; --serious: #ec835a; --critical: #d03b3b; --accent: #2a78d6;
     --chip-bg: #f0efec;
   }
@@ -22,7 +22,7 @@
       --surface-1: #1a1a19; --page: #0d0d0d;
       --ink-1: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
       --grid: #2c2c2a; --baseline: #383835; --ring: rgba(255,255,255,0.10);
-      --s-bfsi: #3987e5; --s-pharma: #d95926; --s-edu: #199e70; --s-corp: #c98500;
+      --s-bfsi: #3987e5; --s-pharma: #d95926; --s-health: #1aa3ae; --s-edu: #199e70; --s-corp: #c98500;
       --good: #0ca30c; --accent: #3987e5; --chip-bg: #262624;
     }
   }
@@ -31,7 +31,7 @@
     --surface-1: #1a1a19; --page: #0d0d0d;
     --ink-1: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
     --grid: #2c2c2a; --baseline: #383835; --ring: rgba(255,255,255,0.10);
-    --s-bfsi: #3987e5; --s-pharma: #d95926; --s-edu: #199e70; --s-corp: #c98500;
+    --s-bfsi: #3987e5; --s-pharma: #d95926; --s-health: #1aa3ae; --s-edu: #199e70; --s-corp: #c98500;
     --good: #0ca30c; --accent: #3987e5; --chip-bg: #262624;
   }
   body.viz-root {
@@ -97,7 +97,7 @@
 <body class="viz-root">
 <header>
   <h1>CXO Movement Tracker</h1>
-  <div class="sub">CEO &amp; CXO appointments, promotions and exits — BFSI · Education · Pharma &amp; Healthcare · Corporate</div>
+  <div class="sub">CEO &amp; CXO appointments, promotions and exits — BFSI · Education · Pharma · Healthcare · Corporate</div>
   <div class="stamp">Last updated: __GENERATED__ · __TOTAL__ tracked movements</div>
 </header>
 
@@ -154,8 +154,8 @@
 
 <script>
 const DATA = __DATA__;
-const SECTORS = ["BFSI", "Pharma & Healthcare", "Education", "Corporate"];
-const SC = { "BFSI": "--s-bfsi", "Pharma & Healthcare": "--s-pharma", "Education": "--s-edu", "Corporate": "--s-corp" };
+const SECTORS = ["BFSI", "Pharma", "Healthcare", "Education", "Corporate"];
+const SC = { "BFSI": "--s-bfsi", "Pharma": "--s-pharma", "Healthcare": "--s-health", "Education": "--s-edu", "Corporate": "--s-corp" };
 const MOVES = ["Appointment", "Promotion", "Re-appointment", "Resignation", "Retirement"];
 const MVICON = { "Appointment": ["▲","up"], "Promotion": ["▲","up"], "Re-appointment": ["↻","flat"], "Resignation": ["▼","down"], "Retirement": ["▼","flat"] };
 // same order as ROLE_GROUPS in scripts/parser_lib.py

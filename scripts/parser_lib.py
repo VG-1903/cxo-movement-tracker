@@ -355,11 +355,15 @@ def region_of(title, publisher, company=""):
 
 
 _SECT = [
-    ("Pharma & Healthcare", re.compile(r"\b(?:pharma|pharmaceuticals?|biotech|bio\s?sciences?|life\s+sciences|diagnostics|hospitals?|healthcare|health\s*tech|medtech|medical|medicine|clinic|vaccines?|drugs?|therapeutics|wellness|oncology|cardiology|Apollo|Fortis|Cipla|Lupin|Biocon)\b", re.IGNORECASE)),
+    ("Pharma", re.compile(r"\b(?:pharma|pharmaceuticals?|biotech|bio\s?sciences?|life\s+sciences|vaccines?|drugs?|therapeutics|biosimilars?|generics|Cipla|Lupin|Biocon|Zydus|Glenmark|Novartis|Pfizer|AstraZeneca|GSK|Sanofi)\b", re.IGNORECASE)),
+    ("Healthcare", re.compile(r"\b(?:diagnostics|hospitals?|healthcare|health\s*tech|health\s+system|medtech|medical|medicine|clinics?|wellness|oncology|cardiology|telemedicine|Apollo|Fortis|Medanta|Manipal|Narayana|NIMHANS)\b", re.IGNORECASE)),
     ("Education", re.compile(r"\b(?:university|universities|college|school|edtech|ed-tech|education|academic|learning|vice[- ]chancellor|chancellor|dean|registrar|provost|IIT|IIM|NIT|AIIMS|campus|institute\s+of|UGC|AICTE|academy)\b", re.IGNORECASE)),
     ("BFSI", re.compile(r"\b(?:bank|banking|banks|NBFC|insurance|insurer|reinsurance|mutual\s+fund|AMC|asset\s+management|fintech|finance|financial|lender|micro\s?finance|payments?|securities|broking|brokerage|wealth|credit\s+(?:card|union)|RBI|SEBI|IRDAI|stock\s+exchange|life\s+insurance)\b", re.IGNORECASE)),
 ]
 _SECT_MAP = dict(_SECT)
+# feeds that mix pharma and hospital stories (and all pre-split raw items)
+# carry this hint; it resolves per headline below
+_MIXED_PH = "Pharma & Healthcare"
 
 
 def sector_of(title, hint, company=""):
@@ -368,6 +372,13 @@ def sector_of(title, hint, company=""):
         for name, rx in _SECT:
             if rx.search(company):
                 return name
+    if hint == _MIXED_PH:
+        # Pharma and Healthcare lead _SECT, so they win when the title is
+        # ambiguous; a clearly-BFSI/Education title still escapes the bucket
+        for name, rx in _SECT:
+            if rx.search(title):
+                return name
+        return "Healthcare"
     # if the feed's own sector is confirmed anywhere in the title, trust it
     if hint in _SECT_MAP and _SECT_MAP[hint].search(title):
         return hint

@@ -36,7 +36,7 @@
 <body>
 <h1>CXO Movement Tracker</h1>
 <p>Daily-updated feed of CEO &amp; CXO appointments, promotions and exits across
-<b>BFSI</b>, <b>Education</b>, <b>Pharma &amp; Healthcare</b> and <b>Corporate</b> —
+<b>BFSI</b>, <b>Education</b>, <b>Pharma</b>, <b>Healthcare</b> and <b>Corporate</b> —
 parsed automatically from public news headlines. Free JSON API + drop-in widget.</p>
 <a class="cta" href="output/CXO_Moves_Dashboard.html">Open the dashboard</a>
 <a class="cta ghost" href="api/v1/index.json">API catalog</a>
@@ -48,7 +48,8 @@ parsed automatically from public news headlines. Free JSON API + drop-in widget.
   <tr><td><a href="api/v1/index.json"><code>api/v1/index.json</code></a></td><td>Catalog, record counts, field reference</td></tr>
   <tr><td><a href="api/v1/all.json"><code>api/v1/all.json</code></a></td><td>Every tracked movement</td></tr>
   <tr><td><a href="api/v1/bfsi.json"><code>api/v1/bfsi.json</code></a></td><td>BFSI only</td></tr>
-  <tr><td><a href="api/v1/pharma.json"><code>api/v1/pharma.json</code></a></td><td>Pharma &amp; Healthcare only</td></tr>
+  <tr><td><a href="api/v1/pharma.json"><code>api/v1/pharma.json</code></a></td><td>Pharma only</td></tr>
+  <tr><td><a href="api/v1/healthcare.json"><code>api/v1/healthcare.json</code></a></td><td>Healthcare only</td></tr>
   <tr><td><a href="api/v1/education.json"><code>api/v1/education.json</code></a></td><td>Education only</td></tr>
   <tr><td><a href="api/v1/corporate.json"><code>api/v1/corporate.json</code></a></td><td>Corporate only</td></tr>
   <tr><td><a href="api/v1/corporate_ceo.json"><code>api/v1/corporate_&lt;role&gt;.json</code></a></td><td>Corporate split by role — see the role table below</td></tr>
@@ -84,7 +85,7 @@ field, so the other sectors can be sliced the same way client-side.</p>
 <h3>Response shape</h3>
 <pre><code>{
   "api_version": "1",
-  "sector": "Pharma &amp; Healthcare",
+  "sector": "Pharma",
   "updated": "2026-08-19T09:00:00+00:00",
   "count": 340,
   "records": [
@@ -95,7 +96,7 @@ field, so the other sectors can be sliced the same way client-side.</p>
       "company": "Gland Pharma",
       "moved_from": "Dr Reddy's",         // previous employer when known, else ""
       "moved_from_source": "headline",    // headline | cross-reference | ""
-      "sector": "Pharma &amp; Healthcare", "region": "India",   // India | Global
+      "sector": "Pharma", "region": "India",       // BFSI | Pharma | Healthcare | Education | Corporate · India | Global
       "headline": "…",
       "source_count": 4                   // how many outlets reported this move
     }
@@ -116,7 +117,7 @@ const KEY = "sb_publishable_fMn8ipZjzvY3az3MP4TbGg_MSyoXVw7";
 
 // newest 20 pharma moves in India
 const res = await fetch(
-  `${SUPABASE}/moves_feed?sector=eq.Pharma%20%26%20Healthcare&region=eq.India` +
+  `${SUPABASE}/moves_feed?sector=eq.Pharma&region=eq.India` +
   `&order=date.desc&limit=20`,
   { headers: { apikey: KEY, Authorization: `Bearer ${KEY}` } }
 );
@@ -140,7 +141,7 @@ const rows = await res.json();</code></pre>
 <p>One script tag — no build step, no dependencies. It renders the latest movements
 for the sector you pick (styles are isolated in a shadow root, so it can't clash with your CSS):</p>
 <pre><code>&lt;script src="https://cxo-movement-tracker.vercel.app/embed.js"
-        data-sector="pharma"          &lt;!-- all | bfsi | pharma | education | corporate --&gt;
+        data-sector="pharma"          &lt;!-- all | bfsi | pharma | healthcare | education | corporate --&gt;
         data-role="ceo"               &lt;!-- ceo | md | cfo | coo | cmo | chro | cto | cio |
                                            cdo | ciso | csuite | chairman | board | head |
                                            president — omit for all roles --&gt;

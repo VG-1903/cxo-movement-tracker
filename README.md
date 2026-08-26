@@ -2,7 +2,7 @@
 
 Tracks **who is moving where** at the leadership level — appointments, promotions,
 re-appointments, resignations and retirements — across **BFSI**, **Education**,
-**Pharma & Healthcare** and general **Corporate** (big-company CEOs/CXOs).
+**Pharma**, **Healthcare** and general **Corporate** (big-company CEOs/CXOs).
 Built on the same architecture as the IAS/Speakers portal: `scripts → data → output`,
 with a self-contained HTML dashboard.
 
@@ -40,7 +40,7 @@ with a self-contained HTML dashboard.
 
 ## Deployment & API
 - **Live site**: https://cxo-movement-tracker.vercel.app (Vercel, auto-deploys on every push)
-- **Static JSON API**: `api/v1/{all,bfsi,pharma,education,corporate}.json` (+ `*_latest.json`),
+- **Static JSON API**: `api/v1/{all,bfsi,pharma,healthcare,education,corporate}.json` (+ `*_latest.json`),
   CORS-open, regenerated daily by `scripts/make_api.py`. Corporate is additionally
   split by role — `api/v1/corporate_{ceo,md,cfo,coo,cmo,chro,cto,cio,cdo,ciso,csuite,
   chairman,board,head,president}.json` (+ `*_latest.json`); per-role counts live in

@@ -1,7 +1,7 @@
 /* CXO Movement Tracker — embeddable widget.
  * Usage on any website:
  *   <script src="https://USER.github.io/REPO/embed.js"
- *           data-sector="pharma"      (all | bfsi | pharma | education | corporate)
+ *           data-sector="pharma"      (all | bfsi | pharma | healthcare | education | corporate)
  *           data-role="ceo"           (ceo | md | cfo | coo | cmo | chro | cto | cio |
  *                                      cdo | ciso | csuite | chairman | board | head |
  *                                      president — omit for all roles)
@@ -20,7 +20,7 @@
   var region = s.getAttribute("data-region") || "";
   var theme = s.getAttribute("data-theme") || "auto";
   var title = s.getAttribute("data-title") || "Leadership movements";
-  if (["all", "bfsi", "pharma", "education", "corporate"].indexOf(sector) < 0) sector = "all";
+  if (["all", "bfsi", "pharma", "healthcare", "education", "corporate"].indexOf(sector) < 0) sector = "all";
   // role slug -> role_group label; dedicated role endpoints exist for corporate
   // only. Other sectors filter their _latest feed client-side, so a rare role
   // may return fewer than data-limit rows (the feed holds the 50 newest moves).

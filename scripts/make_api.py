@@ -4,7 +4,8 @@ Endpoints (all CORS-open when served from GitHub Pages):
     api/v1/index.json      catalog + stats
     api/v1/all.json        every record
     api/v1/bfsi.json       BFSI only
-    api/v1/pharma.json     Pharma & Healthcare only
+    api/v1/pharma.json     Pharma only
+    api/v1/healthcare.json Healthcare only
     api/v1/education.json  Education only
     api/v1/corporate.json  Corporate only
     api/v1/corporate_ceo.json, _cfo, _cmo, _cdo …  Corporate split by role group
@@ -24,7 +25,8 @@ API = ROOT / "api" / "v1"
 
 SECTORS = {
     "bfsi": "BFSI",
-    "pharma": "Pharma & Healthcare",
+    "pharma": "Pharma",
+    "healthcare": "Healthcare",
     "education": "Education",
     "corporate": "Corporate",
 }
