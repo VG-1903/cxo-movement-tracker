@@ -14,7 +14,11 @@ def git_push(f):
     """Commit & push refreshed data so GitHub Pages serves the update."""
     # under Task Scheduler there is no terminal: fail fast instead of git
     # trying (and dying) to prompt for credentials
-    env = {**os.environ, "GIT_TERMINAL_PROMPT": "0", "GCM_INTERACTIVE": "never"}
+    env = {**os.environ, "GIT_TERMINAL_PROMPT": "0", "GCM_INTERACTIVE": "never",
+           # push has been failing under Task Scheduler with "could not read
+           # Username" while interactive pushes succeed; trace the credential
+           # helper so the log shows WHY it returns nothing in this context
+           "GCM_TRACE": str(LOGS / "gcm_trace.log"), "GCM_TRACE_SECRETS": "0"}
 
     def run(*args):
         r = subprocess.run(["git", *args], cwd=ROOT, capture_output=True, env=env,
@@ -24,7 +28,8 @@ def git_push(f):
     run("add", "-A")
     if run("commit", "-m", f"daily update {datetime.now():%Y-%m-%d}") == 0:
         if run("push") != 0:
-            f.write("git push FAILED — will retry on next run\n")
+            f.write("git push FAILED — will retry on next run "
+                    "(credential-helper trace in gcm_trace.log)\n")
     else:
         f.write("nothing new to commit\n")
 
