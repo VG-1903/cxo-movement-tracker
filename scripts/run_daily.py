@@ -14,22 +14,28 @@ def git_push(f):
     """Commit & push refreshed data so GitHub Pages serves the update."""
     # under Task Scheduler there is no terminal: fail fast instead of git
     # trying (and dying) to prompt for credentials
-    env = {**os.environ, "GIT_TERMINAL_PROMPT": "0", "GCM_INTERACTIVE": "never",
-           # push has been failing under Task Scheduler with "could not read
-           # Username" while interactive pushes succeed; trace the credential
-           # helper so the log shows WHY it returns nothing in this context
-           "GCM_TRACE": str(LOGS / "gcm_trace.log"), "GCM_TRACE_SECRETS": "0"}
+    env = {**os.environ, "GIT_TERMINAL_PROMPT": "0", "GCM_INTERACTIVE": "never"}
+    trace = LOGS / "git_push_trace.log"
 
-    def run(*args):
-        r = subprocess.run(["git", *args], cwd=ROOT, capture_output=True, env=env,
+    def run(*args, traced=False):
+        e = env
+        if traced:
+            # git-level trace shows which credential helper git actually ran
+            # (for github.com that is `gh auth git-credential`, not GCM — a
+            # logged-out gh broke every push 2026-09-03..14). Overwritten each
+            # run; only consulted when the push fails.
+            trace.unlink(missing_ok=True)
+            e = {**env, "GIT_TRACE": str(trace)}
+        r = subprocess.run(["git", *args], cwd=ROOT, capture_output=True, env=e,
                            text=True, encoding="utf-8", errors="replace", timeout=300)
         f.write((r.stdout or "") + (r.stderr or ""))
         return r.returncode
     run("add", "-A")
     if run("commit", "-m", f"daily update {datetime.now():%Y-%m-%d}") == 0:
-        if run("push") != 0:
-            f.write("git push FAILED — will retry on next run "
-                    "(credential-helper trace in gcm_trace.log)\n")
+        if run("push", traced=True) != 0:
+            f.write("git push FAILED — will retry on next run. Check "
+                    "git_push_trace.log for the credential helper involved; "
+                    "if it shows gh.exe, run `gh auth status` / `gh auth login`.\n")
     else:
         f.write("nothing new to commit\n")
 
