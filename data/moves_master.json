@@ -1,5 +1,55 @@
 [
  {
+  "person": "Sinead Taylor",
+  "role": "CEO",
+  "company": "ASB",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-09-15",
+  "headline": "ASB names Sinead Taylor as CEO to succeed Vittoria Shortt",
+  "publisher": "mpamag.com",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDNEQUlEYUdwMGNjWXpvOGhXQXpIRjY3ci1GSFo4UVdFLVEtMUFYb1Yxa0NQb3J0ekdBRUJiMzk5RHZ0WjM3bzlSb29EX0YwNThPcmhndzEwYTEtNGxUNHRCY1pJbjc3b0FodmhKM0R3emRiWURZeHFWeUQ3ZHdsQ3dtOVBZblZyYkFQWmpIRGVhLVhQdGtuNFJtVWJvV183N0RrZURR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "UT System’s Archie Holmes",
+  "role": "Acting President",
+  "company": "UTA",
+  "movement": "Appointment",
+  "role_group": "President",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "UT System’s Archie Holmes Named Acting President of UTA",
+  "publisher": "Fort Worth Inc.",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSWdjX2VKaFdBSm5ESHNIc1hEN181RkE3dndaNURMRlN3Tkp4dnpEU3hwTk56NGN5OEVQZkxiVzBELWdWaG5wa3BONU9fSmdBaWRuUDhkdUpuQjZCcmxhdXR4NkVxeXpJUzEzVVBidEJBSlRFTmMtMkZIMmhJa0lWMjFJVmNHRG8wcTZV?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "uta.edu"
+  ]
+ },
+ {
+  "person": "Archie Holmes",
+  "role": "Acting President",
+  "company": "UT Arlington",
+  "movement": "Appointment",
+  "role_group": "President",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "UT System official Archie Holmes named UT Arlington’s acting president",
+  "publisher": "Dallas News",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ0FzcjZqTzIzWVMxdTNVMkQzeFBYY2RZa3FLQ2E5ZkdUM0NfOUR3YXRLVDBOTW8yWElZR1FaWlFlb3ZpUkZTNVVtdkJXOG56UzNwYVRkVXNmb2Vvb3hHMUc0S0tVRllvZnFQZW1zdWhlZFU4WEd2VjNaRGEyYm5IbXVNX2RzMlFROVFKZV9RLVVjV3RLLUdKUjRqckJDVWxhT2otcjFmYw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Seoul Deputy Mayor Kim Byung-min",
   "role": "CEO",
   "company": "Seoul Tourism Organization",
@@ -97,7 +147,8 @@
   "moved_from_source": "",
   "also_reported_by": [
    "bestmediainfo.com",
-   "Adgully.com"
+   "Adgully.com",
+   "spiritz.in"
   ]
  },
  {
@@ -329,18 +380,20 @@
  {
   "person": "Mike Ralston",
   "role": "CEO",
-  "company": "Blencowe Resources",
+  "company": "Blencowe Resources (BRES)",
   "movement": "Resignation",
   "role_group": "CEO",
   "sector": "Healthcare",
   "region": "Global",
   "date": "2026-09-14",
-  "headline": "Blencowe Resources CEO Mike Ralston steps down",
-  "publisher": "Vox Markets",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFROdEZGcFBXc0Vud2tCYWtRaFlQOWxBQ2dFRTJZanVveE5BaUhRV2FUOFNodlJ0T1pyNnlYbnpLSWRsREYxb19wVUd6TzVkZ3dibGUydE5Qb3NKeXBfVUtEaW1KdFNHVzZPTlAwZk5JZXdEU19FdUVFNzhlMlVockE3ekVKeVB3Q0xqOEo2ekNoU2dv?oc=5",
+  "headline": "Blencowe Resources (BRES) CEO Mike Ralston Steps Down Immediately Amid Orom-Cross Graphite Project Funding Efforts",
+  "publisher": "Kalkine Media",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSUtiRV9mTURtMExsRTJRUWxEamdlRkd1eEJqOXZUZ0ptTk4xMW96M1E2YWhNcWI2V2lnRHhUUzhDdWNlY3ktX1pwaDJEYTZTbFoxLVd1Z3ljcWtCMEhEdGNVUjVSTlBNdFNrYTlqNmhWa2tjWF9ZY2dwODc4UXZxU2hBM01lUE9QWHVQTUkwd1ktVTk0QnlqdWVvaXNvNm9Udk1FbGFsbG10YW1CSkdFNmZoY0lxdE00QUp0SHFYMzNUWmZMZWo3TGpTSERhUkNQZlpRTTZld25OX3dBakpMbEEyRWRKQXA2d2xya3NnLWo?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Vox Markets"
+  ]
  },
  {
   "person": "Richard Jenkins",
@@ -420,7 +473,9 @@
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd0xyYTVac01teUVpcWpEbmZJaXM5Z1IyMU9WM09pVUQxU3R1X1hSeVVLQnZHZlJXZ3h6SU1zcWtzU0Q0eWd6S3p0eHN0cHhaaWRKMnlBQ1h0UWVqbHZtb09vNWx6OElSZVd0Mzg3RWJMMFlycDVweHdsVXFIVHpWem04WWRTOWVYU2FrVWJaTERIdWdFQjRsYllTbUxYeHlvVmRRSnFKNXJKcFpyOGZJUmxwZ0hlOGNPVnFQYnR0bWVYUkpw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "APAC Media"
+  ]
  },
  {
   "person": "Naresh Chand Gupta",
@@ -469,7 +524,10 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "BW People"
+   "BW People",
+   "realty.economictimes.indiatimes.com",
+   "BusinessLine",
+   "The Economic Times"
   ]
  },
  {
@@ -484,6 +542,422 @@
   "headline": "Esappling elevates Shivangi R to CHRO",
   "publisher": "",
   "link": "https://www.hrkatha.com/people/movement/esappling-elevates-shivangi-r-to-chro/",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Cary Granat",
+  "role": "Dean",
+  "company": "Moody College of Communication",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "Cary Granat Appointed Dean of Moody College of Communication",
+  "publisher": "news.utexas.edu",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUk9DX21JbU1Zc3RWRXZhM3c4Y3JMRFRIcjljVGNtdS0tU1dhR3pYdVdHeFB4eEpvR0VOR0RMQ3lrdXo3dlV4MkdxZmF3ZGE5dzNoT2ZFU2U4aDBHaUJQeFFLRmVUUVc0RUg1VmdHTHVXRDkxVFZxYnNSSG9pc0d2WF9WVUZaN2dlbkpfWWRQc2cwYk1KOTdfaFJZbi0?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Phillip Barker",
+  "role": "Dean",
+  "company": "Midwestern State University Texas humanities college",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "Phillip Barker named dean of Midwestern State University Texas humanities college",
+  "publisher": "texomashomepage.com",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaThXQ2FubUtwV2l0bll2cjlDU2xZYkxnWVN4eFREdTdZQ0pOUG5pQ0UyLTNaMzVUbTR6Y0F4Nk1VY1JpbWZQN0p1elQtUlp0enFiRG83ZXl2TFdDckFOdTV6NVVyWlQ1dnVxRFR1MjR5SElSczl3Rk4zenNQM1pQSHFqLURaWlRNZWtUSlNzZVh5b2E5Q1VYUWhaem11QTBETWdGSmFiOFpWTEJuRlNNT0c5ejRfZjFWWm5TbVVxTFNEdjdLQWVpNDFR0gHPAUFVX3lxTE5NaDQ5OXowcnBsNThzQWZXQVFCbkdaS3lRMUFLcjZjLWRaWHpZNXB0SDJoYklQR3hvdGRiV1lUdDlOZzVoUmN0eW5EaTI3UE9waXh0WlpXcGV3THRzNnJRR2RxX2gwODh2c2h2eFZZb19fMzFKM2F6VllBdllidE9sQm5mSGpFa0I4QlFTclprSk42aTRnMjZyVmdia2N6YjdtaFdGYXVLXzdzS1BHQ2MzbUpqdDFWRno1Nmp3X2NVOE9UQ1E4NVp4OUNidnlmWQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Chidi Blyden",
+  "role": "Executive Director",
+  "company": "Harvard University Center for African Studies",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "Chidi Blyden Named Executive Director of the Harvard University Center for African Studies",
+  "publisher": "The Journal of Blacks in Higher Education",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSjY1NnYteUNhY3hLbTJlakFldVF4Z29GZ2R1d0NYbGhRWWg0enFyZmFLMHVsMndhcDlRdHdXd0RveVpiOHNoMWZ1UEU5U1JSS21raFZxNzhVSUNpQ081dGhVRDlGd3hfUzZKR0x5Z0ttUGVJbi1iOE1kWmVveWlKa2RNTVBwNjg0STBraHlUYUdzdlNtN3RLMkdFR2pON2JndHZuOTVDT3JvVHhrTHBHOEIwQjBEWkU?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Matt Serletic",
+  "role": "Dean",
+  "company": "University of Miami’s Frost School of Music",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "University of Miami’s Frost School of Music Names Matt Serletic Dean",
+  "publisher": "Billboard",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemxwZ1pCWVlZRk1NbEpEc0pqWk5DelM2dWhyTHNCTjItdVJ3YmpPZTdNQ3B4Y002MGhJVGt5ZUJzeDFPRXFrT0NjTV9HVHZSUXo2NklXdGFqUFhRN1BWa1JtRGdfNEhid1JPN0FNZkp4TmRDSlVEa3YxSlZTY2tQbHNGQXphVTJJZGc3LWVwMlZpQQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Vittoria Shortt",
+  "role": "CEO",
+  "company": "ASB Bank",
+  "movement": "Resignation",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "ASB Bank CEO Vittoria Shortt steps down",
+  "publisher": "BusinessDesk | NZ",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYzJoNkRaZkdLTmJwNGdCdTExNHlfZmNFNFd5NHN5b2hBaEVNOC10Q0VRdU5EbmhaVWFBMXY5ZjBaYWlCaVFPdW14N2sxSHF5VTlSYjVqTHM5NFVicU1LTG9sVlFWTk1PcHFhalpQODNuTzZ2R3hXc21Mb1BqOFlGcy1nWTRoV09FV0E?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Aly Sumar",
+  "role": "CFO",
+  "company": "Questor Technology",
+  "movement": "Resignation",
+  "role_group": "CFO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-09-14",
+  "headline": "Questor Technology CFO Aly Sumar resigns from position By Investing.com",
+  "publisher": "Investing.com India",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2cxcWpqZlhLQU9vYzNRcVljWTlyQ01YWW5yRS1ydVBnbHpweFBhRjloWGZEQmpnb3lJQzdxR0lsay1xOHhEZENUTDZfSlZxNHZxQXRwMVBDaE5GQVlUZ3dFdzJiQ1cwWm9yR2N5alZuTFBLQjByZ2RxU0dvNHV6MFpIMGZTdmhldHV2NGZGanNJb2t3WGJHWEJJNERGdEJuOU1lTTZUUmJkVXJ2ZFhUUTluY3pqUQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Melissa Krueger",
+  "role": "CEO",
+  "company": "Classic Vacations",
+  "movement": "Resignation",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "Classic Vacations CEO Melissa Krueger steps down",
+  "publisher": "Travel Weekly",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeDkzbTc4RmhneTRQR2dobWV0S1ZpVnA0R21YVUV3OUN6MjN0RjdZMkpWRENxaHVuYWpwdkdYdDNrYjZnUW1GVDh2dGp6anpEdHZJWEItcjdiY1VackZTY2NzcE1paW5SVzlvTDdQSmxzbVRnUmY1MjdKVFBxdFlQSE1SMFFZODdFZlZnWVZOY3hqWmpQRm01am5PT1U0dTFsNGpNbFVHaXVkUy1TTkpZ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Cyril Konto",
+  "role": "CEO",
+  "company": "ShennonBio",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "ShennonBio Names Cyril Konto CEO After $12M Raise",
+  "publisher": "Contract Pharma",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0lBUnBhd0FwZDk2cGRWTjN6bmM2dEVKLWNscTZjcFo2aUVvYlN4WnB3M0h4UXlqUkx3SlRYU3VZM2xmbnpvNTVyRDJvMXNVSGQwcGpyT2pSVTlKYTBlejNQaVNXazE4MW9tTVZMWHZqZUVESGl1UXM0bmFMU3dGa29reXN4Um9XVDFQeVdMRDl0UWVkMDVTQzln?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Cyril Konto",
+  "role": "CEO",
+  "company": "Shennon Biotechnologies Raises $12 Million",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "Shennon Biotechnologies Raises $12 Million, Names Cyril Konto As CEO, And Unveils Precision Immunotherapy Pipeline",
+  "publisher": "Pulse 2.0",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbTBuNnFPYWJwZzVoaG9MRTBQd0M5ZzlnbU9ockZvYnNMd2ZIcTVrRVFyOXRQeWZCX2dHUVZ0MGlHYnYwNEFIRDV1aDA3ZGlwSGZlRGNYWjNmanBQOEM2aHpSWTFyMjluNXlCc3o0Tkc4dFdmYnQ3bVJJUGNUQmNqUVcwdDZvbzgyMXlGWkYwT3otUGJ3ZzNGck9FWVU4RHFLaDJBOHpIdGRieGpoRDNqWC13a0puQ205dW94ZFJLeVR5M3NNWlNRSkg4RdIB0AFBVV95cUxNa2lFSGJ1T25pQ2hfeWVhckxvdTgyNnJmMDg1TXVEMXNJOTcxZ1VUdGlHRjRyRkJtbER3MjZLeVNzOE56TjFZSm5KbkhuS29pdmZTVDRUdU9UQjh1NGo4a2F0RTFxVlBHaWJDWmdNVThKY19Cb0tCSjNvaEczMkR6OXYxbjlYOHNLWkRUazhtazQwY3pzMDlaeGdYMlRSR2xOVW9aX2NWRWtQaTd5UnowNm81b2pfd3E4WDF2Y2tYQUE4QkRBZDBTbnA4Zy02YmlG?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jos Vergeest Senior Business Development",
+  "role": "Director",
+  "company": "Symbiosis",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "Symbiosis Names Jos Vergeest Senior Business Development Director",
+  "publisher": "Contract Pharma",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSWhRTU5Rbmhmb3RIMG5oTTE3X29abWVlUGVXSURYd0pYck4wNWduZ1lSLUdUNlAzRS0tb1VBZTZwSTFSVGxkVTVZMkNhV1k3cURRRzUxbU5wUEFhZGwyTVNSMVhWZDU5U25lc1I2bXNXa2ptQndyb3AzY2pUYk5TRzRxa3NISVFKOWNQTTh1dlY1anQ0X2VKclhjUl9DT21wVHJETHViZ0g5S0hRbjE3YQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Yuri Fesko",
+  "role": "Chief Medical Officer",
+  "company": "Quanterix",
+  "movement": "Appointment",
+  "role_group": "Other C-suite",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "Quanterix Names Yuri Fesko Chief Medical Officer as Diagnostics Business Expands",
+  "publisher": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV1RWMFlpU2d5c0FMWk82YWlnQzdTekRpU2ptYk9ka0VUbHZZVWg1amZkeHhyMWlOZ0p0X1kzcmI0NXhYSnJJM1VKcjAtbmNaam9DRElyNTQxa1huSGVCMUxRVFFCdERjbG12enpQajhQbm04SXdoYWVuakxvbmlfSjQxUjN2cFEzT3I0OFVrUlp0SWJWTG9iclYwQ3VORHNoZWNjV2dWNkZGaURCNDVSczVMZXV2T2lJOFg0?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Hannah Badri",
+  "role": "Vice President & Head",
+  "company": "Communications, International at Takeda",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Pharma",
+  "region": "India",
+  "date": "2026-09-14",
+  "headline": "Hannah Badri Appointed Vice President and Head of Communications, International at Takeda",
+  "publisher": "hrtoday.in",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnY3U1B3UGpwWjVuNGwyd2I4UHA3cTZyQ25DNC1rcl9fQ0RYRDZIWU9mMHA3ME1laHd1LXVkREVtVlJsVlZWeXAycFg0UXVSQUVpVm9sQUpzbnlmTi1NV2h5TVNvMUkzNkFjSWZTSE1SNzRxeFdGdXdGT0owVHlGNW5QcXFMbmk5TmhwT0h3NlgwN28yN2pCTGEtUTBMTHk0QkJuUXREVktfNFNZ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Adam Shaywitz",
+  "role": "Chief Medical Officer",
+  "company": "SonoThera",
+  "movement": "Appointment",
+  "role_group": "Other C-suite",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "SonoThera Appoints Adam Shaywitz Chief Medical Officer",
+  "publisher": "Contract Pharma",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVEdwTHhSWGoxcmtLWExHTUZDOEZnbDktT2R6T0daUGM4Wmx6bFVlNkZUQmJyYV9Tb1JVb3B4bjFRdFZKMF95RUVYdDNqOV9JZDhXLUlXUHpmYi1FcHNtd0ZYWUxlRkxNNjktYWp5ZWo4aElqcXA4SjVyMHlPTFRrcElxbjg5RUVNYzFjUzgwcXB0bXlKVktpeWFVbFg2OXJDaUE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jean Raymond Boulle II",
+  "role": "CEO",
+  "company": "Star Diamond",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "Star Diamond appoints Jean Raymond Boulle II as CEO",
+  "publisher": "TradingView",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQmRHcFRmSUd4MkVlQ0ZTS3BLN284S05hbFVvYXk3LVljanRvenFaV0lmcEQ0U25qTnZEZm1YWXc0WFg4SVkzTEF2NnJVX3hVaUNMX1pIOGlpcFZneS1RaU5UUXJwWVBtV01nQjZoWTVmM1YyTW1pRWFtZ0dxS1BxcEFGNS1xT2lvTG1peTJlYk9OOVZ6QTVkbFZpUlhvSnlYY1NVX1VoSXVyS3RfNFdyN0g2Tjg?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Denise Sánchez",
+  "role": "Vice President",
+  "company": "AESARA",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "AESARA Appoints Denise Sánchez as Vice President, Regulatory Counsel & Compliance Strategies",
+  "publisher": "Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzBReV8xYTlTOEpjVGdMcFFNMmN3YUswcnQ5aXdaZXVLcEpZUkJNU2tVX1lyZHVGaS1RdlQtS0o4YkRwSGx1bjBKR2xMc2lONE4wRlhvbkxGV3ZscG8zdDBTWFpwZEZJY3VlemdaTTFBVngtVHZSWDlMcWNLbC1NLUlYbDlGekt4czhvOFdZLXc5cndRWmNxMnp3?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Bennett Mears",
+  "role": "Principal",
+  "company": "NaviMed Capital names CFO",
+  "movement": "Promotion",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "NaviMed Capital names CFO, promotes Bennett Mears to principal",
+  "publisher": "pehub.com",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX2VsNFE1dTY5Q2ZPMk9ZQTZxTy1SWnotYzZ2TG5SYUt2WmxtT1RMOVRBZ3VRZXRBUWpHYzl1Z0w5REVJYnlkTjl6a0NfN2NpSk1fS3JjYTZOdG9scU5vZVQ4NGJiSmZjQXdOemVEanczOEpRa2trSU93ekpPRUlIVERTYnBIMk9zS0s2NQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Julia Wilk",
+  "role": "MD",
+  "company": "Alliance Residential",
+  "movement": "Appointment",
+  "role_group": "MD",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "Julia Wilk joins Alliance Residential as Managing Director for the Northern California region",
+  "publisher": "Yield PRO",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEM3ZUtsQl9WLVM2MlRybl94VzY1TXlLZjlobGdSRy1ZNVU3SzFjc3BqTU82MHVHaTd4M3Y3bEdDZGlZaV9kU1VvZkxUaVFFdEhjNDJqNlZSTjBtOVh1UFVnMnp1cWdUajVYVzE0UlRJX29yN0FOOFZQaS1DdVpnbXdCYklBU01BRnlwYWRtdVFNNjIzelZZUDQ0QzNwMzN4bzU3QVAtOUpFWG8tZUx1ODNyYi1veEtvclliRnRjZ2E?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ryan Michel",
+  "role": "CEO",
+  "company": "Grange Insurance",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "Grange Insurance Names Ryan Michel CEO as John Ammendola Plans 2027 Retirement",
+  "publisher": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVpzWm81TXBRZUNvVXZQSGNlT1dJZmJzcUFXN3lmM3pkbkRYclI5VEJOQTJ0b0kycERlNkE5RlJLM3JrTHd3RGxUSjVVNldHaDYzVTc2QmVOeDVJNGhGOENSbXZzWlVDLW5rT1hTcXN1Qmk4OGNBNVk1MWpsTlZveWVMNktLZzV6V2VEdVZtYmZMRTl5T2NaWUhqdF9SRUlNOFhyR052YTNPMzAzYkNhTHhPWnI0V25k?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Dave Dookie Managing",
+  "role": "Director",
+  "company": "BancAtlantic Capital",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "BancAtlantic Capital Names Dave Dookie Managing Director to Expand Caribbean Investment Banking",
+  "publisher": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTJaMTRaVEExSmlRRGVyN3RMUUdZLUxTdDZxZW5DWTRsWHNnaHZ5VjBfcWFfR1dScVFjekpnQ2UwNDZWeXZxbFVEd0ZmRi1aSHRQc1pOTHA1dXVKeFcxTmFDYldlamZuN3FvWUp3YmxOQm0zWVV5MjZBbVNmMFR3alBDVmZFRHRrR0dOejVPVDNJRnNuQ2wycU8zb3RUNEhvYi10Zmx0NklPNFJYS3hkT2tVb2NHWTVWcmZ1ZkVJNUZVVTkwWGJzaU5tdk9oYms?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Chidilim Menakaya Managing",
+  "role": "Director",
+  "company": "Sahara",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "Sahara appoints Chidilim Menakaya Managing Director to lead Sahara Beyond XXX Vision",
+  "publisher": "Vanguard News",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmpPU3dPaFVDQWZ3VENkZDdsa1JEOVJ0SHA2dURSNjJiWUhQcFFJTFpqaFpFZEx5dURtYlhPcmRjQWdVcmNrSXMtTkc4QmJmQWY0Z2NSdHREQi1wMEZscGJPam4xaG1FQnhQZXBXTW9RXzljZHJtZEJIU0xxbXBGSFV6WEJTNi1iTllCbkI5Wm9JY3VMLUlYeUVmUm15U0ZVYXRQMzd1SVBfVFYtUzVVb202ZDhEZ3VhSnY5bUtPM3o1TTDSAcMBQVVfeXFMUEpqT1N3T2hVQ0Fmd1RDZGQ3bGtSRDlSdEhwNnVEUjYyYllIUHBRSUxaamhaRWRMeXVEbWJYT3JkY0FnVXJja0lzLU5HOEJiZkFmNGdjUnR0REItcDBGbHBiT2puMWhtRUJ4UGVwV01vUV85Y2RybWRCSFNMcW1wRkhVelhCUzYtYk5ZQm5COVpvSWN1TC1JWHlFZlJteVNGVWF0UDM3dUlQX1RWLVM1VW9tNmQ4RGd1YUp2OW1LTzN6NU0w?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Melissa Gillispie",
+  "role": "COO",
+  "company": "JWB Real Estate Cos",
+  "movement": "Appointment",
+  "role_group": "COO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "JWB Real Estate Cos. names Melissa Gillispie as new COO",
+  "publisher": "Jacksonville Daily Record",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcE9FSzMtOEhHcHFRUl81MlVzMGpOTUx0Q2xJQ09renhFT2RyX2NkN2VKaHI1U0hnOG9pREVwMnM4U0RjeHJpbzEzT3pTSGpzdEpubG8zcFBWYk5vYzRIZ0xZN1RNbmNSTHo1REx5eDdWejI5Qm42YjgzQzFoUWtqaTZMVU5XUTRhOHZNMWU4Rmkwd2gtYUx2RzhGQVphMzUwM2x2cUln?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Isaac Wanasika",
+  "role": "Dean",
+  "company": "Linfield University",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "Dr. Isaac Wanasika Joins Linfield University as Dean of the School of Business",
+  "publisher": "Hunt Scanlon Media",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWJKREdHYWl5RWk4VWl0Qk5EMXVfOWpQeXl4clFXXzl5eV9QTGVETEh3RC1OeFFhWG5WZWJPb3QzSkFvT0FiVjZudEVFZWJrZEpwNjVwb29ZckFxM0JvLUFwcDNEQngwY1pxc3BZUG5VNFFERWVWYm1tc1lkTjR2c3cxNDBHNGhwWngtVFM2dC01V3ZkU0V4MDhDMWg0NDRQSkx1Tg?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Erin Schmuker",
+  "role": "COO",
+  "company": "Cotiviti",
+  "movement": "Appointment",
+  "role_group": "COO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-09-14",
+  "headline": "Cotiviti Names Erin Schmuker Chief Operating Officer",
+  "publisher": "Business Wire",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTk4yaGdmbmo5N0VXTzFGU2hvbUF3aVZTcXJUYzJscS0yTWw1OXlPMUhITFNMdFl2XzdBTUpIak1MUkhraDBUc0Rnd2ZTYmpnM05QaEdRZ19IcTNyVG52V3VRN2pZVUhXUVNnVmIxcUE0T2xTZW9UUHhKUjhiclJ4UUkwQVgtQVlPSVFUaThOZzYxR0V1U2tuTE9mV0FZM2ZDMWJIWk4zTDNHTTBqQ2c?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ashish Gupta",
+  "role": "COO",
+  "company": "Hamilton Health Box",
+  "movement": "Appointment",
+  "role_group": "COO",
+  "sector": "Healthcare",
+  "region": "India",
+  "date": "2026-09-14",
+  "headline": "Hamilton Health Box Appoints Ashish Gupta as Chief Operating Officer",
+  "publisher": "hrtoday.in",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjVrcUU1VVJyTUFZalEyWFRzVnkzZDRsQktFeW5KcDJvVkpSa05CWHB6WFdFS2ltWWtUSk93ZVZWNlV0c3l0eFZ5WW1sWFJlVlpwVzY0OGdOYXo5VjFJZjFENmtDODNUb005MHNKbW1udlFybC1aWm94ZEw0NndlSHplSTFzQllVLVAtT2pfREwyZw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Neeti Arora",
+  "role": "CHRO",
+  "company": "QNu Labs",
+  "movement": "Appointment",
+  "role_group": "CHRO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-09-14",
+  "headline": "QNu Labs Appoints Neeti Arora as Chief Human Resources Officer",
+  "publisher": "hrtoday.in",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRW5tb2k1UHBoMmd3c0ZEN0p6bzNuWHhFOW5GMHpFbnRkMzdSTDAycEpHbW1RbC00TDJka3EzQmVkV2tFQmxiY3RZV21FYlAzMlFiLXd1dVpjRC12Ti1zTEFzcjRDMC1BN3lBU2FYSGk5N2E0Q1pwWi1WcG1jcHNBbFBEQU1CQUFkVmc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Neel Virwani",
+  "role": "CBO",
+  "company": "Embassy Developments",
+  "movement": "Appointment",
+  "role_group": "Other C-suite",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-09-14",
+  "headline": "Reliance MET City appoints Manish Jaiswal as CEO; Embassy Developments names Neel Virwani as CBO",
+  "publisher": "realty.economictimes.indiatimes.com",
+  "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWGN1RDRMOGFibkFhZXU5UmdqMzRmM1NyMVZseDFCNnZfRHVDODdpc2lCQTRjQndhR2R4eHdQX1FacTA4Z0tzSWNJR3RDTUpsV3ppZDhVQ19qTlNLZG1ZajlKREtQY3Vvekp0YmpGaEtST3p0b2R3WkFRenNLTTctMlFzclpCYkotMlpBbUttdE1ydk1PRGF0UkJDQUozLU1DbGVXWmdEbDdvTlh6MHJXdVluVlJ4VmNXLXNKa0VJYzY2Y0hZYUlwbm1vODZ6Z2gzOUNWLTIwZ3JVWUlPYnU4a2pGeTdiX01RMWQtNGdlR2taM2RkbWfSAfsBQVVfeXFMTjg4YU5oSzhmZjI4NG50eVhhZzMyZHROc2kyWEVzNXV0RVNaZjZfX2tMY1JWdENjSFEzOW1fY1dTQ0FFalN4OUI1dGd2WGIwUlUybW1XSTkxQmF1cXQ1X0NZVDlJWVpUTXlIa1dBZkhBUFZQT1kzZzdCTFNfWDVWVHpHbTB4ZTFrd3UzcHZrV2RBUW1zS2NBVnZaZ0lyMXlCSFhsemZCbXpNemlYa1poeV9YUGhFRUFUcFZWeVdmbjluQ29ZcE5XeVpjTnBNa0JVblA2MFpVMXRScDBuX2g0SWpHSG5FZnNxeHhmZWdBMnRoT2RZVUE5QXJUdjg?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -598,7 +1072,9 @@
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFUtRTFES0JkM3AyZ1k3aV9KUTFaRTNSVno4eDMxUHdYekZUNXdmcWxDZ0ZxREVFUDh6Ti1GbW1IOUFpYUVZRjRWcExWTHZ2VUtPeTJYZWJ4QzZ6T2VxYzk5NFAyY1A0a3ZwWFhwVE45QVQwa09hMUtObC1SdUMwUktxU04wT3p0ZWlKY3dKVmx5bE9FNXFRQWpieUVuNHY5bjd5WHRHODY?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Indian Pharma Post"
+  ]
  },
  {
   "person": "Patrick Morin",
@@ -724,6 +1200,22 @@
   "headline": "Suraksha Diagnostic Group CFO K S Ravindra Steps Down for Personal Reasons",
   "publisher": "scanx.trade",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeWkyWDc0Ql81eER5OUk2MDBkdzlhQWExbDQ5UW9ockNXdGVVTEd6ZUl1OHpBb3VLVFhxYU83S0c5VU5pV1hmVThYQ3BHNE1zOXZSWWhfU28zY0JMTTk5c0RZTGtkQlM4YmRHN2I4eks3Z1VqVTlNejduTWt4ZlVINVpHRWhlVldmd1RoRm5CcDBfalVtbGxCOEYtQVBhdXdVTFduLUc3S2Y0WGd0U3dpd0g5djcxQ1BxaHV3cWZuT0VraFVyQjFF?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Wim Vanhelleputte",
+  "role": "CEO",
+  "company": "Safaricom",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "India",
+  "date": "2026-09-13",
+  "headline": "Safaricom Appoints Wim Vanhelleputte as CEO For Ethiopian Market",
+  "publisher": "The Kenyan Wallstreet",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02Snl6SnktLUxvTVdNQzQ5YVI0UmZ3X05TRmhXUFRXWFRCa3VIdXBGUVcwemJhSXJrNnozTWdZRGhPNVB6bHJ4alFPVzFValZoYTdpTlQ4cWkzWlFZc2VUbEpHTjlha250d09neFVsSHFydV9rUFZ2Vw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -1032,6 +1524,22 @@
   "headline": "Radico Khaitan appoints Dr Ashish Shrivastava as Chief Information Officer",
   "publisher": "exchange4media.com",
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUZkTDRacHoyR1dNY2ZvaThsc3lVaGh1Mmd3UnNib2NfMnEweVpoYnI1TXFvV2pXVmVRNHdSQXM1S2FmYzl6SGgzTkFvazdIWlZSclVyZzJ0S3FlVXJIeTFZWTAzNnRyZDBNVkRzMkpCQWpaVE94S2s1bVF0aG96WU9ZRFBWTzlCSml0TkROSkh5VzgxaXNrc2o4bnpONnk0RmZHYmxNdlJOSjlEelNuc2tZbG8xaG1Ic1pfaXJIcVd4RDdSQTdPSU50V2N0a0syUDk3MQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Hasanul A Hasan",
+  "role": "Chairman",
+  "company": "AIUB",
+  "movement": "Appointment",
+  "role_group": "Chairman",
+  "sector": "Education",
+  "region": "India",
+  "date": "2026-09-12",
+  "headline": "AIUB appoints Hasanul A Hasan chairman, Ishtiaque Abedin vice chairman",
+  "publisher": "The Business Standard",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMERqeXEwcUpCejhqZ0NQT0k2X3RMUE5OZ3plcV9VWXBTUnNjRzdja2RuT3hIOEY4di1YWnJ6SDZoQ1dtRW9oVGVjeWl5UnBDSGR4YUlrZnVpWjVOc1dNYWhfVUw5TWF0eGZteHRwSXZpZHB1c3lvbXo5ZlZHX1k0cEtrRmNWSXhCNFVuYUp0VEF3eHVpRnhlUHlaY082NzJsTlkwR0N3UGxNTWtGZmlTNDViejNHTGU5b1HSAb8BQVVfeXFMTUJ3WWVCenNTM3NOcHJFVjQ3RVFEbGpMcWxnQS1GODhsemRVUTd5SFdkMENZTk9oYml6b1lETFU0aUFrVlY0dk0wRl9BcDBGNGtldzFMY1BXdVlobC1idFRiOHUteTA0amV4d2pXekllWmZpU0p1dURfMDRQVVgtaW9pbmYyRzYydGRGekJGWVBINUtNMG1zVmFVOEtJZFFQdmd2eGlLTkVuaXA1Ny1JeVNWMVYxMlFPalJSWnBraXM?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -1830,7 +2338,9 @@
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrTkV2UGlJNWpBd1VFbGJjek1lSndFUGhnWnR2U0lPZDB5TlR3Z29KdlMxMUQxQ3ZCQ2tLMHJsMy1jUUZXaGdMMDRtRU4wVlhpeXJ1NnJDbERJLTlYMWZnTWFFYVE2MGwzcW5RSGg1TFZYdmxISUE?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Premium Beauty News"
+  ]
  },
  {
   "person": "Jayanta Das",
@@ -1908,6 +2418,24 @@
   ]
  },
  {
+  "person": "Pam Kaur",
+  "role": "Group CFO",
+  "company": "HSBC",
+  "movement": "Resignation",
+  "role_group": "CFO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-09-10",
+  "headline": "Pam Kaur to step down as HSBC Group CFO in 2027",
+  "publisher": "Exchange4Media",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWZmRGhIeC16VFdRZVREcGZxMGRRYnNuOTBrd0wtU3VMUFVKakRteGFsc21hMGNlb01ZNndHdWpuNnpGbDZCQUY2TXoxbjU5TUUtTk9lUnRVenRfREY3VDluamIwRHBOQ1Z5QXY1Q19SU0ZNVkhRZnUtY0lmeF9HVVBXWUZEdVYwYW5sM0RFQi1RU1d0b2ZkSkhGT3R6R1ZDRFhPYnNVUkJFS29XeGFaYg?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "Reuters"
+  ]
+ },
+ {
   "person": "Wendy Chang Smith",
   "role": "CFO",
   "company": "Glanbia",
@@ -1969,22 +2497,6 @@
   "headline": "Actithera Names Steven Kelly CEO as Radiopharmaceutical Pipeline Nears Clinical Development",
   "publisher": "citybiz",
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUFUxZExJYWdGVHRuYmpIMTM5NTE0ZVlBNmVxZ2lMSkZnTnFuaGJubHFiTkNRVS1HZTlyLUxZSUNPZDIyOHJCWmZ5VmxYMmtxSnFtTjBaMTNaLWxPQ19tMWJhU3UwRkpKSUJnX09ZLURqZjJRUk1Cak1lcllRa1lTX1F5cnhRMEEwNVU0d0pRNHBacUtpMzJuMGFSdlRMU1kxRE9iM01wVGxIcDVyYVRMZTRMVnM3NmNzU1R2SV81eDRwMXZJdHFBbC1n?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
-  "person": "Pam Kaur",
-  "role": "CFO",
-  "company": "HSBC's first female",
-  "movement": "Resignation",
-  "role_group": "CFO",
-  "sector": "BFSI",
-  "region": "Global",
-  "date": "2026-09-10",
-  "headline": "HSBC's first female CFO Pam Kaur to step down in 2027",
-  "publisher": "Reuters",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPanNDNVdLdnVoeFBRdEZSN054SWZZdDNmblBkWnhGUlhTSHAwY29ETUJJRE9hUlFKQS1BUW8xZ1dCVUphek5oX3hJZlpCV3ZOelF6YWhFMUd2RkJvOTBWVXhoWmdjejZYcXhCY1pIaXRPU0NVektjZ2VIMkRudUVfbU1kazdLVUUwRnBSbGhhT2Jxakpad0E3WkpjbzZHVUtK?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -3241,14 +3753,16 @@
   "movement": "Appointment",
   "role_group": "CMO",
   "sector": "Healthcare",
-  "region": "Global",
+  "region": "India",
   "date": "2026-09-09",
   "headline": "Aledade Names Sashi Moodley CMO, Kim Wittman Chief People Officer",
   "publisher": "citybiz.co",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmxObHprZk14aVVWZXoyTWVlN29QUFpLVi1yRzdDZk15cDdoXzRjdFZxLWd2aXA5bnhNSlJRVW04ay1fZ2tUdkF0aG8yN3hTWHJzMk5sbUlBVmsyc21udnJVc1Q4b1R0SnhsaFlNbzlOMHc3SnU2aW9oRWxrMHlVaDBBQ0RXem5oZ2VmX2RVYTJiQW5ZVzJBSWVZTUFvNUI2UHFjU1JB?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "hrtoday.in"
+  ]
  },
  {
   "person": "Troy Hooper",
@@ -4044,7 +4558,8 @@
   "also_reported_by": [
    "Minichart",
    "TipRanks",
-   "pulse2.com"
+   "pulse2.com",
+   "Pulse 2.0"
   ]
  },
  {
@@ -18673,7 +19188,8 @@
    "The Hindu",
    "Upstox",
    "Open Magazine",
-   "LinkedIn"
+   "LinkedIn",
+   "Hindustan Times"
   ]
  },
  {
@@ -24704,6 +25220,7 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
+   "Exchange4Media",
    "IndianMandarins"
   ]
  },
@@ -28593,6 +29110,25 @@
   "also_reported_by": []
  },
  {
+  "person": "Ashish Gupta",
+  "role": "CFO",
+  "company": "Shemaroo Entertainment",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "Healthcare",
+  "region": "India",
+  "date": "2026-05-21",
+  "headline": "Shemaroo Entertainment names Ashish Gupta as CFO, Amit Haria steps down after 19-year tenure",
+  "publisher": "bestmediainfo.com",
+  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQWhPTnpkMFh4NVRPYW5WSXl3TEYzV3JQdlJ1Q3ZRNGRNaE9aTHBYV0pGMEhsZlViRUpmQVYtbnBRZHV1UFdnYmJKUmlpcnpzZEJ0Q0JQb1Rja05tamRlX0xHZXZUQm1fckc5Q3RtOUFsZkdaWEhCVE4waUNnVUtaS3NMUnZ2M1NFY19xUFlNZW4yVWV1M2hxWWNkc0tBbGdGRzU2VDQ3UXpETjZaa1JadEdvX3gzV0ZsVXk5RHlRaTRab2ExWU1uQUN0d05YTHVhZHk0SEptWVpwOEN3VmpHcy1ETmVCYVM5djl6edIB7AFBVV95cUxOQWhPTnpkMFh4NVRPYW5WSXl3TEYzV3JQdlJ1Q3ZRNGRNaE9aTHBYV0pGMEhsZlViRUpmQVYtbnBRZHV1UFdnYmJKUmlpcnpzZEJ0Q0JQb1Rja05tamRlX0xHZXZUQm1fckc5Q3RtOUFsZkdaWEhCVE4waUNnVUtaS3NMUnZ2M1NFY19xUFlNZW4yVWV1M2hxWWNkc0tBbGdGRzU2VDQ3UXpETjZaa1JadEdvX3gzV0ZsVXk5RHlRaTRab2ExWU1uQUN0d05YTHVhZHk0SEptWVpwOEN3VmpHcy1ETmVCYVM5djl6eQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "The Economic Times",
+   "Indian Television Dot Com"
+  ]
+ },
+ {
   "person": "Rishi Gupta",
   "role": "MD & CEO",
   "company": "Fino Payments Bank",
@@ -28722,25 +29258,6 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
- },
- {
-  "person": "Ashish Gupta",
-  "role": "CFO",
-  "company": "Shemaroo Entertainment",
-  "movement": "Appointment",
-  "role_group": "CFO",
-  "sector": "Healthcare",
-  "region": "India",
-  "date": "2026-05-21",
-  "headline": "Shemaroo Entertainment names Ashish Gupta as CFO, Amit Haria steps down after 19-year tenure",
-  "publisher": "bestmediainfo.com",
-  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQWhPTnpkMFh4NVRPYW5WSXl3TEYzV3JQdlJ1Q3ZRNGRNaE9aTHBYV0pGMEhsZlViRUpmQVYtbnBRZHV1UFdnYmJKUmlpcnpzZEJ0Q0JQb1Rja05tamRlX0xHZXZUQm1fckc5Q3RtOUFsZkdaWEhCVE4waUNnVUtaS3NMUnZ2M1NFY19xUFlNZW4yVWV1M2hxWWNkc0tBbGdGRzU2VDQ3UXpETjZaa1JadEdvX3gzV0ZsVXk5RHlRaTRab2ExWU1uQUN0d05YTHVhZHk0SEptWVpwOEN3VmpHcy1ETmVCYVM5djl6edIB7AFBVV95cUxOQWhPTnpkMFh4NVRPYW5WSXl3TEYzV3JQdlJ1Q3ZRNGRNaE9aTHBYV0pGMEhsZlViRUpmQVYtbnBRZHV1UFdnYmJKUmlpcnpzZEJ0Q0JQb1Rja05tamRlX0xHZXZUQm1fckc5Q3RtOUFsZkdaWEhCVE4waUNnVUtaS3NMUnZ2M1NFY19xUFlNZW4yVWV1M2hxWWNkc0tBbGdGRzU2VDQ3UXpETjZaa1JadEdvX3gzV0ZsVXk5RHlRaTRab2ExWU1uQUN0d05YTHVhZHk0SEptWVpwOEN3VmpHcy1ETmVCYVM5djl6eQ?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "The Economic Times",
-   "Indian Television Dot Com"
-  ]
  },
  {
   "person": "Chaaminda Kumarasiri",
@@ -32159,6 +32676,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Mukarram Hossain",
+  "role": "Deputy MD",
+  "company": "Dhaka Bank",
+  "movement": "Promotion",
+  "role_group": "MD",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-04-27",
+  "headline": "Mukarram Hossain promoted to DMD of Dhaka Bank",
+  "publisher": "The Daily Star",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGZsYl9lUV9LeVUtdTFfSEJ4U25VSk0ycFphWmpWMmt6Rl9RckR6c0V6WjBrX2otMXN6Ty04YnEyX3V1TGVOZm82Q20yNFdyNE9razJ3eXg4UFFDbGlGUUE4cEI2ZXRGS3g2TlRHZzhlX0FHVnFBQjZQWmZobzlPNTM5SHA0eE9kOW5hUW5KdERPcmZOOWwzNkxWWUtnTUtNZFBlZU44bVp6MmFYNnc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Ashok Kumar Lahiri",
   "role": "Vice Chairman",
   "company": "NITI Aayog",
@@ -34399,12 +34932,14 @@
   "sector": "BFSI",
   "region": "India",
   "date": "2026-04-07",
-  "headline": "Prime Bank promotes Md Ziaur Rahman to AMD",
-  "publisher": "The Business Standard",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWVnM2RLdUcwTFZJZG9aaW11WWRicEpoYl9LYzE1Mmh1NGNCNzFYMUFpQVQ2NlZ6Z2R1c1duLVZyNDI5YWMzRmVoOGJHc3NuczIySmc2cGNKM3VRYUVnX284NWtIUDZNRUVjQ3dtaW13d2Nuc2hOckN0N2tYQmxpM3FjM0I2N3pUblVzTDFfbXcyUE1P0gGaAUFVX3lxTE9tTmFxUkdRVW9TYmFqRlc0U2lNMGZCWmVLQU01MmZtMlZNeXZhRkQyd3A1aXcxWE9tbDhiMXlYZjJTLVVTc2V0YkluZ0FQLTBlX3ZPVmRTN1BNSDN6ajBwbUpyX1JhWjJ5M3ZkSzF6SG5mZ04yYlI5XzN0SlBLQUt6am5hWkJwNDA1V1Y3aHF4eFF4c0l3TnU3WkE?oc=5",
+  "headline": "Prime Bank promotes Ziaur Rahman to AMD post",
+  "publisher": "The Daily Star",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjlUTWFrNFBFS0wxLW9QT0h1RjVPbUNLZmxkQnkzTWVnaVV1THRSNzByLUdXTEFhX0xoellfd1c1Uk5PUmh4WTlGcVhVaGFZQzlRSnlpYkNRQkE5LTU1dWRCNTJPU2dfWjFxWnFqa0l4d21uOVhDejRyMTIweWZZSU5VYTJTcGZPcFBvaVVmaGxLalFCM21ZNlIyQmcwTkZwOV9rdFdxYnVaa29YRG13?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "The Business Standard"
+  ]
  },
  {
   "person": "Eric Schick",
