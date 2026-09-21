@@ -1,0 +1,64 @@
+name: Update CXO data
+
+# Runs the whole pipeline on GitHub's runners instead of the office PC, so the
+# feed no longer depends on that machine being awake or on a local git
+# credential staying valid (a logged-out `gh` silently froze the site twice).
+# GITHUB_TOKEN is injected per run and never expires.
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # every 2 hours, UTC
+  workflow_dispatch:         # and on demand from the Actions tab
+
+permissions:
+  contents: write
+
+# never let two runs commit to the same branch at once
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install --disable-pip-version-check defusedxml
+
+      - name: Fetch headlines
+        run: python scripts/fetch_news.py
+
+      - name: Build dataset
+        run: python scripts/build_dataset.py
+
+      - name: Render dashboard
+        run: python scripts/make_dashboard.py
+
+      - name: Generate API
+        run: python scripts/make_api.py
+
+      # optional mirror: skips itself when the secrets are not configured
+      - name: Sync Supabase
+        continue-on-error: true
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python scripts/push_supabase.py
+
+      - name: Commit and publish
+        run: |
+          git config user.name  "cxo-tracker-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no new movements this run"
+            exit 0
+          fi
+          git commit -m "data update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
