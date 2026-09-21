@@ -1,6 +1,7 @@
 """Upsert data/moves_master.json into a Supabase 'moves' table via PostgREST.
 
-Credentials come from .env.local in the project root (gitignored — never commit):
+Credentials come from .env.local in the project root (gitignored — never commit),
+or from the same-named environment variables when running in CI (repo secrets):
     SUPABASE_URL=https://xxxx.supabase.co
     SUPABASE_SERVICE_KEY=eyJ...   (service_role key — server-side only)
 
@@ -12,6 +13,7 @@ Consumers then query with the anon key, e.g.:
 """
 import hashlib
 import json
+import os
 import sys
 import time
 import urllib.parse
@@ -25,19 +27,23 @@ BATCH = 500
 
 
 def load_env():
-    if not ENV.exists():
-        print("no .env.local — skipping Supabase push")
-        sys.exit(0)
+    # .env.local locally; real environment variables in CI (repo secrets).
+    # Neither present = nothing to sync, which is not an error: the static API
+    # is the primary product and must not fail the run over a missing mirror.
     env = {}
-    for line in ENV.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if line and not line.startswith("#") and "=" in line:
-            k, v = line.split("=", 1)
-            env[k.strip()] = v.strip().strip('"').strip("'")
-    url, key = env.get("SUPABASE_URL"), env.get("SUPABASE_SERVICE_KEY")
+    if ENV.exists():
+        for line in ENV.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, v = line.split("=", 1)
+                env[k.strip()] = v.strip().strip('"').strip("'")
+    url = env.get("SUPABASE_URL") or os.environ.get("SUPABASE_URL")
+    key = env.get("SUPABASE_SERVICE_KEY") or os.environ.get("SUPABASE_SERVICE_KEY")
     if not url or not key:
-        print("SUPABASE_URL / SUPABASE_SERVICE_KEY missing in .env.local")
-        sys.exit(1)
+        where = ".env.local" if ENV.exists() else ".env.local or environment"
+        print(f"SUPABASE_URL / SUPABASE_SERVICE_KEY not set in {where} "
+              "— skipping Supabase push")
+        sys.exit(0)
     return url.rstrip("/"), key
 
 
