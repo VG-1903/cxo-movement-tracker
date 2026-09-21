@@ -54,6 +54,7 @@
     ".b.up{color:var(--up)}.b.down{color:var(--down)}.b.flat{color:var(--ink2)}" +
     ".d{color:var(--muted);font-size:11px;margin-left:6px;white-space:nowrap}" +
     "a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}" +
+    "a.p{color:var(--ink);border-bottom:1px dotted var(--link)}a.p:hover{color:var(--link);text-decoration:none}" +
     ".f{padding:8px 16px;font-size:11px;color:var(--muted);border-top:1px solid var(--line)}" +
     ".f a{color:var(--muted)}";
 
@@ -77,7 +78,10 @@
       rows = rows.slice(0, limit);
       var items = rows.map(function (r) {
         var b = badge[r.movement] || ["•", "flat"];
-        var head = '<span class="p">' + esc(r.person) + "</span>";
+        // link to our own article when one has been published for this move
+        var head = r.article_url
+          ? '<a class="p" href="' + esc(r.article_url) + '" target="_blank" rel="noopener">' + esc(r.person) + "</a>"
+          : '<span class="p">' + esc(r.person) + "</span>";
         return "<li><span class='b " + b[1] + "'>" + b[0] + " " + esc(r.movement) + "</span>" +
           head + " — " + esc(r.role) +
           (r.company ? '<span class="c">, ' + esc(r.company) + "</span>" : "") +

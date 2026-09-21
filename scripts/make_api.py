@@ -38,8 +38,11 @@ ROLE_ENDPOINTS = [(slug, label) for label, slug, _ in ROLE_GROUPS
 # source attribution (publisher, link, outlet list) is intentionally NOT exposed
 # via the API — it stays on the dashboard only. source_count keeps the
 # how-many-outlets-reported-this confidence signal without naming them.
+# article_url is our own portal's write-up of the move (publish_articles.py) —
+# unlike the source link it is meant to be public.
 FIELDS = ["date", "person", "movement", "role", "role_group", "company",
-          "moved_from", "moved_from_source", "sector", "region", "headline"]
+          "moved_from", "moved_from_source", "sector", "region", "headline",
+          "article_url"]
 
 
 def payload(label, records, updated, role_group=None):

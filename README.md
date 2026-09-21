@@ -35,7 +35,17 @@ with a self-contained HTML dashboard.
    classify **sector** and **region (India/Global)**,
    and dedupe the same story across outlets (extra outlets recorded in
    `also_reported_by`). Master dataset: `data/moves_master.json`.
-3. **Render** (`scripts/make_dashboard.py`) — regenerates the dashboard from the
+3. **Write & publish** (`scripts/publish_articles.py`) — for every new movement,
+   Claude writes a short attributed news report from the record (facts only, no
+   invented quotes/figures, closing disclaimer) and posts it to the WordPress
+   site mapped to that sector. The post URL is stored in `data/articles.json`
+   (keyed by record id, so rebuilds keep it) and surfaced as `article_url` on
+   the dashboard (person name links to it), the API and the widget. Needs
+   `ANTHROPIC_API_KEY` + `WP_SITES`/`WP_USER`/`WP_APP_PASSWORD`; without them the
+   step logs and skips. `WP_STATUS=draft` (default) lets an editor review before
+   going live; `publish` goes straight out. `--dry-run` writes previews to
+   `data/articles_preview/` instead of posting. Cost ≈ $0.02 per article.
+4. **Render** (`scripts/make_dashboard.py`) — regenerates the dashboard from the
    template in `scripts/dashboard_template.html`.
 
 ## Deployment & API
@@ -53,9 +63,20 @@ with a self-contained HTML dashboard.
   `data-region` / `data-theme`.
 - **Credentials** live in `.env.local` (gitignored, excluded from Vercel). Schema: `supabase/schema.sql`.
 
-## Daily automation
-A Windows Task Scheduler job **"CXO Portal Daily Update"** runs the whole pipeline
-every day at **08:30** (`scripts/run_daily.py`, logs in `data/logs/`). Manage it:
+## Automation
+**Primary: GitHub Actions** — `.github/workflows/update-data.yml` runs the whole
+pipeline on GitHub's servers **every 2 hours** and commits the result, which Vercel
+deploys. Nothing on the office PC is involved: the push uses the per-run
+`GITHUB_TOKEN`, so there is no credential to expire. Secrets (Settings → Secrets →
+Actions): `ANTHROPIC_API_KEY`, `WP_SITES`, `WP_USER`, `WP_APP_PASSWORD`,
+`SUPABASE_URL`, `SUPABASE_SERVICE_KEY` — every step that needs one skips itself
+when it is missing. Variables: `WP_STATUS`, `ARTICLE_MAX_PER_RUN`. Status and manual
+runs: https://github.com/VG-1903/cxo-movement-tracker/actions.
+
+**Legacy: Windows Task Scheduler** — the job **"CXO Portal Daily Update"** ran the
+same pipeline daily at **08:30** from this PC (`scripts/run_daily.py`, logs in
+`data/logs/`); it is disabled now that the cloud run is the single writer, because
+two writers race on `main`. Manage it:
 ```bash
 schtasks /Query /TN "CXO Portal Daily Update" /V /FO LIST
 ```

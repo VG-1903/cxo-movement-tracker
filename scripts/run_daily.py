@@ -46,6 +46,7 @@ def main():
     # core steps abort the run; optional ones (Supabase mirror) only log —
     # a flaky Supabase connection must not block committing & publishing the site
     steps = [("fetch_news.py", True), ("build_dataset.py", True),
+             ("publish_articles.py", False),  # AI write-ups; no-ops without keys
              ("make_dashboard.py", True), ("make_api.py", True),
              ("push_supabase.py", False)]  # supabase step no-ops until .env.local exists
     failed_optional = []

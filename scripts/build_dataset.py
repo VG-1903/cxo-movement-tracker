@@ -14,10 +14,27 @@ ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "data" / "raw" / "items.jsonl"
 OUT_JSON = ROOT / "data" / "moves_master.json"
 OUT_CSV = ROOT / "output" / "moves.csv"
+ARTICLES = ROOT / "data" / "articles.json"   # written by publish_articles.py
 
 
 def norm(s):
     return re.sub(r"[^a-z0-9]", "", s.lower())
+
+
+def attach_articles(records):
+    """Re-attach published article URLs — this file is rebuilt from raw every
+    run, so the WordPress links have to be carried over from the sidecar."""
+    if not ARTICLES.exists():
+        return 0
+    from publish_articles import record_id
+    state = json.loads(ARTICLES.read_text(encoding="utf-8"))
+    n = 0
+    for r in records:
+        art = state.get(record_id(r))
+        if art:
+            r["article_url"] = art["url"]
+            n += 1
+    return n
 
 
 def merge(moves, rec):
@@ -99,13 +116,14 @@ def main():
                     r["moved_from_source"] = "cross-reference"
                     filled += 1
                     break
+    with_articles = attach_articles(out)
     OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     OUT_JSON.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
 
     OUT_CSV.parent.mkdir(parents=True, exist_ok=True)
     cols = ["date", "person", "movement", "role", "role_group", "company",
             "moved_from", "moved_from_source", "sector", "region", "publisher",
-            "headline", "link"]
+            "headline", "link", "article_url"]
     with OUT_CSV.open("w", newline="", encoding="utf-8-sig") as f:
         w = csv.DictWriter(f, fieldnames=cols, extrasaction="ignore")
         w.writeheader()
@@ -122,6 +140,7 @@ def main():
     frm_head = sum(1 for r in out if r["moved_from_source"] == "headline")
     print(f"moved_from: {frm_head} from headlines + {filled} cross-referenced "
           f"= {frm_head + filled}/{len(out)}")
+    print(f"articles attached: {with_articles}")
 
 
 if __name__ == "__main__":
