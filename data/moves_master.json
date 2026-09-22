@@ -119,15 +119,18 @@
   "company": "Africa Bitcoin",
   "movement": "Resignation",
   "role_group": "CEO",
-  "sector": "BFSI",
+  "sector": "Healthcare",
   "region": "Global",
   "date": "2026-09-22",
-  "headline": "Africa Bitcoin CEO Warren Wheatley resigns after FSCA action",
-  "publisher": "Moneyweb",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaDNXWk1xTjFEQ2oyd1B1THZ2SVhHV294UC1wdlh2RVdLT01yV0RSWlhseUZVX1V2TExXSkFMRGhraVRoR0NkbmFRUXBSMUxpVW9wSXYwUTZib0VmMzRYZzBWODR2ZEJpOWJDVW9FU0pvT0xuVjlVa1JDOV9TTVRHeUFIMzcyN01vOGgyY1VKeE9qYjlraHhSYUt0aWstcjFXci1iM1hEYjJ6UzJManZnenB5NA?oc=5",
+  "headline": "Bitcoin Africa CEO Warren Wheatley resigns as FSCA challenge proceeds",
+  "publisher": "sundayworld.co.za",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWJPemdHWW50N0VNMU5WQ0Zma24zRGpqZnl3al9XRmdaLXRMV2FkYmc5U3BTdEpUX21nWWJ6SGJQNTctdTBCU3FYVWtlOGJsV2kyS1RsODR6RXotb1o0WE1kUUZFY0haQ2dKcFJGamJoWDRJZlh1bjdDMzJzWkxaSlpadU13eWw3R00ySkIzRkJMdGdPYXFxUzhPZHJHMkhnZlBfN1lTbFNrcUVhUldiZnFuT2hiUQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Moneyweb",
+   "TechCentral"
+  ]
  },
  {
   "person": "Olaniyi Orimoloye",
@@ -373,6 +376,182 @@
   "also_reported_by": []
  },
  {
+  "person": "Bjorn Nilsson",
+  "role": "Chairman",
+  "company": "Svensk Galopp",
+  "movement": "Resignation",
+  "role_group": "Chairman",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-09-22",
+  "headline": "Bjorn Nilsson Resigns As Chairman of Svensk Galopp",
+  "publisher": "Thoroughbred Daily News",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaEoxdmpUUXlpVkV6aEV5cTNaSExrTWdDMkhfVEF2bDJJWlFocUtXVTVvVzFiS3h3azQ0TFkzSURtc2F6T3lmMXc4Q0l6dHJ5WVdxUm4tcmtnNWlEeU5LWVlNYkNIYl9XdU9mWWllZXBoaG1TdFl3bjlSR1F6clpiN193VExJN05LZFlXZ1NNc01oMmc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Glen Tinevez",
+  "role": "Vice President",
+  "company": "DistillerSR",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-09-22",
+  "headline": "DistillerSR Appoints Glen Tinevez as Vice President of Solution Delivery",
+  "publisher": "newswire.com",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEFQZ01YWU11dGZOX3hWM2FscXVrdzZ2aFZjRmMxWndySkRQdUdoQlE2eHFmR0ZRNE90TGtrcExzNTRJcEo5TTBOc04zYVF0TGlsOWJQXzl3dU1SeGVNS2JMUTRaVlQwclN2TFd1cmR6aTQ3XzRUWUgxdXpNaEhSUnFhVXk1M3pUYVFGVTZHNTE4aGVxUjhta1RsbTNQX1dPYnRJQQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Wyatt Gotbetter",
+  "role": "President",
+  "company": "Fingerpaint Group",
+  "movement": "Appointment",
+  "role_group": "President",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-09-22",
+  "headline": "Fingerpaint Group Appoints Wyatt Gotbetter as President of Market Access",
+  "publisher": "PR Newswire",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdnA5LWtwSGZ3MS12QmtmVHQ0Q2ZhZHlGbEk4ZUI4NHgxcjNYR3BHaFRTTHhxc0ZmZnJFUUpVRjVjc3J0SHJhQ1E4dmhQRXljT1dnRVNPekZkM19WLUp3LWpocVZITFJYQmdodVhTUTlpeUdXV2lKM3NpZDhaNWdVNy1wdWtWZ0FjV3hYYnBYNVpKazF0TEo1bGdrdFBmUlRISlZaVkhmN1VjRDFIQlNLTmJNbmpnRS1jX3BhcUthUFQ2WEFEQWRN?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Vijay Singh",
+  "role": "Chief Scientific Officer",
+  "company": "Longhorn Vaccines and Diagnostics",
+  "movement": "Appointment",
+  "role_group": "Other C-suite",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-09-22",
+  "headline": "Longhorn Vaccines and Diagnostics Names Vijay Singh Chief Scientific Officer",
+  "publisher": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmJVS1ZIeF9sMlhlTFFFbl9rOFgyanJ6MXgwSXZvdWw4NllOTzQ3ZkUtQl95Z2xaaWFXWGhzdUo3Z1Y1ckttSklyMWNxTFEzanFTcUFrdzhxZDlGM2FwODlSVUc5dV9nd2lhcUdIUDlZS2FBdlR6RUVMVTJqSkd5bEZnMHZUbWZyX1p1RkR6UGZVYkRuaXhfZXRLOHBqM3JpRHlSZ01FWTd5SlVTR3JkN1RWUjRpQQ?oc=5",
+  "moved_from": "Tata Trusts",
+  "moved_from_source": "cross-reference",
+  "also_reported_by": []
+ },
+ {
+  "person": "Kevin Rayment",
+  "role": "CEO",
+  "company": "Curtiss-Wright",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-22",
+  "headline": "Curtiss-Wright Names Kevin Rayment CEO as Lynn Bamford Moves to Executive Chair",
+  "publisher": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXVYMWxLTUthb21JQ0NmX1ozWEgxNFR5Ti13S19ONlNuWGhYRUhpTTVabjRRTUxid2ZMbjREako2anE4a2NKd29rWXFHQjRKU3JBOEpnUy1jZkkwOFZBelNqam5vZ2xfdEFJNUtFUnpqT01leGVOeW10UW1GdGxGcmx4cUt3SUtoVk5CTU13a1doSmZkTmFOQjNCbDV0V3I1b1hUUFJHTU1td3VRaWZJNGR2aEVoeFFDQ1E?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Samuel Ndoo Mutunga",
+  "role": "CEO",
+  "company": "Ufanisi DT Sacco",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-22",
+  "headline": "Ufanisi DT Sacco names Samuel Ndoo Mutunga as new CEO",
+  "publisher": "Sacco Review",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOEFCcFFqVTNzdEpmdy1BMEdhZFZxLWg3QVJkZmQ2SlEtaFZMSTBxclYyaUwtdU1Gb2JaU3NHdkxaUDU3WFZoTEFXb0o5Y1lQV3hoLU1VVk9CNDllX3dkNXhNQ2VNR2E5a3NTT0lONk9fN2FBN3JSeE95Rk1FRmFUYWpxV2c4RlE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Matt Shafer Powell",
+  "role": "Director",
+  "company": "WUOT",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-22",
+  "headline": "Matt Shafer Powell named WUOT director",
+  "publisher": "current.org",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0NmxZOEozMkpmNXhJLWNUX2xaMHhUTFFvQjNJd0d5TU4taTd3c3h3M25rUEtQQnN0Yk4yRDU0Sm9saXRha0s1X3laSGp2N1cyX2FRLTVQNHQxclJ1ZG5FUmg1S0Nqdi10MExzSTdZNXkyLWNMTUE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ian Meadows Managing",
+  "role": "Director",
+  "company": "Lumos Insurance",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-09-22",
+  "headline": "Lumos Insurance Names Ian Meadows Managing Director, Global Property Casualty & Specialty Insurance",
+  "publisher": "Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUVZPNml2aG9DZW1HeTRDbVJFU3VWVGZSTnRrZzhIQXNHZWJtRmtDT3lGOE5LTFY5bTJ2TTRLRTZLT0lMUkJtNHV0bndsdml4eWFPUksxMC1rZGhHLWxsS01FOGpvbURFbUJacFdYZ2k3akZhNWVuMnQyRkZHelYwVjl1c2pvSy01VEJsVVBIbjk4WWZabXczcEhR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Soy Itty",
+  "role": "CFO",
+  "company": "Rajeshwari Cans",
+  "movement": "Resignation",
+  "role_group": "CFO",
+  "sector": "Healthcare",
+  "region": "India",
+  "date": "2026-09-22",
+  "headline": "Rajeshwari Cans CFO Soy Itty resigns citing personal commitments",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNG5ucU54WXNoaGFGWGwwbEt1VzhWT0hNdHlSUHVwUjNMemlLZDlhRmo4N1VXMzNGOFlHNWc4S1FxZklZZkl1NjNlQWtiNWNfWkxoMHh4VG1fdFluYXZKMGc3ZmZ6ZU1mMVFzaHFCUUdwSzBtMGpsVFZCMmtKMERKRzIyR2dnTnNhazhqVTBFQ3hRbDZMdlVGaTJvRFdra2RfbHNzQ0hodmtDbzlsNGk0VXJuRmxJQzFGN1Fpb3VR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Nihar Niranjan Jambusaria",
+  "role": "Independent Director",
+  "company": "SBI Life",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-09-22",
+  "headline": "SBI Life appoints Nihar Niranjan Jambusaria as independent director",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWFLZlR0T0ZGbGdTM3JhYjZ5M3hReE5kd1ZjV1lxUEpPVVZkbUEwU0xaSHU4UXlob1czYjlnRldXaXBpX3AyVmR3WjRLa3oyNTh2WGpvcTUzVmRzY2t3elVqcUdUZGJCdk5FLWloQnBfQ2pCOEhOUzhwZHlIRF9EV1Fad1NhY0dXOFZPbHlMNC1RUHE4RXNGb0oyVF9iWVdjV0pLVXE4NEM5TzJYZ0lDTldJMjFDSFZnZnFyMVFB?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Aashish Agarwal",
+  "role": "CEO",
+  "company": "360 ONE WAM Group",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-09-22",
+  "headline": "Aashish Agarwal appointed CEO of 360 ONE WAM Group",
+  "publisher": "Exchange4Media",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONzVqaEY1dVRndVR5SzU3U0Z1MHZNMEVzcWg3aUZuQTRtTzBrNmdRbUtzVk9HRWVMTTVfTTg4a28zVWp0NHljSVlwQWMxS294R0xrSUlOMV9NeXhqdjNIMW5ObjRVOWVvdVJtaEstTXI2ODNwSEd0QmJLb2pMa2p5WVlZR2JKeUVQM3NvdUVxX0JrcnJNQTg0czR5aVN2bVJBVXIwb3Z3c0hiM0tMV2k0d3Vvdl8?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Aditi Pai",
   "role": "Group Chief Financial Officer",
   "company": "Transasia Bio-Medicals",
@@ -404,6 +583,25 @@
   "moved_from_source": "",
   "also_reported_by": [
    "HR Katha"
+  ]
+ },
+ {
+  "person": "Sierra Signorelli",
+  "role": "CEO",
+  "company": "American International Group (AIG)",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-09-21",
+  "headline": "American International Group (AIG) Names Sierra Signorelli CEO As Jon Hancock Retires",
+  "publisher": "Yahoo Finance Singapore",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGNMQTl6Q3RVMDZCTzdja2NEY3B2eEdCZ3VNQnNQM2k2LU84RUNxWnd5MlFiblgzb1FlRVFkdnhwRk9oLTlsZlV4MVZNX0pBSmZNdmtEMGViMTBCTExBTDVnYjhhaU9ReFEtNHNkMkoyWm9IWXgtNjktbFJpckVRUTNpd0VodFJFaDVEMXFwMlk?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "The Joplin Globe",
+   "Yahoo Finance"
   ]
  },
  {
@@ -746,22 +944,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Sierra Signorelli",
-  "role": "CEO",
-  "company": "AIG",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "BFSI",
-  "region": "Global",
-  "date": "2026-09-21",
-  "headline": "AIG Appoints Sierra Signorelli CEO of Americas and Global Personal Insurance",
-  "publisher": "The Joplin Globe",
-  "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQOGFRT2hRcG1MZF9kSVhaeHM2TXExRDNmR0dmdmZjUlY0MEhaZ1ItUGxPT3hUOFVpSVY3d3NZRGpZaWlodkN4d21QLVFaTEtjem5rODBkbWFNTXBVUk92Yy1kQ1pnRk1GdWhubjEwLWk0RXktSnVwTEowaU9aUlFfQ2RxMjRxTVg1bnIwZWMtTVUwNWtIX3ZMeEdkRDQ3OENKd3JRNllqbF96N0RQdVBTWTIxMUI0VUkwQXFBb0lxOGhjVHk1UDV1TGxkNjhVV18tU040ZXNKMXA2R0lXUFE4OHd6TG83MEhzRzJaUVNFTk9QX3BEQm1hbVlva0R1cXUxV1lUVE5PNENQQ1U?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
   "person": "Kyarisiima Israel",
   "role": "CEO",
   "company": "Uganda Esports Federation",
@@ -791,7 +973,9 @@
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRVFYb1lOMmFsR1NGS1VCa1loemJ2OVZ4ZWJhOUplUWx0UXN1bWtYMWVLQ1J1UkdDdlVGaEtQMUc1MWJMeDlwMmdjeFUwZjJGcDRiY21kT25neU5sRWhHVFpzMWUycnlSb1d4anFtMG4wNVdwWHZBRGFQYzBnNlhHY2p2RzVhd0gtdVk3OTZHSmh6Z244SHc2ZWo4a3puMjBIRWZB?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "BrandTimes"
+  ]
  },
  {
   "person": "Jim Labe Sole",
@@ -1321,7 +1505,9 @@
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkdtZEdPT1E4WmpqMUpiVEdMc2dWTDJfbzctOGs1Mm5QQlROOWFkTlhtY0pFeWlrVW14NDVVNU9zYktZRkVReE1mZC1xNGJWTWtGTV9GTEdVUzJjMXJ0eEdZNGRYeno0YS00cmJCRXpZZ3loakZlWktvUE9CREUyWF9tTDdOSFp2dUhTUFFDZTBlWUFJdVhKbzhkT1IwRkl6eUs1ZzFzZWRUNUNkUEZV?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Contract Pharma"
+  ]
  },
  {
   "person": "Edwin Beale",
@@ -7981,7 +8167,8 @@
   "moved_from_source": "",
   "also_reported_by": [
    "TravelBiz Monitor",
-   "The Economic Times"
+   "The Economic Times",
+   "Exchange4Media"
   ]
  },
  {
@@ -23762,6 +23949,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Vijay Singh",
+  "role": "Vice-Chairman",
+  "company": "Tata Trusts",
+  "movement": "Resignation",
+  "role_group": "Chairman",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-08-11",
+  "headline": "Tata Trusts vice-chairman Vijay Singh steps down from Sir Ratan Tata Trust",
+  "publisher": "Telangana Today",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNGs2M294Unl2Vncwd2M2SktwVzBnVUY3ZlhlM0tkMlFFSHlPUjZRaGwtS28tUncydkgwaTFPT2NiR0ZyaXVGSWpXTllPbkhPc3E1Q3Bmel90Zm1OWE9oRWlFWlV6WHV2bGxOczM0UDNZTVZQNGxRa3ZmRmtjWU9FUXZKOFJpVnJiSENpU2pjdXNSSUlBZW5NUlk1dzRlS1dXN0xN?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "N Chandrasekaran",
   "role": "Group Chairman",
   "company": "Tata Group Loses Rs 26,800 Crore",
@@ -23846,22 +24049,6 @@
   "headline": "Emirates Biotech Appoints David Miller as Chief Operating Officer",
   "publisher": "hrtoday.in",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVpSOE14eHhobXpwUDNaZjdnUHBIS1I3bnFSc3RHUlp4YVFjaFhVMHZJcm5lT1RLNi1lLTRpQjVFQmQxZEJsRERQaG9HcEI2cTFJYThTcGVDSEhhLThaWHp0ZENpM1FGQWtCRU5VbXlhU0NaNU1ZRXk2STNHNWllcm1oZXZVZ0xVMmxEb3h3?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
-  "person": "Vijay Singh",
-  "role": "Vice-Chairman",
-  "company": "Tata Trusts",
-  "movement": "Resignation",
-  "role_group": "Chairman",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-08-11",
-  "headline": "Tata Trusts vice-chairman Vijay Singh steps down from Sir Ratan Tata Trust",
-  "publisher": "Telangana Today",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNGs2M294Unl2Vncwd2M2SktwVzBnVUY3ZlhlM0tkMlFFSHlPUjZRaGwtS28tUncydkgwaTFPT2NiR0ZyaXVGSWpXTllPbkhPc3E1Q3Bmel90Zm1OWE9oRWlFWlV6WHV2bGxOczM0UDNZTVZQNGxRa3ZmRmtjWU9FUXZKOFJpVnJiSENpU2pjdXNSSUlBZW5NUlk1dzRlS1dXN0xN?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -31057,7 +31244,8 @@
    "Storyboard18",
    "BW Disrupt",
    "HR Katha",
-   "ET Retail"
+   "ET Retail",
+   "Exchange4Media"
   ]
  },
  {
@@ -31852,6 +32040,22 @@
   "also_reported_by": [
    "Exchange4Media"
   ]
+ },
+ {
+  "person": "Gaurav Arora",
+  "role": "MD & Head",
+  "company": "Avendus",
+  "movement": "Appointment",
+  "role_group": "MD",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-06-10",
+  "headline": "Avendus appoints Gaurav Arora as Managing Director and Head of Infrastructure & Real Assets Investment Banking",
+  "publisher": "MediaNews4U",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY1htT19vVm5HRmZadFZ0OHJtd09Lcjk1WDg2TGVaeV9MVld5RVBmaG5qT1RmdUtyMThNR29vcC00QjV5RUlsdDY3OFZYR3o5aV9jeVFKdDFOcUd0VlN0dXk4RGc0UHNOQUxKYnZPcDVWUjRiYWIySlhBWFYzWnVVUjhNbnhqak1PVTctamVfQkFWMjNNcEhFY0hfR0h4SU14RWlGMUlsLW1Kc1hXT3FyVm96Si1tcjBMVG9HbXgtczg3Q29WRkJTelNDNnhpZ3N1a0hF?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
  },
  {
   "person": "Srinath Ekkad",
@@ -38451,24 +38655,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Prateek Singh",
-  "role": "CEO",
-  "company": "Pocketful",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-04-16",
-  "headline": "Prateek Singh Takes Charge as CEO of Pocketful to Drive Next Growth Phase",
-  "publisher": "Elets BFSI",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkZSOUM3MkxEaHBIY1cwaGk0a2RhNFdqOWt0OGNFaFNIYjBfemtZUHE0YVc4R1ZhZ1JGc181NEdDRXBscE8xdnJJeVVmbWdCTGdTamxNRGlNdVd1ODZXYlFVMWVNZ200ZS0zOGc5WHhUb09TUlpuOVBZaGJmNDlEa1pLTFRXNHpkdWhVVkJ4OXNxUEFVUFotUWI3S1hsN2hUWTZRVDlB?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "bfsi.economictimes.indiatimes.com"
-  ]
- },
- {
   "person": "CA Vijay Kumar Singh",
   "role": "CFO",
   "company": "Lendingplate",
@@ -38484,6 +38670,24 @@
   "moved_from_source": "",
   "also_reported_by": [
    "Adgully.com"
+  ]
+ },
+ {
+  "person": "Prateek Singh",
+  "role": "CEO",
+  "company": "Pocketful",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-04-16",
+  "headline": "Prateek Singh Takes Charge as CEO of Pocketful to Drive Next Growth Phase",
+  "publisher": "Elets BFSI",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkZSOUM3MkxEaHBIY1cwaGk0a2RhNFdqOWt0OGNFaFNIYjBfemtZUHE0YVc4R1ZhZ1JGc181NEdDRXBscE8xdnJJeVVmbWdCTGdTamxNRGlNdVd1ODZXYlFVMWVNZ200ZS0zOGc5WHhUb09TUlpuOVBZaGJmNDlEa1pLTFRXNHpkdWhVVkJ4OXNxUEFVUFotUWI3S1hsN2hUWTZRVDlB?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "bfsi.economictimes.indiatimes.com"
   ]
  },
  {
