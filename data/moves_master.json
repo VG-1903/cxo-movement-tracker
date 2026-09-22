@@ -1,5 +1,85 @@
 [
  {
+  "person": "Paul A. Perrault",
+  "role": "CEO",
+  "company": "Beacon Bank",
+  "movement": "Retirement",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-09-22",
+  "headline": "Beacon Bank CEO Paul A. Perrault retires, Sean A. Gray named successor",
+  "publisher": "Providence Business News",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnU1RTB6T2RuZk5ueEozSlJka1AxVUZSY0hVZWF2NmMxTUQ3c0lOOGNSRUFscGNtWEFVMW1rM3Q4UFhVT0hhWVNURllTMWU4Y01seEdnMzJDcnRNaTNuMG1RZzl1dTQzVS1CeHY5TTEzM3JILWlVMGRyWk5jYnJ4NTZiZ1JMVmdoRm1VR9IBlAFBVV95cUxQdFpNY1A0YVR6eG8wQ1RyY3FiSnNLUWZPNEZzWGVjVzVMOFIxTVJPb0p0aDNtMUMwN2N4V3lQMXZIbVdRTFlvc0p5TVdCQ3JpMzRQOHVvTUYxZzZ2Rm5KX3Y0bHRwZERGc2RuNm5oSTdnUHRjUVdXbE1UMHh5Smd0M1JKTU5SWHVDcEpzdDAzWkg4bUF0?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ben Fiechtner",
+  "role": "Head",
+  "company": "Americas at Sierra",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Pharma",
+  "region": "India",
+  "date": "2026-09-22",
+  "headline": "Ben Fiechtner Appointed Head of Americas at Sierra",
+  "publisher": "hrtoday.in",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MSUZyT29PcGpJUXlkN2oxZnJNck1zeWd3VFFWUmtYTzNvYmJEbGVxa0dGMmZqZFJMWnUxWWpUNVZ2ejAwd2Z1dzljajVnOElTYnZURUlKNzhRRmx3dllDTWNURXVUUjAzZHJsZ1ZyRGJxRVZXTHZIYlVn?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Eyal Rubin",
+  "role": "CFO",
+  "company": "Nasus Pharma",
+  "movement": "Resignation",
+  "role_group": "CFO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-09-22",
+  "headline": "Nasus Pharma CFO Eyal Rubin Resigns, Files Ownership Disclosure",
+  "publisher": "Kalkine Media",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUVR5QkxPWXpzSnVpUllQNWhOM3I3aWxaS3ZPdEc3YmFLY21nYU92am51bkI2anlQbmhKMHRlOVdpUExIQW9iUVNVdFh2SW5NV1dUdndCT1FvTU8tQkFBSWp4YzkwV1NpWE9zcFdSWjMtbUQ2UXlrcENIaVdLYjZ4NXBOd2JOcnpSVTcyYWpqZXoyMHJBQ1JIdHc4ZS1BTFFVcXZ0Vl9TS21RR0Qzd3c?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Anu Sikka",
+  "role": "Head",
+  "company": "Jio Studios",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-09-22",
+  "headline": "Anu Sikka joins Jio Studios as Head of Animation",
+  "publisher": "exchange4media.com",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeGtHX3MxdHpGM3l3ZFIxeGRPUFpEbXdob0dEamFkY2N3MDlHcEF0T3hUTUVrZVpMRjRMMkVhNEdSU2g1ZVllOFNndEJURnVHd1FtYkZlc0ZjSG1sanpfRVlXbnVUVFBLVnQ5RTBuV09xajFKLTRWY0V1LUdGOUVVaGU4UHY1WWljXzg4V2w5dlc4UVF6R3NlMzBwdWZMVmdzb3ZMbGxBOXN1M1ozTS01ZWRR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Abhishek Gupta",
+  "role": "CIO",
+  "company": "Akasa Air",
+  "movement": "Appointment",
+  "role_group": "CIO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-09-22",
+  "headline": "Akasa Air appoints ex-Dish TV executive Abhishek Gupta as CIO",
+  "publisher": "The Tribune",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVEQtVmlTR0h5NklJVFFHNk5LekpMTTJMcnp3TFZKbEp1ZDFYODl3Sm5UTWVDNVcwOURjZ3NnNTRrYk5jalJSbm83aFV2NkNpcFZDem5fNXBQSXBEbTRjNGE4bTExWHVCbjN3amZKUVdzZi12bVprN3BOUlZIbGNienZZOGVvRlFwVWdISGhGWlU5SjBRRzR3Yk1kNTROcXd1UzJHZTRfTlXSAawBQVVfeXFMTmdiM3JHNU1EUkRITnZ5LTJnenlmdkhFY055YURQNXRkNC1NSWIxT1JHb1V4UVA1dDA1S2JZYktiQ1hRRHNjSXdtUzZyWEJ5RmE5WFRObHB1Yk1yOFZvbVVmOTk5aFZJc1ZVaVF5YUxFOWN5Nmk3ZGFFQ2JFMGZJdDdkeFRGOUZ1YVlEWWw3Wl9wR1ZDVDY3a2c1cVAtYi1haXVJTEhTVWN1YWY3SA?oc=5",
+  "moved_from": "Dish TV",
+  "moved_from_source": "headline",
+  "also_reported_by": []
+ },
+ {
   "person": "Jaymes Winters",
   "role": "Chairman & CEO",
   "company": "Solidion",
@@ -752,7 +832,9 @@
   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iSG5NN1pQZGNoYV9yQjNhUjRxTEM4WDdrOFdmSm5ENVFhbzNvNlFfZnRPcm5WNGlXYWV1NGZVVjNoVXVtb0NKOENQNURNNHpYRFY1Qlg4ajBRMU0taHE0c0NLbW5takZlWEx4VnR0RWN4VDlMVk5HM3hBNElxQ1U?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "FashionNetwork - The World's Fashion Business News"
+  ]
  },
  {
   "person": "Maura Donahue",
@@ -928,7 +1010,9 @@
   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PQ1dzWU12TDZRVVllUmw1d3IxRG1OazRQRkU2ZFNleUNpcU9Eb2NYTGJlaVRlZmpncENXZXk5dEd4TU1CcXYyS2FvZjM3cC1uRVJJWWxuMHNLTnpfY2g2ZVhVWmtZUjFEejE3X3JiT3UzZlk?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Education News Canada"
+  ]
  },
  {
   "person": "Bradley Campbell",
@@ -1027,6 +1111,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Mizoram CM Lalduhoma",
+  "role": "President",
+  "company": "ZPM",
+  "movement": "Appointment",
+  "role_group": "President",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-09-21",
+  "headline": "Mizoram CM Lalduhoma takes charge as ZPM president; party names new office-bearers",
+  "publisher": "Press Trust of India",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX05xU0tmWDN6Rm1DT0VJM1pUTUhTOThFaWRVNGFyZFEyS19KZmNGbDFEUVZDSGVlU2tyOFRESlRrU25WbFluT0JMbzFnTEFsdkdZYWFhWnpmNXF0ajE3S3J1RDliREVrYzBVanlkZnB4ZF9DVm9YRFVneGo3eVhnbWZudkVaYW9MLVR6WmlyUGNaTHR2SmxfU3RNQ01rZHh5ZGQ1MGtkUHJOalZvUldiSlNsN0llRU5oV2JFX2M3a1p3eVBhVFRDVg?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Jyoti Bhakre",
   "role": "Vice Chancellor",
   "company": "MNLU-Nagpur",
@@ -1106,7 +1206,8 @@
   "moved_from_source": "",
   "also_reported_by": [
    "Exchange4Media",
-   "eventfaqs"
+   "eventfaqs",
+   "tradingview.com"
   ]
  },
  {
@@ -11652,22 +11753,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Retd Air Marshal Jitendra Mishra",
-  "role": "CEO",
-  "company": "Ram Mandir Trust",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-09-03",
-  "headline": "Ram Mandir Trust Appoints Retd Air Marshal Jitendra Mishra As CEO Amid Donation Row - India Today",
-  "publisher": "India Today",
-  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTnpVbDV2SjdqNExSOGkzaFNVbGdPM1F4NzFQS21ILVBpbmlLVWYtYUJ2ZGlCdF9ySU9kNzYtWk5RdUZlZmg4WDJRSUVHdlNtdXJvY1JNbmVqY3loeml0Q3hUMngtLXdFVkdleVZwYW55WjlTODlwTFZYeGhNTXFZdUZXSlBCd2ZWQ1JHUmY3aTlBT1ZfQk9JWXA4MFlvNk9jck5lc3c2cnVYYlRtZFpwMEhaOTB3OWljZUlTWmpLazZvZTdMcUxSUVcxalRHMHlBUFBPNkJiWnJMYk5PZEHSAeMBQVVfeXFMTWdZbWRfczFpZlJmZjdST3NRVXk3QjY2MmhXbVpxNWtoTjFQTlRnZGZHYnZ4V003dVdnOURwdV9QQWIzMWo2TFlUTE9mRmMtVG96MWhmUE93U1BxVU1lNmdrcHhWOXRrM3ItUTUtRUpoTmtVWWxPY3JkOHJYbm1ZMUJjRnBDbWgySVFBTmE0YzhnSUV3QWtZdXhwWWZOWEp0U1FTdFFIXzlkcHpWTjZRdUVyb0FuSExfeW1FTHJtQXZNeXFlb0dPejRKWmpWSGh1NXBqNWJ5RUt6cTJsMjdySjJxdHc?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
   "person": "Sanket Deora",
   "role": "CFO",
   "company": "Sampat Aluminium",
@@ -11860,6 +11945,44 @@
   "also_reported_by": []
  },
  {
+  "person": "Retired Air Marshal Jeetendra Mishra",
+  "role": "CEO",
+  "company": "Ram Temple Trust",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-09-02",
+  "headline": "Ram Mandir Trust Appoints Retd Air Marshal Jitendra Mishra As CEO Amid Donation Row - India Today",
+  "publisher": "India Today",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTnpVbDV2SjdqNExSOGkzaFNVbGdPM1F4NzFQS21ILVBpbmlLVWYtYUJ2ZGlCdF9ySU9kNzYtWk5RdUZlZmg4WDJRSUVHdlNtdXJvY1JNbmVqY3loeml0Q3hUMngtLXdFVkdleVZwYW55WjlTODlwTFZYeGhNTXFZdUZXSlBCd2ZWQ1JHUmY3aTlBT1ZfQk9JWXA4MFlvNk9jck5lc3c2cnVYYlRtZFpwMEhaOTB3OWljZUlTWmpLazZvZTdMcUxSUVcxalRHMHlBUFBPNkJiWnJMYk5PZEHSAeMBQVVfeXFMTWdZbWRfczFpZlJmZjdST3NRVXk3QjY2MmhXbVpxNWtoTjFQTlRnZGZHYnZ4V003dVdnOURwdV9QQWIzMWo2TFlUTE9mRmMtVG96MWhmUE93U1BxVU1lNmdrcHhWOXRrM3ItUTUtRUpoTmtVWWxPY3JkOHJYbm1ZMUJjRnBDbWgySVFBTmE0YzhnSUV3QWtZdXhwWWZOWEp0U1FTdFFIXzlkcHpWTjZRdUVyb0FuSExfeW1FTHJtQXZNeXFlb0dPejRKWmpWSGh1NXBqNWJ5RUt6cTJsMjdySjJxdHc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "Rediff",
+   "businessnewsthisweek.com",
+   "ABP Live English",
+   "The Daily Jagran",
+   "Punjab Kesari English"
+  ]
+ },
+ {
+  "person": "Retd Air Marshal Jitendra Mishra",
+  "role": "CEO",
+  "company": "Shri Ram Janmbhoomi Teerth Kshetra Trust",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "India",
+  "date": "2026-09-02",
+  "headline": "Retd Air Marshal Jitendra Mishra Appointed Shri Ram Janmbhoomi Teerth Kshetra Trust CEO",
+  "publisher": "Free Press Journal",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU3BvNEJFeWF3TlZnWDdxM19uTG1tNzVzcHBTSkRBQ2tmNmwtM0d2UjE5UG1ZaGpqdE5Dc2haaXhxV0ZYY3FGSVRBX1h1cm1lX0RqU2liY0xqcWxyZGZuYk9iZ21IUy0wQjJpQmxNa29kbTBHWHpwOW1CWVBXd1VCOWxjYVBEYnR0Zm1BWFdQMVh3dFN4cGtsYkZUTXg5Wm1VVWRkMnl5OFAxOUpybjlaUkZSS2tmUVFJVzZEN2VEMDFoM1nSAcgBQVVfeXFMTWNLaTRpNjBNV2prV1BKT2lGR1VyaDFscVo5RGcyTDc0VjI5Q3JyeXprVW9ydDZDcV83WWdpdmRMZlBScWxxUkdJU0k0WlZSNUxVVXVvTXdqcTNqaWRDVmxsRGVyQk83Zkx4V1B2WFVWazJ4MWFUSlBXTElvSEpzSkdEMDJkNmJFaHh1QXFCZmtKS2lySENBVWVHUEIxbG9SeEhKSzczRXc1TnRYWnNra3J3UUdnendRZ1l5Rzc0YWlpUG1ZZ2gwNFA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Rehan A. Khan",
   "role": "CEO",
   "company": "Integrace Health",
@@ -11874,27 +11997,6 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
- },
- {
-  "person": "Retired Air Marshal Jeetendra Mishra",
-  "role": "CEO",
-  "company": "Ram Temple Trust",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-09-02",
-  "headline": "Ram Mandir Trust Appoints Retd Air Marshal Jeetendra Mishra As CEO, Names Three Trustees",
-  "publisher": "The Daily Jagran",
-  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUE8yTVYyeWN4TXJUeUJscTlFV3FXMnAtU0JCeFhKSzd1VTRUYXhMV1B6LVVxdzFLZ0RBWGg5U2ZieENST0VudDhtem9qWm44ZEVJTWhIWndoZm5EaFNrN2VNa0J2STNJc3h5VVFBSUMtaW1YY3NJZVdqS1EyMEFhQ3pYOVpnd1NrVnhNMDJJMExmeHYybUFJX2lHb0pTWV9Yemk0dHR0N3NZSHFybkRjaWFkSnZscHNtYmFmVVI3aXlyS09fVG9JS2hjYTB3OWtpZ0FMajZGem1PSE96QmhjNGRFVERhQQ?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "India Today",
-   "businessnewsthisweek.com",
-   "ABP Live English",
-   "Punjab Kesari English"
-  ]
  },
  {
   "person": "Sunil Singh",
@@ -12007,22 +12109,6 @@
   "also_reported_by": [
    "BW People"
   ]
- },
- {
-  "person": "Retd Air Marshal Jitendra Mishra",
-  "role": "CEO",
-  "company": "Shri Ram Janmbhoomi Teerth Kshetra Trust",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "Education",
-  "region": "India",
-  "date": "2026-09-02",
-  "headline": "Retd Air Marshal Jitendra Mishra Appointed Shri Ram Janmbhoomi Teerth Kshetra Trust CEO",
-  "publisher": "Free Press Journal",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU3BvNEJFeWF3TlZnWDdxM19uTG1tNzVzcHBTSkRBQ2tmNmwtM0d2UjE5UG1ZaGpqdE5Dc2haaXhxV0ZYY3FGSVRBX1h1cm1lX0RqU2liY0xqcWxyZGZuYk9iZ21IUy0wQjJpQmxNa29kbTBHWHpwOW1CWVBXd1VCOWxjYVBEYnR0Zm1BWFdQMVh3dFN4cGtsYkZUTXg5Wm1VVWRkMnl5OFAxOUpybjlaUkZSS2tmUVFJVzZEN2VEMDFoM1nSAcgBQVVfeXFMTWNLaTRpNjBNV2prV1BKT2lGR1VyaDFscVo5RGcyTDc0VjI5Q3JyeXprVW9ydDZDcV83WWdpdmRMZlBScWxxUkdJU0k0WlZSNUxVVXVvTXdqcTNqaWRDVmxsRGVyQk83Zkx4V1B2WFVWazJ4MWFUSlBXTElvSEpzSkdEMDJkNmJFaHh1QXFCZmtKS2lySENBVWVHUEIxbG9SeEhKSzczRXc1TnRYWnNra3J3UUdnendRZ1l5Rzc0YWlpUG1ZZ2gwNFA?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
  },
  {
   "person": "Jing Kuan Tan",
@@ -46076,6 +46162,24 @@
   "also_reported_by": []
  },
  {
+  "person": "Abhishek Gupta",
+  "role": "CFO",
+  "company": "Livspace",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-01-20",
+  "headline": "Livspace appoints Abhishek Gupta as Chief Financial Officer",
+  "publisher": "Exchange4Media",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXVZRVhKczNhazJuSm1RVVQ0RXFWWHY4YTFHWVJMbTlTM3hXUk5VdzBUeVctOEhxeDFYRThKOEZaV29DQURIT3J2ZHBZaEh0X2gxbVUwUGhobEU3LWNKNDhQYUVXLUNLenI5QjhoNnlUSjRHX3dLcUhLZGh6bTNPUUZHcUMtQkVEQ084eDFDRkJ5MTczSHBoTUh6TFhMbUNRZE5RdnZhYXBnY1JnU2FLaWRuRlFDRzlhR2Z6cU5RcV8?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "Indian Television Dot Com"
+  ]
+ },
+ {
   "person": "Sudip Singh",
   "role": "CEO & MD",
   "company": "ITC Infotech",
@@ -46156,24 +46260,6 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
- },
- {
-  "person": "Abhishek Gupta",
-  "role": "CFO",
-  "company": "Livspace",
-  "movement": "Appointment",
-  "role_group": "CFO",
-  "sector": "BFSI",
-  "region": "India",
-  "date": "2026-01-20",
-  "headline": "Livspace appoints Abhishek Gupta as Chief Financial Officer",
-  "publisher": "Exchange4Media",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXVZRVhKczNhazJuSm1RVVQ0RXFWWHY4YTFHWVJMbTlTM3hXUk5VdzBUeVctOEhxeDFYRThKOEZaV29DQURIT3J2ZHBZaEh0X2gxbVUwUGhobEU3LWNKNDhQYUVXLUNLenI5QjhoNnlUSjRHX3dLcUhLZGh6bTNPUUZHcUMtQkVEQ084eDFDRkJ5MTczSHBoTUh6TFhMbUNRZE5RdnZhYXBnY1JnU2FLaWRuRlFDRzlhR2Z6cU5RcV8?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "Indian Television Dot Com"
-  ]
  },
  {
   "person": "Priya Venkataraman",
@@ -47889,6 +47975,7 @@
    "Exchange4Media",
    "Deccan Chronicle",
    "open.kg",
+   "Citywire",
    "Yahoo Finance"
   ]
  },
