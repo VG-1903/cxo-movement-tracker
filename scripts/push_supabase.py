@@ -14,6 +14,7 @@ Consumers then query with the anon key, e.g.:
 import hashlib
 import json
 import os
+import re
 import sys
 import time
 import urllib.parse
@@ -96,30 +97,27 @@ def main():
                       f"— retry {attempt + 1}/3 in {2 ** attempt * 5}s")
                 time.sleep(2 ** attempt * 5)
 
-    sent, dropped = 0, False
+    # Drop only the optional column(s) the table really lacks. PostgREST names
+    # the missing column in PGRST204; dropping all three on any miss emptied
+    # moved_from for every row of a table that only lacked role_group.
+    sent, dropped = 0, set()
     for i in range(0, len(rows), BATCH):
-        batch = rows[i:i + BATCH]
-        if dropped:
-            batch = [{k: v for k, v in r.items() if k not in OPTIONAL_COLS} for r in batch]
-        try:
-            post(batch)
-        except urllib.error.HTTPError as e:
-            detail = e.read().decode("utf-8", "replace")[:500]
-            if e.code == 400 and "PGRST204" in detail and not dropped:
-                dropped = True
-                print(f"table lacks {OPTIONAL_COLS} — syncing without them. "
-                      "To store them, run in Supabase SQL Editor:\n"
-                      "  alter table public.moves add column if not exists moved_from text,"
-                      " add column if not exists moved_from_source text,"
-                      " add column if not exists role_group text;")
-                batch = [{k: v for k, v in r.items() if k not in OPTIONAL_COLS} for r in batch]
-                try:
-                    post(batch)
-                except urllib.error.HTTPError as e2:
-                    print(f"batch {i}: HTTP {e2.code} — "
-                          f"{e2.read().decode('utf-8', 'replace')[:300]}")
-                    sys.exit(1)
-            else:
+        while True:
+            batch = [{k: v for k, v in r.items() if k not in dropped}
+                     for r in rows[i:i + BATCH]]
+            try:
+                post(batch)
+                break
+            except urllib.error.HTTPError as e:
+                detail = e.read().decode("utf-8", "replace")[:500]
+                m = re.search(r"'(\w+)' column", detail)
+                col = m.group(1) if m else ""
+                if e.code == 400 and "PGRST204" in detail and col in OPTIONAL_COLS and col not in dropped:
+                    dropped.add(col)
+                    print(f"table lacks column '{col}' — syncing without it. To store it, "
+                          f"run in Supabase SQL Editor:\n"
+                          f"  alter table public.moves add column if not exists {col} text;")
+                    continue
                 print(f"batch {i}: HTTP {e.code} — {detail}")
                 if e.code == 404:
                     print("\nThe 'moves' table does not exist yet. Run supabase/schema.sql "
@@ -152,7 +150,7 @@ def main():
         urllib.request.urlopen(req, timeout=60).read()
     if stale:
         print(f"deleted {len(stale)} stale rows")
-    print("supabase sync complete" + (" (WITHOUT moved_from columns)" if dropped else ""))
+    print("supabase sync complete" + (f" (without column(s): {', '.join(sorted(dropped))})" if dropped else ""))
 
 
 if __name__ == "__main__":
