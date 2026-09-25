@@ -81,7 +81,9 @@
    "scanx.trade",
    "Business Today",
    "NewsBytes",
-   "Indian PSU"
+   "Indian PSU",
+   "zoomnews.in",
+   "Asia Insurance Post"
   ]
  },
  {
@@ -178,7 +180,9 @@
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbHZuX0k2Zm1LNkxjczVYRDZyRlJWVFJIZ19BOFIyYy1SNVpuOEdLdkttV3l4OHVBU0JRYmlvOUV2bTdPMU1lNFNUbGpjV3NtZ3c0cDlZTUQ3NFVCaVk1OHRDLVRaUFlsWVJZb1p6c2hHSkNvOHhSZEVqVElMNFZjdVAybUQ3djQyQ0V4NWRpc1pwQVQ0UnJNb1dXdTk0M2lIQ3R0MDItSUh0MFhoSzRTWGhMWnB3RmZsWXFsM0lKZFQtVkQ5Y0ZB?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "citybiz"
+  ]
  },
  {
   "person": "Dinest Pant",
@@ -274,7 +278,9 @@
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWZ5aHVjNXA3LUU2RkgzTDBLNlpqUmM4Q2k3QndhTzJnaXJ2bG9mRVFVa1RlUVZCcFJHaHlpbllhczBWZDVaOWNNanpQRWdKOF9zUS05QWF6YmUzOExzNnppVW1mTnJTaktGWTRrUnF2dUtOSGwyaXpBNWV2di03bnBKZ3BiZWdFdGJ2T1RSUFBRWWphSkJBU21n?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "dailymirror.lk"
+  ]
  },
  {
   "person": "Praveen Pai",
@@ -359,24 +365,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Nupur Shrivastava",
-  "role": "CHRO",
-  "company": "MiPhi Semiconductors",
-  "movement": "Appointment",
-  "role_group": "CHRO",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-09-25",
-  "headline": "MiPhi Semiconductors Appoints Nupur Shrivastava as CHRO",
-  "publisher": "hrtoday.in",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTWQwMV84NEZyWU9DRE9Cb1F0ejVsclFVNWRPd1hIMjhFQ01oRFU5UnNUSmVjSFdITWZjRzFJcUIyLVRXNE5vTkdsdnlUUWpiSzBOUTNUNmJ4NXIzRnV0bTN2elFlWEZFaUE4Vk9HdU1oZ2ExSUhXbE4wZkszWW1iSw?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "Passionate In Marketing"
-  ]
- },
- {
   "person": "Ram Ramanathan",
   "role": "Group Chief Financial Officer",
   "company": "Spiro",
@@ -388,6 +376,88 @@
   "headline": "Spiro Appoints Ram Ramanathan as Group Chief Financial Officer",
   "publisher": "Entrepreneur India",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPemt0ZzE5NXBrTEZzRU5HSUE2QXJ4d1pVRXBoMUtqMldwN21mTm1zYnRPTnVYZ3B1eG5MZHd4bUR6dkZPNUJjM2JYaUVUNllMMzZWbWdiYmZXaW5LYjhzVzR1Q0NiY2tvV3pZNUFzcElzSlY3WVdsaEJ2clNjWnFYZS1NZFN6eTFTQ183d1BDbTVNUk9mb0xrSEhieXd1ajdEUDlQdlN5X3BHX0lFNjU4Yk42MlZTZw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Abhishek Thakkar",
+  "role": "CFO",
+  "company": "Niyogin Fintech",
+  "movement": "Resignation",
+  "role_group": "CFO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-09-25",
+  "headline": "Niyogin Fintech CFO Abhishek Thakkar resigns effective Sep 25",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnU4OWRqbE42cGRwaXo5QTRObUliVGhFYWdhTWRHb3o5UEtTVklETE5Kc1FDTmN1bE5WdXZfNjJUdG83c01JTEFQTGRfN3ZCTEZnUkVNTzU2V0lGSWRwTzNuQW1nSldtb216SnY0VU9qR0xmcEV5dXVyejBfTGJZc3pMVUpkaDJuRUs2SmNuOXkyQzVyLXJiN2JVWkhDODgtUjJJTnhabzZZV3FETkhyWWNTSHhBeFdqVFE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "SPGPrints CFO Kortekaas",
+  "role": "Additional Director",
+  "company": "Stovec Industries",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "India",
+  "date": "2026-09-25",
+  "headline": "Stovec Industries appoints SPGPrints CFO Kortekaas as Additional Director",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS19KQ2JfOEE0U1l2RktRM3J5ekVUOWpzNEQtWXFRNmZaS3NaSXJTa2w3OFdxV1F5eHc5eTdybWlCYVptRW1qOWVVV0FGSXBxYU1CX1NyM2ZMd1RoYjdWVHh6ZVc0R0N2LXl0RFR4S0pkT1NmSXlkY2RBNDh4THg3bk8wQ3lZQ2NVVDdRaWN5bGVlWjBxSEtvSmFfT0JRcXdiaXAtdVJURENfLXJKazhncGZPakd6NDNlRkZzU1ZEQlNheUtwTEE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Onur Erzan",
+  "role": "CEO",
+  "company": "People moves",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-09-25",
+  "headline": "People moves: AllianceBernstein names Onur Erzan as next CEO",
+  "publisher": "InvestmentNews",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2tJeF9ycE00M1ZTaDZnWmFvbV8wXzZYNksxSml6YnJkVVpmMURaN3NLREZkN0treU81TUhWbnJPRzlXRDFMVXdTVTM0M1lNbERrLTVnU0xhNGRxQkFqRVFNbjFsMWNOdkl0aFdRRDhmUXBxOVV1UlRoX1ZWbzBBNmtrUVdRX2h6bXYxOG1PYWh6M1lkS1d3cVhDcjBGRDZEREFYNjR5MVA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Mark Lenhard",
+  "role": "President & CEO",
+  "company": "Parker Health Group",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-09-25",
+  "headline": "Parker Health Group Names Mark Lenhard as Next President & CEO",
+  "publisher": "Lelezard",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSXBHX3hQczlnVEZiR2lxTEJEdnBhb2dzXzlYRDJwbktETGdVNDVXbXFOT2QyRU4wUWFrd1VNUjhWWjNPZkVPTTN1MzF3WDViWjBCNUxSbzRiRWcwWFB6eFRKeXJFeU92S2hzMVl4cWN6RjJUeE91UDIwZHUwb2xKR25XN1YwbTJsN1ZPRUtNOV94R3ZFUkItMktvSnZTUXFtLXFkcVUzQ0FwWjg?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "TAPinto"
+  ]
+ },
+ {
+  "person": "Mandeep K Bhandari",
+  "role": "Chairman",
+  "company": "CBSE",
+  "movement": "Appointment",
+  "role_group": "Chairman",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-09-25",
+  "headline": "Mandeep K Bhandari Takes Over As New CBSE Chairperson",
+  "publisher": "news.abplive.com",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHdjUmVMREwzdTF6SGt6Mnp2a0lQS1RtQlp3a29KanRfS0xPT2JwOEdObXVMOHlMblhUa3lUczBIU0llakJYUmRKVDV0RHc0SnlwX0xWYUNiZTgxWDBwZzJpdUR6aEYyeHRzd1RvV29TbV9rSHN4TWlzZFh3RWdQa1htc2tjOHVFejA2b1U5cW9nMEk3a2RJcUN2cVfSAaIBQVVfeXFMTWdPV0Fjb3gwejVjVU1xTVE1bXByaFFYU2FfYXZqVmw3di12dWtOdmMtbWVsbEF1VTRQOFJIN1J6ZGdTTTR4V3VwZzQxc1dmYWJpa0E2VXREWFYwWVFCelhyNF96U0JCZm80UkFGcVYyWmctT19xX0ZtM0t2ODhBSkpLTGQ5Vnpvck5UYnNGVHRGOGZ2VFFSNHR0VlRmMVZudjZ3?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -969,6 +1039,73 @@
   "also_reported_by": []
  },
  {
+  "person": "Nupur Shrivastava",
+  "role": "CHRO",
+  "company": "MiPhi Semiconductors",
+  "movement": "Appointment",
+  "role_group": "CHRO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-09-24",
+  "headline": "MiPhi Semiconductors Appoints Nupur Shrivastava as CHRO",
+  "publisher": "hrtoday.in",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTWQwMV84NEZyWU9DRE9Cb1F0ejVsclFVNWRPd1hIMjhFQ01oRFU5UnNUSmVjSFdITWZjRzFJcUIyLVRXNE5vTkdsdnlUUWpiSzBOUTNUNmJ4NXIzRnV0bTN2elFlWEZFaUE4Vk9HdU1oZ2ExSUhXbE4wZkszWW1iSw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "Passionate In Marketing",
+   "People Matters - HR News"
+  ]
+ },
+ {
+  "person": "Tsewang Tharchin",
+  "role": "Director",
+  "company": "J&K Bank",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-09-24",
+  "headline": "J&K Bank appoints Tsewang Tharchin as Director; FY26 profit up 13.5%",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEtfS1FBaFZ3bHp4LUZPZEdGcmZYTkRMMDBxZ2QybkdValVvdWZBYWd2UHJTZmlBdmtwM0JXcnhtbFRicDNKUHZRWW9JUERfZVlKVFYycHJxbFZYTUJRN2wtQWZ6WFZOUUZMbzZKUTdodDB3ZjQxeld2THdScDRkbS1GeC1vN1djQzZIMTFqX0VZMGRVeWRwTXZOYUhReUhPNUhXbDd3Vkdvc2MtZng5NlUtMA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Frank Garofalo",
+  "role": "CEO",
+  "company": "President and",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-24",
+  "headline": "Frank Garofalo Appointed President and CEO",
+  "publisher": "theglobeandmail.com",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR1JJcVlkTkpyWU1wdmNWQ1lieDdMOHU4Wk1SSkpsWWZ0ZEc5YnEzOTBwRHVFLUdKeVZKQ1diQ182Z1k5cFJPTnkzYkgxVkxLTkVfR1dwLVh6eTVEaXViYnVpS2FTTG8wTEdiY2k2N1liXzJvRGhWeThMOUxZRmJFWk5sOTVqMkFaZVNoOWdhVGJTMk4zZHc2RnNFVEs5TmN4NEc4M1ZQSGNCSWg4UUdjOVBQc3RVTk5hV1RXOUh0UTQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Rahul Adakmol",
+  "role": "CEO",
+  "company": "Bliss GVS Pharma",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Pharma",
+  "region": "India",
+  "date": "2026-09-24",
+  "headline": "Bliss GVS Pharma appoints Rahul Adakmol as Chief Executive Officer",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU2hZdF9sRmp4NTVkRmpXdDRoem1WanA1U2dGSUhQanZ1c1dXNzZNcXExMm9UemQzNXh0WTdZOURxOC1UendtLWE2OTNfeDhjLXZZSDZKT1JwYUVldTJTN1NtWWwwd0c2Q1RkUDE3ZDc4ck1KX2ZkX3hURUhFOTVWZmg5SDNFeHVmbjQwR3ZPc25MbXE1bExPSnRCcW1RS0NVcEpmNERoTTNoT1QtLXR0Q3MxY3VCLU83RzJjaDFyVjM?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Bhalindra Singh",
   "role": "MD",
   "company": "Alvarez & Marsal",
@@ -1532,6 +1669,7 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
+   "Entrepreneur India",
    "tele.net.in"
   ]
  },
@@ -50488,6 +50626,7 @@
    "The Motley Fool",
    "The Eastern Herald",
    "The Financial Express",
+   "Rolling Out",
    "NST Online",
    "eNCA",
    "NPR",
