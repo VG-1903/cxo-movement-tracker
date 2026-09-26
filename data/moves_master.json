@@ -561,6 +561,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Rob Gehring",
+  "role": "President",
+  "company": "Coca-Cola Company",
+  "movement": "Appointment",
+  "role_group": "President",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-25",
+  "headline": "The Coca-Cola Company Names Rob Gehring President of North America Operating Unit",
+  "publisher": "investors.coca-colacompany.com",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONS1NRWVMRVJ2M19nbEJ2NWhDUy05c21BLTdrV3h3SEJXbzdiSVhscDF1VmpUVzZJdTBSRDdMNW8tWUZVU1Q5bFVVNEgzcThRaElnQmhFSVV5Nnh0VGZSdWg3UHd0X2E2MG92RDk0ODgyU2haYkRBVW15RWIwOXYyck1CQU9LWjFWaEZnem5JaFFKTE9BWWNKWnJYZ25JQVFzUFVia2tERHRHRUNkejZoN0xYZm9kcENKc09zOG5leHRfWi1YNXJDLXFid0ZKZUtEOUJ3NWR5UU0tdlNQNE1DN0Nzd2hMeHJwN21KcE84eFo?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Geeta Swamy",
   "role": "Dean",
   "company": "Boston University’s Chobanian & Avedisian School of Medicine",
@@ -1225,7 +1241,7 @@
  {
   "person": "Sudarshan Patodia",
   "role": "CFO & Group CFO",
-  "company": "Rainbow Children’s Medicare Ltd (NSE",
+  "company": "Movements. Rainbow Children’s Medicare",
   "movement": "Appointment",
   "role_group": "CFO",
   "sector": "Healthcare",
@@ -1238,6 +1254,7 @@
   "moved_from_source": "",
   "also_reported_by": [
    "Kalkine India",
+   "Medical Buyer",
    "scanx.trade",
    "MediaBrief",
    "cfo.economictimes.indiatimes.com"
