@@ -1,5 +1,39 @@
 [
  {
+  "person": "Eric Cantor",
+  "role": "President",
+  "company": "pharma trade group",
+  "movement": "Appointment",
+  "role_group": "President",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-09-30",
+  "headline": "Eric Cantor named new president of pharma trade group",
+  "publisher": "The Hill",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSDRNT3diSkFPaHF6YS1wQW5Qblk3dDFsQ2dFSHRSVFJYZjd6MmgxMkVzWFRPcE9SZGNKYjNPWjRCQXNKR014czZNQjdtZks2b2gzMEN5UmJlUlV0R254elYxRFphZndvS0gxMnNyQ290eGl1RGVQOWowOTNIMVh2UVpn0gGHAUFVX3lxTE92QXN0M1ZjZmhiS2Zyc2NHSUhuYjJCUlh6RENoMGFWc1NydkxXSFlTc0p1VjM4THhwMTFWT3daUFNTLWpmOC1HMDhVbk1DMWNKa2Iyekp2VmNJRXpROGg3UUlWVXpmcUFTUkRNRGdhSG5rdnlPSEFsVlZua0RhWTBYWlBTMzBQcw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Eric Cantor",
+  "role": "CEO",
+  "company": "PhRMA",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-09-29",
+  "headline": "PhRMA names former Majority Leader Eric Cantor as new CEO",
+  "publisher": "FirstWord",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CVFJiVEJhMk1BTkRhVVpjU3FicmlWTlpUek9EanRoNVN0aEl0R3NKaDlVNGVvdnVFZTlIYXFXWEJacGpCcDZxWF9GdHVrbFFNRWcw?oc=5",
+  "moved_from": "Majority",
+  "moved_from_source": "headline",
+  "also_reported_by": [
+   "firstwordpharma.com"
+  ]
+ },
+ {
   "person": "Akhil Gupta",
   "role": "Independent Chairperson",
   "company": "Coforge",
@@ -145,7 +179,9 @@
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSHo4LUlvSm1YZVBTdXZwcHVQUFc4OElqXzBXS0tXVTY3OU5lTURrd3NhNmpobl9XcHlES1FSQ3FpZFVHaWJfeVNKMUNfSE0wSEFzNVdBYWhUdUVMeWlsQ3NLbVV6NTdzMk1sYTNtbGhQeVliamVfUmJnVmpmcV9jUEhEcnJ1Vi1DSEdQeDgtUmE4a1VZSjNvQTVJSl9CbFAzQTV3bmhtQ1hSTDlydVpvajlpYWVqVG9iZi1sdEFGZw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "peoplematters.in"
+  ]
  },
  {
   "person": "Mitsuya Kishida",
@@ -675,22 +711,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Eric Cantor",
-  "role": "CEO",
-  "company": "PhRMA",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "Pharma",
-  "region": "Global",
-  "date": "2026-09-29",
-  "headline": "PhRMA names former Majority Leader Eric Cantor as new CEO",
-  "publisher": "FirstWord",
-  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CVFJiVEJhMk1BTkRhVVpjU3FicmlWTlpUek9EanRoNVN0aEl0R3NKaDlVNGVvdnVFZTlIYXFXWEJacGpCcDZxWF9GdHVrbFFNRWcw?oc=5",
-  "moved_from": "Majority",
-  "moved_from_source": "headline",
-  "also_reported_by": []
- },
- {
   "person": "Adam Kujath",
   "role": "CEO",
   "company": "GL Chemtec",
@@ -782,6 +802,38 @@
   "headline": "CA. V. Gopalakrishnan takes over as President of TAASI",
   "publisher": "The Covai Mail",
   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLW9PekhyVkNELUdhTmIyc0lqeU5CVjN6ajF6MHF0S0YzaGVqYnBSeWMyRDZvSE9sb1laeTlYWDBrQ0tva0NMTFNXTUYtakFDdDlXakxfc2JaYXlQNTZLZUdhMUV6ekVfSTlGZ3ZaSWxDQUdQdzNUdDh4NkZkSGRuMg?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Rod Centers",
+  "role": "CEO",
+  "company": "Quapaw Nation",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-29",
+  "headline": "Quapaw Nation names Rod Centers CEO of Pine Bluff’s Saracen Casino Resort",
+  "publisher": "The Arkansas Democrat-Gazette",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFhYcDNxbVNHQURhU1ZqMFlZblN1OFlDMkU3UWhjR0hFbUVGTUpJc0dTbmM3RUk2ZThpdmJBbDVENnlFVGpOUW5XaHVmTEExUTFaMUVFMkowZkV6ZDM5cnNLWmlyZmRBVjhXZFIxY1JQWDNkanFjSzNMRVF5T0lRRWZoLUNoR0JjamQ0NC13NGRVb011VE5V?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "IAS Ajay Bhadoo",
+  "role": "MD",
+  "company": "GMDC",
+  "movement": "Appointment",
+  "role_group": "MD",
+  "sector": "Corporate",
+  "region": "Global",
+  "date": "2026-09-29",
+  "headline": "GMDC Appoints IAS Ajay Bhadoo as Managing Director After Key Central Government Roles",
+  "publisher": "Indianmasterminds",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSFNFSzFpRW1mdjhqWVdwUjFjOElkT0ZjbEw0T2xFS1FDSHBGLTdWeENsZU5SRi0xbGVzc3pvYUJtOVdMZ0lfa09NeXZxeHpWYzliYndSaGd2Rl9rZEpDVDhUby1ldlJadXREMnNxMmd0X1dJclgwQ2VvcUpKd21ZSloxTjRNSS12Sm55QkpRLUVvRW01UWxxNFUyY3BEMlFn?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -3915,6 +3967,7 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
+   "peoplematters.in",
    "konsulteer.com",
    "hrtoday.in"
   ]
@@ -9759,7 +9812,9 @@
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbXNhNHdDRnU0bGF6YXhFUVd0Yjl4TjdGOWVWOWtpRld4UlNuNEdZMTFoS2I2YW5MeUFDQjJCWVFBSVduendlOTM2bDF3MlFfdGpxN3BXbHNER05VYkZMOVZkUVRQUjdwV2RwX1dSUHVTUDl0Z0Yza1FRVWFBXzhBQnh2NFNBLXd2d1JFdzd4M3FVOENuMXZjS1UxdjcweF95WGhCWlZlQUg2c2tQLXlRRmwzTEpLdw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "peoplematters.in"
+  ]
  },
  {
   "person": "Piyush Singh",
@@ -29057,6 +29112,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Rajkamal Tiwari",
+  "role": "Interim CEO",
+  "company": "Union Asset Management Company",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-08-11",
+  "headline": "Rajkamal Tiwari Named Interim CEO Of Union Asset Management Company",
+  "publisher": "BW People",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXRhbWMyMTMwUkdtS3haQThhd3BqNWhZUGZvUEJRMDRMSUloc1BQV0RzX1dhSUtpdDhWRjIzbnpaeW53Smk3bFJQZzhZSE1yZXFaTFNMNXdhVjFYNjQyaUYycklpQ3FrQmxLNE9TX215alh2U2Y3WDZBMnR3UDZNS0N0aUdqSUlpMjFlcEMzMFRpZmt1OHc5MVJhcDY2Y1ZwNE9TXzI0VWVkZw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Diane Zalewski",
   "role": "CEO",
   "company": "Healthcare Management Administrators",
@@ -31651,7 +31722,8 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "People Matters - HR News"
+   "People Matters - HR News",
+   "peoplematters.in"
   ]
  },
  {
@@ -32909,6 +32981,22 @@
   "headline": "Onida appoints Gunjan Srivastava CEO and MD in major leadership reshuffle - People Matters",
   "publisher": "People Matters - HR News",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTHh6S3d0Tmlkb0xCLUpabjFPdDUzcDlsaVRCenN3R1lpVDFrZVdua1ZjU3lfWFBiYUd1SE5QWTloYlNwTWtyQW9uRE5GYUlEYmdOVVgzaTBEMHo5NXhJRFRzNlZLV0I3ZXhxUGVWOGlONzV4b3Z6ckx6bkZSSjZzdXM0SzVGb0c5U0hweW9NQ3oyZUpUVUVpdUZWWTAyT2JRdjZFNmpXYjBTUGJYWnZESWQxTktfVXJrejJtNGhTejF4QQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Charles Guay",
+  "role": "President & CEO",
+  "company": "UV Insurance",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-07-09",
+  "headline": "Charles Guay named president and CEO of UV Insurance",
+  "publisher": "Investment Executive",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYXMybDE2V081ZC14SDVhQUhPM0x2U0tyQ3BCMXpsRmZCWWtsTmlZX2NBRlRoMHk3ZmdldDdlYThkTC10SFVGemFNVVdHNzZkZGFxejAyUUQwZHllU3Y4dy15VWtQZE0xeUpQNUh4dTBpd05nRkgwamZtM1VMaEFBQm1KZGlLWV9PdGJ0OC1VaTBqQmFpTWQ3ekhn?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -38655,7 +38743,9 @@
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVC0tLUhBWDhaeDRlblJDRnJmcjJYYXB5U1BFSU9JY1hrdFg4Tm03QzhMMjJIb0xWdm5uVUltcDVzQ0JndW55aUw1cTRKbnc2VnJPUDJzUXdCd1duNnZ2cEJXalZYNEc2LWlnYzA5aHBsQmNXYmFYaERuSFIwaVlHMFY1TlhuQzdmeFRXSXgtanFaaDdTZ01mUkZsX05DcG1UdkRCWTFRTXB1eHpfc3YwRg?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "peoplematters.in"
+  ]
  },
  {
   "person": "Vikas Gupta",
@@ -42360,7 +42450,9 @@
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTE8yMDRIaFRWVVB6dng4Q0R5Zi10WWV0SUZqNlZRZHRxdTBXcWJ3dld5bS1oaXBEMEhrXzZ1cG1CYVhyZnBSeTFuTUpyVkluSktremhkTksxbG1KOUFhV2ROV09SQlNWaTZTWVI2N19HcjNkX0Q3YXlzX0ZtREFQa3JFbEYwZ0d4MFpVWmNTR3lHWlEwLTVTaldYdnVOcXhyMGJRc1A4aFFKd0h4cEpkemVMOXFqRWc3eDUxdzJDOU9qb0VhSGc?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "peoplematters.in"
+  ]
  },
  {
   "person": "Faraz Zaidi",
