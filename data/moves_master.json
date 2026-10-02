@@ -370,7 +370,9 @@
    "India TV News",
    "latestly.com",
    "BW Marketing World",
-   "India.com"
+   "India.com",
+   "StoryBoard 18",
+   "AD HOC NEWS"
   ]
  },
  {
@@ -494,14 +496,17 @@
   "movement": "Appointment",
   "role_group": "MD",
   "sector": "Education",
-  "region": "Global",
+  "region": "India",
   "date": "2026-10-01",
   "headline": "Hindware appoints Shashvat Somany as Joint Managing Director",
   "publisher": "ETHRWorld.com",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT0FEZmViU0MwNjNxVFljcHhJNTFPVGd3LVRsRGZQMFQ0NnZEU3RIQXdRc2xEWXFBVlg1cElNOHlnNHFva3l0eXBTV0QtTEx5aEdvdTFLR2hKNHFEOGNubHdzQl8xR3FtTVYzSFJ4VlcwNzJTZEd1c0NIVEdZdUczMFJGYm15WWZxUEIxZ3c0ZFhVMFJMcF9ybThDRlduaVpvYjV0RG5kS01CWXd1ZlNzZlZMZjkwaFRCLVRBN1BKcXdpaVVQcGpR0gHHAUFVX3lxTE1PQURmZWJTQzA2M3FUWWNweEk1MU9UZ3ctVGxEZlAwVDQ2dkRTdEhBd1FzbERZcUFWWDVwSU04eWc0cW9reXR5cFNXRC1MTHloR291MUtHaEo0cUQ4Y25sd3NCXzFHcW1NVjNIUnhWVzA3MlNkR3VzQ0hUR1l1RzMwUkZibXlZZnFQQjFndzRkWFUwUkxwX3JtOENGV25pWm9iNXREbmRLTUJZd3VmU3NmVkxmOTBoVEItVEE3UEpxd2lpVVBwalE?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "medianews4u.com",
+   "Exchange4Media"
+  ]
  },
  {
   "person": "Zakaria Nabil",
@@ -787,6 +792,70 @@
   "headline": "K Anand joins Sony Pictures Networks India as National Head – Ad Sales, Tamil & Telugu",
   "publisher": "Exchange4Media",
   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX2ktRXpqVzRrVjYyNzhBTjlLZzJ0Q3l3TV80SG85c2RDSWV3OWpSUWgtb25ISDdtdG1DS3RuRkIwcUd1S0xKb0tqc19CX2ZEUEJ1T3VGcjFQNi1BbzZWaEV4Sm5BelNUT0h0NVNRWG9GalNmaElreFJEeXBXZVJlMnFWT05abWl6ZWtiSHpmd3M1bERtZTlQblVZWnR0M2RSSW1rNHBWbWVDMVAzdVpRX1Y4eURnYkpoTHd3Y0Nhd0lmMTA4ZjBFVXFqZHdHdFBCVThBX0ZIWlJ0dGkyU0E?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Mike Soutar",
+  "role": "Chancellor",
+  "company": "Abertay University",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-01",
+  "headline": "The Apprentice star Mike Soutar named new Chancellor of Abertay University",
+  "publisher": "Dundee Culture",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMThwQ2xxTkhjOVBTSlE2c0YxbVNPZkNtVUhyUENMQUduNGVyM09TM3RYYVhvdnF5Q0plUkdLNWZZb3N2T05iNjV3NndUaGp3aDAxYjQ2SWN3WVVNcURldlVTME1SZnVhWEpvY1FzOW9Hb21yRzdsTVA1R0tsa1BEMVdJaFJrcGJEVmpLVjVsUUFtRzJWM3JONk5lOHQ5LVBidXpwTjIzSVo1QlRPVHc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ian Flanagan",
+  "role": "CEO",
+  "company": "Munster statement",
+  "movement": "Resignation",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-01",
+  "headline": "Munster statement: CEO Ian Flanagan to step down",
+  "publisher": "Rugbypass.com",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUVFJZm9HME50NHpTN2xrYzlyekt3REZxTkxQT3RKcHFPUVNXVlZZSHo3WkktNV8yaWdIdVgyd2V5S2RZbFNpU3l5N0wzbGtoMEhaNGxxVDN1aFhZOHREeDJlZ1FpN3dGbE5TOEJZQmY1THhDS3REQWdOZlNvOWw3eVZUaw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Akhilesh Pathak",
+  "role": "Director",
+  "company": "POWERGRID",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Corporate",
+  "region": "Global",
+  "date": "2026-10-01",
+  "headline": "Akhilesh Pathak Takes Charge As POWERGRID Director",
+  "publisher": "Sarkaritel.com",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMdlYyTlZWUnBJOHlOYjZVVEU4UUllZVRnMmU5TnU4MnZiX1VSeFdjTGNyYVoyV25DbDgyUkJ5ZFZsbUZXeFNuaFR0Vk95UzYzNXJJUjkxdHFQa1ZFUk85N3dKdko4VWtCZTJsSnJWdjNZS3BoWWtNOWo5QQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Siddharth Purandare",
+  "role": "CEO",
+  "company": "Finkurve",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-01",
+  "headline": "Finkurve appoints Siddharth Purandare as CEO, shifts RTA",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMUhQRXNPd0ZHR0Y1VVZ6Z005dmd1TXEwVktNS0NuSUtmYTJpcmJIM2xUQkNhQWpQQ3NwNEJKNTluRlBnSGk5OTFqMUV4clB3WmRtMTktc2tRYm11eE12d2NuN3dpRXNIOGdYRkItN3kzMWVzRjg0SGJncm0yZ2xmZUxfZ1RVbTQxRWctQjdlWUFMeDF6aDJvNVZIMWZDM0FzcGxDLWlLSS1ZYkdOeFNDaXhFTDh1NG1pVmMzaVNB?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -1310,7 +1379,9 @@
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOVdBYUJ0eFNfSVk5d05MMm5rN3NiV3hYZDgtRnMwYWVHV21VOHZNVlB6VURPWXRONlY2SFhCenUwZVdvbHhCTXVJYmpVZmVvYXVSUVVlRmtOck5RWTZZeFNQTVJxWl83OHNFNDQzNUdwWHFYemNBN3dfMmQyNjBDTHdsTlJpbktRb3pnN3p5dTlKdk10WThYVUVyWE9tdHR1X0lFTWtSMlJXWUdnSjFJcw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "TradingView"
+  ]
  },
  {
   "person": "Harvey P. Weingarten",
@@ -16238,6 +16309,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Selena Shen",
+  "role": "Head",
+  "company": "Lead",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-09-08",
+  "headline": "Lead appoints Selena Shen as Head of Marketing and Communications",
+  "publisher": "KARV Tech Insider",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2s4WWR6TEtUOVVHWnV5aWU0UUp6RlllYkJwTVl2Yi1uU2pwT1J2eklnQkZLTEEya21yLUszRE5sTmlMSl9YODRPejc5TVlfal9vQnhGMHBfVzFNQXREY0ZQc1o1OWltM1JmQ1JZTkgxMEhneGJ3YnVsQU91NEZqRkJ6MUZ2RWlqRktFNmNHVFBScUNST0VtcGRDanBvMUgxQkpZcURCN0JadWMzem9Bbg?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Banker Manmohan Shetty",
   "role": "CFO",
   "company": "Utkarsh Small Finance Bank",
@@ -30519,7 +30606,8 @@
    "Upstox",
    "Open Magazine",
    "Hindustan Times",
-   "News18"
+   "News18",
+   "National Herald"
   ]
  },
  {
@@ -46524,7 +46612,8 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "The Business Standard"
+   "The Business Standard",
+   "The Financial Express"
   ]
  },
  {
