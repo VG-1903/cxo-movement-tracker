@@ -20,7 +20,8 @@
    "InsuranceNewsNet",
    "Business Today",
    "PSU Connect",
-   "Fortune India"
+   "Fortune India",
+   "Cafemutual"
   ]
  },
  {
@@ -188,7 +189,8 @@
   "also_reported_by": [
    "The New Indian Express",
    "NDTV Profit",
-   "Moneycontrol.com"
+   "Moneycontrol.com",
+   "BW Businessworld"
   ]
  },
  {
@@ -317,6 +319,54 @@
   "headline": "Sanjay Kumar Appointed MD and CEO of Petronet LNG, to Take Charge on May 13, 2027",
   "publisher": "Indian PSU",
   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IUC1naWNfSHhDeHZDc0hXNHVmSkJheVNQTGF3OWZtSXBwSkpLQldNaHdBTDE5ZVhPcEFxOUNUU3kydlctd0JRS0JCZmxKdWRGZWxSYVRKeExmZktHaHVzZDVsSm5wQQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "V. Krishnakumar",
+  "role": "CEO",
+  "company": "BE Biosol",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Pharma",
+  "region": "India",
+  "date": "2026-10-02",
+  "headline": "V. Krishnakumar Appointed Chief Executive Officer of BE Biosol",
+  "publisher": "hrtoday.in",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnp5QkdpNFo1MFp3UUI2TkYtODk4Q2tpUE9WNklkZnVMejRPTm5vc3R6eGwzeTNwQjZEc084MUxWclBwQlZCVXZ3QXl1MkhGOUNyNTF4bTR2cTVwSHVOazVvWkZWNV9xMXJDUGJNS0lNem5BLU5fcUdtTFo0MHdLZ3ZPRlFvbG5q?oc=5",
+  "moved_from": "Eris Lifesciences",
+  "moved_from_source": "cross-reference",
+  "also_reported_by": []
+ },
+ {
+  "person": "Sarah Washburn",
+  "role": "CEO",
+  "company": "McDowell Cornerstone",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-02",
+  "headline": "McDowell Cornerstone Names Sarah Washburn CEO",
+  "publisher": "CU Today",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZWx1dUpSbFJzNWlwT1NZTEwzZUZjZDM1VnYtdnliaHBiWTZySjFwSUtVbUZid2dFSW5WRnZUcmtSMW1GWTRQdHFSclRnRExkenVsM3hQMGZ3cm1JWkpzeVVSUkNFLTRwaGRJeGdSUDc4alUwUExnVzVxLU05bzZjQWgtYVlldTh2RUE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Lynn Chapman",
+  "role": "CFO",
+  "company": "AI/ML Innovations",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-02",
+  "headline": "AI/ML Innovations Names Lynn Chapman As CFO And Plans 7.7 Million-Share Debt Settlement",
+  "publisher": "pulse2.com",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2ZSRU11U2FIUUUxanJLeU1BU2UtanAyc1FHQ0tzMGJHSFJJQ2pwUEF1eTFvWUlRMjZLU0w5cU56ejJ5a0RCOGRPcGZfalJIaGFBSHVaU3lNTHE2bVVaQXZfcW1iSzVyaDJmeHZzcWN0STRVTUYxbWhLZ0JRZTQ2bFNpbEFVNlJEbkIwWUVTUFZQa1RtUEtEejVQRDZuQ0VHUDFmbnhPNVpPZTjSAbABQVVfeXFMTXNBZ1gtbUlkd1IyRzVqcm8xbHBkV0lkN1FyazdfaUI5VW84WVFRdFpubjY3cWE4QnNNSWhISTBUS0lQYUFsVXRmMnFpaG5ITmlUUmVPRTJMTUo2ZFhoWXhnTW9zMHRaaGRibWhuUWF5NmVHNEt4S3NWaXJNNDN0N1NSR1FqT1BBNzAtb3B5VXYxLXVVanBtaXBqcWxSVFM3ai1pTWV2eGZMNmdiZEh2NVQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -799,7 +849,8 @@
   "moved_from_source": "",
   "also_reported_by": [
    "Investing.com India",
-   "TradingView"
+   "TradingView",
+   "The Manila Times"
   ]
  },
  {
@@ -1281,6 +1332,38 @@
   "headline": "Credent Connect N Care appoints Sachin Sharma as Chief Financial Officer - People Matters",
   "publisher": "People Matters - HR News",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYy1PUEdZZTZKM25fOXhUYkVZeVdHTUxzd2NvOUpkOG9VVGdacVo0VTdDZWlGelVBWTdFU0xIRW5jenNhU1BnemhjYlVHSnhHc1pqVGhfbElJUUp2Q09kaFo0aGlrRmxvcjFOb0NycFpkb2hwZkFPbzFhT3hvcGhWV2VoWjV0UEVtQ29BSFk2TThVcjlMeENlNWV4UkFUZnJodkxTRTVaRGN6Q1lkUnVJ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Christoph Koenen",
+  "role": "CMO",
+  "company": "Bayer",
+  "movement": "Appointment",
+  "role_group": "CMO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-10-01",
+  "headline": "Bayer names Christoph Koenen as its new CMO",
+  "publisher": "pharmaphorum",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhVXJkR2ZoeHB5RURpUkV5U0RaUU16RmZYS0hBZXZpd1pQR24xSTAzdC01YU9JRDItSkM3Q2VFaEsyTVNyel8tWjVreDB0X0I4ZERNcjZhYURHc1lQZXNBdm5YaFExMFdxRGdCbjBZWUtvOW9NTGVBU3Zn?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Keith Grady Incoming",
+  "role": "CEO",
+  "company": "Kendal at Hanover",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-01",
+  "headline": "Kendal at Hanover Names Keith Grady Incoming CEO",
+  "publisher": "Senior Living News",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUJhNUZJcHNTQVlMOUh3RlJsak5mXzhGMlFRM2lscWFJcDI1T2dtcmt5azlJZVRfLXNveVdoalMxbTZZXzZISVpGd2IzRHBLdUt6R3FaMU5veXY2Z1B6TjlRM0h0ODhxMjdHYXVyaTRLNXdOX2luZnhQcVRRbjgtcy11dGZON2kxeVE?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -1948,7 +2031,8 @@
   "also_reported_by": [
    "firstwordpharma.com",
    "Florida Politics",
-   "citybiz"
+   "citybiz",
+   "BioBuzz"
   ]
  },
  {
@@ -13360,6 +13444,22 @@
   "also_reported_by": []
  },
  {
+  "person": "V Krishnakumar",
+  "role": "COO",
+  "company": "Eris Lifesciences",
+  "movement": "Resignation",
+  "role_group": "COO",
+  "sector": "Healthcare",
+  "region": "India",
+  "date": "2026-09-11",
+  "headline": "Eris Lifesciences COO V Krishnakumar steps down, set to join Biological E",
+  "publisher": "Moneycontrol.com",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVURxWkt0QmlzNG12ZEJLWVhZUGtDSzFOeWJJM0YwMENrRE9rRFVScVhONjd2bFNVNFJhbGtjS0ZLQTdTQ1lESnczNUlFcFdTRGtzS2RicFNVdW1SOGZCMlRGazRqLUx6WFhVeGJ6M1g1NGdtNnFvRjdqZDJScjRZbmpWR0pOWHRHaFpfNlFZX2ZucktrTkRsTDJteFN4ZTVTN2JBNG9EOWUwY0dGN2FzcG9BMjhXTm5ocFhfcDBPbWNQUXAxa3NSStIBzgFBVV95cUxQNERnRTlXR2wzRkJ0eUluMUtxZWs0NE5xYk1qRWhET0V6N1ZwWWNBUzlDaVVuYWhpNWNGVURYY1RHeWxLYzNnaG1tY2FWUzM5VzdRcjlMUzNaWFB6bDlWV096LUtrdTNrREFldHNaakYwWC1fanJIaC1vbmtMX0JKOE12R0E4aGJkRjkxdG9RZ3J4bWcwblhObFgzQ0VITjJTbW95XzRwN0lyTEpRMWc1cUI3Smc1bnJabkpoVVRrdllCeDB3T3FjU3QyUlNDdw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Samir Singh",
   "role": "Director",
   "company": "Ford Motor Company",
@@ -13959,22 +14059,6 @@
   "headline": "Ananda Devices Names Keith Olson CEO as Company Plans U.S. Expansion",
   "publisher": "citybiz",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPclZOSEZsdFRZb3ZUaWxlZk5sb3daNFVtdF9QRGlqbVFoMURyNUJHQ3V4Rkw0TVpJRE04aDJ3VDBNRjYxak1HNkcxeFk1Z2R3WEgtMWtpS0dMZVBPbVBrOW9oUjNXS0gwSXhnS1ZzRVoyWXoyMUJRRnRhUHFhVlpmX290WGs3WFNJUW9fbnVodTJiRllVa2kwVDlxVEV6S2Z1T2laanZsMEItUQ?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
-  "person": "V Krishnakumar",
-  "role": "COO",
-  "company": "Eris Lifesciences",
-  "movement": "Resignation",
-  "role_group": "COO",
-  "sector": "Healthcare",
-  "region": "India",
-  "date": "2026-09-11",
-  "headline": "Eris Lifesciences COO V Krishnakumar steps down, set to join Biological E",
-  "publisher": "Moneycontrol.com",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVURxWkt0QmlzNG12ZEJLWVhZUGtDSzFOeWJJM0YwMENrRE9rRFVScVhONjd2bFNVNFJhbGtjS0ZLQTdTQ1lESnczNUlFcFdTRGtzS2RicFNVdW1SOGZCMlRGazRqLUx6WFhVeGJ6M1g1NGdtNnFvRjdqZDJScjRZbmpWR0pOWHRHaFpfNlFZX2ZucktrTkRsTDJteFN4ZTVTN2JBNG9EOWUwY0dGN2FzcG9BMjhXTm5ocFhfcDBPbWNQUXAxa3NSStIBzgFBVV95cUxQNERnRTlXR2wzRkJ0eUluMUtxZWs0NE5xYk1qRWhET0V6N1ZwWWNBUzlDaVVuYWhpNWNGVURYY1RHeWxLYzNnaG1tY2FWUzM5VzdRcjlMUzNaWFB6bDlWV096LUtrdTNrREFldHNaakYwWC1fanJIaC1vbmtMX0JKOE12R0E4aGJkRjkxdG9RZ3J4bWcwblhObFgzQ0VITjJTbW95XzRwN0lyTEpRMWc1cUI3Smc1bnJabkpoVVRrdllCeDB3T3FjU3QyUlNDdw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
