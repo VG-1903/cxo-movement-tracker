@@ -1,5 +1,71 @@
 [
  {
+  "person": "Professor Dr. Waseem Qazi",
+  "role": "Vice Chancellor",
+  "company": "Karachi University",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-03",
+  "headline": "Professor Dr. Waseem Qazi appointed VC of Karachi University",
+  "publisher": "ARYnews.tv",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMVhTTllUNG9HR3pqeERlYUpLcHF0bHBBX296bldqS1VqOFZrUUpOckxsSXNQeDNHc0c0czU2a3N6Q0xobWExTkNVV3lzTWpBY3VtdlZXSzJjR3hwSnlUVXczcmZBRU5TclViMnRNVkxDSkw2TjViLUhWNDk2UmJhalgtS2h2QQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "Bloom Pakistan"
+  ]
+ },
+ {
+  "person": "Neeti Sarkar",
+  "role": "Director",
+  "company": "RVNL Finance",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-10-03",
+  "headline": "Neeti Sarkar Takes Charge As RVNL Finance Director",
+  "publisher": "tradingview.com",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUg4Vm11ZjVDdXRReUJzaXV0MTNnTDQ3SHZmQjl5ZWtUQXVLQWp0NkhVaWNJSmxocUZIblRyTFM4a1ViMFFSbnBNTzNJdTV1VFBPbGNjWkV0dktyczBJWDRjT1JCNm5zYzRXcmpScF8xU1k5emg2RlNDY2pPa0RsUDM3QjRmeVl1dkZaOUhORjJfX29CN1NDX0VqMnJuSVZZd09MWmticmxpQlk?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Per Narvinger",
+  "role": "President & CEO",
+  "company": "Ericsson",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-03",
+  "headline": "Per Narvinger Takes Over as President and CEO of Ericsson",
+  "publisher": "hrtoday.in",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlJTWXpTS0wtQ0NEUGZTVlNBYUhPZ0JEc0o1R1ZnWU1tUm9KUjI4SFVIa1FrcW5IblJ3dmk2UElBUU9URlZNYmNQVFFIdXVFRkdHckxkYlNNUUI3djY1ZnVMcE13NXh2YXJxX0tvMVJ5QkVrQngyOFVkVG5NNVBfOEFoMA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Sudhakar Malli",
+  "role": "Executive Director",
+  "company": "Reserve Bank of India",
+  "movement": "Promotion",
+  "role_group": "Board & Directors",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-10-03",
+  "headline": "Reserve Bank of India elevates Sudhakar Malli as Executive Director",
+  "publisher": "Mid-Day",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObGhCY0lJQkhOemxhNE12S01RMEx2Rm9SbVdqdkczZjBYT0NrTGl4UTl0MzhVWFlTWmtWckVEbDY0NW80MzZLQ0FzMko4amlYcDJ0WENzaG83VXhqUWs0MGFZZ0JSNHlTOU1DbExzQ3AyM1NDTkVTdkZHdWw1b2VadDNyeEZOcnN6TDhtQUdoeHN1V253MUNRNnFFU29zazF5ajItTVRXX1Awd0JWR3ktYjdDZ3NtZm9ZNEs0NFg4VFZBei1QT2JkNk5XTGbSAdIBQVVfeXFMT3Vod3pQdkU5ajZ2NG1yODBkMzNNaDlqSG5DQW8xckFBRWNyTmZOMWpnUWVPQUY0R0xGX2oydXlOcjZ2MTFoNnBZUmc1clZqZWl2VjJrbVRESzNrUlRNN091TmJrem1BZGF6QlN2amZzcFhoWmZXeUJBNllRZm9TcU5Ka2FfN21Uc0RfQmUwT3I1aFB0Q0hjc2dEQ21qOVVra2c1bmxHbVEtajBwdjlIRlFKR29RMjFvS081Y3BUcm1KX1d6cFJEcC1kT2JkbFZMZ3dR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Anup Bagchi",
   "role": "MD & CEO",
   "company": "ICICI Life Insurance",
@@ -36,10 +102,13 @@
    "Livemint",
    "Business Standard",
    "InsuranceNewsNet",
+   "whispersinthecorridors.net",
    "Business Today",
    "PSU Connect",
    "Fortune India",
-   "Cafemutual"
+   "Telegraph India",
+   "Cafemutual",
+   "Mid-Day"
   ]
  },
  {
@@ -209,7 +278,8 @@
    "LinkedIn",
    "NDTV Profit",
    "Moneycontrol.com",
-   "BW Businessworld"
+   "BW Businessworld",
+   "tradingview.com"
   ]
  },
  {
@@ -391,6 +461,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Gena Biertzer",
+  "role": "CEO",
+  "company": "fair park",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-02",
+  "headline": "Gena Biertzer appointed as next fair park CEO",
+  "publisher": "Greater Milwaukee Today",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZmxaaUdjMFZvbVI4RFRPS0hxTU1YZDNLeURjbjRBSUhmeXpUVE9iRVZ6VGVBRVNXNmtuVkp2OWtUelYzcl9zR3UxYVdtaU80am5xYjd0ZGk3NWkxUEdwa1RzZWtmS1JpUmJCN2d6TzZmQmFhanRXR3dBV2J4MW4tWTM5V2xkLVZaYXJNQWdVS2JNb1ctWXlHbWxpaUdTbmlIdGNiRVFsdHV4LV9GVk9CaXR6TGtUYzlsM0t4a2hkckJwT1gzWDhaV0loemlwLWJ5?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "ICICI Pru's Anup Bagchi",
   "role": "MD & CEO",
   "company": "HDFC Bank",
@@ -399,9 +485,9 @@
   "sector": "BFSI",
   "region": "India",
   "date": "2026-10-01",
-  "headline": "Anup Bagchi appointed as new MD&CEO of HDFC Bank for 3 yrs",
-  "publisher": "Asia Insurance Post",
-  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRcWdMTXpaN2RHaGVlUDZnQUVfN1R4b3BCSWhBYWpqalNHY0tMZV85OUFLZk5LcnR3YzN0eFRRLUltOTZlc1gwb1B3aXJ3aU81UEhiTXVfVQ?oc=5",
+  "headline": "Anup Bagchi Appointed MD and CEO of HDFC Bank for Three-Year Term",
+  "publisher": "CXO Digitalpulse",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVk8wYkVLSUs5bnZnQVlEdmRWU255dzNYbkFJSHBnWTBoeFZsaVpmalNjeGYzS3JVLU41NFhUWkhhdm1SajlPNVFCc01lc2J2bmhLeC1KTVM2Y0IwTTNwY2lsZ2trZ1lWSUpJRjBxa1g2dkhkc0hIbGZwamRSM2EyOGFmaFY4d0xYT3A3LXJDSUxnMUVweHhzR1BVOGZZT0E?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
@@ -429,7 +515,9 @@
    "Indian Television Dot Com",
    "hrtoday.in",
    "Adgully.com",
-   "Bhaskar English"
+   "Bhaskar English",
+   "Magzter",
+   "Asia Insurance Post"
   ]
  },
  {
@@ -906,7 +994,8 @@
   "moved_from_source": "",
   "also_reported_by": [
    "medianews4u.com",
-   "Exchange4Media"
+   "Exchange4Media",
+   "Realty Plus Magazine"
   ]
  },
  {
@@ -1403,6 +1492,38 @@
   "headline": "UK: PK Consumer Health appoints Neil Lister as CEO",
   "publisher": "investorsinhealthcare.com",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObVJzdzhQRWdyMXc4S3ladE5BVmJoTWtEU0JQOHdOMWEtOUhVOXE2dHhsd19VUzR1UUZmVUhOc3ZRbzFKbENFYUZGRFR1Zk1iQkZXek0wVW55Y2pGcmliYk1fVUQxQnZVSnoxMU5YV1JtVUFuV2ZmaXR5eFItZFpPNk8zSDI3aFFXUldZc2c5N0szSWtENVRtbmwybE5Pcld3QjcyRm9wcXNIdGIxOVc5UA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ganesh Balakrishnan",
+  "role": "CBO",
+  "company": "Anthea Pharma",
+  "movement": "Appointment",
+  "role_group": "Other C-suite",
+  "sector": "Pharma",
+  "region": "India",
+  "date": "2026-10-01",
+  "headline": "Ganesh Balakrishnan Joins Anthea Pharma as Chief Business Officer",
+  "publisher": "hrtoday.in",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjZDSXB6M2pjeGRkZ0p4YXVKNTNuOHREN3FQWldGUEQzRVpXd2oxbHZ6MnNQV0NiMHdSLVBET01TRFctbDRXaF84RE5Lb0hoQWY0RndqTEhwRzV3RFNjc0daLUVlak0ydlBZN1JJYjE4NzVOSHZmUDY0bHFqcnNaREZYNVJXT256anRmeVdB?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ashish Joshi",
+  "role": "Head",
+  "company": "Rich",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-01",
+  "headline": "Rich’s names Ashish Joshi Head - Sales & Marketing",
+  "publisher": "Exchange4Media",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZE1yTGxYdDFhUE9ueXM2NGZNNzlySU5udXJCVXNXQ3hUc0JBNFI0Zlk5QW1hV0lnN2p1QVJsVmdQT2xXeFJ5bUw2QWJhNUhxTWVibVNNOG5YZlFCMS02ME84OE1EMS1UQXBMcUJUczhWUUlpa2V6U3k1WkhlVXhXZC1uQ3dyekszU2VISlVXak9CbXgtTHBiRm5xY0E4Mkpxd3JkZjRlQWVfM05lc1E?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
