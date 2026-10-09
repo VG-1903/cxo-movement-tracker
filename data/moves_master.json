@@ -1,5 +1,21 @@
 [
  {
+  "person": "Tyler Turnbull",
+  "role": "CEO",
+  "company": "WPP",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-09",
+  "headline": "WPP appoints Tyler Turnbull as CEO of WPP Creative",
+  "publisher": "Adgully.com",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY2w0c0MtWS1iN2F2aURXVzZoTExDSGM0RDJfa2ZsS2xjeXJUZUxIYlAtbDRVejlNS1J1ZWd1dzM4RWJSV3l5cWY3WnVYMG85dVpSV1pYM3RNOWZZd2dzVVpJU2t5SGJaZ2NYZktuS2VpaURfODBoU0N4R3RpTE9YaWs5R1hsNUJGdXR2SkJR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Bin Shen",
   "role": "CEO & CFO",
   "company": "Mynd.ai",
@@ -229,7 +245,8 @@
   "moved_from_source": "",
   "also_reported_by": [
    "Autocar Professional",
-   "BW Marketing World"
+   "BW Marketing World",
+   "Exchange4Media"
   ]
  },
  {
@@ -282,7 +299,8 @@
   "moved_from_source": "",
   "also_reported_by": [
    "ET Manufacturing",
-   "businessnewsthisweek.com"
+   "businessnewsthisweek.com",
+   "Motorindia"
   ]
  },
  {
@@ -393,6 +411,38 @@
   "headline": "Tata Consumer Products appoints Dabur's Virat Khanna as Vice President, Marketing and Innovation, Beverages",
   "publisher": "BMI",
   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNb0hmamRPQVhVNzJwRmsxZE1MZFhyOXdnT3NPYmdJbEhEOEJOUXdYbUItYkY2clowYzNzaHlQTlhQZjk0aTdJQzltTS1xOVo4ZWw1MkM1dEY2aEhlTVlUdndybkNDWUJfNGhGRGs2QUVwXzREa3gyQ2Y1aUNwYnNlaEpiaW1xOXU4UEI3MXpvNi1MU2QzUjIwT3Q2VllvWWhTMDNyZ05HcU1VVzFKV0hoNGpaWFNiSU1EVi1RWl84UkI0QlJ4YlhVdENGbFFjcFhRQTJrZEhVdFlYWkgwc2tTVWtYZE5hRzFCSnRhaF9YT2w0eHdleW5TZzcwR0twQdIB_gFBVV95cUxNb0hmamRPQVhVNzJwRmsxZE1MZFhyOXdnT3NPYmdJbEhEOEJOUXdYbUItYkY2clowYzNzaHlQTlhQZjk0aTdJQzltTS1xOVo4ZWw1MkM1dEY2aEhlTVlUdndybkNDWUJfNGhGRGs2QUVwXzREa3gyQ2Y1aUNwYnNlaEpiaW1xOXU4UEI3MXpvNi1MU2QzUjIwT3Q2VllvWWhTMDNyZ05HcU1VVzFKV0hoNGpaWFNiSU1EVi1RWl84UkI0QlJ4YlhVdENGbFFjcFhRQTJrZEhVdFlYWkgwc2tTVWtYZE5hRzFCSnRhaF9YT2w0eHdleW5TZzcwR0twQQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Mary Deleary",
+  "role": "Director",
+  "company": "IAIA Museum of Contemporary Native Arts",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-08",
+  "headline": "Mary Deleary Named Director of IAIA Museum of Contemporary Native Arts",
+  "publisher": "Hyperallergic",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZG5LWDJ2NE9qTjFtNW1tSm9obGM0OWc4QWVCdjhIeXlBX291bUo1ZXdfZXFlNi1ha2xhY0RYWlFOOFdqaERobmcwYnVPQXl1TGdTRjFyVFg0cE9OMmxpSkRwbnNoa0FTa1RlbDZvQ3lObk1mT0ZwcmtiTGRRM201TjNDZjBVa1c5ZnFPSVJyWHpwTmxnNjdrSEJfc0dUdw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Leo Pareja",
+  "role": "CEO",
+  "company": "AGNT",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-10-08",
+  "headline": "AGNT Names Leo Pareja as CEO; Glenn Sanford Steps Down Effective October 8, 2026",
+  "publisher": "Kalkine Media",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFFWUnN4S2ZKNHdjUV9iTGxzZDBjNzhxZ01YS19QUFBrUzJib0JIWGUxYW90YkVrcjMzcnFHM2k3bWplZ0JPYXVuRmY3b0lVTUdZRldQa2pqSGVnNm9XS0FzYUhTQlpTa1RTbnZwTlNxU0JpVG1pcTdCNklTQkJZOE8yRUpUdjl2cmtWNENkclNHcTc0aWc1UUJVd2NjM0JKQ0pLWmVCeDJoWW5kUS1yWk5aZ0d0cDc2UzRKUXU4X0FEcEk?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -987,6 +1037,22 @@
   "headline": "Leadership change: Isabelle Lentz steps down as CEO of Munhowen",
   "publisher": "RTL Today",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMTkzTDJxN1g2M3Q4R0ZQWENrT3A5XzRjZ3pMemxibEI5Nm5uX0dqWHlEaC1za2Q4aFdaX0FJdjgtMU9sUmFxU2hVckJmNS1IWWd2eHdaNll3cHVxX01yT0Mzb19RQlQwekQ3VFhMenJVOVI5a0hLWE05QnRUX0NjaFdwV3d0UV9KVjY1ZnE4RTcwM0NMU1E?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Leo Puri",
+  "role": "MD",
+  "company": "UTI Mutual Fund",
+  "movement": "Resignation",
+  "role_group": "MD",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-10-07",
+  "headline": "Leo Puri steps down as UTI Mutual Fund Managing Director",
+  "publisher": "Elets BFSI",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHp4TFpDUmV3c0diSzFIS2xEWWZRa1lxRVRXaU5jOEViYVk5ZXpwWC10Yk9qd2hpNnd4YTVGRVh5V21SbVdHbU85MmNObkpwbi1DY3FWQklqNXczRE1md3hHOFVXME11QXllWlcxZlhZRUEweFBkVVZsVWM5R2lib3o2RGNwQ0M3SHlmNVRQVQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -20983,6 +21049,26 @@
   "also_reported_by": []
  },
  {
+  "person": "Leo Puri",
+  "role": "Chairman",
+  "company": "Asian Paints",
+  "movement": "Appointment",
+  "role_group": "Chairman",
+  "sector": "Education",
+  "region": "India",
+  "date": "2026-09-07",
+  "headline": "Asian Paints appoints Leo Puri as Chairman",
+  "publisher": "ET Manufacturing",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU25UMkpuX2x2WWVqRXpwRmROOUpjcHpOTHU0NnNQbG9BN1dkT3RXR2xWaGtKQ04xam84dzdEbUVaZ3NiaFpCS0RuV3MxdWxnenpsYUgtN1pKRXFjVk1YdHlXTjRCcHdLTDVUNnY4eFdMbEk2NUdMM2duT18tRkxDYlpyYmF3TUJVSC00Z0FsTU9mekM2N2Rha2lJMVlfSXBUOV9lTmZSZXd0aW9vdllOWnJWX3ZEN1BiWFHSAb8BQVVfeXFMTTFyVUJXVHF5YmVQSWNlSUV1ZEVFd2Y2YURRSGctRzV2OEJfLVNhU2V2bGFfNlVsM3p5cjd5bGdRQmJ0LURpaUljcWxZbV9FNHU1M0x0RlF2SnFPQ0gwSzNsQkF0UHRsaW1BWDNjOXFtQ2xaeVdTWTRpNWx6QUZXR0Z1Rk1qeWZsNnBxZnVoSUxOX0dfMl9waFdGQ1dqSnlGVVROQmhkM3VyMzBiWGF2dy1WMm9nSGdMRGs0TWRMZDg?oc=5",
+  "moved_from": "JPMorgan",
+  "moved_from_source": "headline",
+  "also_reported_by": [
+   "The New Indian Express",
+   "NDTV Profit",
+   "Free Press Journal"
+  ]
+ },
+ {
   "person": "Banker Manmohan Shetty",
   "role": "CFO",
   "company": "Utkarsh Small Finance Bank",
@@ -21104,26 +21190,6 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
- },
- {
-  "person": "Leo Puri",
-  "role": "Chairman",
-  "company": "Asian Paints",
-  "movement": "Appointment",
-  "role_group": "Chairman",
-  "sector": "Education",
-  "region": "India",
-  "date": "2026-09-07",
-  "headline": "Asian Paints appoints Leo Puri as Chairman",
-  "publisher": "ET Manufacturing",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU25UMkpuX2x2WWVqRXpwRmROOUpjcHpOTHU0NnNQbG9BN1dkT3RXR2xWaGtKQ04xam84dzdEbUVaZ3NiaFpCS0RuV3MxdWxnenpsYUgtN1pKRXFjVk1YdHlXTjRCcHdLTDVUNnY4eFdMbEk2NUdMM2duT18tRkxDYlpyYmF3TUJVSC00Z0FsTU9mekM2N2Rha2lJMVlfSXBUOV9lTmZSZXd0aW9vdllOWnJWX3ZEN1BiWFHSAb8BQVVfeXFMTTFyVUJXVHF5YmVQSWNlSUV1ZEVFd2Y2YURRSGctRzV2OEJfLVNhU2V2bGFfNlVsM3p5cjd5bGdRQmJ0LURpaUljcWxZbV9FNHU1M0x0RlF2SnFPQ0gwSzNsQkF0UHRsaW1BWDNjOXFtQ2xaeVdTWTRpNWx6QUZXR0Z1Rk1qeWZsNnBxZnVoSUxOX0dfMl9waFdGQ1dqSnlGVVROQmhkM3VyMzBiWGF2dy1WMm9nSGdMRGs0TWRMZDg?oc=5",
-  "moved_from": "JPMorgan",
-  "moved_from_source": "headline",
-  "also_reported_by": [
-   "The New Indian Express",
-   "NDTV Profit",
-   "Free Press Journal"
-  ]
  },
  {
   "person": "Robert Kibor",
