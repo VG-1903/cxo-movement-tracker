@@ -75,10 +75,11 @@
   "headline": "Beckman Coulter Diagnostics names Catherine Jennings president By Investing.com",
   "publisher": "Investing.com India",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFZHcEtHM0ZLblJXVlhRMHBabE5sMHNYT19ZQjJyTC1ZMzIwOGIySGJBTUY2UFIxQ2NKT2NWSm9MZ0NrSDdGV1A0X1htV0lMb25icEFrVWhZM3BhbmRBNmF0b0dTdFNYdldmd0pnd0U1amo5NEdEeEZPT3BTcUkyUWFjSThZbWRDdHJDNmNfOUpGUkJhOWhQd2lmQmxISm11TDNobGVOOVNYb3YxbW5JOGVSUlM1S19DUnJVaTUwems?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
+  "moved_from": "Boston Scientific",
+  "moved_from_source": "headline",
   "also_reported_by": [
-   "PR Newswire"
+   "PR Newswire",
+   "citybiz"
   ]
  },
  {
@@ -143,7 +144,9 @@
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQVdsYm1hTDlKQnEzZFBwQl84bnZ1MG5yVWVsLTR6OVB6dUpIRTc0NGxmVm1zY0ZfSGtRNFhhbjI0SkU4S25jYkF3SGpvNDdwMEk1OUd3RGNfOTdNU2tpZ0J4QWF4YTl1ZEhfZy1GMWtJTHVGUk9pQU5lMVZOOE44UXQyelNlV1ZrWWR3OEw1bVExNjNDVjRJdmZiOV83OV9mbXRJRHNfNE8yenFlY29EdHl6elE0ZWFHbWdzZXJOZXhvY0RXb29Sbw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "BW Marketing World"
+  ]
  },
  {
   "person": "Varun Mitra",
@@ -164,7 +167,7 @@
  {
   "person": "Andrew Hodson",
   "role": "CFO",
-  "company": "PharmaCorp",
+  "company": "PharmaCorp Rx",
   "movement": "Appointment",
   "role_group": "CFO",
   "sector": "Corporate",
@@ -175,7 +178,9 @@
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHlVSmJnaldVT3NCR1RfZFM2R3UyeERDMXY5M3RIUThVVHZsbEEzQ1MycVpuWXg0cXR4d2RuZGFfMlpoRlFrdE5oUUpPbEZ3V2NYam5wZ2JZeHg0VWoxQjVDaTFYMzVhdTQ2dmIySkE2NGVKQl9LMVJQSDE5RnQ0Qm1LSm9yTXBqRThGX20yVnF4dUctRlk2UUw3cm5GMFRaM0lSX3BCazM?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Yahoo Finance"
+  ]
  },
  {
   "person": "Vijay Pasupathy",
@@ -209,7 +214,9 @@
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1JuWkpJTXJxMDdsSzNhcklGNWVXSVBLNDBVS1dPenJTN0ZiWkFqZ0JaS0xzTEM4MGhxVER2b2dBSGFLNnN3S1lZR2pNcjd0c2l6eE5DTnRENERkUDRaaFBLMnhSLXNvUkhGdUZ1M21IbXhRNUR0Y01kUlBHdTRBeWpBaTdRblVLZHpHM2dfT1dyeF9uYThVRFVpNjhiaGtZRy10RkJfSjhGWVlsNFc5VHNYRUd6b0k?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "NewsBytes"
+  ]
  },
  {
   "person": "Sivanag Vasireddy",
@@ -239,6 +246,214 @@
   "headline": "Retail India News: DeVANS Names Vikas Bhatia as Chief Operating Officer",
   "publisher": "Indian Retailer",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVmpHNzNGNmJkSndoeVVsT0dWcklWbDV1QjR1N1NvSW1Ibm0zaVdySF9jWXA2SmRyV3NPZk1OUnlMY2ZFT0JpTS0tODZUTnhwT3o4WVBpSXlzYjdTWHg0dWMtelNvRm93QkxzdjZPOG9fYXN3NUNxN3pWbWdmTEZSUHlhYUJkWmNsa2x1RVE5d0JwbFBLWXBRUnJOWG1xWDlOTTc0aDF3?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Harvinder Singh Dhaliwal",
+  "role": "Vice Chancellor",
+  "company": "Punjab Agricultural University (PAU)",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "India",
+  "date": "2026-10-14",
+  "headline": "PAU Breaking:Dr. Harvinder Singh Dhaliwal appointed Vice-Chancellor of Punjab Agricultural University (PAU)",
+  "publisher": "Babushahi.com",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VdUxQcWhjNnItWFlWcEZBcko5bzFVSVhTeEdhZW9nRzVoREgyNzR5THE3VHoySlk2VHJqOEhnYkJaYjZaUnNodGVkOXFsLVdGWmEydFAyejlraTZxdHc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Capt. Vivek S. Anand",
+  "role": "Pro Vice Chancellor",
+  "company": "UAi",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-14",
+  "headline": "UAi Appoints Capt. Vivek S. Anand as Pro Vice Chancellor – Operations, Bringing 46 Years of Expertise in Shipping, Logistics and Operations",
+  "publisher": "https://hrtoday.in/",
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd0RvRTlEVzhIYmw2N0diWVlxeU54M3A5dVZlLXZ3NVdBY2pTOHo5TUlzWnE1X1RhVURDZDJoTl9IV2ZObmlSdzdvbTMxdjd5OHk5RzN6dm56UlNMNDFqSkJpS3pFN09qSWZCQ0xZRTNOWFI4U3FEU3JGaWFvR3JlUy0zMTQyS0xvSElOYW9ucm1ZdnA5ckVfQVFTNUNqWk9SNWhmVTlsZlZDMkhUVXRiYm1XNU1abjlQWFFyUHhXeng3UDdqWVNzLXBzLVJtcW10YVdmbzZVSmhrMjd0WXU3UzluM0FQLU5S?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Monil Navinchandra Vora",
+  "role": "Global CEO",
+  "company": "Pro CLB",
+  "movement": "Resignation",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-10-14",
+  "headline": "Pro CLB Global CEO Monil Navinchandra Vora resigns effective Oct 14",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd09PNUx1TlZtUlltWDhzRnVYUDg3WGVmblZLUURwTndxTG1yamdmaUV3eXMtbEpienJTYXEwYUZBTTBkbnB5TnVxakZjNk9pUU03MFM1UTZmWWNVQ1RUZGxSUXNoMUpEa1l4aUZMd2pCRVp5eE16WmlrV0dRcW13WmZVaGVfZHNNSG9fbl9kZkZ1a3VQdWg4QnlWMmVYTUw0bHVPMV9Gc2xZVzVyNjk1ZzlsUkU1UDdOWTNVbHhzc3VKUQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Rocio Lorenzo",
+  "role": "CEO",
+  "company": "Telenet",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-10-14",
+  "headline": "Telenet Names Rocio Lorenzo CEO as John Porter Steps Down After 13 Years",
+  "publisher": "TelecomLead",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGlmclNteDNkWW1keElaN1VIbGQtR05ybzNLdVQyQTV1SFRVSGhrMTlwUXh4WnQzSWRMNzNkQnJEVVNibDZuaVp1cnNoTTZVZE16aFhaNUIzbVhyTWZDSmVGQUxiQ1ZuV2t3dXd3VVpBMWdta1NXcVJvZUVvdWtZcFNLZDQ4UE11WlhVYnBobUw5R3NfMnVrbk11YUtHS1hzTThCX3BCTGNQQdIBsgFBVV95cUxOcWpOWF9YYmhZaGxNaTRURmFVbERPeEJMQ0RTWE9XRTY3ODU3NC1Dbi1TV2xuUU9qbjV1V3hfU2g5bExmSEgwMEhfcTVrcnRmWU9BOGpIdHBtNWJUcU40Z2h3bzRiOHFTemxpR1B6T0x0ODYyVU5SVjVxTXhTc2ZnMmFnYUNhQkJ6VXRTWF9tcEZjTS1vLWc2UDBBcVp0TkxBTVhjYVZFVGprWjh1eGoxWVp3?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Sireesh Appajosyula",
+  "role": "CEO",
+  "company": "Hepion Pharmaceuticals Completes Acquisition of Gravitas Life Sciences",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-10-14",
+  "headline": "Hepion Pharmaceuticals Completes Acquisition of Gravitas Life Sciences, Names Sireesh Appajosyula CEO",
+  "publisher": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRFhIMkVONEJwOVJIbWx1anZKNGdEMlBER0FUU2dFVnBIMnk4Z1Y0Y09xeHdsX1ItUWJVODZVeW1qZlh5YnhNM1loTmhJeFZRX2NRbmNyUk9KZWtnS1dsQ0dDZ3NmanA0TWpneGZsLXpRWjVOcjd2WTMzamtNYU1lbkRaLUVsMEZEbHBCcVhYbFM4WldsQ3pZSkFydHBkYlo1dkpBdlByMFNuV2RiZlJNLW5WSEhzRUNzNEhwUF9TQk1jMGYzU0ZURUxFay1NNHhJZjVTYUNn?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Patrick Yount",
+  "role": "CFO",
+  "company": "Proteintech",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-10-14",
+  "headline": "Proteintech Appoints Patrick Yount CFO, Promotes Jeb Gaybrick to VP of Corporate Strategy and Investor Relations",
+  "publisher": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeS11azh1MnltUEdWQ3VJaURab2ctaXdYeGlyYjJZNkFRdVp6aXpid2M1WE91eVhBNEdheXF5VEk2SDRmaWhaQUlYUVNOdUpDdVU4ZFVldnk5dnBSMEtIby1iLTlyT3cxd1BLMUl5U0xKUkZaSmUwSzZvX0xLNVBzX05tVTVsdEtKdVZmLUZhbDRUdFdKOG56dUVwdlRkSXQtUGhET2l0bWI0cU1Del84TjN2Q2lYZWUtd0NiYl9EdFFSNHZOWVprRkZPTk5MMmpiWnRmbGhtMk5BaTlQSXM1VlFWd3I?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Peter Grandjean",
+  "role": "Dean",
+  "company": "Kennesaw State",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-14",
+  "headline": "Kennesaw State appoints Peter Grandjean as dean of Wellstar College of Health and Human Services | Newswise",
+  "publisher": "Newswise",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONmRnWDlQR285ZHBtczFteXZ5eTF0X3hiUkctQ1o4M2tXSUpybUtpdHN0QTktQ1F2NGx3Szg4UXNHZ2RNZHMwVTZxNEphSEp5NW1uTHJoalQ1TXFobnAtcjhXbEFkak92VVFYUHlJV1FrSWtVa2tzV3ZJeENnRENqMzhyc19PTnBIUnV0cXNIVEIxTTBYaWtJS3FKblpxbUQ5MjkySmp6VUFLWDBxdXpreUQ0dGxqd0xLcGw0NVJpd2pfUXJPYkJoeUpn0gHKAUFVX3lxTE42ZGdYOVBHbzlkcG1zMW15dnl5MXRfeGJSRy1DWjgza1dJSnJtS2l0c3RBOS1DUXY0bHdLODhRc0dnZE1kczBVNnE0SmFISnk1bW5McmhqVDVNcWhucC1yOFdsQWRqT3ZVUVhQeUlXUWtJa1Vra3NXdkl4Q2dEQ2ozOHJzX09OcEhSdXRxc0hUQjFNMFhpa0lLcUpuWnFtRDkyOTJKanpVQUtYMHF1emt5RDR0bGp3TEtwbDQ1Uml3al9Rck9iQmh5Smc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Michael Mabry",
+  "role": "COO",
+  "company": "Dillas Quesadillas",
+  "movement": "Appointment",
+  "role_group": "COO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-14",
+  "headline": "Dillas Quesadillas names Michael Mabry COO",
+  "publisher": "Fast Casual",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORlc1X3RCTU9TYk9LLS05V0xfNXVJZFZkTFRPUzktMEtDbklhdkMzZm9zUHBSUHJlMlVGbVFfanItdG1NZ3RFZnRjazF1QnRnMDY4SWxZZWNrM2NRM01zUTVWSzE1blRwM2F0S1hhOElSaXdrWmExT1A1ejEtYjBJeg?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Tavonna Harris Askew",
+  "role": "CEO",
+  "company": "Indiana Legal Services, Inc",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-14",
+  "headline": "Indiana Legal Services, Inc. names Tavonna Harris Askew as CEO",
+  "publisher": "WBIW",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUDNaZTUtcnJIa1pPZkQ0STJ3dVlSejFKVHkxZVdxd2x2eUVSTnlvNnZJbk5PdHg3MDVVWWVyZVhDVldYdWJGVjVWeWJ4Z2pVWFdiSVhEcnU0SDNVX0JtN2ZIUi1VUUg4QlpnQl9qVFdxMHpDSVQ1TVZyZVNsWmRsd1R4ci1wcHZVRFlCSU5yeHIwYkJzZmJZSQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Shaili Tyagi",
+  "role": "CHRO",
+  "company": "Somany Impresa Group",
+  "movement": "Appointment",
+  "role_group": "CHRO",
+  "sector": "Corporate",
+  "region": "Global",
+  "date": "2026-10-14",
+  "headline": "Shaili Tyagi Appointed Chief Human Resources Officer at Somany Impresa Group",
+  "publisher": "https://hrtoday.in/",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONDNqc19Gd0FlcThfNW5Pbnotb2Ewb0Zmczl4RGgzVFozby13NkNjOTJPQ1ZjN1lkQlNRMFkwZnRkTWJhWGVqUlBXcDF5VXpsSnFkdWowSmFGUFJiSXB2c0hzclZ5SmRNbVlTdHN3N29KYW9zSzIwUWFNNkNEOXEwTExRZEh4cEl5R2M1YTdlQzRqMjg4a0c2djRJbjc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Adam Gerhart",
+  "role": "Global Chief Client Officer",
+  "company": "WPP",
+  "movement": "Appointment",
+  "role_group": "Other C-suite",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-14",
+  "headline": "WPP appoints Adam Gerhart as Global Chief Client Officer",
+  "publisher": "Exchange4Media",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0NaTnhqc0hJVVMwNDlUNzlWc1pJWWhFT083T291ZTZnanprWjRldTVYWFRMMEdxeXVrWC1tcTJhY0dDMHV4RFVEdC1DQ0FBZlphWXNwLUxnMTVIYWdaTVNPaGdXTFZkdUw0dlVoWUxsT2ktUW5RZEF1TWJ0WnpMQjJEM3ZqUFZia0o3V0dGRDJjU2JlSk9nWlZTU2RhUWlzN3NpcVZITHRfWWRpeTh4dlhvbmhuOEpZbHFSeQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Valentine Sequeira",
+  "role": "Director",
+  "company": "EY",
+  "movement": "Promotion",
+  "role_group": "Board & Directors",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-14",
+  "headline": "EY elevates Valentine Sequeira to Director - People Consulting",
+  "publisher": "Exchange4Media",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRERlZXBoYno2WmRCWG40VkNRR2NUZEI0QkJEaHJCa0o5LUtfM2tueENaUnI2aTJ2Wl90N084S2ZCNEZ5SEx6Q1d6WFh2Q1Y3eng0RWRoWmRJWXlaRU1fb2VWdTZEQkVTemswekhnRVhUeXZPWVZVc1RvamN2dndGS0RnZzZtWmszVW5wNnljZVpJRUs1R05RZUFkWThBU3NZYU5VLXhQeldMbUtYSERuRy1TUDE4UTc5dTJjTm83NFk3QQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Siddhartha Tripathi",
+  "role": "Director",
+  "company": "food and beverage at Conrad Pune",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-14",
+  "headline": "Siddhartha Tripathi takes over as director of food and beverage at Conrad Pune",
+  "publisher": "BW Hotelier",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2cwNnBlU3dvZ0taSDhKemJmYW1PQXM4aGkzdjV0S2dLWDdMTkF0SjV0MWVzQzdTUDVnWWpCOXpfX1BCcEtCeHdpVjlQMkYxakxGTEs0UXF4ZmRkNkYweHREYlNnY090WXNtN1l3T3EyY0ZqRXZ3ckw0OWYzMThLYUhUX2xHQW1EU092SV9VSm9ocTZGZGxQOUdsMGdUclF1TXNjdFZRTGkyTW0zRmxiS21CNU9ObEd0MkpVSw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -855,6 +1070,26 @@
   ]
  },
  {
+  "person": "Siddharth Nawal",
+  "role": "CEO & MD",
+  "company": "Nexus Malls operator Nexus Select Trust",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-12",
+  "headline": "Nexus Malls operator Nexus Select Trust appoints Blackstone’s Siddharth Nawal as CEO & MD",
+  "publisher": "Storyboard18",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUmlvemtiYnI2T3RxcE44Zl81SFNTdnNRVGxiX0RMZk9EMC1kU08zQ3N2aUtYa1hmRFZTVDhJVXVPZzJEQlZPVk0ya0ZrS2NaaFM5UTZXQ1lsODVLcndtRmFRNWF3a256VHFnNEFPbm5HZVBKNmMyUTR0TFVZb1d0b1V0ZlJGTEdzUDBzNG9SSkVBNkk5RENpZFgtZy16X2RyczBLbnR0c0tiNE81Z0JpTkxKWm5rTWt3RDJMd3JIYzZfX19ReF9tRHlyUS1Da0VfQTRCaEU1a3JybEhELWo3b0JR0gHiAUFVX3lxTFBSaW96a2JicjZPdHFwTjhmXzVIU1N2c1FUbGJfRExmT0QwLWRTTzNDc3ZpS1hrWGZEVlNUOElVdU9nMkRCVk9WTTJrRmtLY1poUzlRNldDWWw4NUtyd21GYVE1YXdrbnpUcWc0QU9ubkdlUEo2YzJRNHRMVVlvV3RvVXRmUkZMR3NQMHM0b1JKRUE2STlEQ2lkWC1nLXpfZHJzMEtudHRzS2I0TzVnQmlOTEpabmtNa3dEMkx3ckhjNl9fX1F4X21EeXJRLUNrRV9BNEJoRTVrcnJsSEQtajdvQlE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "BW People",
+   "Exchange4Media",
+   "BW Marketing World"
+  ]
+ },
+ {
   "person": "Tariq Kirmani",
   "role": "Chairman",
   "company": "PRL",
@@ -1405,24 +1640,6 @@
   "also_reported_by": [
    "ETHRWorld.com",
    "BW People"
-  ]
- },
- {
-  "person": "Siddharth Nawal",
-  "role": "MD & CEO",
-  "company": "Nexus Select Trust",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-10-12",
-  "headline": "Nexus Select Trust Appoints Siddharth Nawal As MD And CEO-Designate",
-  "publisher": "BW People",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGpaRDA5YnRyQndCY1ZOc2RsdzZtOE02NlhTNmFDdlZ1aEYwd0FwbHFZb2JjcWFJQzZOTGdvOGZfTjlva2RWd29ObXpCZ2dYbGQzU0ZBWlZoempnMWFSc1RxUmJVVS1jTy1FVTYzbGFPRnhrOUh2S21iWUNFT3JObTJIRHBWU2NLT0NFcE50ZFUxWUp3czJKS2g1a1N2Y21qbVdKSTh4SWZDdw?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "Exchange4Media"
   ]
  },
  {
@@ -2938,6 +3155,26 @@
   "also_reported_by": []
  },
  {
+  "person": "Capt. Vivek S. Anand",
+  "role": "Pro Vice Chancellor",
+  "company": "Universal AI University",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "India",
+  "date": "2026-10-08",
+  "headline": "Universal Ai University Appoints Capt. Vivek S. Anand as Pro Vice Chancellor; Bringing 46 Years of Expertise in Shipping, Logistics and Operations",
+  "publisher": "India Education Diary",
+  "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOelV3a01KQUVlMzJua2IwdWRIRk9qWkl5aFFCcjZ4OV9WTEF4WDBXdzhhS3o4bHkyTTBiUGp5cmpBTWxONkdxOC1NQUNYOEJYMXJCVVd4X0NEbjlnemdzV2Q4SnNFS3lsdXJ5ZVBCRlFaWGZVOFhwN2JhaFkxWEFIRTlWb1QzWkVzT1p6T01wRDlZZ3hkaXN6eUF4OUZTRDBhZVZUYXg5aUM2anU4YUFpbmtqdlg0dzhFTWhBeXFwZXVnQzRWTHlXU2JBYXJ3bVpPeHVXa1RSMWNrelN1T1Qwc09pU0pBYXFCaXd5LXRtOWt5SFYxYU82Ym5yVTFsRVo3TWxNaw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "ET Education",
+   "Entrepreneur India",
+   "SugerMint"
+  ]
+ },
+ {
   "person": "Roy Kosuge",
   "role": "CEO",
   "company": "Mood Media",
@@ -3007,26 +3244,6 @@
   "moved_from_source": "",
   "also_reported_by": [
    "Sahi"
-  ]
- },
- {
-  "person": "Capt. Vivek S. Anand",
-  "role": "Pro Vice Chancellor",
-  "company": "Universal AI University",
-  "movement": "Appointment",
-  "role_group": "Academic Leadership",
-  "sector": "Education",
-  "region": "India",
-  "date": "2026-10-08",
-  "headline": "Universal Ai University Appoints Capt. Vivek S. Anand as Pro Vice Chancellor; Bringing 46 Years of Expertise in Shipping, Logistics and Operations",
-  "publisher": "India Education Diary",
-  "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOelV3a01KQUVlMzJua2IwdWRIRk9qWkl5aFFCcjZ4OV9WTEF4WDBXdzhhS3o4bHkyTTBiUGp5cmpBTWxONkdxOC1NQUNYOEJYMXJCVVd4X0NEbjlnemdzV2Q4SnNFS3lsdXJ5ZVBCRlFaWGZVOFhwN2JhaFkxWEFIRTlWb1QzWkVzT1p6T01wRDlZZ3hkaXN6eUF4OUZTRDBhZVZUYXg5aUM2anU4YUFpbmtqdlg0dzhFTWhBeXFwZXVnQzRWTHlXU2JBYXJ3bVpPeHVXa1RSMWNrelN1T1Qwc09pU0pBYXFCaXd5LXRtOWt5SFYxYU82Ym5yVTFsRVo3TWxNaw?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "ET Education",
-   "Entrepreneur India",
-   "SugerMint"
   ]
  },
  {
@@ -44873,7 +45090,9 @@
   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vWW11dmZiNjJiUDVFcERRblE3dTA3SFlIQzVzZXRNMGlnb0xNTjBvVTI0U2hCb2kwM2dUTzk2Mm5aWWVXTW01VW1hcGV6NFhsUzV0N25DcFFsVk8zQzdpczFiR2J4LTJ3a2JYWWVncTVuRERFZzRLQzVzN0g?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "WCLU Radio"
+  ]
  },
  {
   "person": "Leanne Zacharias",
@@ -78129,6 +78348,24 @@
   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcEh0Q002NjNHYk9sSUZ6dVdIb3Y0OXo5NG1tNURrQjRndS16QlVXbFg2SjFULWk2b3cwN1M1a0l2ajNnSmhDT1hLX0s1ZU5CR1FZUzhfakYtSWFXOEoyUFRCZjBIUWdrbHRVTUYzaTJ6S01rdmMyZmwzbXNuX0xzSXM4Y19NSVBabU5EYWdyUHBiSm1vV2F3ek9CQ0V5NkhoUjFWVzNpOXhJQlloNTlDWGJDMEhtTFlMV1UwT25nM3JnbV9UY1FUQVNySlVITWpnQ2fSAdcBQVVfeXFMTWw2YkgwVWIzZ0wydzNlSlpGRDg5OGJlZEdxNkVvWlZkZEotTTRJNjhtdkxEWUJhUHRhRHlfcUsxYWhWMFdtMTFTcDVPTXZVdFR1RWdJN0g4bmhJUnBsQWU3c2tQczE0S1lwX0tZdkpXM1h6QXRUcWwzRHJqYWwxSnpSMTM5S3pLU0ZlLWM5aERDeGtiUmljWEl6QlRlcWxNaXRoUmhrMXg2VGtKYTlpZDFNbGE3aXFfaUw2QU1ad3o3RlJNcEV3M05VUG5yUDJLVjNLTWlYSUU?oc=5",
   "moved_from": "",
   "moved_from_source": "",
+  "also_reported_by": [
+   "Telegraph India"
+  ]
+ },
+ {
+  "person": "Srinivas Pallia",
+  "role": "CEO",
+  "company": "",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2024-04-06",
+  "headline": "Wipro CEO Thierry Delaporte resigns; Srinivas Pallia named new Chief Executive Officer",
+  "publisher": "Telegraph India",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN3BXaW55MXVNZ1BWeFJJVmYzVjVNUy1hM0pMdUwtLUFpVUpMbDZhbEFFTmo0ak9tNm1tcHVNNTVVQjRfQmxDclpHTkJncnl2aVRwUnVBdTBSRVV0a21ZU0xkUjNwVHZ0WVU4V0RJZUFpQnVRR245enhDSmZLNHVKLXAyZVhOLWQzdndqTGxZVDltcGc3U0FwMHpQR1pDS0tOTVlFaWhSYy05dVNyN0VXRnhhWVdzY2RXRWkxU25fQ1lFS0tUWDdlQVR6aUZOby1Cc1ZV0gHYAUFVX3lxTE1xMFkyNWxoOWpyRzJSOGZMRkhZSUExX2xfZk50UEhNU2oySEhHY3Y4c1dadHdVSjdla1V2Z2J5MXVlTEdnSW5qbnUtTWtHZFVReC1naWpzSXJBWDFfYnYzakdDdVR1eFM5djhTUHRfbm14QVowNHdhaHZsN0VpWnU1WW9ZNjFONUwyYmtBMjdfb3NIMVlIOUlZdzcyRmhNVWl3cG9FeVlldFdJdjdYenJ1YWhjZjRGa0plTUNXZW9vVFdRSHRCdEFvZUpUQXllNzFSUExEZkVYZg?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
   "also_reported_by": []
  },
  {
@@ -78401,6 +78638,22 @@
   "also_reported_by": [
    "MediaNews4U"
   ]
+ },
+ {
+  "person": "Bimal Dayal",
+  "role": "CEO",
+  "company": "Adani Infrastructure India",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2023-12-10",
+  "headline": "Bimal Dayal appointed as CEO of Adani Infrastructure India",
+  "publisher": "ET Auto",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcjQwY2I2OXlSWlAzaWRsODBYdEdJek84d1NNS3hUbXJWT2FoeVJyMlhzY2JFeDBhRmpiRTZrQnk1M082RUF4T3VQZ3hSOEhGVlBUc0VjZmxXZVhtV3R2aW5pdFltNWdIeWpmdTdwbDA5eW1SaVBuNU9IZWJINEM1cElINGZKbHJvQlRsSVIwWkdXV3FHRldsUkZpb1hXbUFOMmx4NkZldzJ4VkNnRXVQVng5emJLV211bjVHYWFCdXhGUdIBxwFBVV95cUxOSXhhU0V4b3FCUEFIVEFST2tvOG9ldUN2MUdXTjViczY5cHdlM0NqTVdZcEZMRUVLSW8wM1plTUxPdzRoYk5kWndqY1hRYkxIRjFKOURoQ08taExMWUtwTmhfLWRTQnltVzZMSmYxU3pWTWItSlZzNHRvOHI0Nl85SnRUTDVqQnREeHRwY2VvWGhHNEI1XzBzandtUnZ1UUpBX0UxRklCMEdBWW56R2hGNGxmcndXVWdlVm1JcHQwSjNSRFJZZDZF?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
  },
  {
   "person": "Bimal Dayal",
@@ -78941,6 +79194,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Rajesh Gopinathan",
+  "role": "COO",
+  "company": "Chief Executive Officer, N G Subramaniam appointed as",
+  "movement": "Appointment",
+  "role_group": "COO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2023-01-17",
+  "headline": "Rajesh Gopinathan appointed as Chief Executive Officer, N G Subramaniam appointed as Chief Operating Officer",
+  "publisher": "Tata Consultancy Services",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenhnbk4zOW9DQTJTYXg2TXF0QkZyc2ZOT21BMlBsV0VPZjBobkpYV0gyT2l0d2RaS3pNWHgxNFBDNFR3Z1RfNTkyenFNaXBzQjE2elVjd0hWUDFmUW5SSUJpQkxnZXBiTUJEMXpISTZrRUpzSlFYRk9XZldlN0l3bXlWQ3RiZV9LYW4yQ3d3ajVLMUlFV3c3Rkk0Yk5oY0xkNDh1QkF1WEJ2LUw2?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Mahia Juned",
   "role": "Additional MD",
   "company": "City Bank",
@@ -79183,6 +79452,22 @@
   ]
  },
  {
+  "person": "Campbell Wilson",
+  "role": "CEO & MD",
+  "company": "Air India",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2022-05-12",
+  "headline": "Campbell Wilson Appointed CEO and MD of Air India",
+  "publisher": "The Tata group. Leadership with Trust.",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKQUdpWDlUb0gtUVZXblJSVmhWWVJpeTExLTJvaDMyR3E5UW9rbEFfNmFjeVVqMGgxTXBnWWVpejlqQTFMZGtZUVBPVWJFNTl1MVRHeHJYdlRlTHNuWTFMRVlfbTlmZC00RHNsOEpuNWV2QQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Pralay Mondal",
   "role": "Interim MD & CEO",
   "company": "CSB Bank",
@@ -79308,6 +79593,22 @@
   "headline": "Vinod Aggarwal appointed ASDC president",
   "publisher": "auto.economictimes.indiatimes.com",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUm5VSlp2ZXpPaE4tUFdHMDNMWUJqU3czUHFPTFdXQUUtOVA4cG1QWW5LZ2E0RHlwakpxckZhOUtscC16YWJKX2Y4ZEVJbncwcHRsYXB2S3RraG5VMXNPNGRZRjFsc0VKTTR5Q04yV1BONmJEczVTUENmWG1sX25weWFjMDdCWnlOdmxrSG94dHM0QTMwRE8yTHRvM2xBQll6WlUtT2x1RdIBrAFBVV95cUxOQWRtYzNvRGx4SGFSd3JFWTNDd1dGS3hzXzUxMGJlemhCWlpuY055cU52dkpuVVNCX08tOWUtWVFiX3RVUVBldHl3b0J3Sk9JeDJfQjN6SS0zWVJCWWJvNHZGeG03Qk5wLW1tWWc3cFl5Nmh2dTZraURTNDJWT2o3Y3BxU0tGeXlpRmlUSi1rUU9XT0xZT19mX0FqRzZDVFVralJiQThGOEhqTE4y?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Anant Goel",
+  "role": "CEO",
+  "company": "Milkbasket",
+  "movement": "Resignation",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2021-08-23",
+  "headline": "Milkbasket CEO Anant Goel Resigns; Reliance Executives Join As New Board Members",
+  "publisher": "Inc42",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeWpkVzctUzdVbmVpREtseUpUVndCblJPaWlBd1U1R3FwZUxvWUxIVTY2RmJ5TzVMdTk0bWxaZy1qTUwtbDItNnUzTG9BbmtyTHhUR2pRZnhmamhvUDZoZk5qQlZFQ3VwVi1YNE8wVU1tVDZpOGpNTXhtX05zVmJ2N3RZa0ZkUUVhdkdkRDlxTzlNbGM?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -79683,6 +79984,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Azim Premji",
+  "role": "MD",
+  "company": "Wipro",
+  "movement": "Resignation",
+  "role_group": "MD",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2019-06-06",
+  "headline": "Wipro MD Azim Premji Resigns, CEO Abidali Neemuchwala to Take Over",
+  "publisher": "India.com",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZVpBRFNzdGx1RXktdGwwZ3diM3h5Z2tQVGZaeVU5aGdURGNVQnlyUXhla0NscjVxeHM2UFZlX2VMYVNtU3RFVVNjYXZhck9aS3lmZk1qY01EVjNCV29GN0xXUlRtcHRZbHI0bi1YRjVpc0lsd2tHQzV6cVNtLTVPWWxRNWpQZmhfNjZxdVFxS3BkVHl0NEZmc0pNSzUyRVdKX0M3R0J2WkjSAa4BQVVfeXFMUHh2S0l5aExpOVdDUE1jSVRkLVBaVEFmWmJjeUNGeF91S0J4V0ZHTk1HTkdEY1BGSDhzS1VCc3VQUVk2X2VqMTdjYlljNldiem1haEYwaTZXdkl6SHFvVk5BZm15LUhnXzBEMnV5SzlsaHRSZzdGNVNRd1h2bzhzd01KQWN6YW5ncjBuNVBCNkoxck1aSGlQSHNhSzF3ZkZaRjN2Vlk5dG54U09jM1Jn?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Francesco Martorana",
   "role": "CEO",
   "company": "Generali’s asset management arm",
@@ -79732,6 +80049,22 @@
    "BusinessLine",
    "cfo.economictimes.indiatimes.com"
   ]
+ },
+ {
+  "person": "Ravindra Kumar G.P",
+  "role": "President & CHRO",
+  "company": "Tata Motors",
+  "movement": "Appointment",
+  "role_group": "CHRO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2018-12-19",
+  "headline": "Tata Motors appoints Ravindra Kumar G.P as the President & Chief Human Resources Officer",
+  "publisher": "Tata Motors",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMU14VTdFaHBQclgtdExVZFY3SWg4U0I4RTJrM3llMEpOVnpSRjRqSDh5SjY5a2tqTXhIZWo1eHRVRmw2OERNR0NlckdiTkwxc3RtOGlMYi13bzNzbTFXSFpsdG9fXzNmTnhodEhIakh5ZjRTYTE4M0xjYnBkTkVGOXI4anFfaVFaNnFNZWVDdkxOZEF1MGh2dWk5X2RwR2FIcTJ3ck9SQjR2MWtIWHFLTklLY2lNM2U4OGF5aXNZSWlRemV1eGZ1aQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
  },
  {
   "person": "Sandeep Bakhshi",
@@ -79848,6 +80181,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Salil Parekh",
+  "role": "CEO & MD",
+  "company": "Infosys",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2017-12-02",
+  "headline": "Salil Parekh Appointed Infosys CEO and Managing Director",
+  "publisher": "TheWire.in",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BQlhaRGo5aUhoTy1aelZCM1hJR2lPQjBQZ29HTUNzN0k3aVhKOTFQUUVjTV95V1dUZDFraklKUFdFeXZWQ0FvWkJPT2YtdVhLZDFwREhpNVp1YkhDaEFVaVl3cDRHSDUtSGJjRFBNNXJmYXpXVUFpX2ZtNUPSAYIBQVVfeXFMTUlqcldoR05QX0JqdmE5d08zWW9MdEhVTTdvNzN1akZtMUVLV2o5OUZaN3kzc25JbF9SaVNVRkhERmJpS09qM3NPcDJZdk1yVzFkd3Y2TE9laXFYSnJnelJobWx1cU9EbXJXSWV2T1FOb3NTb0NFb0ZRTUo2WjJQZmVoQQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Shashi Shankar",
   "role": "CMD",
   "company": "ONGC",
@@ -79859,6 +80208,22 @@
   "headline": "Shashi Shankar appointed CMD of ONGC",
   "publisher": "India.com",
   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zaG1NNUNIME1LSDR2cVVrUDJBZk9FZ1ZhLTdxb2h0dTUxazQxOURKcUM5bHVrdjdrUi1lQ01keU5vdmlXOU15SGNvc3hmQUw2UzN1Um11eGk1eE0wTjBSQTYwX0E1OHoxbFQ1VzhHZ0tuSGNibm9od2FHcmzSAYIBQVVfeXFMT1RBTG9PQlV6ZHVZSzZIT0kyM0ZDY2Z4SnE0QTM2TEpWMDJtSFZMV3FPdE5WY3A2R3oxekF1RGctQ1ZUTEM4S1d1NXc4NHI5WjVHenBKVHdrMjR0QW45Y0JzRXhxT1QxS1A4Q3VoOEwybVQ5eUczX3lrdVk4T2FjeHVfQQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Kuldip Kaura",
+  "role": "Interim CEO",
+  "company": "Vedanta",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2017-08-31",
+  "headline": "Vedanta appoints Kuldip Kaura as interim CEO",
+  "publisher": "ET EnergyWorld",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQzF3c3N4UEJ4WlpxZkxRdFBlTWFiNk1ldEZvM2lOdGxWVDlUWjdBaUhiNWl2dVlsOWNIZFA0a1VHaFd3S0lYZElEQ3pKblZzN3ItSHVlUUpWMnVxXzZZUlZScFRlaEZfUnVrTFdEMEF4blI3ek1ITTdmRDRZMjBqRkZzSHJWWmI2cmlsZFUxc19yT0t5TDZCVU8zUUc4QWNsTkdYWHZCWHhGX1RzSTFVdTlOV0U?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
