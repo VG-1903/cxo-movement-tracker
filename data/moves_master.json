@@ -428,6 +428,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Jared Benko",
+  "role": "Director",
+  "company": "athletic",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-16",
+  "headline": "Jared Benko named as new athletic director",
+  "publisher": "Yahoo Sports",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHJUTVRTcndjZjJJRWJqODZuSUtocGU5QmsySzVKQnlFVHlydjctd21KOWFpc280cXQzSWNfcEV6WHFqaWxvOUwxSlB5aGpPa0FxRENkQ3VCaE5nWUZrNURiVmlsdmsxS1FweUc2U3ZYQ0U1OFA3WU12NXNXRk8xY0lBRXBDSHBxWG5ndA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Tammi Gaskins",
   "role": "CEO",
   "company": "Ironwood Pharmaceuticals",
@@ -471,6 +487,54 @@
   "headline": "Alliance of Wound Care Stakeholders Names Julie Rhodovi CEO to Lead Advocacy, Advance Wound Care Policy and Practice",
   "publisher": "Yahoo Finance",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY04zY1JEc3U3WG0tR0NENmx0d2puT2dNZlM0blVLR2JKc1N1eXRTM25OZjFETnJKeDFpYkJtWmdPVFZmSktkVmtLN3lvdElwa2RQWEY1Q2Z1MnhPc25aeDI3NzVkTkU4aTZVQzRtN2xhVkU1ZVRham83a1B1Vl8xbnMtTmZVUkZoU2hBQWlzaHR5MzBNMFhlcy1Bc25IOS11?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Robert George",
+  "role": "CFO",
+  "company": "WidePoint",
+  "movement": "Resignation",
+  "role_group": "CFO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-10-16",
+  "headline": "WidePoint CFO Robert George Steps Down for Personal Reasons, Transition Plan Announced",
+  "publisher": "Kalkine Media",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMVYxbEx2d0ZEa043NXI5SFgybl9QVGhGWEp4TEpSSlZiM0NBcEdxM0hyWkI3QWt2Q1BSNmJqWGIyS0ZyQ3IwNXZKTEdCcjhsVWozTm53S1pmOXZOdFpVVUZyc3VoRmJxRWhqY2g3WUxLLUtQZ3Q4bENia2JHZ2dEekpwMVowVGREa2RNN2VQT3JGQ2FFX0N0RWJtUVNLS2hfU1V6bktHRzhMTVZjV1FhaUtGWVZQTmR3UWc4QzA5RjVsT1lONjJHYU5RSm8?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Chase Christianson",
+  "role": "CEO",
+  "company": "HCA Houston Healthcare Kingwood",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-10-16",
+  "headline": "HCA Houston Healthcare Kingwood names Chase Christianson as new CEO",
+  "publisher": "Community Impact Newspaper",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNURsRDFYNDBBOVhPRTRzRDBPWFFlVDdUZ0FWZVZiUWJQeGg4ZTMzZDdjSTVGNnBpWkVwR3FibTcxZGhrbkRKX1UxcGZGaEZYaU04THhteUVsTGwyaVdaM200dTFFRXZBS0RGTjU5eFpHTVFrUmNiTWdtVWZ0SU5HQzV4OUxsbUp0R21tbTNDVHNhV2lXZXNYcVdjWmV3WFNkM2VTNEZEanVIMU9XZkU3aFFVbHJiREIxR1JYQ09ZNm1JdWtLblR4NWJtYjh1V2U5Qmc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Brian Kesseler",
+  "role": "CEO",
+  "company": "TekniPlex",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-10-16",
+  "headline": "Brian Kesseler Named CEO of TekniPlex",
+  "publisher": "Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY05peUFkQV84SVFlYVdacXJMTXZkNUY3VW8xNUlMTUdMZnVjOGp3RXlZRUlzLUhCaGF5SGhzRFMyT3NscXlrOWdqZXFUZkN0aVZldEJOZjctWFBoZ2xsaGE4WEs3SHA1RDhVM1VkbC1lYnJNemtnRjU2c1M4WEh5ZHhORTlRMDlidE52dU9hdlNDWjVWTnJvQnJwTQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -1415,7 +1479,8 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "Newspatrolling.com"
+   "Newspatrolling.com",
+   "Rediff"
   ]
  },
  {
@@ -1734,18 +1799,20 @@
  {
   "person": "Keith Teichmann Interim",
   "role": "CEO",
-  "company": "Liberty Defense",
+  "company": "Liberty Defense Holdings Ltd. (TSXV",
   "movement": "Appointment",
   "role_group": "CEO",
-  "sector": "Education",
+  "sector": "Healthcare",
   "region": "Global",
   "date": "2026-10-14",
-  "headline": "Liberty Defense Names Keith Teichmann Interim CEO as Bill Frain Announces Resignation",
-  "publisher": "citybiz",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUxqVnVqU0ZOa25VaXh3a21FcndSOFhBcXZHbTFfMFhwWHBIOTh4WThiM1ZDb0lHbm5GeUZRelJaV0laRkpQazNQcUpoV3ZMZDNVYjBheW5qcEZTU0xYOU1YTFNYZUZ4T3FvRXMxbVRucVh4alJHYkU3V1Q1ZUxfUXhHblMyY1lSUnZHNXFtMDNOdExFMnJ2Z0hVbFhGVUxkMDl1WE1TMDRmMi1XZjI2dXg3UkFSWjdqdEg1Rkd5amowUQ?oc=5",
+  "headline": "Liberty Defense Holdings Ltd. (TSXV:SCAN) Names COO Keith Teichmann Interim CEO as Bill Frain Resigns",
+  "publisher": "Kalkine Media",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSklSLXpISGo0UzRVZk43cWwwQ21WOEM0OFkwUjREdWtMOElrUXVPWmZFSWRWZ292ZHlKdU1iSWwtYTFSRnc4TFFrMVNyTVBhRHFCNVkzejJXVzNPR2s0NUpvTnR0LU1SUDBQTkNuaGh2b09zM0I5b2FDUkFNdXI0ZE91QjRyUXpiUThKTTVvMVo3V2VhYzc1dUN1eU5sVWNreFZWMXRaMC1KRk5zcXZRNldVTlMxcU5CYUtTSFpTN29jYzdVTmROb2hGU21OenZNZmNoLVdyM3QzaUU?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "citybiz"
+  ]
  },
  {
   "person": "Rachel Garlitos Human Resources",
@@ -9698,7 +9765,8 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "Exchange4Media"
+   "Exchange4Media",
+   "Adgully"
   ]
  },
  {
