@@ -1150,6 +1150,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Aminu Dabo",
+  "role": "MD",
+  "company": "2027",
+  "movement": "Resignation",
+  "role_group": "MD",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-10-15",
+  "headline": "2027: Ex-NPA MD Aminu Dabo resigns from APC",
+  "publisher": "The Sun Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53aHFlQWFTd28wRl9fUWdnLThoM3BKWThYZWlWYlRBeHp3WHI5RTdmSlZhVlJZb0syZlY4R0pXdHZNekl5T1U2QzBFOUtyeWVZQW8zejRubHZ4WTM1TWttNDFiYzRHZDlyeVBkeG13?oc=5",
+  "moved_from": "NPA",
+  "moved_from_source": "headline",
+  "also_reported_by": []
+ },
+ {
   "person": "Surender Nath",
   "role": "COO",
   "company": "Olectra Greentech",
@@ -6458,7 +6474,8 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "ad-hoc-news.de"
+   "ad-hoc-news.de",
+   "SuaraGarut.ID"
   ]
  },
  {
@@ -78886,6 +78903,22 @@
   ]
  },
  {
+  "person": "Rajarshi Sen",
+  "role": "CEO",
+  "company": "Alliance Air",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2025-05-07",
+  "headline": "Rajarshi Sen Appointed CEO Of Alliance Air",
+  "publisher": "Indian PSU",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tcm1SYUZhT0NZRGhvYWJudkExWjBfQnJmME5Yc19LMnFlUmhNMHpHak1UOU8yTHBUTnBrc1RLNGF6LS1wVW5jRXNiNVFnMUhhb0x6dUtoVjdsLUwxb2VsY21UTEF2X0dnWmh5WGNkclVaaHM?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Ashok Kumar Panda",
   "role": "Chairman & MD",
   "company": "SAIL",
@@ -79271,6 +79304,7 @@
    "Moneycontrol.com",
    "The Economic Times",
    "Adda247",
+   "Legend Officers",
    "APAC Media"
   ]
  },
