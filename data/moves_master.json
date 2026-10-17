@@ -68,7 +68,7 @@
  {
   "person": "Kaizad Bharucha",
   "role": "Deputy MD",
-  "company": "HDFC Bank",
+  "company": "HDFC Bank Dy",
   "movement": "Resignation",
   "role_group": "MD",
   "sector": "BFSI",
@@ -85,7 +85,10 @@
    "NewsBytes",
    "The Economic Times",
    "Moneycontrol.com",
-   "Telegraph India"
+   "Telegraph India",
+   "Hindusthan Samachar English",
+   "The Shillong Times",
+   "The Indian Express"
   ]
  },
  {
@@ -116,9 +119,11 @@
   "headline": "Axis Bank appoints Rahul Shukla as Group Head, Commercial and Bharat Banking",
   "publisher": "scanx.trade",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0tXR0JNZXVLdTh3MlBFYWdWRTNFOWF2Ri1OUGVBYnlDUk4xTmVqbXB5ejlwUUZ2SnVsZWltQi1zQloxR1pQRHFUemk4eUN3ak9HTDNBbk00aHY5RFdtckdMa3dMSkFHUDh2V0dRM0RTTi0zdDAtVHdmYU5yUmFieDQwMDhIdkpJOU9kQVFJN3BBV1lVSlI5dWhOckdDaUlUWHE4MlpVWHNlb0pxLWc2T0JNNnBKajgwakRxcF9ZZEVKTkE?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
+  "moved_from": "HDFC Bank",
+  "moved_from_source": "headline",
+  "also_reported_by": [
+   "Moneycontrol.com"
+  ]
  },
  {
   "person": "Kaizad Bharucha Seeks To",
@@ -148,6 +153,54 @@
   "headline": "Amber Enterprises appoints Satendra Singh as CEO of subsidiary IL JIN",
   "publisher": "scanx.trade",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVm51b1BjS2dCUzliSHlVd2JMejJtOHZsVVpReHRCT2FxdDFRZGRydGxTQ0ZrdWRkbzVCbVZDZ1plUjMteDNHQ3NBOHFrWWRvUk1oTnpDYUxjel8xQXhSdlJvejE2X21OcldBcUQya083NUhaNlVGd0Q1V1o2MGZUZ1FucTRJTXJnWFJHdVY5NzlSM3ZFOWp0QVNEZE5TNDgweW5Sc2JXakJHakxLdUVDbWptczhUNUdnLUFYVQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Kasaragod Ullas Kamath",
+  "role": "Independent Director",
+  "company": "AceVector",
+  "movement": "Re-appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "India",
+  "date": "2026-10-17",
+  "headline": "AceVector re-appoints Kasaragod Ullas Kamath as independent director",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdjlJMkVVZlppcVJnOHBWcW9DVl9IRkF3X1JXbUxlcXl5V1pUc3JJUWl6TVJQMjVLcUFnZkpNcFQ1VU1aTjVCRkJXWG5QR0Y1RmI1OUdXX1o3NEVFbGZ4X1lmTDdDbUQ1UVZ1RkpScUNBbHZRMTFUR09qRW5kQTBGTVU5ejJxTV9KYkdYQTZRbFllN3R4ZF9kUGZQMXlWanlOTUtoN2VBcGFMYUlyUXUxb2M1UWpqX2VSZloya25xOA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Anup Lewis",
+  "role": "CHRO",
+  "company": "Ace Designers",
+  "movement": "Appointment",
+  "role_group": "CHRO",
+  "sector": "Corporate",
+  "region": "Global",
+  "date": "2026-10-17",
+  "headline": "Anup Lewis Appointed Chief Human Resources Officer at Ace Designers Ltd.",
+  "publisher": "https://hrtoday.in/",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeklOeDdEQnA1a3ZYTThHNmJhN2t3N3o1OGRCemY4NDd3R2w1VnVmR2N0Umk3R0d0Q1ZNRVU2WkNUZHJPUGhuVUJNQkxVRnhjT3JzRUlJZjNmTk1nVjA1VkFxNXFTaGh4MXFwYUJUZUdJSEdScGxEV3lUMmJHYzdEWFYyNTFwSl9hR0lZYWRnb21pT2NKc1E?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Alok Das",
+  "role": "MD & CEO",
+  "company": "Meghmani Group",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-17",
+  "headline": "Meghmani Group Appoints Dr. Alok Das as MD & CEO of Meghmani RENEW Energy",
+  "publisher": "Energetica India Magazine",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYWVkMnh1NGc4cDBBbjJUeUxrNDQ0a0w3amQzQjBQT2djZjR2QUxwc2FYRVctai1xV0c0WF9GZmZLMzNoWjZ2MGhnZXpvbHUtU1otUFp5d29xcXVMMy1JeDVtcWlMZWd4aUljRC05QlZpSVNmV0pEQlFna09BUmlZc2ZYamF4RHJJejVQV2pnbTQ0LWJRRGMzenlIYUs4elNuZXRoa3RERnNfV0R6V2c?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -1664,6 +1717,38 @@
   "headline": "Mezzan Holding appoints Kapil Khosla as Deputy CEO – Commercial",
   "publisher": "Zawya",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbVlhM2tnT0c0blFmVm9wSTJERzdUUk8wZ2F6NW9kWGpoUkRQVTYwc1hwaDFGR0xCNmdTckRILWhYNGlZeEZWbXVWdUlxOUFwRVV4LWVfT3FTcGFMU25md0kxUlAzT0E4b0twQzBhdEJ1SDh3OGpqbUU3dWZRamQ0TktPcmhUQmRFXzBGaEx4Nlg3VTdOMHZrVmdhbU9xSm1aMVF6b2dvQlVLeWxsZmVVOXdnWHFJTW01WWlEMXlibW1vSTYxMGc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "John Cargill",
+  "role": "Chief Commercial Officer",
+  "company": "Advanced Clinical",
+  "movement": "Appointment",
+  "role_group": "Other C-suite",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-10-15",
+  "headline": "Advanced Clinical Appoints John Cargill as Chief Commercial Officer",
+  "publisher": "Contract Pharma",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmR5YUlpdHFoekY1bE9mRU11aWIyb1hUSXhJNWhDdFNOdkttYXd4dmd4Tk9SUndVSzlXR0pPZjR4NklqSFhUNzB2T28za09hSTFwWElMMk15TkhOUDlMQWpkVDhmM0gxZGQtb2dpX05JcXdNNm5uVDJXMjdqZ2VKWlM5MjZqdnZXWFBncXMtRU11MzJ5b0V6amU1cWRyRTFGaGk5RWVUY1c3RzB0MHRQZHhDVQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jason Varsamidis",
+  "role": "CEO & MD",
+  "company": "DP World",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-10-15",
+  "headline": "DP World Appoints Jason Varsamidis As Chief Executive Officer And Managing Director, Asia Pacific",
+  "publisher": "vietnamnews.vn",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSEhEZkdfbndwdWgwRzg5czdHVXVmQnpiN0Q5SXByVUd5aVMyNnFWQVVreXlmVExPUDRxTk12UlF4U0pZVVRHYmtRM1ZkWkRzU0NrbVpES0RCcmFqRlpEX2o0bk1qaklSN1hDdXdRN3RWdjVHSDVNMHlkVzExYXFCc3J1aTVYTFFJODF2U2M3cnRzc2VrakdQZTllV09LM2hucldRazZyY1JJOTFzbi13WDgxcmdpRmdpeE5YeFl5M3JzOW9XUjFkSnhIaVRFLTNpUlNIU3lZU3NlUENaRjRSeQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -63021,6 +63106,22 @@
   "headline": "Srinivasan R Appointed as Chief Technology Officer at LEAP India Limited",
   "publisher": "hrtoday.in",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmRqeWg5Q1oyWC1ZdHd1cmpwbGx2LVFQbmdJX2tWeWFnRWp5UWh5UGprV0lWN0haVXRyNFN0VVJaSDV2cXBHVlBXWFF6cHNTYXJBZEkxQmtrcUpScDA0OWJHOGs5SzBZcko2ZlJLUEZTNFZTdi1wOFNqQzVrc0ZGNV9pYWgxNGxzVm1fcWkwWnhMMUR4VEFF?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Kazi Ziaul Islam",
+  "role": "Deputy MD",
+  "company": "One Bank",
+  "movement": "Appointment",
+  "role_group": "MD",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-02-01",
+  "headline": "One Bank appoints Kazi Ziaul Islam as Deputy Managing Director",
+  "publisher": "The Business Standard",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2JpR1JlZTVTekdHVGZwd3JTNW9PV0FIZVByOGZwTXBRWExmQWJjLWNLVXhJQVFPSjN5ZEFGNFRtdmZqTzR3bWI2OUdHWkdnSTRjOXFDem13N0gyNzEyWEx4cjdLdnFNTmN2NVYwTC1VbFI3TEMwcU9VR05tQkprY3BJQ0tTZF9oSm9hSXNyOEhWMnRVWjZXUWNTekVUbHo3c21YNVkwcTl3bzBYQ1Rn?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
