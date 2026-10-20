@@ -1,5 +1,69 @@
 [
  {
+  "person": "Marc Momeni",
+  "role": "CFO & Director",
+  "company": "Valdor Technology International",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-10-20",
+  "headline": "Valdor Technology International Names Marc Momeni as CFO and Director Following Jon James' Resignation",
+  "publisher": "Kalkine Media",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSUZIeF9oS3F1aTdqMWFQbEVhNVI2dWxNVmF1YmhtSHJTTUJFTmNHSl9GVHdteHhvLUxIekFvdzRlTVpSRmRMQUtpaWZ0dHpLNmdhLVRaVFluSDhIZF9YOFBPRVdlamYxLUdIc3U2RVBsQnFUd0c4ZWpvUUZEeVlkWXprOS1FdzJDblE1RzJIUDIyOTd0Ql9kYlA0Z2lBYVpWVjRmM3lvRXZFR3lQYzZiMElNU3JnTnBNc295eG1BMjdULUM3dzRGdGd1V2NvZ1FFMnluNHpyN3RrMFA1OThrM2p3?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Donnette Leilani Kapono",
+  "role": "Interim Chancellor",
+  "company": "Hawaiʻi CC",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-20",
+  "headline": "Donnette Leilani Kapono named interim chancellor of Hawaiʻi CC",
+  "publisher": "University of Hawaii System",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWlKLUJCMDkyZ1FTbFNrSUpRN3JXYUl5aUR6Y1Z2SndEWnRVRV92YlpEX1UtTG9objdlc193NmpHQUhVVG9BWVlDYW9nZ1I3V2xGcGtBWGVBOFVtTGxOcmVvWlVBYnNzcUV6Z1lIZUcxUzhvM2tjVW1iWGlFM0trTA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Marnie Curbow",
+  "role": "CEO",
+  "company": "Lumicell",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-10-20",
+  "headline": "Lumicell Appoints Marnie Curbow as Chief Executive Officer to Lead Company's Next Chapter of Growth and Innovation",
+  "publisher": "BioSpace",
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMlRySFZ0MFF6a3hyWnZFMzdZV0xQM2ZvNW0yS1ZaZERRcmI4Q21LdUN3REg1TDJuR01wYU4tdHlzYWItZTV5bTA4VlhMcl9vNFVJTFRZWTA0NUNINEJHdTVTWVNQZGZBd1QyOTY1Y0wzam9WV19OZVppWEZ2LWZmSWdNaEhtWFAyekFmdjNYYi1UNXpnQU5HSUVMT1liYzRuajR5dDZoVnBTV0lHY2Q1VWt3THI3NUpMWGoyemdpOUVrVjgxcXlUVXkwNWpVWlVSUlpGVFRnNy1MS3lUX1JFU2VWVTNlTHgy?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Michael Baker",
+  "role": "CEO",
+  "company": "Percheron Therapeutics",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-10-20",
+  "headline": "Percheron Therapeutics Appoints Dr Michael Baker as CEO, Secures Vanderbilt AML Trial and $2.3m Placement",
+  "publisher": "Kalkine",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMDFDV09mcjV4Q3hTclhhWjVyRWZjQjgwTlFxNlJocm11ekNRTzNPcG9FdzM4WVFLOVBKeW1XZVpnTkQ5ODhfVHZvWGFJYmFqNFBoeUN5dWVoV2RRTHVndHhRNUx4d2gyVmhzQzBYcnJZVEFIdVhGN0tXcW9xUkhhZ0hCOHFQSTg4ZmN0N3A2UkZ6ZElqblhYT1R1VEhTWFMwcm5DU2QyaTVqYmlUNmxoLU0wdV9EOHRhWG44TUN5Xzc1b1dvRUxXTHktMHBHTmNDVlUxOUdadDdJcnRJ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Ayush Mittal",
   "role": "Senior Vice President & MD",
   "company": "Ensono",
@@ -1004,6 +1068,7 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
+   "Investing.com",
    "TradingView"
   ]
  },
@@ -1035,6 +1100,22 @@
   "headline": "Barclays names Scott Glowinski MD, healthcare",
   "publisher": "Briefs Finance",
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQajBMQlZtOGR5aEcxUXBEQWdjVklWdm95cUNoSzFiTU5UZ2drN3owLUNka2ZLOV95NmZYbjh1ZTNHTzk5M2psb1lKYW9IZXZXUjAycXpxbEpaSDU1Tm5iUEZqX1hOM3duTURkQXJlRW03ZUowdTBJX0FkelJXbU9tNHJRTE03NjNDOGt6Y1BMQnVadw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jan Gielen",
+  "role": "CFO",
+  "company": "Vitrafy Life Sciences",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-10-19",
+  "headline": "Vitrafy Life Sciences Appoints Jan Gielen as Chief Financial Officer, Effective 1 February 2027",
+  "publisher": "Kalkine",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSEN3My1JdEUtQ3RrazRhdWUxR3l6QWpuZDlScmZNSmJIMFRMYnNjZWE3elVLc2xtY1dCYVZkYlAxNlFVZlFEQXpjd0dGeGRnOW42ajJTQUh6Q2V0NDd1TnJtdWJxVTc0ZWRhejZaVG5HcTZGOHBROWhZQ3JJdDlSdHlFZnF2M2U4clZuYkRyVWtUZ0NFNVUxMm1OME9CR0NLUlpHSFZzbG9XeUNCaklmOG5ua3lrMEhzc0xBMGk4V1N5ZUtfRlFTdmRkcmtUdmxkMEE?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -44529,6 +44610,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Narottam Sharma",
+  "role": "Chief Transformation Officer",
+  "company": "Tata Communications",
+  "movement": "Appointment",
+  "role_group": "Other C-suite",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-07-24",
+  "headline": "Tata Communications appoints Narottam Sharma as Chief Transformation Officer",
+  "publisher": "Elets CIO",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1FmMjF5MFNYc29QSjRwaEdneUVBb19mVHZGQV9zOVFRUEVJV01seU9CemhrWi1rMnBwWS1na3c1VGNEWVVvc1NrWkptYThBMGZfeU8yVEtKZ0pONTQteUY3d0p5TDA4NVNCSHRmQktrTmFiNTF6WlNDalhLaTFnZ0FzcWtqenFHcXZFREZZNUZ2SFV3a0xKcFp4RV93cXh3UnRfR3pDa2VBYXFrUEVxclhWX3o5Mkk?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Prashant Singh",
   "role": "CEO",
   "company": "ONGC Green",
@@ -59546,7 +59643,9 @@
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3JRSFAzREd2ZHpQZG9aQUxGakI1VmdFX3lWY2V5TzU3ZVFPZEJndFdzTnA3SGRYQ1dJQ1ZsTTlSeTVwbkI2QWxXX05HNkVEYlRsMENtUjlOOWktbWRHMm91bV9WTU4yTnBmODJMWW1kLTh2Zi1XTWtKVWtMbkE1WDVUczZtMzBrc2ZYRlBjaks2Q0ZJbmlQVG9LTUN2cmJwbmJ6YlhCWQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "CXO Movements"
+  ]
  },
  {
   "person": "Venkatesh Tiwari",
