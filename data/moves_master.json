@@ -5,16 +5,18 @@
   "company": "AltSchool Africa",
   "movement": "Resignation",
   "role_group": "CEO",
-  "sector": "BFSI",
+  "sector": "Education",
   "region": "Global",
   "date": "2026-10-22",
-  "headline": "Adewale Yusuf steps down as CEO of AltSchool Africa",
-  "publisher": "Condia",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTRm5aX3lJWDdkRzhEYzBTMmVVd0R4blJLalB0WnVpRkNxT19Cd28za2dqMldRLUk3ZUI0c09hNHNmM0dxZEtTUUdyUkhjNHlaWkw5NnRtX2FZUWhZMzVWaEs1cnJlUjlHc0RSUGpZd1hBZ0ZTUmJTVGRFMG5fUEU?oc=5",
+  "headline": "Adewale Yusuf steps down as AltSchool CEO after 5 years; hands over to Sultan Akintunde",
+  "publisher": "Technext24.com",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tV3NMbkNubTBQUXl3RFg0X1U0ZUhCWGREWmdjMElERXl2MFkydlBNMExUZ2RYOHBKQzNHa2poWGtsRlVCMDNvb2xsNmM4VnBsb1dwa0l3TmtuazdaVUhCMG56Y3RuRGN1LUc1MGI4dnZMRDZBdndkcVB5RzFNWUU?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "QED.NG"
+   "Condia",
+   "QED.NG",
+   "Business Post Nigeria"
   ]
  },
  {
@@ -31,7 +33,9 @@
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzl4SjhSd1BqX2ttbm5IWElSaUpVZnNKa0JDNlVwSzF2MVd6QU5aWU1hMzB0NjBiM1ZOOG16aENLNllEaGROQVVHZFZURS1lMkFmdjJOemRvTFcwWjFYaVBaVGpzaE1aTXU1c080ak9VQkZIaUJIR1hwdUFSdmFhdzMtYUh2bmNiRHgtcVozQ1ZPRUt0ZzB1QTEwdVlMVFlFbzUxWlhSV1kzVTQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Uzalendo News"
+  ]
  },
  {
   "person": "Ginbee Go",
@@ -65,7 +69,9 @@
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2JkM1JQb0lRTUJDME9sTkRaVDFwLTBzTDJsY2JNSVZuSW5GbkM0YkxVUEhCMGFTbTNWZHZ4eXVhSDRtaW9lbHdKaV9BU2pOVWg5d3BTaHJ4azBOQ0RnN0thWUd6UWZCSUotaXVTdGRjTDdGNGlRQVVObTZGcExteXpxdDUtRjdYU2V3VXhzTVlNLWJRRkVMZngyaExXUWZMRHZuaGVpc2pNWUdi?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "APAC Media"
+  ]
  },
  {
   "person": "Hemani Bhatt",
@@ -98,6 +104,362 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
+ },
+ {
+  "person": "Arun Patil",
+  "role": "Vice Chancellor",
+  "company": "D Y Patil University, Navi Mumbai",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "India",
+  "date": "2026-10-22",
+  "headline": "Professor (Dr.) Arun Patil appointed Vice Chancellor of D Y Patil University, Navi Mumbai",
+  "publisher": "Elets Technomedia",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaXY4Qmp3N2ozejhHWEU4S3h2UHA5eUUwdmxuYnRLd21DbTFRZFV3UXFYdGliSmk3NEdnN3lIczhMYTJwUG9CMU9nLVhBTXdheWthZ2lMLWhZWGdKWlFaRmdHVndtcEE1WkFGTlpQN25nU0cwV0hzN3pMc2xSVV8zOTAteGN6NlJDa05YeHdIWkFUbmpRSGVqMjZSdVlmUXJHaEVVZXBZMnRyajZDUU03M2xtUHdSZE9OZmxoS3d6TDBHVldrMlNPTk1QVUktTXM?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Prince Africa Zulu",
+  "role": "Vice Chancellor",
+  "company": "royal",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-22",
+  "headline": "Prince Africa Zulu appointed royal vice chancellor",
+  "publisher": "Times of Eswatini",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnl3N3pTXzlaMkdIaDdYY19RMzA4TE5QYUNwOGwycGZHTlFtbHc0M29qVUF5YzFraXJZekNwNGE1ZnN3VlczLXlNN3VDUUUwQmpxMEIyVmlqR0k1d1hSV3ZhZndWMnZsOUlISnNEYmVvMnhhallzZEJhMnN4V2dnLUJZV0ZGMEZRbUE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Chris Rieth",
+  "role": "CEO",
+  "company": "Authorium",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-22",
+  "headline": "Authorium Appoints Chris Rieth CEO, Names Co-Founder Kamran Saddique President and Head of New Markets",
+  "publisher": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSHJXWUs5TXhRRTJjc21XWlUyR0twSDY1ZTY0dDFTMmVjMnBiNWM2U0pYY2c5SDRXT3NURVlCVlpUcXpiS3BiV3lGSFBJd21PbThaaHZyNXJHM3FpSEVQVUFEMTE1Z1BSTF9UazNmQlVVN2lvZEx3NEY3OXFELXJybWdrMEJrck9KZnJaVmhhaHlHSXFhZlhCWHFyR2k4NWZxeVVWUDZJQVptUW9fclN2TDhXa3lqaF94NDdHXzBSTXlxWFIyal9UYnhKVXo4cFYteFBWMDVsRQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jeff Stutz",
+  "role": "CEO",
+  "company": "MillerKnoll",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-22",
+  "headline": "MillerKnoll Names Jeff Stutz As CEO After Interim Leadership Period",
+  "publisher": "Pulse 2.0",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV3BVSDJ0Qkt1Nk82TDd2OXlzTnZsZm4xenhnVDZ5Z1lZXzFzQUpLY2tnam4wYmtzXzN4a3I4WUVqaEh6TGRXd1FQZXRDZTlrWVVsOEFZNlB2QzZRNG45aVJfYkhJZm1MMkkyNTFVSmRYelBXd0JXaXFFdmk5UURHUGN0eG1ScVZHUEVOd0M5X2c?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Katie Norris Senior Managing",
+  "role": "Director",
+  "company": "FTI Consulting",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-10-22",
+  "headline": "FTI Consulting Appoints Katie Norris Senior Managing Director in Healthcare Risk Management Practice",
+  "publisher": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVVJhb3R3bldYQmwzVUI4MnRIV0otRXBfeHgwUzN4S01GTjYzdld3YU5CaE5JNGFvcE5RaWZjYUlXWHVnTmV1azhRcGJvNFJpUkRQSXNPUlViOTVCV1B2YU9icTFETnA3eU1CdWFMR2pIMGwtUGVFTTJqcVNWdEh1SlBCMF9yVnU4OU9ScHFPU25VdmNjVHBGaHd5YUc3cjM5eVJHR0NLbzNna3Z2YmFDeHFGS0RpSExwZ1lwVzl1RmxhNjF2YnRsUk9kYjJCQkhMZFZwTUVR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jason Krause",
+  "role": "Senior Vice President",
+  "company": "BPGbio",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-10-22",
+  "headline": "BPGbio Appoints Jason Krause as Senior Vice President and General Counsel",
+  "publisher": "Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3hDYmJfcUY3SWxhRW53cTJPYjhPSjRmUlNzd2UtX2U4UEFNVWdocWRkN25lNVR6dDBPbFpUSE5uMEM0Sl91VTBPT3VyV084OGpXelVDako5ZzgzWngxeG5yRjR0UEhES21CeHUwYklqeTFIM0pKY194U2JmLUNvZm5qZUF3c3JFRWFzbS1vcy1ocjdmdzNWTkdsT0k?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Sachin Devare",
+  "role": "CFO",
+  "company": "Creative Eye",
+  "movement": "Resignation",
+  "role_group": "CFO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-10-22",
+  "headline": "Creative Eye CFO Sachin Devare resigns; board approves ₹15.98 crore debt",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVzZiSXNiN05FSTlQOXNOOERpS1N1THdCSHAwb1pHYU9VUjgwWEo2YkhNbzljUk45Umo4dzhHT1IxelpmNTdpYzRSZmJqanhEVEFOWkhpQ0JVQXJHc1ZPRTY0Qm9IdEVmMUljX1pKbV9YQkw1aEozVlhZZ2RJRlF3NWxndjY0aE42dWxIcm4tOUxSUGp3OXdCdEpGUUJ1X21XcFVHdFJrY3pTRWNzMFlHREk0YzNCUGNKemg3T3R2UXFwekZoRlE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Victor Zachariades",
+  "role": "CEO",
+  "company": "TopFX",
+  "movement": "Resignation",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-10-22",
+  "headline": "TopFX CEO Victor Zachariades Steps Down to Scale BKR44",
+  "publisher": "Finance Magnates",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWhxYmNHX1BhREdjMm9vV2xsclpOR2pzTnFNR3NqcVdtUkJXeUxpUnRlSEE0YWtVWVBXMi12ejhhX2w5QXJFMklkdnFIYXZmazBIaGxSNEJiYXhHcWR6Q2ZZYkM3OHc1WXhtZEM0bUEwOFlCb2ZIaHBiUEZFUUFoZW1TNmRaSDNubk5LTVZkV2l1THROUFNfWGw1b2VKdHRJbFJ1aFZqcVJia3A0bjl6VVpwZWlvY2pfekdB?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Leanne Maciel Managing",
+  "role": "Director",
+  "company": "Poets&Quants",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-10-22",
+  "headline": "Poets&Quants Appoints Leanne Maciel Managing Director as Sat Sharma Steps Down",
+  "publisher": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaXllbVRHbER1V3dLeEEtdU9nZ1VTN0l3elB1MGJQNlR6dTgyclZ2NHA1UW00Vk5WVGhyM3hUZzFvMGltUTRYOXlZVUtQMnRIT3p3R2lDNHMzYjdCNVUwSkpMVFY2aU1IQ2JUd3RmQjZwM0tFbTdfUmlVYXhGZTZKeFZxcU9vOUY0MU40S1RwWVpZWEpVc3FHeTFMR20wRGJpR2dTSlBCX0hDS09nUE55a3BtclhYQ1U?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Pierre Ziemniak",
+  "role": "Director",
+  "company": "Series Mania Institute",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-22",
+  "headline": "Pierre Ziemniak Named Director Of Series Mania Institute",
+  "publisher": "todotvnews.com",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLXFuR3htMHhNTFJrc2FjRmpCejR2cmVWN3A3LTlfNkFCcGZDZXpvbzdBWHN4dDVjV1VmZmdUdnVmNEdRNFBxSXRJSzlTWTlIbVNfVEFwd1hBREI0UGtPbmhNWWJIdGdOODFFOWZwSHVhRXRfZXI5THJYRVgzQzUtUG5xUXdRUm9lRjRGY2V4alE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jignesh Patel Founding",
+  "role": "Dean",
+  "company": "Carnegie Mellon University",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-22",
+  "headline": "Carnegie Mellon University Names Jignesh Patel Founding Dean of New Miami Campus",
+  "publisher": "University Herald",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd1Q3OTR4djc0VUJhemxOenVCUWNwOHZ1bDZkbjhNUmFMRnU3RWs4ZE9XaEpzTWgweG16bFdZMm5lTnNFbnBHaDI0T0xadEQ0TWdmSVY3SHNtQm4xblpvRDN6bTdLeUVKYkhsVDIwRndXXy1Ia0NldkM5d25BVmVRUHJYTkRBek9hSUROcmNNaVJNbGx6aXd4a2JmSlNGWGRFYWcwRUVJY0ZFNzNuN1RJenNld1lSSFQ5em9EQ1lnVXFkYVhWTmxBNnpkc0RORDB1Y3VMQg?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "John Scanlon",
+  "role": "CEO",
+  "company": "EPI Foundation",
+  "movement": "Resignation",
+  "role_group": "CEO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-10-22",
+  "headline": "EPI Foundation CEO John Scanlon steps down after six years",
+  "publisher": "EnviroNews Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT0Y1OTdSc2tZZ2RZU3NBYnhha2hVczNpVF9nMGsxZnRZZmw1MmNUbDVhTW5GSkItZFgwSndXVUNYU0ZQb01Gb1d3MVFxSDVJQlZUQkl3REh6X2J5VEd5Z05PQzJjdENKa011NEcweHpsWHB0a2RSMGl4UXlJMzk1Vm5RSDRVY3hpb1JBcE9ZVDF3THdJazBlcQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Chadi Nabhan",
+  "role": "Chief Medical Officer",
+  "company": "Foundation Medicine",
+  "movement": "Appointment",
+  "role_group": "Other C-suite",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-10-22",
+  "headline": "Foundation Medicine Appoints Chadi Nabhan as Chief Medical Officer",
+  "publisher": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVU5Hd0hLWHVQUDVnZ0ZXaHBxMElzeENyVVp2WXhWczFlZ1FkeWs5U2JIUmtkUDNLald4QUQ5ZTVNUHQ0SG1iTTRWWFBiNXI5WlJmNEJXYjRQWmpuU3pBOGltVHduVm5JMEJtVEFGelAyQjF2MFpseVZ4VEEyTXJpd1FSSjBTSEQ1alNKQWUtNS0xS3p2VWZFVkx3LTkxZk1sbDAyaXJ0REc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ayaskant Mohapatra",
+  "role": "CTO",
+  "company": "SBI Securities",
+  "movement": "Appointment",
+  "role_group": "CTO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-10-22",
+  "headline": "SBI Securities Appoints Ayaskant Mohapatra as Chief Technology Officer",
+  "publisher": "MediaNews4U",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQalI2OVItZXlERk9UUnNWY084QjlZdmlkUFVzX0s0SUcySWlfZ2MwNlQ5azI5QTlNMG9JeXJVd2x2NldicWNMNjc5VXBES0JzQV9ER2k5YjZ3YTBjR2VkdFlYS3RCR1B0OWF1dHNyalpGY2N4STZnVTVxRnAxeWJ3OEloREhWVWU2dWU1VGpQVVZGVElKS203U0NfbGdoRTh1?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ashutosh Gautam",
+  "role": "Director",
+  "company": "NBCC Projects",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Corporate",
+  "region": "Global",
+  "date": "2026-10-22",
+  "headline": "Ashutosh Gautam takes charge as NBCC Projects Director",
+  "publisher": "NewsIP",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VbDJ4cDlESmxPRllkRmtseExmTzRSbVVrZkphWXdtVkVheFo5Ri1uUmVvWUxzdm4wYTN6S1oxV19kVHBPWWRVT0VGckVtNlpJNWhBUnhvV3l4V2lXVVBrWXV2QlVSQk16clgwXw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "SUNIL KUMAR",
+  "role": "Chairman",
+  "company": "ONGC",
+  "movement": "Appointment",
+  "role_group": "Chairman",
+  "sector": "Corporate",
+  "region": "Global",
+  "date": "2026-10-22",
+  "headline": "SUNIL KUMAR APPOINTED AS THE NEW CHAIRMAN OF ONGC",
+  "publisher": "IndianMandarins",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdWdrVVNpZU96SjJWYVBxSlZzM29pREg5dl9LUWdidVMteVVlVFFfLWtoOVduNlg2QmkwQ3MyWnBKUHlxQkYxcGhKbTItWTR1VktHcnlILWRia2lPMEhER19za2I5MFlpYnB6enRuVWdHcENPLUhWM1ZrTzB1THprQjNLVnJjQVVlZ2ozc0NjcEVyQnVET2Fv?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "AD HOC NEWS"
+  ]
+ },
+ {
+  "person": "Sunil Kumar",
+  "role": "Chairman",
+  "company": "Three-Year Tenure",
+  "movement": "Appointment",
+  "role_group": "Chairman",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-22",
+  "headline": "ONGC Leadership Update: Sunil Kumar Appointed Next Chairman for Three-Year Tenure",
+  "publisher": "Indian Masterminds",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUDNFdDhnY0lVUGNRMVNQeDdUWVhqYllTV2c5OVRnYU9HSkJibUpEMmV2SzF4MXhvYWhFQm5Lb0ZWeUt1MUR5TVFjalJkYjVja2ROQ0J1d2ctZm85a2Q5anotQ3N4N0pUZ1Y5dWF1ajhpZFlqa3h1LXl2Z1RmVml6VFNmX0NkMFMyTk9YOUhoakxxWFVRbjZnM19kc0lrc0ctbUE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Sunil Kumar ONGC",
+  "role": "Chairman",
+  "company": "Government",
+  "movement": "Appointment",
+  "role_group": "Chairman",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-22",
+  "headline": "Government names Sunil Kumar ONGC chairman; to succeed Arun Singh in December",
+  "publisher": "The Economic Times",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNU1ybUVTd3I3TGNEMDlST3NiblROcF9fT19GZUd3MmRTMVBwXzlvaGpENlFndFM5bFdoUFNhZ1NHUktzQ09ReXBUTTZhZVVpMHNOUEtqMTdsc3p6dFl0ZU9kdWNsTXd3c09hS1daYTZqdTJlY2dGRGxNNk1Ha0tjUm1XbkNPTzFYQ29FMVdINzdlWFpMbFdGSHNxemRZVDAzLU93VHZHOENPU2RmbkRwcm1Za2Vyc2RqV0paN3hla2xNYzhZNHhIUE1ua3JnajdHaWNjWEstYmhMbEw2bWhHZVRFdjgxRDMtTkE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Subhashree Pradeep",
+  "role": "CHRO",
+  "company": "TVS Supply Chain Solutions",
+  "movement": "Appointment",
+  "role_group": "CHRO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-22",
+  "headline": "TVS Supply Chain Solutions appoints Subhashree Pradeep as CHRO - People Matters",
+  "publisher": "People Matters - HR News",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONTYtUG12ZVJ4UHduR2tqQmtPQTlnQmlleU5Qc3AyUi1kLWVqRE9IdURZbU5kc3QzM1VCal8yZFlnQUhDTk8zVzZpU0QtSUFlZHlwbjQyQ1gtQ0QwcG9mdkhsNTcyY2IyRXlIbjJxcTZrdnpOdmFiQnlKNEpySmRDOEtwbzdmSV94Qzg2dlhnMzJ2TURHblFYR2hfSnJIMkN5RXRoZm5uNWxBeUVBV09FTHB1MFBGLUVf?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ravi Kumar",
+  "role": "CFO",
+  "company": "Cellecor Gadgets",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-10-22",
+  "headline": "Cellecor Gadgets appoints Ravi Kumar as CFO to strengthen financial leadership",
+  "publisher": "Indian Television Dot Com",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSlBUXzJhYXMtYm8wQXhKX2sxQklaOWtXbFcyRHA5UEhOaW03eXBZWHU3V2VndlF5MUhwYlhzekF2aFd3RW9SMUNkWW1VdkpHNGRNemlZdTNQUWp2bkRXdERjd1hhMkZUcnBIMmdIZXpCNHN4enp4UmNCTnlLb2ZFSFB1R1RGTHliQXRMU2w3VVJuWGN4NmkxQjZQb0RLellvTVhRYmtXMklhbTJEMVg3LWdR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Amit Gupta",
+  "role": "CEO",
+  "company": "Catalyst Management Services",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-22",
+  "headline": "Catalyst Management Services Appoints Dr Amit Gupta As CEO, Eyes Expansion In Social Impact And Sustainable",
+  "publisher": "Free Press Journal",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNU1jcW1Uc2RjOElva1U2SHptLVlhUHlLSlRfWnhHY29sNUpzWVlmWktnbENYVHlTMDI0TnN2NV9pYzZac2ZPSlNRYjJEX3NYUXMwWDZaaERCUmhsRGxhOHFvU1llZzBLSU1RUzlpTWdyVmVtVGhBUDNHS0lXRi1STGt4aC11emNEalZ5UThfVXByd0VicVFkUEhBWEM0QnN2cmViSTM2eGdwVVVseVhvdlVsOFhUQnVKQWdBV1J2QlVXM0VFQzBqZDUtQ2oxeVR4TExJQ1Rwenh0cEdybnR3cWFSRjRtaG0zTF80a0pwMljSAfYBQVVfeXFMTzV0QU8tRTFabGZzZWpfS3BJd3JKalJuYVhkS0Q5WWFtVW9OcXhOdV9XS1RRWldFRXBQcUVteklIdElZSG1KOEQ4X0dob09UU0htM3QyNm9qYTVpdW1yYnZicC1OOGIxXzRpUVc3TEpTQTJnbmRnX1JNODM5NnNZZUh5aXVaaXc5NkVWVHBvQk9PVzk3V3ZoRTZKRnlOenlWcDRXNHEwdEdLa1dwNjBhNGIwU0dBRDlEX21tZ2ZrUzIxQW1oX1lCVmpZZ19UQXFXZzlkdk9LQTRJOUVDd1J1ZHM0UTBEZndmYTM0azBQSWdRbThsYnlR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Morten Holum",
+  "role": "CEO",
+  "company": "Nel Hydrogen",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-21",
+  "headline": "Morten Holum Appointed New CEO at Nel Hydrogen",
+  "publisher": "Fuel Cells Works",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX0R6Z1ZSUzlYdDlCMXlpRjdUMlNLZTZNeG51WVJ6N2REbDR4NEVsWHdOcWxwMkYzZlFsSnVTRHQ0VGdDdXloVnluTXp4UkJja3ljbzBCWVRXbXVtdzJ6amRQRHA2YjhUNmU0TjNBNE53emdsN3UyUnFPX0FCb04wYmxYdWNxODA3eV93N2tYUW5KX1BPcnl3S2NfeEVtRjViTXk5c1VIcVlZNXdzcE53WGJZVTNBQmsyWHNxV3F6T2RtZW40OG52MndKRGt5NFZG?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "The Manila Times"
+  ]
  },
  {
   "person": "Kim Jun-seok",
@@ -332,7 +694,9 @@
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1ZlMGdNdGNXMVFtN2xkUnotMk02eU5iQTlTdVpQZlN2RG1SWWN0cFJMOUZNQm1CMTdfUmRkdV85SkFSSU9KYUNrbkgxcG5YS0VjM003d1ZaWkJ1WjRxYllSb1BleTdOVDAtUjBaTU1zMmtvMURzbkhtQlhVaVphVENXME1TQXpLZENicnY3akxoZw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "citybiz"
+  ]
  },
  {
   "person": "Frankie Carter-Kelly",
@@ -705,22 +1069,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Morten Holum",
-  "role": "CEO",
-  "company": "",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "Education",
-  "region": "Global",
-  "date": "2026-10-21",
-  "headline": "Nel ASA: Morten Holum appointed new Chief Executive Officer",
-  "publisher": "The Manila Times",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM2s4dHZielM3bjBkYmdXUEh2Y2xJMk1CWk8tbFZUakJzcHNoaFRjNTUydjg2ZjFUWVZfdGU3WEwxRTF3UlVrakNxQzZtQlFYR3l1OXVPbHRicTluTUR6MThVYmFrSXh2SXlCcnJMdVk3THdvMi1OQTBmb3NpMTlTNUNtX2R5RW9URWJFRDd4Rm0zM3pPSVBLZ2FfdjB1LVR3YjEtSmVIT1VNcXkzaVJpbmdEaGhkdjNFUDE0TFA3eXRvTWdldDB2eXl30gHPAUFVX3lxTFBpMzc4TGM5SzBxU182aU94M2dpWHZSRngxaFBocGN5SVlpUlkzSHpodXh1QTJjeVF2eFlLZTZVZXY4aTlxQkM2aGNFSnJVNFl3Qm56S2dGN3BRelNUMXdFcUZ5OG95QzBWak5LS21VNzVlQWttalJoaE00Z1FUR2hhb1BRc2F1ZDliV0dmVDM4NGhDSmIzcEtYRkxLRHVUOWhudkRXVjFMcUZmYUtUUkJ5b1hRcW9vVUJIV3lVZ3NfR1RUWXF5UFM2WENid3pySQ?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
   "person": "Allen Kaplan",
   "role": "CFO",
   "company": "Frequency Electronics",
@@ -764,6 +1112,38 @@
   "headline": "Irda appoints Ashari Kasnan as new CEO",
   "publisher": "The Star",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlZBQkFBeDRndzFDRW1pdHdYWVNuRXlNUE5xdFNkVHFfNDJWMmhPRmttUDdOVFdFNEhBNVVDM1dvTTBKVlRaQWFERk9Rbmc4dXZIX1ljUERGYzVOcDR6eHV6R1BiLWZjcnFsTkdrWHJDU0dyV0JmWkEycHJXNjZ0VENxQmFuUGVhMG1XUkhLWVVSeUlpazNhRHVkWjRGZm1C?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Sanjay Kulkarni",
+  "role": "CFO",
+  "company": "Elantas Beck India",
+  "movement": "Resignation",
+  "role_group": "CFO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-10-21",
+  "headline": "Elantas Beck India CFO Sanjay Kulkarni Resigns Effective October 21, 2026",
+  "publisher": "Sahi",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRUl5cUxVY0hCUl9ndFhEcnhuTXFwa0I0ZzRCVUlTNTlOOVZZbWlxV0Y2QzBaWTlDUHd5Zzc5S0lhY2NNT3JZUW5WYmVRTzFkR2lvYlFucVk4S3ZnZ1RGaVJDbUJZX3AzNDF2WXpvNlNncGZWTTlydmR4VWtnZWdNb2xhRlRHUmJLR0EtMjRBbHU1M09XeHlvaVJoMl9ITms?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Anirban Gupta",
+  "role": "Head",
+  "company": "Lockton",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-21",
+  "headline": "Lockton appoints Anirban Gupta as head of human capital consulting in India - People Matters",
+  "publisher": "People Matters - HR News",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNEFVeEQ4cE5kdVlMaUM0WnpQS2dwRU5BdmQwcFpURUJEdnNETl9Ka0JkcTRreHRSZ3lwZFdUbjdfX3hoay1MN1dJajVkWEI5MTNyckNQSEdGNjRLYzI1bFhHY0d3YVZmd1hmcC1rMG5OZG1YMjhwSmJYRVJLcDBhR2RsZnRmUU12Z3Y1TUVjeEpOODJvQ0dfMDJMQmRfR1NoVy1IMkFQNndwb0dWTE52eTJLM0o4bUFvTmFkRmhtc3VyTFBRanNHTnZn?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -2782,6 +3162,24 @@
   "also_reported_by": []
  },
  {
+  "person": "Alok Das",
+  "role": "MD & CEO",
+  "company": "Meghmani RENEW Energy - People Matters",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-17",
+  "headline": "Dr. Alok Das appointed MD & CEO of Meghmani RENEW Energy - People Matters",
+  "publisher": "People Matters - HR News",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjlHRE9PWEF5Y2toWURXM0JMU1l5ci1WdVc1dkJBVFBZZllaT0tydjVITml4R0NGb01McFBmVUdLR3hkTGgyNGVRYjdBT0ZOTWdnR1NqbUotU0NxYmhSREctVVdwYjJmLTVnS21ycTdHdDZUUmQ5bE56X0NGaW1odFhXSU9IbEhaM1pLSVdaNWYtZFFESkNGRThybjVXRWREdG82UUdWcW5kRlFaMVQ3Z05n?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "Energetica India Magazine"
+  ]
+ },
+ {
   "person": "Professor Wezile Chitha",
   "role": "Vice Chancellor & Principal",
   "company": "Fort Hare",
@@ -2975,22 +3373,6 @@
   "headline": "Anup Lewis Appointed Chief Human Resources Officer at Ace Designers Ltd.",
   "publisher": "https://hrtoday.in/",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeklOeDdEQnA1a3ZYTThHNmJhN2t3N3o1OGRCemY4NDd3R2w1VnVmR2N0Umk3R0d0Q1ZNRVU2WkNUZHJPUGhuVUJNQkxVRnhjT3JzRUlJZjNmTk1nVjA1VkFxNXFTaGh4MXFwYUJUZUdJSEdScGxEV3lUMmJHYzdEWFYyNTFwSl9hR0lZYWRnb21pT2NKc1E?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
-  "person": "Alok Das",
-  "role": "MD & CEO",
-  "company": "Meghmani Group",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-10-17",
-  "headline": "Meghmani Group Appoints Dr. Alok Das as MD & CEO of Meghmani RENEW Energy",
-  "publisher": "Energetica India Magazine",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYWVkMnh1NGc4cDBBbjJUeUxrNDQ0a0w3amQzQjBQT2djZjR2QUxwc2FYRVctai1xV0c0WF9GZmZLMzNoWjZ2MGhnZXpvbHUtU1otUFp5d29xcXVMMy1JeDVtcWlMZWd4aUljRC05QlZpSVNmV0pEQlFna09BUmlZc2ZYamF4RHJJejVQV2pnbTQ0LWJRRGMzenlIYUs4elNuZXRoa3RERnNfV0R6V2c?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -9026,6 +9408,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Amit Kumar",
+  "role": "Interim India Head",
+  "company": "Google Cloud",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-07",
+  "headline": "Google Cloud names Amit Kumar interim India head as AI push reshapes cloud market",
+  "publisher": "Storyboard 18",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTV94U2ZGaHo5S2pWRGdtTzl4VmRBU2p6SkRONm5pcnZtdjBVdUxZUFBReEU4and5UkViYndfSjNMLTlXem50bjV0SGlfNF9KTUc5YXhwbjZhZmcyNmloc3lxMWhXZE9zWUJfR1lMNmZxalpnU044eUlfU1pnMmRfWERUajdxd2p5RWpRQ29DaEZUTDBzMmRFZlFOSFlUYjIxSGNtbTAzUGJDSW52YzFKX1N3bi1HYkF2V1dsY0xfa3lYazNLWEFz0gHHAUFVX3lxTE1NX3hTZkZoejlLalZEZ21POXhWZEFTanpKRE42bmlydm12MFV1TFlQUFF4RThqd3lSRWJid19KM0wtOVd6bnRuNXRIaV80X0pNRzlheHBuNmFmZzI2aWhzeXExaFdkT3NZQl9HWUw2ZnFqWmdTTjh5SV9TWmcyZF9YRFRqN3F3anlFalFDb0NoRlRMMHMyZEVmUU5IWVRiMjFIY21tMDNQYkNJbnZjMUpfU3duLUdiQXZXV2xjTF9reVhrM0tYQXM?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Puneet Sharma",
   "role": "MD",
   "company": "NielsenIQ",
@@ -9264,22 +9662,6 @@
    "hrtoday.in",
    "Indian Television Dot Com"
   ]
- },
- {
-  "person": "Amit Kumar",
-  "role": "Interim India Head",
-  "company": "Google Cloud",
-  "movement": "Appointment",
-  "role_group": "Business Heads",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-10-07",
-  "headline": "Google Cloud names Amit Kumar interim India head as AI push reshapes cloud market",
-  "publisher": "Storyboard 18",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTV94U2ZGaHo5S2pWRGdtTzl4VmRBU2p6SkRONm5pcnZtdjBVdUxZUFBReEU4and5UkViYndfSjNMLTlXem50bjV0SGlfNF9KTUc5YXhwbjZhZmcyNmloc3lxMWhXZE9zWUJfR1lMNmZxalpnU044eUlfU1pnMmRfWERUajdxd2p5RWpRQ29DaEZUTDBzMmRFZlFOSFlUYjIxSGNtbTAzUGJDSW52YzFKX1N3bi1HYkF2V1dsY0xfa3lYazNLWEFz0gHHAUFVX3lxTE1NX3hTZkZoejlLalZEZ21POXhWZEFTanpKRE42bmlydm12MFV1TFlQUFF4RThqd3lSRWJid19KM0wtOVd6bnRuNXRIaV80X0pNRzlheHBuNmFmZzI2aWhzeXExaFdkT3NZQl9HWUw2ZnFqWmdTTjh5SV9TWmcyZF9YRFRqN3F3anlFalFDb0NoRlRMMHMyZEVmUU5IWVRiMjFIY21tMDNQYkNJbnZjMUpfU3duLUdiQXZXV2xjTF9reVhrM0tYQXM?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
  },
  {
   "person": "Anuj Arora",
@@ -14981,24 +15363,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Haryana DGP O P Singh",
-  "role": "CEO",
-  "company": "anti-drug body SANKALP",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "Pharma",
-  "region": "India",
-  "date": "2026-09-29",
-  "headline": "Former Haryana DGP O P Singh appointed CEO of new anti-drug body SANKALP",
-  "publisher": "Legend Officers",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdmFUWkgwQ2xQd3M3M2dEZ2I5RVRYTVhjcUVyODM3bnVlMEltM09vX1JrajduaE9OaTExUmtXQ1p4V2xoZ1BzbEYyM3VIakZaNmVvQjA0Z1Bua1NicDlJS2FZMHM3TnRoSlJpOTFjd1pnN1BBLTBUUENTNDVRX3h2b2lzSkxHcWs2RmhVSHZ3NXA3Q3BNUjZXcFJvMk9fSUstZFE?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "thestatesman.com"
-  ]
- },
- {
   "person": "Ashis Kumar",
   "role": "MD & CEO",
   "company": "LIC Mutual Fund",
@@ -15018,6 +15382,24 @@
    "People Matters - HR News",
    "Fortune India",
    "afaqs!"
+  ]
+ },
+ {
+  "person": "Haryana DGP O P Singh",
+  "role": "CEO",
+  "company": "anti-drug body SANKALP",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Pharma",
+  "region": "India",
+  "date": "2026-09-29",
+  "headline": "Former Haryana DGP O P Singh appointed CEO of new anti-drug body SANKALP",
+  "publisher": "Legend Officers",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdmFUWkgwQ2xQd3M3M2dEZ2I5RVRYTVhjcUVyODM3bnVlMEltM09vX1JrajduaE9OaTExUmtXQ1p4V2xoZ1BzbEYyM3VIakZaNmVvQjA0Z1Bua1NicDlJS2FZMHM3TnRoSlJpOTFjd1pnN1BBLTBUUENTNDVRX3h2b2lzSkxHcWs2RmhVSHZ3NXA3Q3BNUjZXcFJvMk9fSUstZFE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "thestatesman.com"
   ]
  },
  {
@@ -21875,22 +22257,6 @@
   "also_reported_by": []
  },
  {
-  "person": "N.K. Soni",
-  "role": "Director",
-  "company": "Yashoda Medicity",
-  "movement": "Appointment",
-  "role_group": "Board & Directors",
-  "sector": "Healthcare",
-  "region": "Global",
-  "date": "2026-09-19",
-  "headline": "Dr N.K. Soni Joins Yashoda Medicity As Director, Internal Medicine",
-  "publisher": "BW Healthcare World",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGtlU19kbnpfYnFIM3F3dnFpc2liM2pucGpzWHJ3TkhwMGpJVTJOUEJhOURzNW9nZTVVanR4WlZiOHNsY3RGeHB4bkQ1N2d6MWVaMWFrUDR3WW4tS1FsdGN4R3p5ZUZfVkNGMm1iWk1lSjc2UFI4RzkzNDljQzJ2YXI1N2FHTmtqUWtyZU0xeVpzQ2oxRXRQbzhEYS02a2pFMGJhMXcxTllzckxMbGdyUE1IMA?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
   "person": "Ram Kumar",
   "role": "CEO",
   "company": "Collective Metals",
@@ -21907,6 +22273,22 @@
   "also_reported_by": [
    "kalkine.ca"
   ]
+ },
+ {
+  "person": "N.K. Soni",
+  "role": "Director",
+  "company": "Yashoda Medicity",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-09-19",
+  "headline": "Dr N.K. Soni Joins Yashoda Medicity As Director, Internal Medicine",
+  "publisher": "BW Healthcare World",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGtlU19kbnpfYnFIM3F3dnFpc2liM2pucGpzWHJ3TkhwMGpJVTJOUEJhOURzNW9nZTVVanR4WlZiOHNsY3RGeHB4bkQ1N2d6MWVaMWFrUDR3WW4tS1FsdGN4R3p5ZUZfVkNGMm1iWk1lSjc2UFI4RzkzNDljQzJ2YXI1N2FHTmtqUWtyZU0xeVpzQ2oxRXRQbzhEYS02a2pFMGJhMXcxTllzckxMbGdyUE1IMA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
  },
  {
   "person": "Kristi L. Smith",
@@ -26147,6 +26529,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Sunil Kumar",
+  "role": "COO",
+  "company": "Jubilant HollisterStier Allergy",
+  "movement": "Promotion",
+  "role_group": "COO",
+  "sector": "Pharma",
+  "region": "India",
+  "date": "2026-09-12",
+  "headline": "Sunil Kumar elevated to COO at Jubilant HollisterStier Allergy",
+  "publisher": "Indian Pharma Post",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVW1oRnU1VEN1LXpWc2VrZVhGYjdPLWJFbTYycXRINmVpTnJ4b1ROckUxMVRrTms1WjdwU2tyemJONmR6MHhEMDVETU5pNXVLdXphNG03V3lFSm9kVW95dTJrMkZRLVd5VU13d3JPSDR2V2prZDdleGthY3ZmQy1LMk1Wb1VWODY2OUgxTVBHUzY5R3gyV3QzeF94TDhiUUU0NEt2Y2ljTlNoUy1nZGdhUlNJZ9IBswFBVV95cUxNVW1oRnU1VEN1LXpWc2VrZVhGYjdPLWJFbTYycXRINmVpTnJ4b1ROckUxMVRrTms1WjdwU2tyemJONmR6MHhEMDVETU5pNXVLdXphNG03V3lFSm9kVW95dTJrMkZRLVd5VU13d3JPSDR2V2prZDdleGthY3ZmQy1LMk1Wb1VWODY2OUgxTVBHUzY5R3gyV3QzeF94TDhiUUU0NEt2Y2ljTlNoUy1nZGdhUlNJZw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Satendra Singh",
   "role": "CEO",
   "company": "Amber Group’s Electronics Division",
@@ -26290,22 +26688,6 @@
   "headline": "HDFC Bank leadership update: Board reappoints V Srinivasa Rangan as Executive Director; Jimmy Tata gets key role",
   "publisher": "ET Now",
   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVnljaHRZV09PalIwYXhlZGM3T3VPblF1cTRHMFcta25NdVJhMTRzSEVZVHdBX3U3c25BdmlEQXNvWWtRblE2bUhFNElvRFFYRzhrcHRjQzdrWDd4TGZLZ2NuN3VLRXVzZnFhMzVHYVM0MG1zQjg3bHl3UWptbnFiZTg0YTNuYmd5aVBWUkV0TTJzSjU5WFV5T0swWVJYRHhESHYxdDZMTnZuNV9nMWNUb0xZamlTZ0JYZFZLSlZSc2dWMXc1bWQtTEdIWDlYNVg4R0ozTUtWTDFiMlgwVWRVRmZkVmRHTmx5ME5PY2xEN056UG5XT3kw0gH8AUFVX3lxTE1EOFBfX1FaVnlqWEppMEotdHloM2lPUGo2ZTVscnpJYXQySlhJcTBBUnlEMVZESWJZWnV0ZHo4LWNkUlNvbURBXzJQU0FjQVJEQ1VUaUt4RDB5ZmxXOFBhWlpQZDFGaFFfNGFMQ1VxOTEtWWZ6dVF2Qk9NTFNXcmo3N2Zwc0pkdFJiWEtmVkFPUVBpd2Q2UnBaM3VJeTBXU0luZ2dtZjFWWEEyWlBPeFhDWHFNVTZkYjBHZlp4WklleFhpbWlCbFdRWjgwdnpSTnF0ZUF5MmhjcTcxYkEyQXIxUDZkLU5NRzZTS3VWNE1vT1M4dnMzbzNQb1pNbg?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
-  "person": "Sunil Kumar",
-  "role": "COO",
-  "company": "Jubilant HollisterStier Allergy",
-  "movement": "Promotion",
-  "role_group": "COO",
-  "sector": "Pharma",
-  "region": "India",
-  "date": "2026-09-12",
-  "headline": "Sunil Kumar elevated to COO at Jubilant HollisterStier Allergy",
-  "publisher": "Indian Pharma Post",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVW1oRnU1VEN1LXpWc2VrZVhGYjdPLWJFbTYycXRINmVpTnJ4b1ROckUxMVRrTms1WjdwU2tyemJONmR6MHhEMDVETU5pNXVLdXphNG03V3lFSm9kVW95dTJrMkZRLVd5VU13d3JPSDR2V2prZDdleGthY3ZmQy1LMk1Wb1VWODY2OUgxTVBHUzY5R3gyV3QzeF94TDhiUUU0NEt2Y2ljTlNoUy1nZGdhUlNJZ9IBswFBVV95cUxNVW1oRnU1VEN1LXpWc2VrZVhGYjdPLWJFbTYycXRINmVpTnJ4b1ROckUxMVRrTms1WjdwU2tyemJONmR6MHhEMDVETU5pNXVLdXphNG03V3lFSm9kVW95dTJrMkZRLVd5VU13d3JPSDR2V2prZDdleGthY3ZmQy1LMk1Wb1VWODY2OUgxTVBHUzY5R3gyV3QzeF94TDhiUUU0NEt2Y2ljTlNoUy1nZGdhUlNJZw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -36720,6 +37102,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Amit Gupta",
+  "role": "CFO",
+  "company": "Trident",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-08-27",
+  "headline": "Trident appoints Amit Gupta as Chief Financial Officer",
+  "publisher": "Business Upturn",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWEVxNmZac3A1YmR5SHBDaFd0NVdBdXpaaTFkOXlIWUVRU0hDaVZvQjJIeXcyOHkya2VQcGNYcEJWOGhQOTJFd1hKUkxpN0UxeklodmdMc2dXeUpSTVBUN2ZsZmNubW4xTzZjTEk1dHYyaUhZY09ERFU2Umd5eEphTThWSEp1QmhRS3ZjMzVPdWVBTmg5N3RhdFZJWQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Sanjeev Kumar",
   "role": "CFO",
   "company": "HCG",
@@ -37181,22 +37579,6 @@
   "headline": "Volkswagen India appoints Rishi Goel as Head of Dealer Development",
   "publisher": "ET Auto",
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTWViVGdxX3NXS0pFZ1EzQ1dFTzFQLXA1NzlXUnlMZXVVdnRPY1pSdUpfOVJ5SW9xSjJBeXZyd3NLa0hSb2JnUXhGaGlnZ2NTUWdseXlfQnMxd0NjMmo5Mm9Hb201T3B5WHNMM1lPM25mUkJIZUk5R211SXlDTHpBYWVQZEtoZ3dwdDRhTHh6SHR4cFRYS0psb2M2SzRwSXlNTlFScGZWRnZSaWpJS204aXRVWGRfTU1YekZFZGs3Qms1aTN4TUcwWi1HSkk2di1SbnhmYzFCMHTSAd4BQVVfeXFMUENpcHo5UEg5aC1KekNZZEJ2RU9KNjZVQTQyLVBOSjZ6UE4xbHpKRWZMa3pyOFJGSkRYUFZyQmsxT2JtNFI5aThDaF90aEpWUDcyNXMyRHB6S05vakNqNm13RDdWYjJCanhJMmVtNGloc0RFUmhqcXZnS1hiVWZ2R184QVdQUFpRcWx0UVNqdUdkdWJUclpLdG42bFd6WHJscWVUVW5WUTBCdWluMmZPZFBwNHhIamR5SXJQY2FWY1lLa3U4bnpyZkhBeWZac2MweXVzMWlsdEdJTDlSQXBR?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
-  "person": "Amit Gupta",
-  "role": "CFO",
-  "company": "Trident",
-  "movement": "Appointment",
-  "role_group": "CFO",
-  "sector": "BFSI",
-  "region": "Global",
-  "date": "2026-08-27",
-  "headline": "Trident appoints Amit Gupta as Chief Financial Officer",
-  "publisher": "Business Upturn",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWEVxNmZac3A1YmR5SHBDaFd0NVdBdXpaaTFkOXlIWUVRU0hDaVZvQjJIeXcyOHkya2VQcGNYcEJWOGhQOTJFd1hKUkxpN0UxeklodmdMc2dXeUpSTVBUN2ZsZmNubW4xTzZjTEk1dHYyaUhZY09ERFU2Umd5eEphTThWSEp1QmhRS3ZjMzVPdWVBTmg5N3RhdFZJWQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -54854,6 +55236,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Amit Kumar",
+  "role": "MD & CBO",
+  "company": "Moglix",
+  "movement": "Appointment",
+  "role_group": "MD",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-05-19",
+  "headline": "Moglix names Amit Kumar as Managing Director and Chief Business Officer",
+  "publisher": "MediaNews4U",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZWdFU3Nzb19uYnFQdzNFSldnNERobzNPVUpkb09LOXN2TDhVVDMxQ096Q2dvenVDZFRuU1praFgyOGpDdlczWm5PWHV2N2xsbU51ejBFN19zRHlrdjFEc2pRS3E5aUExdGZNcDNyeDNHbDdjRzJsUzNiYS10enR2RmZfMS1CeHpMWTBYd3lhQjN1UXdmN1A5RUJWV3phYWdlVWc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Sumit Jain",
   "role": "CEO",
   "company": "Unacademy Co-founder and Test Prep Business",
@@ -54870,22 +55268,6 @@
   "also_reported_by": [
    "entrackr.com"
   ]
- },
- {
-  "person": "Amit Kumar",
-  "role": "MD & CBO",
-  "company": "Moglix",
-  "movement": "Appointment",
-  "role_group": "MD",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-05-19",
-  "headline": "Moglix names Amit Kumar as Managing Director and Chief Business Officer",
-  "publisher": "MediaNews4U",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZWdFU3Nzb19uYnFQdzNFSldnNERobzNPVUpkb09LOXN2TDhVVDMxQ096Q2dvenVDZFRuU1praFgyOGpDdlczWm5PWHV2N2xsbU51ejBFN19zRHlrdjFEc2pRS3E5aUExdGZNcDNyeDNHbDdjRzJsUzNiYS10enR2RmZfMS1CeHpMWTBYd3lhQjN1UXdmN1A5RUJWV3phYWdlVWc?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
  },
  {
   "person": "Saurabh Vijay",
@@ -80136,24 +80518,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Prashant Kumar",
-  "role": "MD & CEO",
-  "company": "Yes Bank",
-  "movement": "Re-appointment",
-  "role_group": "CEO",
-  "sector": "BFSI",
-  "region": "India",
-  "date": "2025-08-22",
-  "headline": "Yes Bank reappoints Prashant Kumar as Managing Director and CEO",
-  "publisher": "IMPACT Magazine",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb3NLZkdFNlJ0dU9EaEFhaXJBdE9sRkNKQjlvejhJMnE4QUlobnJsOWF0c2h6MmpkWEdxV2RMV2NWNFk2WEFFYTVkb0E3ZG82VzFORzlDZVZMeEFzU1I5M2ItLUJJdlpZRHFuLUFTNGRzOUxudDV5NzJjWmtMNXVFdGZqa3l0U0lsdmluZnNIS0FEQmQ1YUg5ZmpndG5pT00wTWZLdmhnaUtRYmlqY2ZlN0IzaFRFYzFiQ0pN?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "Storyboard18"
-  ]
- },
- {
   "person": "Asheesh Kumar",
   "role": "Director",
   "company": "Coal India",
@@ -80186,6 +80550,24 @@
   "also_reported_by": [
    "hrtoday.in",
    "Electronics For You BUSINESS"
+  ]
+ },
+ {
+  "person": "Prashant Kumar",
+  "role": "MD & CEO",
+  "company": "Yes Bank",
+  "movement": "Re-appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2025-08-22",
+  "headline": "Yes Bank reappoints Prashant Kumar as Managing Director and CEO",
+  "publisher": "IMPACT Magazine",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb3NLZkdFNlJ0dU9EaEFhaXJBdE9sRkNKQjlvejhJMnE4QUlobnJsOWF0c2h6MmpkWEdxV2RMV2NWNFk2WEFFYTVkb0E3ZG82VzFORzlDZVZMeEFzU1I5M2ItLUJJdlpZRHFuLUFTNGRzOUxudDV5NzJjWmtMNXVFdGZqa3l0U0lsdmluZnNIS0FEQmQ1YUg5ZmpndG5pT00wTWZLdmhnaUtRYmlqY2ZlN0IzaFRFYzFiQ0pN?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "Storyboard18"
   ]
  },
  {
@@ -82036,6 +82418,22 @@
   "headline": "Natco Pharma appoints Yarramshetty Krishna Rao as Senior Vice President - Operations at Mekaguda",
   "publisher": "Medical Dialogues",
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM1h5eTNmR24wajZaT0xJZ2JjRzFOb2ZVMHZ4Wlp3M2pYTE8zb0tmaFVtMDJrU2d5MVhkcmNQc1Y3NUFaaUFqTTN2TWJfQ2k1VjRaNmx2WGh0bTdHbUhoa3hObDlWd2JVajllekhxZUVxUzB3bzJiZHU2MHJrUzhKclc5RndSd1RCdmZPa0ttQ040Nk1ZVkJyTk1HTVhLWGJubmtUZ2k0RWhmNE1TWDNFemNQcDRwRzFqY3RNbHBmQU85TmcyM2dELXhQa3VtOF9jOEIxQ1VHNnpyaXg2TXUyeDhiYVPSAeoBQVVfeXFMTVlndEFaa3VMTndfcTBjbmlNZVFQRV8wdnRnbWxlYjRLNGVoZlRnTUc4WGU0ZUpjZlY3YXV3cWJqSi0yaW40dE0yZVRiRG94NnhmY3Iza0NGZFZLTGtRZExxSTZmeFRuLVBHbEpXSFJONDBkSDdiTkdMcHR5cWN6bmMzanJpUmJ6dzRTYVZjZlJST2VDLUhaLXNrUmFRV2xNWFBHNFFrWms5a2NDcGdsYXRDZ2cteVhtVVUwRXVGYnl5RWJLb0k3ZXlkNVJ6UEpNdkh5V1YxRXRaODhybDNkeXJDdERPZmxLMERR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Priyam Alok",
+  "role": "Deputy MD",
+  "company": "Saraswat Bank",
+  "movement": "Promotion",
+  "role_group": "MD",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2025-06-17",
+  "headline": "Priyam Alok Elevated to Deputy Managing Director at Saraswat Bank",
+  "publisher": "hrtoday.in",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlRjU3liZ09CVTB1bVdSZjJXaDFvd29QeGdLS1VKc2ExaDJuUndPWGVFQ0ZabGFMXzN0WFVYTUFvTi16MXhwTWZxWk5ZOEt3a0ItX3V3NFhMclJMM3BoTlpPM1dYeGxZTHpGOW9uY0NMVHFncGhHbTczR20xSUZVRTJCakpEcGtDWExnRlFB?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -84159,6 +84557,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Ahmed Rashid",
+  "role": "Deputy MD",
+  "company": "BRAC Bank",
+  "movement": "Promotion",
+  "role_group": "MD",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2023-11-28",
+  "headline": "Mahiul Islam, Ahmed Rashid promoted to deputy managing director at BRAC Bank",
+  "publisher": "The Business Standard",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaGVETy1aUmxhSHNlcHFvQjU3MHI5MnUtYVdXb1BvTGdEd3VmS0FubVpFOW41T0lONmNOa19BWklEYlJva1FxSHZrY2pzbkxhRGFvU3BIVExSTHJtLUFHQXBVcUpCTDEtOGZMWEFMRnE5MHowR1hOYm9ySFJhSW1TR2twN0I3Mkl2SVh3UGFSMTR6aDAtQUQtZndPWWFkbWdtWTlpbklLR0dkTHlsMWxDWWZjUkpiRnFKM1Bv?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Lim Pang Qi",
   "role": "CEO",
   "company": "HSBC Asset Management",
@@ -85656,22 +86070,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Prashant Kumar",
-  "role": "Deputy MD & CFO",
-  "company": "SBI",
-  "movement": "Appointment",
-  "role_group": "MD",
-  "sector": "BFSI",
-  "region": "India",
-  "date": "2018-09-17",
-  "headline": "SBI appoints Prashant Kumar as Deputy MD and CFO",
-  "publisher": "Elets BFSI",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEhOYnFqU1hPcXEzRnY1SGlUNVctQ2lFN2EwQzVWU3hLbmoteTFwLXFRM1dRMUNrZzFwU2l0Nk5TcFUyS3BoVGk1TUJVNGRLUEozQkhRMDZzNlg5LWZwem5PTWM5S08xNlozb3VMYmhyYVk0aDk1QkF5cnJxNFhUT1g3SDQ?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
   "person": "Marc Oliver Hess",
   "role": "CFO",
   "company": "Aareal Bank",
@@ -85819,6 +86217,24 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
+ },
+ {
+  "person": "Prashant Kumar",
+  "role": "Deputy MD & CFO",
+  "company": "SBI",
+  "movement": "Appointment",
+  "role_group": "MD",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2013-12-29",
+  "headline": "SBI appoints Prashant Kumar as Deputy MD and CFO",
+  "publisher": "Elets BFSI",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEhOYnFqU1hPcXEzRnY1SGlUNVctQ2lFN2EwQzVWU3hLbmoteTFwLXFRM1dRMUNrZzFwU2l0Nk5TcFUyS3BoVGk1TUJVNGRLUEozQkhRMDZzNlg5LWZwem5PTWM5S08xNlozb3VMYmhyYVk0aDk1QkF5cnJxNFhUT1g3SDQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "Firstpost"
+  ]
  },
  {
   "person": "Melwyn Rego",
