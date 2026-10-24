@@ -138,6 +138,38 @@
   "also_reported_by": []
  },
  {
+  "person": "Steve McLaughlin",
+  "role": "CEO",
+  "company": "UNM Hospital, first physician",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-10-24",
+  "headline": "Dr. Steve McLaughlin named CEO of UNM Hospital, first physician to lead facility",
+  "publisher": "The Business Journals",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TQWVYYVhRTHJDdkpDYjJHUGxNY0UxRWc3Tnlpdy1yZF9SejdYS1ViUXpwbGJodVFtc3dUTFlvNTZJd2VfU1BNWG1aU2F2aUx0Wm5Zd05TT0FYTnZweEl5aW1SMFBSV25NSk1fWVctbEZSRDVVX1lUbXRnYUVHUQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ashu Suyash",
+  "role": "Independent Director",
+  "company": "",
+  "movement": "Re-appointment",
+  "role_group": "Board & Directors",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-10-24",
+  "headline": "Kotak Mahindra Bank appoints Anup Kumar Saha as MD & CEO, re-appoints Ashu Suyash as independent director",
+  "publisher": "Business Upturn",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZExnTm4wQzM0OVZIQ1BmbzR6UnZMRjByb1FiMUpCSWxaay1UQm5CTXJGSXY0QTI3NDRTb29PUEpPdHdRd01VMWtNX1R0cDVZcUt2elpTUkVVbzF2V3RiU2ZkMGJPZTJONUhtWThzWmR0U1NfdXVWZ0RMUFFQVHdtc19aajlKTXkwb2RKWkFZZE1wdDVndUN4YVJmM0RjcngyUDJVLV9wcHJFZkRuUXhhNnAydkNBQmtyWnNjM3dobTBlZHYxQVlmcThwYVNfNnNoSHBtRjZn?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Scott Hagedorn",
   "role": "CEO",
   "company": "Publicis Groupe",
@@ -1195,7 +1227,8 @@
   "also_reported_by": [
    "AD HOC NEWS",
    "Legend Officers",
-   "The Financial Express"
+   "The Financial Express",
+   "Indian Chemical News"
   ]
  },
  {
@@ -40389,7 +40422,9 @@
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa05OSzVWOF82eGIzMHRQUUtsQWZ2X1hPcTR4U3oxa0VWQ210WDBORmdWcjE2UzYxRy01ZU1Reml6eU4yME9MRzZzLTVRN1hZS1lOZmtZRDVwWUg2S2ozTklOeTNwVHg2X2YzOUx1YzFUcE9RcnZkelJ1MGNneU91Q1A5YlZWb3VTa0x2bTdR?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "APAC Media"
+  ]
  },
  {
   "person": "Kketan Chopra",
@@ -46350,8 +46385,8 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "english.dhanamonline.com",
    "MediaBrief",
+   "english.dhanamonline.com",
    "The Economic Times"
   ]
  },
