@@ -1,12 +1,28 @@
 [
  {
+  "person": "Jonathan Chen",
+  "role": "CEO",
+  "company": "MicroPort Scientific",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-10-25",
+  "headline": "MicroPort Scientific appoints Jonathan Chen as CEO, says a director resigned",
+  "publisher": "The Economic Times",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTHY3ODJGeEN0UXpEZFdkakpRbDNnN011VFRTOHpjQy1IM0RiczY5U3U1ZnlVN3ZIT3JaSV8zTm0waEdBMGNyLWtpTWR6VmcwR29FWks3V3Zzc2IzTTVORk0ya3JvUkd6aDVxX0ZBTzBZVzRkQ2JQTVM5ME94ZTEzQVhtUzdVbWM1dzRJY0xsNXRJaUpfNXZCY0l4ckRHWDlpM0pjN2V0WTM2Vk5meV95UzNneVI4UWk3bDAycUFXUWFaR3VTV1J3UGE0cmYyckFpcEE2Q0podnk1cHN5cUdGbDRqVdIB4wFBVV95cUxPTHY3ODJGeEN0UXpEZFdkakpRbDNnN011VFRTOHpjQy1IM0RiczY5U3U1ZnlVN3ZIT3JaSV8zTm0waEdBMGNyLWtpTWR6VmcwR29FWks3V3Zzc2IzTTVORk0ya3JvUkd6aDVxX0ZBTzBZVzRkQ2JQTVM5ME94ZTEzQVhtUzdVbWM1dzRJY0xsNXRJaUpfNXZCY0l4ckRHWDlpM0pjN2V0WTM2Vk5meV95UzNneVI4UWk3bDAycUFXUWFaR3VTV1J3UGE0cmYyckFpcEE2Q0podnk1cHN5cUdGbDRqVQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Ronoh Kibet",
   "role": "CEO",
   "company": "KenGen",
   "movement": "Appointment",
   "role_group": "CEO",
   "sector": "Education",
-  "region": "Global",
+  "region": "India",
   "date": "2026-10-24",
   "headline": "KenGen appoints Ronoh Kibet as new CEO",
   "publisher": "People Daily",
@@ -16,6 +32,7 @@
   "also_reported_by": [
    "Citizen Digital",
    "Sacco Review",
+   "The Kenyan Wallstreet",
    "www.standardmedia.co.ke"
   ]
  },
@@ -556,20 +573,22 @@
   "also_reported_by": []
  },
  {
-  "person": "M Sridhar",
+  "person": "Manepalli Sridhar",
   "role": "Director",
   "company": "BHEL",
   "movement": "Appointment",
   "role_group": "Board & Directors",
-  "sector": "Corporate",
+  "sector": "Education",
   "region": "India",
   "date": "2026-10-23",
-  "headline": "BHEL appoints M Sridhar as director – HR",
-  "publisher": "HR Katha",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcVFEVklqTnlsM3QxSGlHVmZJdUV0Y0RaTkRxbktSallQVTZVc012UTBDTDZMZXh0Q1dPU2NEQnFnOVE2ZGc5TFV2bVZ4bGpfNGozRGZBdEszb3FCSFU5ZnRGS252cktSdkNnM182ejF3Y1l2WC1tUWkwNGtZTHZ4NDNtQks5UQ?oc=5",
+  "headline": "BHEL Appoints Manepalli Sridhar As Director, Human Resources",
+  "publisher": "TradingView",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTTE1UmtPMURTM2VkcDh3U004TG9oRi1jVWQzXzNpUVNDbHoxbTFfbmdmbDkycDd2Mkh0MVltYzBEaG03elhXVXBGc05TbTNaYjRYbkQxcWdsV2FSRWxQZnhiZjJmZ0tjbkVjbzBDVGsxM0o2V3VkelZJS2RBbEZwM2x0UUdxVDRiVG43ZVMtQm1DR0U4dlNiZTA1cE1tbDk2ZzBTOUtHOWRrYkN4Mi1sVzVjekZVajg?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "HR Katha"
+  ]
  },
  {
   "person": "Anish Ahuja",
@@ -1037,6 +1056,38 @@
   "headline": "WTTC Names Justin Trudeau Headline Speaker for Malta Summit",
   "publisher": "https://safariindia.com/",
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wUWlMV210djNxYndwcndFNHgzTjVObXBsNWZ4VjNXWHA4dmh4QU9tTURHSFIwNlE3d3FvUXAyNE9md2N3TU1CWjlLTm1FalZuZ3NHeDY4T3BaMXhPWVBHVGlZNnNfRkIyX2ZNbXpjMFZIN2tyM3c?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Al Sandrock",
+  "role": "CEO",
+  "company": "Voyager",
+  "movement": "Resignation",
+  "role_group": "CEO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-10-23",
+  "headline": "Al Sandrock to step down as Voyager CEO; Insmed adds Paul Hudson to board",
+  "publisher": "Endpoints News",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWJaYnl3LWpKNkQ3TjJUUVhHVm5LbGl3LVR0S0kxTU1ucHh6VEhqcFRkWHlZTmR2QVd2WDBZU21Rd1pfczg3bGN3dU1GdnF0UEg5aDd2OG9pWi1wZ2pBWkM0eVdUNm9wZ2haNFJOVXRVNV9KUDFYSEVvZm5MNHVIT1NybW1ralEzMS12X1lvYm1jRjJDcDREZGlSMWs?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Salvatore Abbate",
+  "role": "CEO",
+  "company": "LKQ",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-23",
+  "headline": "LKQ names Salvatore Abbate as CEO, effective December 15",
+  "publisher": "StreetInsider",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSTdpMXc5Vi0tVGdGejVHcnlfcW84WVFXOURQeTR4akJxX1V0Vm1UMl9hRFRjOENTaTNjMEkxZ1FVdkFuSzRJMXRKV3VqMXAycTNRaVJyelpqZUFxTG9HQkpVaE1xY0tYcDlILWx6VjB0c2NUNHUtOHo3cFcyTWtIX2pGT3dfbmtqT2ZDamdKRnN0X3Q2YTFzSERqT2xFZDFLSTk0X2FWOWZwRC1aU1phVDNLVHhXOHg4OGtDS2Zn?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -1902,6 +1953,22 @@
   "headline": "Sumit Chawla joins Usha International as vice president, digital marketing",
   "publisher": "Adgully",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObG1Nb2tVWHZSMFlVRmZxNXlSVDl0RGZLVDNUTGtmUDNvUU92TDZ5ZHJIS3F4aGRZdEZtQ3JOLVkzTk9nQzA2ZjRSeTZtc0FxSF9zWUtDc0tXOEpiUXZsbkVrRUR5YUxPVFBDWnNrc25yYXp6NktsaWlBT1dkSmpWYTZGSVdING5YSXo4dzRCanV3aEhvLWJLLXBDckNpTnBIdFBJVGp6REJrV2Q2?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Daniel Pullin",
+  "role": "Chancellor",
+  "company": "TCU",
+  "movement": "Resignation",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-22",
+  "headline": "TCU Chancellor Daniel Pullin Resigns; Boschini Returns",
+  "publisher": "Fort Worth Magazine",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTTZid2ltQzNjTWdPcFRXUmJYTzFzallMZUhyWlJ6NkVxS3dpSi1JNjJiYXFLeVNBY0MxcGs3SWhKZVU1R283ckdnQXB5dmUwYkhmekZqVFpLNXdKV1N5bk1uTERCaWlGbWt1TUZ1M2dRU1B0SXRHTWE0RDhQSWJKWGVn?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
