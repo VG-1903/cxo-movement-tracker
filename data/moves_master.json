@@ -1,5 +1,23 @@
 [
  {
+  "person": "Anamika Jha",
+  "role": "CEO",
+  "company": "Vedanta Iron and Steel's iron ore business",
+  "movement": "Resignation",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-28",
+  "headline": "Vedanta Iron and Steel's iron ore business CEO Anamika Jha resigns - People Matters",
+  "publisher": "People Matters - HR News",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFpXYWVja1UzZGR5VTUtMG9aNlEtY01kV0VrdURjaDhSVU1UZ0NxSTBXNnhCR1dqRXFfZWx6dEhNUkc2cU1fd0czVWVIZ2JVSmFJMDFkVktjczFZT2JJc1JMelJJOFUyT2NVZHZ6RHJKNXJETTFhX0FUZ0tTVDJ5V3ZTMmdEa0RDMWdJdV91NWNQcDN1RUxHMjUzdllmRVJJalhvUW1hTld0Zlpac1FSSXlBMUxjUDA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "scanx.trade"
+  ]
+ },
+ {
   "person": "Soham Bhagnari",
   "role": "Head",
   "company": "Uber Advertising",
@@ -477,17 +495,49 @@
   "also_reported_by": []
  },
  {
-  "person": "Anamika Jha",
+  "person": "Andy Ponsford",
+  "role": "Head",
+  "company": "Northern Trust",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-10-28",
+  "headline": "Northern Trust Appoints Andy Ponsford as Head of Insurance, EMEA",
+  "publisher": "Press Release Hub",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGczX0lFdW5jUWkzemZvcEJJWUxlYmVSVTgwaDRmNmdCOXlLU1YwZHFUZXNrZ3BFcTNOckVhSklkbEJXS0Rta2JHTnhOVk5KTnhQZnhKVERTdmtjSDNTSFpYeXdpalpvXzhuSm9qOHFrdU9qbkR4V3EyNGVVSW1tV2hRdVJkNUp6MXZPeHVvektSZ24xTTdVeHM0Vm8tT3R3SDFZdHNDTEMxN0VURTRqZVh6YTZadw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Stephen Edwards",
   "role": "CEO",
-  "company": "Vedanta Iron & Steel",
-  "movement": "Resignation",
+  "company": "National Works Agency",
+  "movement": "Appointment",
   "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-28",
+  "headline": "Stephen Edwards Appointed CEO Of National Works Agency",
+  "publisher": "Radio Jamaica News Online",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVlk2WGl4c3hnUXFEWVhmTlRKUExfUlJWVG5HYmdqS2E4OWxPQTlUcUJyWWpJRU5XTjQ5SjZFU0VwT2IyZjY5U0RBdGJUd2NuOEdVUzliSThtellyMkNpYWY3U1BjTFVCYVVsck1SVGJrZnlnM0x6b2pfM1hUTC1lUGE4eVNHenRLYnJQMzBkYnZiM2hSaVltYzJjVQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Smeer Chopra",
+  "role": "Group CFO",
+  "company": "MMG Group",
+  "movement": "Appointment",
+  "role_group": "CFO",
   "sector": "Corporate",
   "region": "India",
   "date": "2026-10-28",
-  "headline": "Vedanta Iron & Steel CEO Anamika Jha resigns from iron ore unit",
-  "publisher": "scanx.trade",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM1BCTE9YUk5sYXdla1pjWFRudHBXSWFVZjdFNFZLaTZVMFJPV0JFY0tUMk8tWGFsSVY4SndCdlFfOFYwcWE5WFUySDBIUWhnVUJ4NDNjV0pZcHhnRmU2RFNtU3NfdWdzRVhCcElVR1hVVEVsSkxCdlhURXNyR3NPWnZaOG5LU1ZqZHFuMXUyZl9oMU1DSzBZOGpwNG1TYWxDS1pLRDdnX1pId1VBVnpoZFgyNA?oc=5",
+  "headline": "MMG Group Appoints Smeer Chopra as Group CFO",
+  "publisher": "Indian Retailer",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NeXk3ZzdRN2ZNd3NnVDlIUUFyakFsQ3MzVjdIMGFfX0NUbzJIQzB4TUdBcTM1SUpvVWRYY1NTc3ZUWVE5dGxpTFF2eUhGbHFxYXk3WkRheVE3bXRlWjhGY2VzZlBzaVVYbVRITkJfcENMcHJiMnFWSl9kZGkwdw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -3526,7 +3576,8 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "ABS-CBN"
+   "ABS-CBN",
+   "Asian Banking & Finance"
   ]
  },
  {
