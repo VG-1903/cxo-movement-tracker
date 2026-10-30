@@ -16,22 +16,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Bahram Vakil",
-  "role": "Chairman",
-  "company": "Trent",
-  "movement": "Appointment",
-  "role_group": "Chairman",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-10-30",
-  "headline": "Trent Ltd appoints Bahram Vakil as Chairman, as Noel Tata steps down",
-  "publisher": "Whispers in the Corridors",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLTJKRXg0Z0RVdXZNQnB4M3FsVUVUa3hHVS1vQWp3TjBuVU9YdGVMVlotRGtSUHBHR3lDQXROR0JiZ0YyUnk5THgwRGprMXViSnhmbi1oVTVNeGx5SGEydW8yMG03cHQ0NkQweVdkQnFUTFJ0WlNfSkQ5dkM1X2tFSWRQUFgxZS1WVTR4d2hLeXp3dm9DVUdVUEtGdHNNak9XeXRHaWRxSDFRZw?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
   "person": "Yu Jianzhong",
   "role": "Chairman",
   "company": "Bank of Tianjin",
@@ -74,12 +58,14 @@
   "sector": "Pharma",
   "region": "India",
   "date": "2026-10-30",
-  "headline": "Gland Pharma GLAND: Ajay Sahni Named CEO of Gland Singapore",
-  "publisher": "Kalkine India",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbHJOR0dDVnAybi1qTmR3NDZUd0phek1mLVFtb2pOdXl3dkRPZlJycFliZTR0bVFVSGV6YUF0c2kwWDFqaG5oQ0dEdlVub2NEVllqUVNUY1A4VUN0UV9xRGl6dHk2ZzVEaWFuN1lRakllcFNQaEZ2RmFCUEtBeklsQWVtMHA3Z2g1SUo5bEdNVkNjclBNc2RwT2Rhc0RvbXU1R1lqR21RQ2E1a3d4cUdPblYxRlp5a3NRTktpQw?oc=5",
+  "headline": "Gland Pharma appoints Ajay Sahni as CEO of Singapore subsidiary",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2RBbjlWVHlmR05lNk9zdy1vWFVkSmotVnhXZDN1eVVfcDZUWDVSYmZtOEc5UEJzajVyUGtsdlFiRk1pWnM0eHR4cERSV3RxYm5yQmNsNkY5T0Z1MXBsdjVZZGRScnZBdGVPcGttOEhKVFlndm5yckJJRjBleEJWajcxSkYwR0JSQUVLNnR5NkJLR1lrTlQtV3FYdWxqSEwtcEtVVHh5eVZ2dkptWF9ObXBUX3Y?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Kalkine India"
+  ]
  },
  {
   "person": "Ajay Sahni",
@@ -291,6 +277,169 @@
   "headline": "Veritas Finance names Mathew Joseph non-executive chairman of its board",
   "publisher": "",
   "link": "https://www.business-standard.com/companies/news/veritas-finance-names-mathew-joseph-non-executive-chairman-of-its-board-126103001096_1.html",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ashwani Monga",
+  "role": "Chancellor",
+  "company": "University of Missouri-St. Louis",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-30",
+  "headline": "Ashwani Monga named chancellor of the University of Missouri-St. Louis",
+  "publisher": "University of Missouri System",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdXVwZk5wRzdFSGJZd281eW1reWkwYllWV2ZNZ1JEc3Jja1BGWURJRmpsTDBnenVlOEhfTUdpTmdGMU5ZMmRzWWhSYk5jWS1ncFhxX0gxVGluN2tWTUI2TzdWYmFZeGM4NmxxQUFtQVdGZGRia2VJWUJPaXZrZ1I3TXFEdXAyajhPNnpHN1hQRVFDZmNxcXZCOWMwS2NMVGR5MFhmOVlB?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "G V L Satya Kumar",
+  "role": "Director General",
+  "company": "IRITM",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "India",
+  "date": "2026-10-30",
+  "headline": "G V L Satya Kumar takes charge as IRITM director general",
+  "publisher": "The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLVJBY0RIbnc5bGdFemRfYnZkTDFzZE1GWGxDYlA4TFEtZXVPOFMtUnZFRlM0Wl82c3JIdTBweGZraXFqOHlqMlVmeWRzcXRSanFsWHNWTFV4NzJVQlNpbVZPXzVsZzBwZ2xWd3dWamlWNDloUnpkSTFya05qYjJMR1FydmVOcWgzOWJieHpkMjNjV1VTem1MY2dGMXNFTHk1OFBIQXo5RlhkQ1MyVDNxMS01cURXWU5SZjVnWXJzVTIwRWM2U0lHenJoUdIB0AFBVV95cUxOcFRkMm1KdzFrV0RCVjMxT3dhM0tOWVZoN3Q0bmRJZHNCOURoUC1MY2U4eGJVeWQ0NndNMjg0OGluM2pkZDdncGltV3hQNHBqZlk4MW1obkhjdi0zRmFYakh4Mzczc0JOcEFkWUZvS2JrWm1DU0J6a0Z0T0NJQmxFbHZvOG1TSVRDRC0yb1pKT0NNUzFzZDNwUTJEb3ZlQTBiVEJERk9wSzNYWXg0YndTbnE0ZVZNbkZ5OGFfRDN0U203akFER0p4SDJzYVBFTXVP?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Khaled Al-Amoudi",
+  "role": "CEO",
+  "company": "TADCO",
+  "movement": "Resignation",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "India",
+  "date": "2026-10-30",
+  "headline": "TADCO CEO Khaled Al-Amoudi resigns; Nasser Al-Rahili to take helm",
+  "publisher": "People Matters Global",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzZJQXJfZVlOZ2hiUnFRTmNfZGxxbGpYTmRyZUNYTjdkSThxZmVNVjRad18xV0JOMkpCaGNrcHJiYklWNUhaaHpGbDBvWnd0WEZWZU44OF9jQ3p4cGtEa3hhazE3b0NLVm5BXzZEUWFIS2h6eVc4RXE4dnNlRUVPZDd3LWdjTVBWTG1yeUtrZ3pjVWFac3dOMVc1eHBuOTFOMjZjcE1LNnVURl9lcF9WV0s5aEZvOXkyVFNMYldPbFI?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Naim Bilal Yaseen",
+  "role": "Group CEO",
+  "company": "Standard Group",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-30",
+  "headline": "Standard Group appoints Naim Bilal Yaseen as Group CEO",
+  "publisher": "Khusoko",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ29GQzlYZm1pOG5iN3RQOTc4YnZWU3BfdHEzU01YWV9rVmd2Q1Y1R21PT3lDdHhLTUl0c2lYRHdTazNEYVkwZ0VHNXNQNVBoWnRHVy1JYXNJM25XSUsySWRiMXExN3V4emN4Wkx2SnF0QUxTV2RkZmprSEptNk5MRmZYYw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ted Lord",
+  "role": "President & CEO",
+  "company": "Golden LEAF",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-10-30",
+  "headline": "Golden LEAF Names Ted Lord As Next President, CEO",
+  "publisher": "JoCo Report",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15NUtPRXNlVE93Q3lVQzlCaW0xUHdFbkVvUU1SaTZDaXB0eUR6TUpMbUxXQTcxUUJ4aWF1eVdLMm95MUZfWWpNcGxQaHFPMzAzY1h3TkFWVXBYdXljcTkwNDJ5VThPdjNjT2R0RXhyLVktZGI5VGNpNlRKSlc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jatin Kumar Nayak",
+  "role": "CMD",
+  "company": "IREDA",
+  "movement": "Appointment",
+  "role_group": "MD",
+  "sector": "Corporate",
+  "region": "Global",
+  "date": "2026-10-30",
+  "headline": "Jatin Kumar Nayak takes charge as IREDA CMD",
+  "publisher": "Power Peak Digest",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tSWIwVGlkME9ueHh4LTFuajd2MGRjU1BxVUNlY2NQQlpVNzc3Q2ZJbHBtbnd2V2w1STBWLWZ3bXItcHZDeVA5bGVwbWpIZ2pyQ1c2V1BNazFkUWl3eUVRS2Z2V2FQMEpBcVdZa3FuenlmZ2s?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Lady Gaga",
+  "role": "CEO",
+  "company": "Haus Labs",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "Global",
+  "date": "2026-10-30",
+  "headline": "Lady Gaga Takes Over as CEO of Haus Labs",
+  "publisher": "Global Cosmetics News",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTXMwQ2hTY09sZDl1U1JETjB0dUpwcndtV2FENjYyaGg5TTM3TnpwS2JObWE3djFwRURaZmtwcEhrSDFfclBFd25VQUo2Vm1Jc09qMkR5WlFrMkhZWWlUdEtNdUpyX2l1X19sQ1RfNGNETmxKUk1xaWJscHd3a1VxOVYyYw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Anurag Singhvi",
+  "role": "Head",
+  "company": "Target",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-30",
+  "headline": "Target appoints Anurag Singhvi as Head of eCommerce Analytics & Digital Intelligence",
+  "publisher": "Exchange4Media",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV1NYNGlfZEgtYW5DRjhwMmNsdHRlOFQ2QUZJSmNpZFFfSGJKVDRIMFBfNkMycV9lSWxndlpxVHM2X19iTVZtbkFQS1owR1ZzTW56d1FIVXF1RklsVHBJNllocTFUcVRiZDlHUHlHSjdmZ0d4dHZoT1Z0VGZjeG9jQ1p5S0xsNi0yOVd1Y1lfRnBNSkhnVWdCdDd5OWw4N3R1T0RGZERuZjFzX2k3UENoeXFzZ3R5SjlRRGg4M2dMQzJhMUFRN3F3SjNkSGE4eDdDRVQzQTlrZnI5QXItbW9Z?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Shraddha Bhatt Dave",
+  "role": "CFO",
+  "company": "EMA India",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-30",
+  "headline": "EMA India appoints Shraddha Bhatt Dave as CFO and KMP",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTdjZFlMNDhMdFlmbS1KWTVkNjdwYWRXenVsWVhySUpnZmM2dldQejRJZEp0dFZfMGlVc2NjbUQ5NlVDLV8ySS1YY09rbTRNVFRGT0R6X2s5UGk4TmdNTkxITUlpYnBLZ2cyYjZOZlgwWWp2UWpqM3E0MTNrdjZUWmVxZ21kMW1obFEwM0tiMENSV2ZTTXZSaEpzRmduUExsX2RxWFhR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "InvestyWise",
+   "TradingView"
+  ]
+ },
+ {
+  "person": "Tahir Toloy Tanridagli",
+  "role": "MD & CEO",
+  "company": "Kwality Wall",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-30",
+  "headline": "Kwality Wall's appoints Tahir Toloy Tanridagli as MD & CEO",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1B1ampSdm0tTzVHbjBJeHBmR2VnRXNBM2VNbDd4UGJFRTlyNTFNa3NEU2d0dHd1Mnhrc2tYWVlrbWhYMWJ0bERnZW5ZOGNMV25vOFNCZEhSUmV6WFlncWRrNm0zNjIwR3VqZTVqQTFMbGdfclA1ZTVSTVBQdmlKNjMzWG0xSGdiVWQ2VDdGQkl5VVM0VnZ1VnhjTC1fMTMwT0FvMTFRU0RqQTNneG5v?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -628,6 +777,24 @@
   "also_reported_by": []
  },
  {
+  "person": "Bahram Vakil",
+  "role": "Chairman",
+  "company": "Trent",
+  "movement": "Appointment",
+  "role_group": "Chairman",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-10-29",
+  "headline": "Trent Ltd appoints Bahram Vakil as Chairman, as Noel Tata steps down",
+  "publisher": "Whispers in the Corridors",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLTJKRXg0Z0RVdXZNQnB4M3FsVUVUa3hHVS1vQWp3TjBuVU9YdGVMVlotRGtSUHBHR3lDQXROR0JiZ0YyUnk5THgwRGprMXViSnhmbi1oVTVNeGx5SGEydW8yMG03cHQ0NkQweVdkQnFUTFJ0WlNfSkQ5dkM1X2tFSWRQUFgxZS1WVTR4d2hLeXp3dm9DVUdVUEtGdHNNak9XeXRHaWRxSDFRZw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "Livemint"
+  ]
+ },
+ {
   "person": "Manikandan Unnikrishnan",
   "role": "India Head",
   "company": "Logitech",
@@ -655,6 +822,22 @@
   "headline": "Pranav Kapur elevated to Senior Vice President at McCann India",
   "publisher": "Exchange4Media",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLXVDUm45SUNFT3A4SWFXcF9PWUlXQUczaGlKRC01MHc3d0Nwd2pxaWExb3ZOM1dreUphNmdUMFVnVlZQeGJCUlVpcUZxQWtFbmRmNzJLZWNieW8waWZxczNyYXNjWlV0Q2JuTGdpd05NS2ZVd0xUQ05welR1R1BmQkZVV29TZzc4djRWaUNKWXlsei1oRmxKVlZSWGt5MmpkZ2RVM016LTdaQzg4VjhCWjlFRk84aGFiaHJ5Z0dFdXNFZ2F2?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Elena Calleja Crespo",
+  "role": "CFO",
+  "company": "Pharma Mar",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-10-29",
+  "headline": "Pharma Mar Appoints Elena Calleja Crespo As New CFO",
+  "publisher": "TradingView",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFUwdHd6X083YXIwUlNkMGdnWncxWTh2MUxVU3ozY1ROd2t3LXg4ck1uWU45NDlIQjJyMVUzbVEzcDdfM0NGVHczc3ZWMURiamxBY1NvenBjc1FuUlZGUXIwTjVqTWRCNW83N2VKQkZNYnRaYkEwS3RreTk2S0ZiMFlpaS1JWVhZN1pGN2p6UFlHMGlLZXBxMFR6em0zaXJUbDNCb3ZudmI3cVNXOG45ODFCeGFadU5VVHh6TkRB?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -2921,7 +3104,8 @@
   "also_reported_by": [
    "Khusoko",
    "KBC Digital",
-   "Briefs Finance"
+   "Briefs Finance",
+   "HapaKenya -"
   ]
  },
  {
@@ -3199,6 +3383,22 @@
   "headline": "Vineet Singh appointed Chief Growth Officer at Jetpac",
   "publisher": "Exchange4Media",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDlTaU9Ocm1lbzJpdVFQOFFMazUtc2hhSU4zZXY2YmIzRG4wVFJrR3kzeFBQczBsOXdnMTJrMTFhWUNzaXJMZmN5Wks2ckIzSmlPN25TdGozMFlzUTRiT2JUaUdJdHhUbXFpSDMwSUU4bzlldHpRd3ExVE1waDItZ2JhM2pWb1hpeDBnNnMxclV0bVk5TlZ1SlJHVGJfY2FWQUNubk9pRExITThVRS1ub0NNaV80QjFE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Arvind Kumar",
+  "role": "Director",
+  "company": "BSNL",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Corporate",
+  "region": "Global",
+  "date": "2026-10-23",
+  "headline": "BSNL appoints Arvind Kumar as director of consumer mobility",
+  "publisher": "ET Telecom",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOckx1NjZDc3doR3B3eUpINGdJQU1UY3ZlQlE5ZWNEclBOTDBFQjJ4UE1SOHhLQlZ6cVdBSHhIaTBhZENIZFRCWW0tVHhabWhUSXlWTDhmR2RFZWd5ZjZ6WUVQVXc5Z21pZ2dlWVRHaTY2RXJOTDRkLVdUVHRMc25SekVKZmdMeExTa3htZkZ2eUxIaHd5U2JBRmxPUVJlYldNMTBfMU5wZHI5OEoxekZQR01JOWlwRDlpUE44eFJBS19Mek9oOUlz0gHMAUFVX3lxTE9lXzlSTUctNEQxYkVPXzRzMjhJaTR1ZnBMaU4yaGlDQnVBZDFDTzViOXNaNEJva1lVRUdueEFyWlZub2ZLUTFLaVFyMVRGMDVXNDZ0bWstNHkwSzFMQm9fSkxuWFNMMXdMYy1mNmR2bFRSX2R5OUpSdWNqZE5hNTNKOERqeVZDVEFEOHBmcGszQ2ctal9iRmZlRlV0cmVaWHJSWGlXaEoyeTlmb2wyZE9fQjJlbW1rbHBlaW9VUklYOHVEanlPcktqSWFacQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -4116,17 +4316,17 @@
   "also_reported_by": []
  },
  {
-  "person": "Arvind Kumar",
-  "role": "Director",
-  "company": "BSNL",
+  "person": "Ravi Kumar",
+  "role": "CFO",
+  "company": "Cellecor Gadgets",
   "movement": "Appointment",
-  "role_group": "Board & Directors",
-  "sector": "Corporate",
-  "region": "Global",
-  "date": "2026-10-23",
-  "headline": "BSNL appoints Arvind Kumar as director of consumer mobility",
-  "publisher": "ET Telecom",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOckx1NjZDc3doR3B3eUpINGdJQU1UY3ZlQlE5ZWNEclBOTDBFQjJ4UE1SOHhLQlZ6cVdBSHhIaTBhZENIZFRCWW0tVHhabWhUSXlWTDhmR2RFZWd5ZjZ6WUVQVXc5Z21pZ2dlWVRHaTY2RXJOTDRkLVdUVHRMc25SekVKZmdMeExTa3htZkZ2eUxIaHd5U2JBRmxPUVJlYldNMTBfMU5wZHI5OEoxekZQR01JOWlwRDlpUE44eFJBS19Mek9oOUlz0gHMAUFVX3lxTE9lXzlSTUctNEQxYkVPXzRzMjhJaTR1ZnBMaU4yaGlDQnVBZDFDTzViOXNaNEJva1lVRUdueEFyWlZub2ZLUTFLaVFyMVRGMDVXNDZ0bWstNHkwSzFMQm9fSkxuWFNMMXdMYy1mNmR2bFRSX2R5OUpSdWNqZE5hNTNKOERqeVZDVEFEOHBmcGszQ2ctal9iRmZlRlV0cmVaWHJSWGlXaEoyeTlmb2wyZE9fQjJlbW1rbHBlaW9VUklYOHVEanlPcktqSWFacQ?oc=5",
+  "role_group": "CFO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-10-22",
+  "headline": "Cellecor Gadgets appoints Ravi Kumar as CFO to strengthen financial leadership",
+  "publisher": "Indian Television Dot Com",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSlBUXzJhYXMtYm8wQXhKX2sxQklaOWtXbFcyRHA5UEhOaW03eXBZWHU3V2VndlF5MUhwYlhzekF2aFd3RW9SMUNkWW1VdkpHNGRNemlZdTNQUWp2bkRXdERjd1hhMkZUcnBIMmdIZXpCNHN4enp4UmNCTnlLb2ZFSFB1R1RGTHliQXRMU2w3VVJuWGN4NmkxQjZQb0RLellvTVhRYmtXMklhbTJEMVg3LWdR?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -4184,22 +4384,6 @@
   "also_reported_by": [
    "pv magazine India"
   ]
- },
- {
-  "person": "Ravi Kumar",
-  "role": "CFO",
-  "company": "Cellecor Gadgets",
-  "movement": "Appointment",
-  "role_group": "CFO",
-  "sector": "BFSI",
-  "region": "India",
-  "date": "2026-10-22",
-  "headline": "Cellecor Gadgets appoints Ravi Kumar as CFO to strengthen financial leadership",
-  "publisher": "Indian Television Dot Com",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSlBUXzJhYXMtYm8wQXhKX2sxQklaOWtXbFcyRHA5UEhOaW03eXBZWHU3V2VndlF5MUhwYlhzekF2aFd3RW9SMUNkWW1VdkpHNGRNemlZdTNQUWp2bkRXdERjd1hhMkZUcnBIMmdIZXpCNHN4enp4UmNCTnlLb2ZFSFB1R1RGTHliQXRMU2w3VVJuWGN4NmkxQjZQb0RLellvTVhRYmtXMklhbTJEMVg3LWdR?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
  },
  {
   "person": "Adewale Yusuf",
@@ -14317,18 +14501,19 @@
  {
   "person": "Faiz Ahmad",
   "role": "CEO",
-  "company": "Hinduja Tech",
+  "company": "Ashok Leyland's subsidiary Hinduja Tech",
   "movement": "Appointment",
   "role_group": "CEO",
   "sector": "Corporate",
   "region": "India",
   "date": "2026-10-07",
-  "headline": "Hinduja Tech Names Faiz Ahmad as New CEO",
-  "publisher": "Kalkine India",
-  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR2VIekxzTVZ0UHl1RzZFZ3B3WHNGNlZBb1hmV0pISzhnMzZJLVIxajVSWEhOcnkwSGcxTXI1NjlhSC00enBtZGNhMUVteVoyRS16dXpNWTFjU1c4VU9pUGJ2R1NUcVdDdzEyX0s1NkZlUG02WDNVRWVzQS03QS1NRkVBMXZDSWNJT1JIRUM2M0VrQjdEcHJ0SXNMS0lRREZ4bEdySzVHOGUzczk5TU9kekoyTFl4MEVSYTNiTUprQmVZelozSFc2U3FwM1Jwamp6MGJmdW9kYm5icTJXR1E?oc=5",
+  "headline": "Ashok Leyland's subsidiary Hinduja Tech appoints Faiz Ahmad as CEO - People Matters",
+  "publisher": "People Matters - HR News",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMzQzNmJvQzc5SFJVbHhwaUtNU2d5NTBzWjBOdE55aFp3ZU9qT3hxZkFQVThNSUlQUjE2cXBFclpreFNQWFZsTTQ4TDBBOW4xVTR2TFdDUGZmaWJzV2EtXzV6QjA0QUdScWdRbEppdkRMLUY3d2YwNEtPWDk0STgtcEMtUVpMNVNpM1FkSWMyVVVRaGcxOHJaa0xyYmdTLVIyd0VJNlJpMGVwXzR1Q3BhNHFaQWU?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
+   "Kalkine India",
    "Construction Week India"
   ]
  },
@@ -14912,6 +15097,24 @@
   "also_reported_by": []
  },
  {
+  "person": "Gaurav Kumar",
+  "role": "CFO",
+  "company": "Apollo Tyres",
+  "movement": "Resignation",
+  "role_group": "CFO",
+  "sector": "Healthcare",
+  "region": "India",
+  "date": "2026-10-06",
+  "headline": "Apollo Tyres CFO Gaurav Kumar Resigns To Seek New Challenges",
+  "publisher": "Sahi",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDJRTDAwX2VUZHhLaTZQN053VXJYQzZ4OGJ0N1BWMUh3U2lfeVQ4SHBCdXBLTGRDU3ZhYlRocGpnakk5dEtqZXhkLW1wMFd1Umx3d3RRM0ItVHRROHpLSnpzN0xtUUxfU0tCVkR6SmxkRldzSVdvdTBhU2kzS1lQbjltbmZfVUFwM1Z0bXYxbw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "Business Upturn"
+  ]
+ },
+ {
   "person": "Satish Kalmaste",
   "role": "CFO",
   "company": "Talwalkars",
@@ -15194,24 +15397,6 @@
    "www.marketscreener.com",
    "TipRanks",
    "AD HOC NEWS"
-  ]
- },
- {
-  "person": "Gaurav Kumar",
-  "role": "CFO",
-  "company": "Apollo Tyres",
-  "movement": "Resignation",
-  "role_group": "CFO",
-  "sector": "Healthcare",
-  "region": "India",
-  "date": "2026-10-06",
-  "headline": "Apollo Tyres CFO Gaurav Kumar Resigns To Seek New Challenges",
-  "publisher": "Sahi",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDJRTDAwX2VUZHhLaTZQN053VXJYQzZ4OGJ0N1BWMUh3U2lfeVQ4SHBCdXBLTGRDU3ZhYlRocGpnakk5dEtqZXhkLW1wMFd1Umx3d3RRM0ItVHRROHpLSnpzN0xtUUxfU0tCVkR6SmxkRldzSVdvdTBhU2kzS1lQbjltbmZfVUFwM1Z0bXYxbw?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "Business Upturn"
   ]
  },
  {
@@ -27902,6 +28087,22 @@
   "also_reported_by": []
  },
  {
+  "person": "N Chandrasekaran",
+  "role": "Executive Chairman",
+  "company": "Tata Sons board",
+  "movement": "Re-appointment",
+  "role_group": "Chairman",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-09-17",
+  "headline": "Tata Sons board reappoints N Chandrasekaran as Executive Chairman for five years",
+  "publisher": "",
+  "link": "https://bfsi.economictimes.indiatimes.com/articles/tata-sons-board-reappoints-n-chandrasekaran-as-executive-chairman-for-five-years/134309779",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Jagnoor Singh",
   "role": "CEO",
   "company": "Practo",
@@ -28437,22 +28638,6 @@
   "headline": "boAt Lifestyle appoints Saikat Mukhopadhyay as CFO",
   "publisher": "Exchange4Media",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlF5Mm5Va3B4cnotVmpyY3lNYjhrMlFSZVI5SGFCcHRBYmpoUV94b3dxSDFtbjdmRjN6N2pma3hsbHlPcE0weks5dUpvYVN3RE5jZG1rUjBEbC0zQjVPMkhPcFVicUJPdnBkamtCaG5qbEEzamY3Z2NNSjlZc095Q19SMTZOZUk4TnhKUFdTaVBFdGdQYmJSU0hqVEhtazQ4WUsxNTJuelNTbHdoZUtNckVwcm8?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
-  "person": "N Chandrasekaran",
-  "role": "Executive Chairman",
-  "company": "Tata Sons board",
-  "movement": "Re-appointment",
-  "role_group": "Chairman",
-  "sector": "BFSI",
-  "region": "India",
-  "date": "2026-09-17",
-  "headline": "Tata Sons board reappoints N Chandrasekaran as Executive Chairman for five years",
-  "publisher": "",
-  "link": "https://bfsi.economictimes.indiatimes.com/articles/tata-sons-board-reappoints-n-chandrasekaran-as-executive-chairman-for-five-years/134309779",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -49245,6 +49430,51 @@
   "also_reported_by": []
  },
  {
+  "person": "Natarajan Chandrasekaran",
+  "role": "Group Chairman",
+  "company": "Tata Sons",
+  "movement": "Resignation",
+  "role_group": "Chairman",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-08-11",
+  "headline": "Tata Group Chairman N Chandrasekaran to step down in February",
+  "publisher": "BBC",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94azltM2VHNkdkclNaMG00Ri1KOW9wMGF2NGV3NWlTZXp3VFZyZ2ZCNlQwNkE1SXFrRlg5OHJrUGJTdFBnZWNlbzQ0TUJzdnVBN2lFZTM4X2xpdw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "https://safariindia.com/",
+   "NDTV",
+   "LinkedIn",
+   "Telangana Today",
+   "TheWire.in",
+   "Autocar Professional",
+   "Outlook Money",
+   "digital terminal",
+   "Deccan Chronicle",
+   "bestmediainfo.com",
+   "IMPACT Magazine",
+   "Adgully.com",
+   "Gulf News",
+   "The Tribune",
+   "Moneycontrol.com",
+   "Investment Guru India",
+   "Storyboard18",
+   "The New Indian Express",
+   "firstpost.com",
+   "Telegraph India",
+   "Business Standard",
+   "The Hindu",
+   "Upstox",
+   "Open Magazine",
+   "Hindustan Times",
+   "News18",
+   "National Herald",
+   "Team-BHP"
+  ]
+ },
+ {
   "person": "Sudhir Sitapati",
   "role": "MD & CEO",
   "company": "Godrej Consumer Products",
@@ -49275,50 +49505,6 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
- },
- {
-  "person": "N Chandrasekaran",
-  "role": "Group Chairman",
-  "company": "Tata Group Loses Rs 26,800 Crore",
-  "movement": "Resignation",
-  "role_group": "Chairman",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-08-11",
-  "headline": "Tata Group Chairman N Chandrasekaran to step down in February",
-  "publisher": "BBC",
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94azltM2VHNkdkclNaMG00Ri1KOW9wMGF2NGV3NWlTZXp3VFZyZ2ZCNlQwNkE1SXFrRlg5OHJrUGJTdFBnZWNlbzQ0TUJzdnVBN2lFZTM4X2xpdw?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "NDTV",
-   "LinkedIn",
-   "Telangana Today",
-   "TheWire.in",
-   "Autocar Professional",
-   "Outlook Money",
-   "digital terminal",
-   "Deccan Chronicle",
-   "bestmediainfo.com",
-   "IMPACT Magazine",
-   "Adgully.com",
-   "Gulf News",
-   "The Tribune",
-   "Moneycontrol.com",
-   "Investment Guru India",
-   "Storyboard18",
-   "The New Indian Express",
-   "firstpost.com",
-   "Telegraph India",
-   "Business Standard",
-   "The Hindu",
-   "Upstox",
-   "Open Magazine",
-   "Hindustan Times",
-   "News18",
-   "National Herald",
-   "Team-BHP"
-  ]
  },
  {
   "person": "Aasif Malbari",
@@ -50084,7 +50270,8 @@
    "hrtoday.in",
    "People Matters - HR News",
    "Rediff MoneyWiz",
-   "peoplematters.in"
+   "peoplematters.in",
+   "Exchange4Media"
   ]
  },
  {
@@ -50531,6 +50718,22 @@
   "also_reported_by": [
    "APAC Media"
   ]
+ },
+ {
+  "person": "Sufia Akter",
+  "role": "Deputy MD",
+  "company": "UCB",
+  "movement": "Appointment",
+  "role_group": "MD",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-07-30",
+  "headline": "UCB appoints Sufia Akter as deputy managing director",
+  "publisher": "The Business Standard",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOG9hZks1QmpMemhlMXZjWFN0aFpONEktQ28wQlFKM0ZFWDN6d0otM3BWS2ZWNkg0N0N6bGpCaUpzNTNsSlJ5VVFKdDQ5LWl3WFQyS2dfZmpnZEdZZ2FwZHBuNjFRcDhYM3RKTmc3SEVfZHYwRXlCXzdFTEtyWWR2SUk3WHViTkFQaGNwa3htWDFxSFBUZzdPbTNzdVVWSEhTSkE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
  },
  {
   "person": "Vikas Gupta",
@@ -54767,22 +54970,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Noel Tata",
-  "role": "Chairman",
-  "company": "Voltas",
-  "movement": "Resignation",
-  "role_group": "Chairman",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-06-30",
-  "headline": "After Trent, Noel Tata Steps Down As Chairman Of Voltas",
-  "publisher": "News18",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTWtCNTF5Y2ZteXd6alZ1V21sWWNHWi0wNlQwMWJOV2cxTng1N1hTdzVfM1NobE1yN3B1aVZFbjc3V3hIdmxQSnZnM0E1ZFhhUW9TU19vbEx3OXhIRHZqMjZicUFfNzVnUlZ6RFdZbVBXcGpKelRZRkNZUDVHdklsQWx3QWJvX1NtNndxYUMzQWJ4cGdlN19YY0VIZnkxTl80eklPMHVhd01IMElReElYVmdMb9IBuAFBVV95cUxORnp4b1h1eXZETzU3Vkd0c003Uk1WbXM2NlFNTl9yYTdRSHF3WWgyVUtjbkRzLVdLSm16SkU5UjlsWjZ1LUdUdGVKa21SaHR4MjVUS19fV3p5V29VakctcVFPU3ZYZlYyZXhJRWRQSHdZcVV6NDZPRFJpQ0JMSzVqMWxDYzNsTmZiX2Qzd1RNM3dOcW5uLVM2eVE4Rk5GbTdQT0NGOXBjbHJTam5TZG1lRFJIMExPT2VF?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
   "person": "Rajiv Kumar",
   "role": "Chairman",
   "company": "Private banks see leadership reshuffle, HDFC",
@@ -54799,6 +54986,22 @@
   "also_reported_by": [
    "Moneycontrol.com"
   ]
+ },
+ {
+  "person": "Noel Tata",
+  "role": "Chairman",
+  "company": "Voltas",
+  "movement": "Resignation",
+  "role_group": "Chairman",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-06-30",
+  "headline": "After Trent, Noel Tata Steps Down As Chairman Of Voltas",
+  "publisher": "News18",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTWtCNTF5Y2ZteXd6alZ1V21sWWNHWi0wNlQwMWJOV2cxTng1N1hTdzVfM1NobE1yN3B1aVZFbjc3V3hIdmxQSnZnM0E1ZFhhUW9TU19vbEx3OXhIRHZqMjZicUFfNzVnUlZ6RFdZbVBXcGpKelRZRkNZUDVHdklsQWx3QWJvX1NtNndxYUMzQWJ4cGdlN19YY0VIZnkxTl80eklPMHVhd01IMElReElYVmdMb9IBuAFBVV95cUxORnp4b1h1eXZETzU3Vkd0c003Uk1WbXM2NlFNTl9yYTdRSHF3WWgyVUtjbkRzLVdLSm16SkU5UjlsWjZ1LUdUdGVKa21SaHR4MjVUS19fV3p5V29VakctcVFPU3ZYZlYyZXhJRWRQSHdZcVV6NDZPRFJpQ0JMSzVqMWxDYzNsTmZiX2Qzd1RNM3dOcW5uLVM2eVE4Rk5GbTdQT0NGOXBjbHJTam5TZG1lRFJIMExPT2VF?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
  },
  {
   "person": "Atul Gupta",
@@ -61522,7 +61725,8 @@
   "moved_from_source": "",
   "also_reported_by": [
    "HR Katha",
-   "peoplematters.in"
+   "peoplematters.in",
+   "https://hrtoday.in/"
   ]
  },
  {
@@ -76630,6 +76834,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Gyanesh Kumar",
+  "role": "Head",
+  "company": "International IDEA council",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2025-12-03",
+  "headline": "Gyanesh Kumar takes charge as head of International IDEA council",
+  "publisher": "The Hindu",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU3JMRVhRMUZhaWU2NjA2dmNvc0Zja0loejVVSFZKYjgxaVZIbkJIMHlSdHBGc3BOTmVjdG5rU3pWVjZsQkxQSVNpXzZwRnp4ZV8xb2VfVXNORW1EaC1ZWHp5LUVzX3IwMlc4d0RvM1FfWDVmMGJSRlNaQS0wcUhHbjB5eVRlaHM0MmRVRWt3OXdIYjVBSy1HV2YwV3V2WGlsUmhGVTNHSXM3TG9WZUh3YjhTUm9xLWJxaG94SUFsTDfSAccBQVVfeXFMTnVwX1FNREE3RGdzSk9HMVNRc1RNb3BDUHY5Z3I1SHBMdVZKanZlNmp3eF9kc3FSSG9TSlBvQk5nVERzZjRlTElZQ0tPMVROMDlxTVl4NUdFSEZ1WTZwMDN5bXBaY3JMSXlMN0Y5MWhndEQ3QVZhdFZPZWVCazlQdmlZRC1scEN6RmdxeGVpMDhCS3VUNENVVG1EczFYVEJnNVRfYXg2eG1heWVyMUNyVldrclpMOTVVcWF6aThSXzMyZ1Zaak5FYw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Ashish Sehgal",
   "role": "CEO",
   "company": "Times TV Network, sets sights on growth surge",
@@ -76730,22 +76950,6 @@
   "headline": "Astro Shapes Appoints Carol Jackson As CEO",
   "publisher": "citybiz",
   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ3FEbDQ4eWZIcVdiM0dYWUhLczJESTIzMHdXUjNBMklZUno0SkxtQ3hnODV4WjhLWlhIelZhbVF0NWRmLU1KcXJtRUQ5dWlzZXZRVTl0SmZQRUNNWVMzb0xoTEdVdVFYc1F6dEUtU2JVaWdjTXFuR2lCR2p5a3lobUMzMFNIN1BH?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
-  "person": "Gyanesh Kumar",
-  "role": "Head",
-  "company": "International IDEA council",
-  "movement": "Appointment",
-  "role_group": "Business Heads",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2025-12-03",
-  "headline": "Gyanesh Kumar takes charge as head of International IDEA council",
-  "publisher": "The Hindu",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU3JMRVhRMUZhaWU2NjA2dmNvc0Zja0loejVVSFZKYjgxaVZIbkJIMHlSdHBGc3BOTmVjdG5rU3pWVjZsQkxQSVNpXzZwRnp4ZV8xb2VfVXNORW1EaC1ZWHp5LUVzX3IwMlc4d0RvM1FfWDVmMGJSRlNaQS0wcUhHbjB5eVRlaHM0MmRVRWt3OXdIYjVBSy1HV2YwV3V2WGlsUmhGVTNHSXM3TG9WZUh3YjhTUm9xLWJxaG94SUFsTDfSAccBQVVfeXFMTnVwX1FNREE3RGdzSk9HMVNRc1RNb3BDUHY5Z3I1SHBMdVZKanZlNmp3eF9kc3FSSG9TSlBvQk5nVERzZjRlTElZQ0tPMVROMDlxTVl4NUdFSEZ1WTZwMDN5bXBaY3JMSXlMN0Y5MWhndEQ3QVZhdFZPZWVCazlQdmlZRC1scEN6RmdxeGVpMDhCS3VUNENVVG1EczFYVEJnNVRfYXg2eG1heWVyMUNyVldrclpMOTVVcWF6aThSXzMyZ1Zaak5FYw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -90383,6 +90587,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Md Afzal Karim",
+  "role": "CEO & MD",
+  "company": "Sonali Bank",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2022-08-28",
+  "headline": "Md Afzal Karim joins Sonali Bank as CEO & MD",
+  "publisher": "The Business Standard",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPall1N1dscW1OVVIxNDlNRUlWQlBlM1NZV3YwQ3FOSUdBY3pjc2wxVEtwVDhfbFdsbVJZSUdtbkVRYldGOWNsT01HTVRoc09WM3JneGtGRVRibHEtZG9zR3VpV1o5blpIOU4yQjhiUzNBU212ZDRrQ0lhWXVIWmt4U3BlUTYybjFHUnI3YkpId1ViMVE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Aman Mehta",
   "role": "Director",
   "company": "Torrent Pharma",
@@ -90479,6 +90699,22 @@
   "also_reported_by": [
    "BusinessLine"
   ]
+ },
+ {
+  "person": "Ali Reza Iftekhar",
+  "role": "MD & CEO",
+  "company": "EBL",
+  "movement": "Re-appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2022-06-05",
+  "headline": "EBL reappoints Ali Reza Iftekhar as MD and CEO",
+  "publisher": "The Business Standard",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXZ1Nm8xUzIxd3EzaFh2dWJ3Y0ZMTFZuSjBSUDN0enRKTUxIREo3d2FfSi13dm9ud1lrMmNuanEtaVJjY3RILS1ueS1CN0hWZ2F0eXYwcWV2WnNXMjNRMDhMVnhkVmJiVUUtRGVhbDltNHNiYmN3dVNySlFJbjRpVzBQMXpsTDBWeXNEM3BnMzRVbEJZ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
  },
  {
   "person": "Campbell Wilson",
