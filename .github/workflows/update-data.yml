@@ -37,6 +37,10 @@ jobs:
       - name: Build dataset
         run: python scripts/build_dataset.py
 
+      - name: Link portal articles
+        continue-on-error: true
+        run: python scripts/link_portal_articles.py
+
       - name: Render dashboard
         run: python scripts/make_dashboard.py
 

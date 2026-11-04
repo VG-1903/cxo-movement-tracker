@@ -45,6 +45,10 @@ FIELDS = ["date", "person", "movement", "role", "role_group", "company",
           "article_url"]
 
 
+# sectors whose feed drives a portal ticker (see link_portal_articles.py)
+LINKED_ONLY = {"bfsi"}
+
+
 def payload(label, records, updated, role_group=None):
     out = {
         "api_version": "1",
@@ -81,6 +85,12 @@ def main():
     stats = {"all": len(recs)}
     for slug, label in SECTORS.items():
         sub = [r for r in recs if r["sector"] == label]
+        if slug in LINKED_ONLY:
+            # the portal ticker reads this feed and opens article_url: only
+            # moves with a published on-portal article are listed, so every
+            # ticker item opens a full article (the full list: <slug>_all.json)
+            write(API / f"{slug}_all.json", payload(label, sub, updated))
+            sub = [r for r in sub if r.get("article_url")]
         stats[slug] = len(sub)
         write(API / f"{slug}.json", payload(label, sub, updated))
         write(API / f"{slug}_latest.json", payload(label, sub[:50], updated))
