@@ -78,7 +78,8 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "MediaNews4U"
+   "MediaNews4U",
+   "Indian Television Dot Com"
   ]
  },
  {
@@ -130,6 +131,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Vishal Kanvaty",
+  "role": "MD & CEO",
+  "company": "NPCI forms tech subsidiary NTSL",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-04",
+  "headline": "NPCI forms tech subsidiary NTSL, appoints Vishal Kanvaty as MD & CEO",
+  "publisher": "Adgully",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDJRRllZdlR3WVJvdFk0TVJoQ3pqVGUyZEhMWVNZRHpSVzMwdmkycVBBRnExelJxbFJ3VjNkWGllM05WTXlmYWIzN3JQdXhQTDBPWklwY1B4TExGQVVQUDM5VmNkd1NYNXBacmVzdGtNSEJydnEzcDgxRDB5RTR1OTE0SW9PME9IT0NrSFhJMjRESnNDMVVjZkJDYkEzX1dhSHc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Balaji Nuthalapadi",
   "role": "Interim CEO",
   "company": "Equitas Small Finance Bank",
@@ -144,6 +161,7 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
+   "Elets BFSI",
    "Fortune India"
   ],
   "article_url": "https://bfsi.eletsonline.com/equitas-small-finance-bank-names-balaji-nuthalapadi-interim-ceo/"
@@ -184,6 +202,7 @@
    "The Economic Times",
    "CNBC TV18",
    "Sahi",
+   "Veloxx media",
    "pharma.economictimes.indiatimes.com"
   ]
  },
@@ -1833,6 +1852,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Satyendra Shridhar Nayak",
+  "role": "Independent Director",
+  "company": "Suraj Estate Developers",
+  "movement": "Re-appointment",
+  "role_group": "Board & Directors",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-02",
+  "headline": "Suraj Estate Developers Re-Appoints Satyendra Shridhar Nayak as Independent Director",
+  "publisher": "PSU India",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN3NBTXhWRUU0ek5VMlRGMjFFLWlPWXhwQTRvQS02XzczU0Qwdko4ajdHZGM4bllqd0RSR1VsYWd2RjdKdC1NMjBhZmNyaGE1SExWaE9LdE95MzVIRG5zbW81X2tiZ3kxZXdORkYxWWRNcVQxMW8xOXRmUWJHeWFyT2NxbmpaV3ZxdThZbkdobTF2M3liUEZscHRUbmNsMlpHSFdRUXYtSTdzcTZreVlrY1RCaS1USDFOREtvM3l6eXRtcTJkLW5jUThn0gHKAUFVX3lxTE03c0FNeFZFRTR6TlUyVEYyMUUtaU9ZeHBBNG9BLTZfNzNTRDB2SjhqN0dkYzhuWWp3RFJHVWxhZ3ZGN0p0LU0yMGFmY3JoYTVITFZoT0t0T3kzNUhEbnNtbzVfa2JneTFld05GRjFZZE1xVDExbzE5dGZRYkd5YXJPY3FualpXdnF1OFluR2htMXYzeWJQRmxwdFRuY2wyWkdIV1FRdi1JN3NxNmt5WWtjVEJpLVRIMU5ES28zeXp5dG1xMmQtbmNROGc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Sanjay Singhal",
   "role": "Director General",
   "company": "Indo-Tibetan Border Police",
@@ -2051,6 +2086,25 @@
   "also_reported_by": []
  },
  {
+  "person": "Sunil Kumar Chugh",
+  "role": "Additional Non-Executive Director",
+  "company": "Canara HSBC Life Insurance",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-10-31",
+  "headline": "Canara HSBC Life Insurance appoints Sunil Kumar Chugh as Additional Non-Executive Director",
+  "publisher": "Elets BFSI",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTBLYTN3RG50WElRbDVSS0IyZzEwN1l5dUdadjNVd3p0S0NNeGlfUFNIb1hqTFJsOTMwRFBlQ2tyY3o3eWdWOGVMN1VOcUpTV1cyUTZBeUY3UmNJcEkyNVlHSEVlMnJ5MXl6UDN5UDFNMXZuMnNPRUhHc3ZUT0ZPeTlmMVlfUXRhcDFxcGQ5MnJ0UWI4cl82cGxDQUxBdw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "scanx.trade"
+  ],
+  "article_url": "https://bfsi.eletsonline.com/canara-hsbc-life-insurance-appoints-sunil-kumar-chugh-as-additional/"
+ },
+ {
   "person": "Sanjay D'Souza",
   "role": "Head",
   "company": "HDFC Bank SME",
@@ -2193,23 +2247,6 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
- },
- {
-  "person": "Sunil Kumar Chugh",
-  "role": "Additional Director",
-  "company": "Canara HSBC Life",
-  "movement": "Appointment",
-  "role_group": "Board & Directors",
-  "sector": "BFSI",
-  "region": "India",
-  "date": "2026-10-31",
-  "headline": "Canara HSBC Life appoints Sunil Kumar Chugh as additional director",
-  "publisher": "scanx.trade",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQmE0WFhlNF91aGpqRlRuVFV3aGFHbnBuQVcweUE2ellnSXZBczlmb0ptTGdwMVAyMzFrbW9JeDZjbW53STdqTndNQUl3U0FGdWZZeWpZRzZJbXJXdkFTVnQ4VmZVdFdKTHdHSEgtQTR1dXgyTUFSNUFVX1BTMmVISXZBQmlNaThWZWJoSDF2RXVsUW9VNWU2aG5iVzVuZ1VRUVBWbkplZWNKd2NwMDRvZVZJZUZPZ0NUTVRSbw?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [],
-  "article_url": "https://bfsi.eletsonline.com/canara-hsbc-life-insurance-appoints-sunil-kumar-chugh-as-additional/"
  },
  {
   "person": "Christoph Stoller",
@@ -4490,6 +4527,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Sunil Kumar Chugh",
+  "role": "Additional Director",
+  "company": "Canara Robeco AMC",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-10-27",
+  "headline": "Canara Robeco AMC appoints Sunil Kumar Chugh as additional director",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkNvSS1WcS0yaDZ1VU1vVEd3b3FZczdJRTREUVVaVzVkNm1UOXgxSGlCdE0tZ0hPeUZBZUZYdWFqOUowQzRmM1J1Sm5lWTdrN0xLR3hEb1ByQmVodDhibVBZbWJweDNwc2dtaUd6RmVKeFRfYmdFUDFuQWRDN0lKSWNNLTNzLUNQbV85STJ6a3Y5T2VnLTlfN3NrYnVZRjF2ek8xdjg0b0dvbFhjajRxel94a21iT2xiQ2tQLWln?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Sylvia Lavin",
   "role": "Dean",
   "company": "Princeton’s School of Architecture",
@@ -4507,22 +4560,6 @@
    "The Daily Princetonian",
    "Princeton University"
   ]
- },
- {
-  "person": "Sunil Kumar Chugh",
-  "role": "Additional Director",
-  "company": "Canara Robeco AMC",
-  "movement": "Appointment",
-  "role_group": "Board & Directors",
-  "sector": "BFSI",
-  "region": "India",
-  "date": "2026-10-27",
-  "headline": "Canara Robeco AMC appoints Sunil Kumar Chugh as additional director",
-  "publisher": "scanx.trade",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkNvSS1WcS0yaDZ1VU1vVEd3b3FZczdJRTREUVVaVzVkNm1UOXgxSGlCdE0tZ0hPeUZBZUZYdWFqOUowQzRmM1J1Sm5lWTdrN0xLR3hEb1ByQmVodDhibVBZbWJweDNwc2dtaUd6RmVKeFRfYmdFUDFuQWRDN0lKSWNNLTNzLUNQbV85STJ6a3Y5T2VnLTlfN3NrYnVZRjF2ek8xdjg0b0dvbFhjajRxel94a21iT2xiQ2tQLWln?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
  },
  {
   "person": "Saket Somani",
@@ -18006,7 +18043,8 @@
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHp4TFpDUmV3c0diSzFIS2xEWWZRa1lxRVRXaU5jOEViYVk5ZXpwWC10Yk9qd2hpNnd4YTVGRVh5V21SbVdHbU85MmNObkpwbi1DY3FWQklqNXczRE1md3hHOFVXME11QXllWlcxZlhZRUEweFBkVVZsVWM5R2lib3o2RGNwQ0M3SHlmNVRQVQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [],
+  "article_url": "https://bfsi.eletsonline.com/leo-puri-steps-down-as-uti-mutual-fund-managing-director/"
  },
  {
   "person": "Spencer Stiles",
