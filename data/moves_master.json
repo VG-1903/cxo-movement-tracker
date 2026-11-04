@@ -226,7 +226,9 @@
   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUVVocVd1VUdBQWQteVdlbXRyZXRkUS15VHMyTGVJQXkza19rOGstYm5WdFZXdVBVVDRkcUdqb3JhajVGWGVYUTV2aHU5dDBEMmoyMzgxaE1wVWJEdWYweTB1a0Z3emN5b1JKLTIyTERnb3JtMG5FTGt0MHdxUGNwcXVxeUVSZXBQb29J?oc=5",
   "moved_from": "GSK",
   "moved_from_source": "headline",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Techgenyz"
+  ]
  },
  {
   "person": "Saidulu Chilka",
@@ -455,6 +457,38 @@
   "also_reported_by": []
  },
  {
+  "person": "Mohit Mittal",
+  "role": "Head",
+  "company": "BharatPe",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-04",
+  "headline": "BharatPe appoints Mohit Mittal as Head of Investments",
+  "publisher": "Adgully",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbkNOTktaUjQ0RnZ5X3JSM1hIRzI5a3J0R1R2Z1J1UTVfb0hreFNfd1otMWF2UEUwTEV6LTBnQlF0bXNsdVpZR3pHdjRiUU5WQkFwZHZsbkM1aWw2aTVEWlV1TE4zNXJKWkozcGZfOFhIeDNRbGxhUF9ibjc0d2RzdGhURGthZ3o2Vmx4YVppLXVodw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Arvind Gautam",
+  "role": "MD",
+  "company": "Tenneco Automotive India",
+  "movement": "Appointment",
+  "role_group": "MD",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-04",
+  "headline": "Tenneco Automotive India Appoints Arvind Gautam as Managing Director",
+  "publisher": "Autocar Professional",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcE5MTkc3MV9TeW9LSkVmU1BmU3pvN2RUR1ZCMEd4RjBrN3hRdjducXBBcXQtVGFGOUJRQUVrV3p3NWl3dE5EZjl0ZHJyMmF6WHpjTnBLZkdBSm9BR3FBMXcyeEtoWW1rTWNiR2d4Z1UxTHZQZzhQeWhac1NBUXdBSlloaUJFNUpoUW1sWlRkdXZhclNHaHNXM2ZJZUlROXpHQTNmZDBWaVh2Z9IBsgFBVV95cUxPRFZVWnNNTDZXcmVXY3pfb3JCTzBfRE1iaTFTcm1ucWtFTGdyMG9vMlZFSE9OaXJrY3RMUU9pU2N2N2VQakgyUWJ5NG52N3FKSmd4MWxQanpZdUh4R3I4QWtNOFU4aldzamhJVnotQ2Y2TWhWa0gyanpidF96b0c2MDlYVDhDSGRtUEtLV2YyTEpzYUhibFk5UnhKUkJFS1haQkl5Xy1Fel9oSkVOY3hjMG13?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Balaji Nuthalapadi",
   "role": "Interim CEO",
   "company": "Equitas Small Finance Bank",
@@ -470,6 +504,7 @@
   "moved_from_source": "",
   "also_reported_by": [
    "Elets BFSI",
+   "Adgully",
    "Fortune India",
    "Rediff MoneyWiz",
    "NewsBytes"
@@ -1157,6 +1192,25 @@
   "also_reported_by": []
  },
  {
+  "person": "Amit Bhandari",
+  "role": "MD & CEO",
+  "company": "Universal Sompo General Insurance",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-11-02",
+  "headline": "Universal Sompo General Insurance Appoints Amit Bhandari as Managing Director & CEO, Subject to IRDAI Approval",
+  "publisher": "https://hrtoday.in/",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZTA1bEUya2hmT3NzZ3ltZi00LTV2YUd6UGsyOG5nV0JONGlzSFBnVGYxUm9RT3g2MzJncHhGNVg3X25UNTljaF9faklQb2ZsWktvVTRwMi1XeWwxQTU2S1dtVkRnVnJDY3p4djRvZGRzeVpMUmV2aVoycXl3d3U0US1va1c1cnRFMGRIWVdoWlFBa3A1UjdrN1RyakhVdXJuNzZCdFJPR0Z0RmZzTkptZ2dTTVpLRTRKeEpPcUpmTnBEOE5NNVE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "Elets BFSI"
+  ],
+  "article_url": "https://bfsi.eletsonline.com/universal-sompo-amit-bhandari-md-ceo/"
+ },
+ {
   "person": "Bernie Poh",
   "role": "CEO",
   "company": "S’pore charity Sree Narayana Mission",
@@ -1777,23 +1831,6 @@
    "Saur Energy",
    "Manufacturing Today India"
   ]
- },
- {
-  "person": "Amit Bhandari",
-  "role": "MD & CEO",
-  "company": "Universal Sompo General Insurance",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "BFSI",
-  "region": "India",
-  "date": "2026-11-02",
-  "headline": "Universal Sompo General Insurance Appoints Amit Bhandari as Managing Director & CEO, Subject to IRDAI Approval",
-  "publisher": "https://hrtoday.in/",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZTA1bEUya2hmT3NzZ3ltZi00LTV2YUd6UGsyOG5nV0JONGlzSFBnVGYxUm9RT3g2MzJncHhGNVg3X25UNTljaF9faklQb2ZsWktvVTRwMi1XeWwxQTU2S1dtVkRnVnJDY3p4djRvZGRzeVpMUmV2aVoycXl3d3U0US1va1c1cnRFMGRIWVdoWlFBa3A1UjdrN1RyakhVdXJuNzZCdFJPR0Z0RmZzTkptZ2dTTVpLRTRKeEpPcUpmTnBEOE5NNVE?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [],
-  "article_url": "https://bfsi.eletsonline.com/universal-sompo-amit-bhandari-md-ceo/"
  },
  {
   "person": "Arjun Verma",
