@@ -62,7 +62,9 @@
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzZaQzlEZjdoVlZVaFNCM3J1bS1rU244OTZGVTl1X2NmVWNrRE5VOGd6QldnOGk2eXUwNllpTTktX1YtTEpBMFlidVdkaVNWakhsZ2FaeHNBU2psX3V1Q2tRN0Q3WkE0MDVYY25BX2NfYlFYdU1rVlVyZFB3aGN6UFhDaHJibHlHSG5aTE11MVFfQXVsZ1loRVo4bG16UjQ3NUg0czFmMjlnYWN2?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "MediaNews4U"
+  ]
  },
  {
   "person": "Anand Shukla",
@@ -129,7 +131,8 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "Digital Health News"
+   "Digital Health News",
+   "https://hrtoday.in/"
   ]
  },
  {
@@ -210,7 +213,9 @@
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSjk3ZVdLLU9McldKdTRnTklXbllCaTJHZWh6OHpiZ3JKSGhFRWFuNmhVVDNjTnJkY2pGalRjdmtPaGtvZXV3RmRqRFVzYlQ1cEZlc3hzb3didTd3akpHM0ZtSkZzVldJRTRTWHZHeDkyN0padE5XcjdvajlmdUZtRnJiNmZLOTZPcjNoY28wVE03c2g0akhldVlJU0VtR3pSWEHSAaIBQVVfeXFMTUo5N2VXSy1PTHJXSnU0Z05JV25ZQmkyR2Voejh6YmdySkhoRUVhbjZoVVQzY05yZGNqRmpUY3ZrT2hrb2V1d0ZkakRVc2JUNXBGZXN4c293YnU3d2pKRzNGbUpGc1ZXSUU0U1h2R3g5MjdKWnROV3I3b2o5ZnVGbUZyYjZmSzk2T3IzaGNvMFRNN3NoNGpIZXVZSVNFbUd6UlhB?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Manufacturing Today India"
+  ]
  },
  {
   "person": "Swapnil Parab",
@@ -256,6 +261,262 @@
   "headline": "InMobi appoints Hema Namburi as group CFO ahead of planned India IPO",
   "publisher": "",
   "link": "https://www.business-standard.com/companies/people/inmobi-appoints-hema-namburi-as-group-cfo-ahead-of-planned-india-ipo-126110501814_1.html",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "George Muthaa",
+  "role": "Acting VC",
+  "company": "Egerton University",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "Prof George Muthaa appointed Egerton University acting VC",
+  "publisher": "Daily Nation",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNam04a005UXFQX0RPbmloRFpIVlpyZ1doaFhWRzRfVHViVVVCblJYblNrdV95TXBpX1dsQTF2SzZzMW9nYVUtNlc0dV9FbklGWTBDVTdjUnJtNXVRR2Y3TnZfTXk5RTZqa3FQNElEdEUzQ0FJUXZDUndKanZaeU94V1g0QWpPX3h1SGxNaWtvNDd3X0docjRBRFVhNzBMSFBuVFdnaTY4YnMwNXduX1E?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jo Sawyer",
+  "role": "Vice President",
+  "company": "OncoDaily",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "OncoDaily appoints Jo Sawyer as Vice President of Strategic Partnerships and Industry Relations",
+  "publisher": "Oncodaily",
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TV0J3OUxxMmhCZFNnRWR3eHBSVkg2d1JFYTdoeFFGQnBCLVFmQmwxeDdwSHNQYlBXQzFodXJkeVQxSV9qakFSUnR1Tm5BWWYxVVZha3BJYw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jason Mieding",
+  "role": "COO",
+  "company": "MedPharm",
+  "movement": "Appointment",
+  "role_group": "COO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "MedPharm appoints Jason Mieding as COO",
+  "publisher": "Chain Drug Review",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00cUxINHhkT1J2clJMM3llZDJfU3VxM05NSVVsSEQ4LU5RQjM4Qk9BNlQ2NUVHTGJQWlBYM1dpMnl5VjZkSmtLMjdfQTRDMDdfZjJyYURXVzFGUVdhM0hZcEpLVnVwUkdacV8wTGtBQWI3UnRDWXc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Patrick Mullane",
+  "role": "President & CEO",
+  "company": "Center for Creative Leadership",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "Center for Creative Leadership Appoints Patrick Mullane President and CEO",
+  "publisher": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmI2TFUzN3M0cVVqY2tqaW1KcTBfblRqd180SllhTXlKMnQ2QVhsVjRFMWdNNl9HaDR6MUhnWm0tS0tFcHBMb20yVDRLY0JrWlFrU29BMTZScjBkQnNPQVhYVFJJWTliY0JVSlZrWFpjTFZjMDhpMWRIYnIxSlpmNEVER2t6ckJ6WXJyVnpRLWpfRTlLMnozdEpHQUVxc1JQVnBhOGZJSlFteWxjN3p0Rm1R?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Martin Wolf",
+  "role": "MD",
+  "company": "IMCD",
+  "movement": "Appointment",
+  "role_group": "MD",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "IMCD Appoints Martin Wolf as Managing Director for China Operations",
+  "publisher": "European Coatings",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZzMxYVIwMXJILUp1RHVWWkJTLV9yZ01sTWRiWXJqMDRTc3NpMEp6MzlxQXVaRWR4N1hmbHV4WDF0SEFlYUR0Q294WFNlTEo0UWEwVTdyNzdMZjRYQ2tmZjhMTUVOcWlSREk2eXhKUlFYV0dydm5Nanc0NHhlMVEyMzNjUXNQUnRYMS1Hd2ZrM25DR2hnbmU1eURUSWlkX3BSRUFfUDhEZC1PRFRFaFY3RGtNcmltNWJYZlV0aVQ3NA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Eric Lipkind Managing",
+  "role": "Director",
+  "company": "Oxford Financial Group",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "Oxford Financial Group Appoints Eric Lipkind Managing Director, Expanding New York Presence",
+  "publisher": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVFaQ1NBenk4bElySjRTdzYycExHajh3RUJIVHVQdFhWUExxamlWTzJqclFaWjluWHVFaDdibG8tLUtYOEhxVjRZajcwb3p4cmNSRURXYlRpVmZuRUppcWlIS3BzZk5NejlnU1BaRDEwSHpxdUFtQ0phMHFNWktXYnNiQnFCbEpLUDlnVS04TEV5d0NKek4wR1ZFdnpjN1NlWU9HRERxbjg0eDJoQVl1ekt2RHI0cW5TUkFIMVR2UHpzOXF4NjljQg?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Amit Uplenchwar",
+  "role": "Joint MD & CEO",
+  "company": "Kalpataru Projects International",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "Kalpataru Projects International appoints Amit Uplenchwar as Joint Managing Director & CEO",
+  "publisher": "Business Upturn",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1BuVDNxX01FWVZtN3kxUDhfSm9BMk0taE8xZmxzdzhRTF9CZUJFVjhQNExuYV9VT1NvZ3ZaSWZQVmVPZi1na0V1RjhJNDZuanl1N21RNEdaajdOVEl4WDdCRE9sNFhIUzVOYXdhc0VvZ240cW1oT1gzazBzTWFuTld0a014WWV4SURNWmlpQ3hFYlJZR01xeF9FcDZjT0NWNkFhU3AwZllNZzV1YjFZeHdHYmNGdFpWcF9zNHU1TVZHS2M?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Melissa L. Gruys",
+  "role": "Dean",
+  "company": "Nistler College of Business & Public Administration",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "Melissa L. Gruys named dean of Nistler College of Business & Public Administration",
+  "publisher": "University of North Dakota",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZHhrZGUzVmhCeTNVMUo3RHlGV3pGMExlNmxlX0JmdlN6VlZuUmRHNl9jZnVLWGxiWTBJaHlhRldfSElkd1F4YnMza1FodFdvVzE2dmFzU3dzN2treUJiMkROTUg3MXFZSHlsa3VfOGZoT3hGSExjcXZIczVKck9QT0JHT2czeE9PTGtkd0xGTWM3cVl5RkJTNEZJSFJjN2d3elJrcFEtSEF3WUtKdTgxMjNkaHJVOTlTUDFicA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Melissa L. Gruys",
+  "role": "Dean",
+  "company": "UND Nistler College",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "Melissa L. Gruys named dean of UND Nistler College",
+  "publisher": "Grand Forks Herald",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWg4NlZwa01sQnNFczJSLTY1QkYyNW9jeFNSb0I4TFVlVEZfQ3FZLTNKekQ0dXIwc043NURFNHJJS3RmSDN0Smw2eFdiNGRHcGpLY2pUdHZIVVIybTc3OFUxNmt3ZWFHMlFNMmhvbFNrOXVkQmZQc1NGeFF2b1ZJUHVJd1BEOUVtanpsUmN3VllhUEp3TVFLdw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Nefertiti Walker",
+  "role": "Interim Chancellor",
+  "company": "UMass President Marty Meehan",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "UMass President Marty Meehan appoints Dr. Nefertiti Walker as interim chancellor",
+  "publisher": "UMass Boston",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWhUVGk2bkV5Y0FQVmtLRnJtd1ZubGVOOVJDZXdpV3oyeDVqVzJpNUljNVVjbEw1ZEFZbWFZaGZKRmJlT0JLTUJvZnROYTJyRm9kbGlaNE9zNXdhNEtDN0c3T3Jla3ZHMHl4cXN5WlNZMGJ0bDRELWcxUm5wQXYzWmY4VWZjbnBheWtLUEE3Yk56UVZWMmJjVWZ5LU9BN2NRNzRHaWVBU0NuekpEQTlZalRlSVU0cFdJ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Simon Porter",
+  "role": "Head",
+  "company": "Belmont Healthcare",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "Simon Porter joins Belmont Healthcare as head of commercial",
+  "publisher": "LaingBuisson News",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmN5VXkwX1pvcU9Ca2dmeEZld0Y3ZjRTSDR0Y0ZGejdYOHBFbUhzSGlQX0YwaENFaHVLYWJVWUVjdlBfd3AyNFF6SnhVNHlGUHVPSk15cXItOWpjUmo1ZXhtSjJEV0UyNGl1SElfcm5sTHI2cjd5LW81LXZuVzZXR0Fna0lRcW1RWWFIQnUwMFRPMkxOakR5TlZ5TzZ6UlBHQ29IQzNSU1FTZHJwN2w1MkZySTBhSkhkSHBRalNR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Three Associate",
+  "role": "Chief Medical Officer",
+  "company": "ESO",
+  "movement": "Appointment",
+  "role_group": "Other C-suite",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "ESO Appoints Three Associate Chief Medical Officers Across EMS, Education and Trauma",
+  "publisher": "The Manila Times",
+  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa1k4XzJ6YThJcjZtU01uUkdHT3ZiRGhROThVN3RNWnlKVzktVERZY1J1NThvb3BHWWF3cmVuQlpRNG52YWNKQ3Ria1o1TVFZeVFVd1RUc1FZdDdCYUFwRXpSNXZ2WFU1T0ktakxrdDdDSHRFR1dtVWR4Y0N1ZFlXS0lvY2hOMGg1UkxJZERFczgzUnBHdXg3TUtPS1RIbHhCTThnajNFaFZydjJXTWJiWGRJM0hSYmNwQ0hrR2xURHJkMmhVUUktZW1DZ3BhM25JcDdJTHpta0duYm55WUlJQXp0YkZVcG91NTgyY0ZyWGh0c2fSAfMBQVVfeXFMTmtZOF8yemE4SXI2bVNNblJHR092YkRoUTk4VTd0TVp5Slc5LVREWWNSdTU4b29wR1lhd3JlbkJaUTRudmFjSkN0YmtaNU1RWXlRVXdUVHNRWXQ3QmFBcEV6UjV2dlhVNU9JLWpMa3Q3Q0h0RUdXbVVkeGNDdWRZV0tJb2NoTjBoNVJMSWRERXM4M1JwR3V4N01LT0tUSGx4Qk04Z2ozRWhWcnYyV01iYlhkSTNIUmJjcENIa0dsVERyZDJoVVFJLWVtQ2dwYTNuSXA3SUx6bWtHbmJueVlJSUF6dGJGVXBvdTU4MmNGclhodHNn?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jeannette Bankes",
+  "role": "CEO",
+  "company": "Tandem Diabetes Care",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "Tandem Diabetes Care names Jeannette Bankes as new CEO",
+  "publisher": "StreetInsider",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0JISjkyZXV3bnA1QUJ6dldaRTdoMTg3eXFLZDVPemg2MTBreTJGRXd3RWthV2xOX1N6VlA4V0pfa29QVHhlZTBqci1LR0JZV3AyeEtxSUN1Ty1VVWdUdnRCR1NmbmMzSXVpcFo0aS1TbC1SY2ZQRWw1cnppb3o4Y2FfWDJDS3pwQXpCMnotUkRhZEdIbVdncTFiTm14dTdxanlnajQ3Y0JxVzN1WUdkWXF0VjFTUQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Michael Lambourne",
+  "role": "CEO",
+  "company": "Compass One",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "Michael Lambourne Appointed CEO of Compass One",
+  "publisher": "Hospitality & Catering News",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWEpad2xFSnFMUW1QWGZtcVgtVkQxT0JPWURsM0tCZDV2OGhHdkVDbk4tb3dqdzRITnM4SW5lNDJGMzVPcHZiOE1PZ3hMWkxGaTZwc05KelZ1cHMyT3lWSXlLWmJkcENOUkFJQWJMQnpsTXdiNkthQVVHdURtOWUzQjNzY0pPMjhfclpJNmZJY3RodlBHOEZidnM3TGF1blU?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Masakazu Yoshimura",
+  "role": "CEO",
+  "company": "Toyota splits India-Middle East region",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-05",
+  "headline": "Toyota splits India-Middle East region, appoints Masakazu Yoshimura as CEO",
+  "publisher": "ET Auto",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUnFQOURoSDU5MktmSXlRSC1haVNSZWlKM3ZuNG85ZUZXSFdCWC1NNFFmUi1pcmJCemhmOGJfdGR6MGJ0LU9Qb3JYM1BVNGdWYmYtbnFnT0dkTFBUbGlFSnEzN2FIS2czbnRtQ0R6RjhzaVgzbXpJdUlScTl5NjlHRXlwdHA5c2RkMVJaaGF4dWtVVW5uX2dQNWhRMGp0eTB2TDF3YTZkcGxJTHlUdHlvQXB3SExRYzZWS2hkLUp5ckN6aFl5RW1jY1lsWHRYMlJ5M00wWkp30gHbAUFVX3lxTE9ucERJc3ExVm5PQlhRamVsMlVDbF9FcjVDOFB6aXhkLUNqODVkSlZIczI4Z2pVc1JUZm9DVHhaUTIzUEMxaTFnUmMtMHB0UDBNRmpUemRwZDBKeHdyRk02ZDJGRm9SLXMteWZzbUJTRWtvNWFTcFdNeUlDN25SaDE0cGhOSEZuenhhRDBiUFdERTJsb0xuRWg3YjRPTXZmTWRVUFI5UXBEVjBIa2dQczFHdGlqbnRKd25XM1ZEOWhJWExJZmxTYnVveGhoLXc1LU5URG9CRk84aVdhNA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Nitin Pandya",
+  "role": "CFO",
+  "company": "Kanishk Aluminium",
+  "movement": "Resignation",
+  "role_group": "CFO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-05",
+  "headline": "Kanishk Aluminium CFO Nitin Pandya resigns citing personal reasons",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2w3UVFRMjQzeDNUeVNCdVNWanhpUGZnaDF5VS1EcVZGQzJsLS1RS3ZsYW9kQzVpSXBIcDVJa2NoMzB1NzB6WDkyaUNrSUhaRGdXdHc2VlRhc0o2cFFha1BMWTg1d001WVI0SEtpSEZiOTNVeUg3ZEtkMkt6MXVRemJpWHFWeHFSOTBoYWlpMFM2S3VSRGtETUtNd3dQTkpDMTJYaVk3azYzakdmcENrY21yRkJobGFhSnljVzRDVTQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -391,7 +652,9 @@
   "link": "https://www.hrkatha.com/people/movement/mrs-bectors-food-specialities-appoints-saurabh-sharma-as-chro/",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "https://hrtoday.in/"
+  ]
  },
  {
   "person": "Vishal Kanvaty",
@@ -1177,14 +1440,16 @@
   "movement": "Appointment",
   "role_group": "CFO",
   "sector": "Pharma",
-  "region": "Global",
+  "region": "India",
   "date": "2026-11-03",
   "headline": "Pfizer appoints Cecile Guegan as CFO",
   "publisher": "The Pharma Letter",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTldGTDFSRDd2UU9TT0dvVldsS0FCNnB6TlUzeVJoLUg1aVYyRTFkRXhVMmV2ajdZdDFJc3EzMVVhbXFCekJMWG81STRhcnRPY05xT3hONmRBV1YzelJFQU03THBLRHp4SGtFT053UGVTMEo0LWJMT0lZaGVYaENGbk95SFBOOU0?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Pharmabiz.com"
+  ]
  },
  {
   "person": "John Sourke",
@@ -1395,7 +1660,9 @@
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGF6MWk3MEYxS3d2LXdnRGRhNW5UX0ZUQmF1RFlYOFA5REtZWUxTWUwtaklVY0RGQlJXdlZLZHpTc1U0ZGpyMFdkaF9VTl8yUk9OOTVjUFg5dVNkclFsZC1JaHRFdHIySXl1YVVOYk9QekpLb2J2a3l1TzZ6amNxaXZZWHE5YTBpNlZ5Zzh6WlpWcUdhcE80d29PeXJ4ZHE4ZTF6RE03bnRRRWhsV185LXVmdkptdjFEXzhvQy02WUNTeDZEdVRIR3BZVGFGbTFnVUV0c0d4cUtFZ0U?oc=5",
   "moved_from": "Category Marketing",
   "moved_from_source": "cross-reference",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Adgully"
+  ]
  },
  {
   "person": "Chinnu Varghese",
@@ -95109,6 +95376,22 @@
   "headline": "Wipro Appoints Thierry Delaporte as CEO & Managing Director",
   "publisher": "Business Wire",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa3lvNk53T1Y3NkswRF9hMFdQak1jUmZKWTVZbTFiMTJfZ1VGSWFCZldzSXhJUndnWGVMQXRuWHBkU0IyaXNxV1ZSNEJaOFk2WjJpeVBLdk5fU0FTVnZ4WHhZWHhfd2w2c2ctQXF3RWJ6c0ZmMGgtb3BiSE1mdDFwUU52c0IwWFFINk1lcE9UXy1XMU8yeHJBbzVVeUoxZGJIMkFKMlAxaU9WbkdudloyRTB4Z2w?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Rajendra Mehta",
+  "role": "CHRO",
+  "company": "Welspun India",
+  "movement": "Appointment",
+  "role_group": "CHRO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2020-05-23",
+  "headline": "Welspun India appoints Rajendra Mehta as CHRO - People Matters",
+  "publisher": "People Matters - HR News",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGZJQzVfNWJKck9RUWtGT1JjZFo4ZEpsdEMwbzJJRWY2SEJvV2xLUHVPU0h1eTR6RFYyckZRYlZHNXRTNkRPcFN0SVg4UjdTSXJVWlBsQTB1eXJWSTVUamdRemF3NVk0SW40X2NLaUNBTG84aGQ1bVNkZjVxemFSR1V4WWlPamRFNmRUcU5uamFWSWdzNGkxelN3?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
