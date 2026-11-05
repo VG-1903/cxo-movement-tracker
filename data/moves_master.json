@@ -1,5 +1,69 @@
 [
  {
+  "person": "Anthony Lim",
+  "role": "Chairman",
+  "company": "DBS",
+  "movement": "Appointment",
+  "role_group": "Chairman",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "DBS names Anthony Lim chairman as Peter Seah retires after 16 years",
+  "publisher": "Singapore Business Review",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakJWQjQ3emZVcnpIdDdjdDJoVVJPT2RkUll5NV83aVZteENzVkQyRlU0UWxvcVEwamFCQ20zOWJNbEQ1Vm5EZHpQS1VTdXJiZUptRlhna0tqb0hXaG1wWEhwa1FoWGtDMWdXOS0ycDNNRU1yU1dQdzI1d3BfYV8zOHJfWWwtOEllQ3pST0EyWURJUQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Moein Manbachi",
+  "role": "Director",
+  "company": "British Columbia Institute of Technology - BCIT",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "British Columbia Institute of Technology - BCIT appoints Dr. Moein Manbachi as Director, Smart Microgrid Applied Research Team (SMART)",
+  "publisher": "Education News Canada",
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWWY3ZzRqUWFVQmFEOWozZDZtNW9IejJqRVRHMzBuM1Brb3dHdFhJbkJITkIxTFNGd2hzajR5SURYRTJkUFBhWlZDbzRuLWdpVlNkdjRhRVB6amplMUd1SXpvREt3RHZXSERjQjc0MFpWRk53dFlfNFlHb1dveFlmUVNEVjVFRkNBV0xKWGpZTU1ER1hkUjc1ZGl2cXJvdVJxY2dWMVdhR21yS0pEbndZTVVYb0VTdHl6VnoxS2M2akF0Zkp3bkswelJqYk51c09nYTFrOWdaS2RtOE1pMXg1NDFfbXZGV19PZm1pdmtsejhYa1gzT2ZWbllwWkJ4XzQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Kalpesh Chauhan",
+  "role": "CFO",
+  "company": "Fabtech Technologies",
+  "movement": "Resignation",
+  "role_group": "CFO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "Fabtech Technologies CFO Kalpesh Chauhan Steps Down Effective November 12, 2026",
+  "publisher": "Sahi",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3luTVJDZVk4M3JySjRkX3FvVXpKdVdaZWtGYjdkcnpmUjhYZmctVEI2ajRucEpPUHhOQlNlbkRQTVNqUVF1aTFzQWlHVVpENm03bFBMT0xDT2hsVWMyNzk3a21uNXJ4QlZtN01STl9DakdrZlVUZFpCekZGVmpRSzdTV0lZcGktbXJaYVhEcmVqUEJrdXB4UzlvSzFOYkxiN0ZVRHVtQQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jasleen Kaur G",
+  "role": "Head",
+  "company": "Marketing At Bata India",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-05",
+  "headline": "Jasleen Kaur G Takes Over As Head Of Marketing At Bata India",
+  "publisher": "BW Marketing World",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzZaQzlEZjdoVlZVaFNCM3J1bS1rU244OTZGVTl1X2NmVWNrRE5VOGd6QldnOGk2eXUwNllpTTktX1YtTEpBMFlidVdkaVNWakhsZ2FaeHNBU2psX3V1Q2tRN0Q3WkE0MDVYY25BX2NfYlFYdU1rVlVyZFB3aGN6UFhDaHJibHlHSG5aTE11MVFfQXVsZ1loRVo4bG16UjQ3NUg0czFmMjlnYWN2?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Campbell Hanley Japan",
   "role": "CEO",
   "company": "Edelman",
@@ -219,7 +283,7 @@
   "movement": "Appointment",
   "role_group": "CEO",
   "sector": "Pharma",
-  "region": "Global",
+  "region": "India",
   "date": "2026-11-04",
   "headline": "HP Inc names former GSK chief Emma Walmsley as new CEO",
   "publisher": "news.lavx.hu",
@@ -227,7 +291,10 @@
   "moved_from": "GSK",
   "moved_from_source": "headline",
   "also_reported_by": [
-   "Techgenyz"
+   "Techgenyz",
+   "t2ONLINE",
+   "The Times of India",
+   "Chosunbiz"
   ]
  },
  {
@@ -484,6 +551,22 @@
   "headline": "Tenneco Automotive India Appoints Arvind Gautam as Managing Director",
   "publisher": "Autocar Professional",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcE5MTkc3MV9TeW9LSkVmU1BmU3pvN2RUR1ZCMEd4RjBrN3hRdjducXBBcXQtVGFGOUJRQUVrV3p3NWl3dE5EZjl0ZHJyMmF6WHpjTnBLZkdBSm9BR3FBMXcyeEtoWW1rTWNiR2d4Z1UxTHZQZzhQeWhac1NBUXdBSlloaUJFNUpoUW1sWlRkdXZhclNHaHNXM2ZJZUlROXpHQTNmZDBWaVh2Z9IBsgFBVV95cUxPRFZVWnNNTDZXcmVXY3pfb3JCTzBfRE1iaTFTcm1ucWtFTGdyMG9vMlZFSE9OaXJrY3RMUU9pU2N2N2VQakgyUWJ5NG52N3FKSmd4MWxQanpZdUh4R3I4QWtNOFU4aldzamhJVnotQ2Y2TWhWa0gyanpidF96b0c2MDlYVDhDSGRtUEtLV2YyTEpzYUhibFk5UnhKUkJFS1haQkl5Xy1Fel9oSkVOY3hjMG13?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Naveen Krishna Yamarthi",
+  "role": "MD",
+  "company": "AstraZeneca",
+  "movement": "Appointment",
+  "role_group": "MD",
+  "sector": "Pharma",
+  "region": "India",
+  "date": "2026-11-04",
+  "headline": "AstraZeneca appoints Naveen Krishna Yamarthi as managing director of India operations",
+  "publisher": "Pharmabiz.com",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iSGdzM0RrdUFMNml2ZmcwNkNtSkJHckVjX1hXQ1NqcjNSVjdvQXdOa0ZnUlgzSWh5aXFxODlQM1NYMVh0Zk51UlBSUVNtMU5majhuOTMtLUwtX3FoV0ZBcUZvTUxMQmlhQmU0?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
