@@ -1,5 +1,53 @@
 [
  {
+  "person": "Anil Surendra",
+  "role": "National Head",
+  "company": "Republic Media Network",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-07",
+  "headline": "Republic Media Network appoints Anil Surendra as National Head of R. Kannada",
+  "publisher": "Adgully",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS2c4aWZ3TG11VnQ0ZFZNdUpxa25sRkhPdDBJWEVTLWRtSmJfUFRmb1BTTlNIV3hUUGJoUGlUN05paWM5bjd5UWEyVTM5dGM3LXdMTHEzenJKVlNhZXhlbTM1bmtvbUxGWHM1eHZ1VVlGT1ZueEU5VFJnMTQ1WW1kSTQ4VlA1Njd6MTE4MDhJdzhSa0xUV3ZLc003MkVBMl8zUDl5Zk41MlFka2pnVEU0?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ankit Gupta",
+  "role": "Head",
+  "company": "Poonawalla Fincorp",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-07",
+  "headline": "Poonawalla Fincorp appoints Ankit Gupta as Head - Digital and Transformation",
+  "publisher": "Exchange4Media",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUGVfeGlVWWFETEtWQXcyV0hJSTdSMFNLdW5JRngyRHZEWFQyMTE4Ukh6bkhMcWxja1FITlZUbW1mZXFKVi1ZTHkySlYzYm5ydlBuVGZpeHJEU1VMY3ZaeGpYTnNsY2JZMUlJZ2hSU2VWMDMtRlRRMHl1b3o2bGlXd1E5bks5aDZRQ3RXdnZqWXEwQU04b0x1TnhTaVJnVnNISnFLWGFJdVJtLVFZYTZTZGQtcDUxb3g2UHdlSjVGLXFyZ0hfZzhmTG50VVlJS1JiLVR2NA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Sunil D’Souza",
+  "role": "Chairman",
+  "company": "Voltas",
+  "movement": "Appointment",
+  "role_group": "Chairman",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-07",
+  "headline": "Voltas Ltd appoints Sunil D’Souza as Chairman; Noel Tata to retire",
+  "publisher": "Whispers in the Corridors",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeHVoRjhvUUE2c0MzOXJENUZheHlVdjhsV054TXZpZU1ESlZmVjdnZGdUVmJxOHV6ekk5aDAtYmZ4ZUMzZk51RWJZSURwOFVPbG0wMVV4YlU0MXNKT1U2dFBnLUZOTGVoUXQ5RWVacl9QeEJJeFItLUZIV05fYzRsdzZUaXd1cUtoMkszejQyRjlmTGJDZVUwaUJibWxkWTdaeVdFQ1ZiOA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Steven Amos",
   "role": "CEO",
   "company": "Hinckley & Rugby Building Society",
@@ -280,17 +328,19 @@
   "person": "Solomon Moshkevich",
   "role": "CEO",
   "company": "Natera",
-  "movement": "Appointment",
+  "movement": "Promotion",
   "role_group": "CEO",
-  "sector": "Pharma",
+  "sector": "Healthcare",
   "region": "Global",
   "date": "2026-11-06",
-  "headline": "Solomon Moshkevich Named CEO of Natera",
-  "publisher": "Oncodaily",
-  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ic2tlYXFTSXZicEkxdmdiZERVNkZvNEZfdExQNUNiN2pncnpBalJmUDdaSUlDZUFLamhyUkdXcUpDX3RPUklyaTlMTFBWWlVfbmVPVm1UbDNWUWFSN2Z4QTVpLVc?oc=5",
+  "headline": "Natera promotes Solomon Moshkevich to CEO",
+  "publisher": "MedTech Dive",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUUFyV18zZWlBSG16ODhaTEtDQkplaXBQYm1lMHhTUk1qVXcwam1GSWs1aGZEd0ZGQlFENlA2eHUwckZNbVRadlVFM2N5NVNGc2hMM1FlWWtqNXJ3WUpRZ1FGVjdYMnB5dUhjeUs4ZW4xZ0g4WDNOdkZDSVFINjRET2tTaUVmWVM5dlE?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Oncodaily"
+  ]
  },
  {
   "person": "Sam Meckey",
@@ -386,6 +436,38 @@
   "headline": "UCJ appoints Professor Colin Gyles as executive director",
   "publisher": "Jamaica Gleaner",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNejZxR2h3bXZ1U2dHT2hfRUJsNFlTNlFydUJEeU9zVDhUWjF5TmVaYUV1V0w2OWdWTU9GbmtqYTFQaGtQQ25NbGs5RFhQVUdDN01fOWhaVHc0cHh6RjRPekE2bGRoVGR0S0czU2ZwRV9UdjFxblU5bHhDWC1iM2hZdjR3ZUFPdG15RC1QODl0WUVkMURMX2NmMDNMS1ZkSnlBOFdPNQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Madhavan Hariharan",
+  "role": "CEO",
+  "company": "Birlasoft",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "Global",
+  "date": "2026-11-06",
+  "headline": "Birlasoft appoints Madhavan Hariharan as CEO &amp; MD",
+  "publisher": "",
+  "link": "https://hr.economictimes.indiatimes.com/news/industry/birlasoft-appoints-madhavan-hariharan-as-chief-executive-officer-and-managing-director/135609972",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Anil Surendra",
+  "role": "National Head",
+  "company": "R. Kannada",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-05",
+  "headline": "R. Kannada appoints Anil Surendra as National Head",
+  "publisher": "Exchange4Media",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xvOGRuUDNMbUtCdmtTTDB5WVZjQkdiLUFSblNpbXFwMTg3YUMySllqUkdFYmpZOGkzYjQyWnVOZ3ZHUnRmay1aRl9rNEdIblM5LUhZdDE3dkt3Vi05NnZ0d2lpNm53V181MVNTdzNKVUJEbUNxU05sVFk0anQwanVPaFhheHh3T2RZSmJPUUZ6RUpIUFRxV3Z3NTFEX0dMOUpPbjk3VWtlcVgtVkc1M0dVcw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -673,7 +755,9 @@
   "link": "https://www.business-standard.com/companies/people/inmobi-appoints-hema-namburi-as-group-cfo-ahead-of-planned-india-ipo-126110501814_1.html",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "electronics.economictimes.indiatimes.com"
+  ]
  },
  {
   "person": "George Muthaa",
@@ -1027,6 +1111,38 @@
   "headline": "Melissa Dungan named director of international programs at FMU",
   "publisher": "The Times and Democrat",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3JFT3VORmJIUlpBVzA5VDNMTkFqOUp0TkNkRTlOWnRzQ1RSbGhoaVdRVXJTY2ZCTHN4ODdkVG1iSWh0NU1Ic0ZGX05xbnNRZGhuZTdhSThZSUlLR1ZMWXBPRlk0dW5mck9kMmZYeGlidEcxWUdPdzJ6dmN2MWVPVVdSZFIxR2V1c1dvLTdR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jason Bailey",
+  "role": "CFO",
+  "company": "Virbac Corporation",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "Virbac Corporation appoints Jason Bailey as CFO and Elijah Reid as VP of HR in a continuous effort to transform the organization and accelerate strategic growth",
+  "publisher": "Morningstar",
+  "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQX2t5Tk00NDlIUGxuM25zNEY2NXhzMDV4b2NPRWFKZWVqYm1xdFlhcDRuTWlYLXdTbGFUaDdtVFBBb2pNenhRdE5SM0FwdjRFTzNwSS0zM1M3WlNnRVpLYjRpVTB0XzJQOHRjX2NtVFV6Ti1EUVZZVnUyMFdialFQUGh0X00zVk9YME04X3RkNUwwM2ZNbUh4ME9aXzFwTVhRWWRUbkI2TllweHM0TmRsZUZGNVhrQVhkNnJINnVrX19GNVFoeFk4YzhVb1lzb2dVVXQ1eTVzaHI2UGh0aUxEZkN4cmZSNE5rR2tFLXBYSVNCTWVSOXlPN3FJdmJSNERrRUdJTXpWTm81NDk5Qi1PbjJnS1RrOUlBTFhUUVNWYlNQSGFHeXpqZDl0WmdCekVpZkRtYWg0WHQwcndXaXN1OTlhQQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Bevie Thomas",
+  "role": "CFO",
+  "company": "Flair Airlines",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "Corporate",
+  "region": "Global",
+  "date": "2026-11-05",
+  "headline": "Flair Airlines Names Bevie Thomas as New CFO",
+  "publisher": "TravelPulse Canada",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRlQ5VnBzRk45OGtBd0tTeHBxMU8zUWNfZjFjNHkxRnJXTGg0SUZ6ZjI4aDRtUnRRdEJTamZ4a3N0LUdvM1ptRU1LTk53TU1GT0ViSkVZTkdiaC1Dam94S2R3MmZ3Mmc2V0loX0k0azV0ZW8yZGlReGxMUFBPVjd6WFlVRTBsNF8xc0NF?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -59666,7 +59782,9 @@
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTWtCNTF5Y2ZteXd6alZ1V21sWWNHWi0wNlQwMWJOV2cxTng1N1hTdzVfM1NobE1yN3B1aVZFbjc3V3hIdmxQSnZnM0E1ZFhhUW9TU19vbEx3OXhIRHZqMjZicUFfNzVnUlZ6RFdZbVBXcGpKelRZRkNZUDVHdklsQWx3QWJvX1NtNndxYUMzQWJ4cGdlN19YY0VIZnkxTl80eklPMHVhd01IMElReElYVmdMb9IBuAFBVV95cUxORnp4b1h1eXZETzU3Vkd0c003Uk1WbXM2NlFNTl9yYTdRSHF3WWgyVUtjbkRzLVdLSm16SkU5UjlsWjZ1LUdUdGVKa21SaHR4MjVUS19fV3p5V29VakctcVFPU3ZYZlYyZXhJRWRQSHdZcVV6NDZPRFJpQ0JMSzVqMWxDYzNsTmZiX2Qzd1RNM3dOcW5uLVM2eVE4Rk5GbTdQT0NGOXBjbHJTam5TZG1lRFJIMExPT2VF?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Moneycontrol.com"
+  ]
  },
  {
   "person": "Atul Gupta",
