@@ -224,7 +224,8 @@
   "also_reported_by": [
    "Deccan Herald",
    "Business Standard",
-   "PSU Connect"
+   "PSU Connect",
+   "scanx.trade"
   ]
  },
  {
@@ -303,9 +304,11 @@
   "headline": "FinThrive Appoints Sam Meckey CEO as Hemant Goel Retires After Five Years",
   "publisher": "citybiz",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnNYTHN5M0NfUnlGRWg5RmxqUEJ3SWpwMkNGX3ZMTGxhUjlheG5KVk5aa3RmRFcxcmJsTUlXaXItalA1dTU0eVRPN2psaU41MlZZa25zcXVSdEJUdDNPbnlwVzhmSlBQN1J2TXhGSU5MQVhManFObWZJVERCWXZTMEcway14LXJYSHlKTUZuTFJrV2lTQnNFREtFT2h6ZXRfZGpJeWVPelFrZnpxUEtmOWF3?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
+  "moved_from": "Optum",
+  "moved_from_source": "headline",
+  "also_reported_by": [
+   "HIT Consultant"
+  ]
  },
  {
   "person": "Muddada Ravichandra",
@@ -335,6 +338,54 @@
   "headline": "Nitesh Madan takes charge as CHRO at Siddharth Grease & Lubes",
   "publisher": "",
   "link": "https://www.hrkatha.com/people/movement/nitesh-madan-takes-charge-as-chro-at-siddharth-grease-lubes/",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Adam Goldstein",
+  "role": "President & CEO",
+  "company": "Federal Home Loan Bank of New York",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-11-06",
+  "headline": "Federal Home Loan Bank of New York Appoints Adam Goldstein President and CEO",
+  "publisher": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFBKWUNPY3d3bUlCcTFSeWhIVGRTQlBkNXBMYnpGSllITDNEQUZQQXE4VU13VE54VEpvZmt0STlidk1qdmwwZ1ZqcU9JX0UycU1tQVZoZWtnSTJQSTBBb3RxMEdZaUx3XzY1Q2llWnJYbXZOTUhHc3VLSk1pOW9vQWJxX1NHVXpsVlJnNFcyOU9PaWxRU3hRdWNxbnV6ZXdycm92NW9ncm14bTFyZy12Vk1OOUhtUQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Amber Moser",
+  "role": "Director",
+  "company": "development for the School of Communications",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-06",
+  "headline": "Amber Moser named director of development for the School of Communications",
+  "publisher": "Elon University",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObklvTEM4R3FTQ3NUbkxDMFNtWGNjLVVWS3ByVWk1enp3a0wzcXZFTEpJVzRKRzZwZDlJMk0ydlV4bW9qVC1kQzN3M1VITW1pLVBWTnJjcmpneEhMN2dRazVVODRIcjNNTXNjNjZFYWRCLUR4bUF3NHd6RUQxazVFLXJvbC1pbnFjSHpuX2lGMTZ2eUxGSC1FN1JJSDR1cmpZZTRuY1JOdVotUVRpN3lubjB2Vms?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Professor Colin Gyles",
+  "role": "Executive Director",
+  "company": "UCJ",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-06",
+  "headline": "UCJ appoints Professor Colin Gyles as executive director",
+  "publisher": "Jamaica Gleaner",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNejZxR2h3bXZ1U2dHT2hfRUJsNFlTNlFydUJEeU9zVDhUWjF5TmVaYUV1V0w2OWdWTU9GbmtqYTFQaGtQQ25NbGs5RFhQVUdDN01fOWhaVHc0cHh6RjRPekE2bGRoVGR0S0czU2ZwRV9UdjFxblU5bHhDWC1iM2hZdjR3ZUFPdG15RC1QODl0WUVkMURMX2NmMDNMS1ZkSnlBOFdPNQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -814,7 +865,9 @@
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0JISjkyZXV3bnA1QUJ6dldaRTdoMTg3eXFLZDVPemg2MTBreTJGRXd3RWthV2xOX1N6VlA4V0pfa29QVHhlZTBqci1LR0JZV3AyeEtxSUN1Ty1VVWdUdnRCR1NmbmMzSXVpcFo0aS1TbC1SY2ZQRWw1cnppb3o4Y2FfWDJDS3pwQXpCMnotUkRhZEdIbVdncTFiTm14dTdxanlnajQ3Y0JxVzN1WUdkWXF0VjFTUQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Business Wire"
+  ]
  },
  {
   "person": "Michael Lambourne",
@@ -1563,19 +1616,20 @@
  },
  {
   "person": "Balaji Nuthalapadi",
-  "role": "Interim CEO",
+  "role": "Interim MD & CEO",
   "company": "Equitas Small Finance Bank",
   "movement": "Appointment",
   "role_group": "CEO",
   "sector": "BFSI",
   "region": "India",
   "date": "2026-11-03",
-  "headline": "Equitas Small Finance Bank names Balaji Nuthalapadi interim CEO following PN Vasudevan's resignation",
-  "publisher": "The Economic Times",
-  "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQ0hkeS1WVFhaZ2xwWnRjb25FdGw5OS1GT0czbU01d0NWRUNIeU1TZmNxaFJHbmY4OFNWRVdENTNjZlBCSG0tbnREeGZ3UEdRX1hYM1pkUEJ5MUJIcFdRWE9ZdzBUXzNOc3diUXdJU2hTa2xXMUc3aG1ScHFRbnJrVXhwX1hreWVNVW52RDg2XzkwOWhwWmphR21BQkJ4a09hRkJjMTZ2N3JZVGYwbDRFc1BzWkt0enhOaktrRWRJeldQdmFuUjhGbDl0NW94TFdDd2tzUU1zZGtZNEsySkVkZHVOTlI2VGpaVHNXLUJCN2dDLWQyNkM4Tm85S2hDOXZTdEc5bkwzSjF5aHpoQWFXdTd1bVTSAZoCQVVfeXFMTXdrb2dHeHRrOGtRSGhWU3I1ZDUwLS1BRmhCWkdGVmRqbnpHWjFCU0VDUTd5ZUM1VE5DWDM0SEgtVDloZmdlN1FKc0tiV3o0Y1RfQUJKamxhWEtKRkQwQ3ZWYXp6LXZua1NsczREMW1pTFRldkZFeThWa0xPdm9nVlpKZmJHNTByOTA5UkJ2THdaNFdPM2JqVGZXS2k1eGxuYk9EREEtaFJ3d0dBQ3dxVlJyUm40NldjaDAwckRvekZVLW9BM01vQmpYa2cwOUVwTFpHZmFNWmV0M0sxUGE4LUpyMTFsRmlrQU1QTmxHQUdXMllzeWRwQml4Qy00aUVCOWZPSzVuVk1FSUtXeDlFWmk1UDh1QjVIX01n?oc=5",
+  "headline": "RBI approves Balaji Nuthalapadi's appointment as interim MD and CEO of Equitas SFB - CNBC TV18",
+  "publisher": "LinkedIn",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUUVtZXJFeDdPR1NCZThzZHhiUHFFeWc4cjRIZVhKa0ZVTk5pUUJQSFRHWTRiVmdqejJxeGZiNHR6NTQteVZ1b1F5bU1RWndIRG9iWnNqVWtmRExCUVdvZ2ZqdkhEWDZuTzJSS09sdm9uRGJ2dHVnV2VrQWVRdzhTZENlMjdjVExLZmFDRGxsLVRFUDJmNzJLZV9JUWg2bHBLaG1ZMk1mZHc3N3BVUVhDUXFod3Y0SW5uZzVv?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
+   "The Economic Times",
    "Elets BFSI",
    "Adgully",
    "Fortune India",
@@ -2921,7 +2975,7 @@
   "movement": "Appointment",
   "role_group": "MD",
   "sector": "Corporate",
-  "region": "Global",
+  "region": "India",
   "date": "2026-11-02",
   "headline": "GP Petroleums appoints Arjun Verma as Managing Director",
   "publisher": "ET Auto",
@@ -2929,7 +2983,8 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "BW Auto World"
+   "BW Auto World",
+   "People Matters - HR News"
   ]
  },
  {
@@ -16037,6 +16092,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Aman Prakash Parekh",
+  "role": "CFO",
+  "company": "HCP Plastene",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "Education",
+  "region": "India",
+  "date": "2026-10-12",
+  "headline": "HCP Plastene appoints Aman Prakash Parekh as CFO, succeeding his father",
+  "publisher": "scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkMzZE43ZHRBZndBTy1BXzZia3c1Q05KTC1IZmtTRU1EdlZKdDhRTkhGOHJWVk5BemRLVkVfd2dCazJ6RWt4MlN3Nk5BeXU2RkdIbl9RU3NHLVhIMENCakxBaU9KdVVYcC1lYjg5QjFpc1N4dDZTMGl2UElKUGFpa1FGY2NJMGpib1p3YW03YmcxS3dWVGd3dk5icWZFUEEzMi15dW4wczJmbC1CRjlXSF9LZkZWLWdwNUM0Mg?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Samdarshi Vikram Singh",
   "role": "CEO",
   "company": "Parametric insurer IBISA",
@@ -16382,22 +16453,6 @@
   "headline": "Gujarat Chemical Port appoints Paresh Choxi as COO",
   "publisher": "Indian Chemical News",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU0g1Qm1acmlHclAzSFd4M2hRanlvX20tZUYwTENveExYcnJPMWd4QTlkUktpdWtET2dialB6Z3NfS3lwVGdHWVZoUmRCZzZKRkxGcHhNNW9xNlhVVzVOZVE0QVVFZEFPU2k0SjlFaHcxVzBSN09nR1NfTWpNal9LYkVGSnM4U2ZWTXZ2RXJxSUVYc3VFTTJJRjNLdlRaNG_SAaYBQVVfeXFMTjAtcUhGOWk1WkdtdFFaeXJ0bDgyajJOaXowdFdOdFJQRTBsZTVJbjJ1RTRHMjRBWm95RGtoYzRya1lJNzhicmJZaE1tVEllTmZlT0ZxN3hJTUZMVi0zR2hWcDVpUksycHN0TXlXejg2MU40V1JSYllPc0tIM1ZOcFcxUUVBdEhwNV83WXI4dmVSOS1lX1ZzaVlXQklyWEhPZmdsOXhyUQ?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
-  "person": "Prakash Parekh",
-  "role": "CFO",
-  "company": "HCP Plastene",
-  "movement": "Appointment",
-  "role_group": "CFO",
-  "sector": "Education",
-  "region": "India",
-  "date": "2026-10-12",
-  "headline": "HCP Plastene appoints Prakash Parekh as CFO and new internal auditor",
-  "publisher": "scanx.trade",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU2UwR19WUGRkYzV0RW5UQ3JYVFdtSmtiN3NIOEE4RzJBSDRfanNuR3lTYzhkQWc3M2xrakIwRmlPVFBBMUQ4WWZoUkVKUDctZkwwSFJKaF9JZ1pUV19QSzlIYnIwTl9HS3RsNV9lSUt0RmZmNDY2cklyZUZQRi0yQWt2NUpoQmNxdWRTWDgwWUdfU0pYRU14aF9oa3dnT1M5Y1lwOEZNcVk3cjd6di03WC1hQjVFdEtWZXc?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
