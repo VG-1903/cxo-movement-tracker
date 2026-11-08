@@ -1368,6 +1368,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Atul Tandon",
+  "role": "CFO",
+  "company": "AstraZeneca Pharma India",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "Pharma",
+  "region": "India",
+  "date": "2026-11-05",
+  "headline": "AstraZeneca Pharma India names Atul Tandon CFO effective Nov 9",
+  "publisher": "Multibagg AI",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV2xWV0d5eEVmZVJFMzJxTWVTRzlQbUxJMmN4bW9FUUxMcXFTZEk1eERKM0NHLUl0a3dNWkY4TDZlbGczOVhMNmtoenN1NDFDZE9CclktU05FUUlNSXJCbV9POHMwTjBJT0hnYzZxUC1yVEJSM1JTcE1jU0o3bGFoS0p0RUpvUmRpeWk0bWxjdkdRdUJrUkwtMVplZ3B5cVJkWFo0aXpHeGx2SzFjc1FfXy1Dc0hiQzBfanVsanZ0QzM?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Vishal Kanvaty",
   "role": "MD & CEO",
   "company": "NPCI forms tech subsidiary NTSL",
@@ -4884,7 +4900,8 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "Kalkine Media"
+   "Kalkine Media",
+   "Elets BFSI"
   ],
   "article_url": "https://bfsi.eletsonline.com/karnataka-bank-cto-sughosh-nagendra/"
  },
