@@ -1,5 +1,53 @@
 [
  {
+  "person": "Sougata Ray",
+  "role": "Vice Chancellor",
+  "company": "NMIMS",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-10",
+  "headline": "Former ISB professor Sougata Ray takes charge as NMIMS Vice Chancellor",
+  "publisher": "BW Education",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlJpa1pabDBQam1PLUhXd1hGNWxXLUw3cHBfN1llb3lYaWx5TTZTNlB2TGFoQnRvdUpnRWJKTHk4ZTVwMUlQbkRXbXZnbUVuVlRmbXNIZTZZbVUwUUc5b0IzMzBaaGUtbUxiejZyeFlYRUVnc1BGSlBxX21teTdzWlJId0pKMUFNUmJYZGdYZ2NJQ25FZXJmLTRsT0M1R1JxRldIVFp6Q1FXeWxsRzNsaE0waw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Kimmo Virtanen",
+  "role": "CFO",
+  "company": "Raisio",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-10",
+  "headline": "Raisio Names Kimmo Virtanen CFO After Profit Warning",
+  "publisher": "Grocery Trade News",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JbUpBZHVJSTZSWnJJR3F3WWtsbjN0WmJ2Q1lpQndtRkxTTk5mVGQxM19CVjgzdmVoUVRtNUVLdVZsNUFjXzM5RjhVTzZhZDR2dUFvdnZzSjB2UWRnTzRpdHNZcnRuMEpsVmcwRF9aZk5yUQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Wajahat Amin Shah",
+  "role": "Dean",
+  "company": "Kashmir University",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "India",
+  "date": "2026-11-10",
+  "headline": "Prof Wajahat Amin Shah appointed Kashmir University Dean",
+  "publisher": "Kashmir News Service",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGtRLVJvNEd0NFFub1BNNnVKT3pUdEUwVmVkM3YxdnhTQjBxdTE4cklpZVJJUkhQV0NpRlNEcDJJOXY5aHplRUlwRTFWQzZReVV6TWloT0FJcFBucnZfWW5Ha1FCUlkwREpJbDNoQ2xuUnFEQUw5SGM1OTRXOElLdEdDaFYwZ0xBXzRPMzA3ZVItTWtB?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Ashutosh Bhargava",
   "role": "CEO",
   "company": "Neo Mutual Fund",
@@ -68,7 +116,8 @@
   "moved_from_source": "",
   "also_reported_by": [
    "Punjab Newsline",
-   "ET Education"
+   "ET Education",
+   "BW Education"
   ]
  },
  {
@@ -751,7 +800,9 @@
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUFR1eUZ1QXJ6YWJPQjNQd0RUUGRDTDRpMmZOazB2Z3RsYUVYRG5DVHI0VXJpWENpbHFqT3VLUWJDNmpteHYyUV82eVNvY293amJyY1J4RW8yeWtwRFF3b042YWdEc1NNNGlCZVFjaGI3a3VxT1lGUDhzVTlrRXF4NEU4aVpQOGw5YnhPVTBDODZkMjg0MHZJS3U2VUhnVWV2dWfSAaIBQVVfeXFMTVBUdXlGdUFyemFiT0IzUHdEVFBkQ0w0aTJmTmswdmd0bGFFWERuQ1RyNFVyaVhDaWxxak91S1FiQzZqbXh2MlFfNnlTb2Nvd2picmNSeEVvMnlrcERRd29ONmFnRHNTTTRpQmVRY2hiN2t1cU9ZRlA4c1U5a0VxeDRFOGlaUDhsOWJ4T1UwQzg2ZDI4NDB2SUt1NlVIZ1VldnVn?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "TradingView"
+  ]
  },
  {
   "person": "Cliff Dennett",
@@ -950,6 +1001,24 @@
   "moved_from_source": "",
   "also_reported_by": [
    "New India Abroad"
+  ]
+ },
+ {
+  "person": "Kim Tae-won",
+  "role": "Head & CEO",
+  "company": "Lam Research Korea",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-06",
+  "headline": "Lam Research appoints Kim Tae-won as new head and CEO of its Korean subsidiary",
+  "publisher": "매일경제",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ra3MtZ29iQ0NoUktUY2lVdkN6WVJjTzRjS2hQUW0wcThVR25yeEp1WEZ1WmhLX0xpWHZVczUzalVpbFhiQmNXVXBwMlNHbzRqUXJv?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "THE ELEC, Korea Electronics Industry Media"
   ]
  },
  {
@@ -1422,22 +1491,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Kim Tae-won",
-  "role": "Head & CEO",
-  "company": "Lam Research",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "Education",
-  "region": "Global",
-  "date": "2026-11-06",
-  "headline": "Lam Research appoints Kim Tae-won as new head and CEO of its Korean subsidiary",
-  "publisher": "매일경제",
-  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ra3MtZ29iQ0NoUktUY2lVdkN6WVJjTzRjS2hQUW0wcThVR25yeEp1WEZ1WmhLX0xpWHZVczUzalVpbFhiQmNXVXBwMlNHbzRqUXJv?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
   "person": "Joshua Gunn",
   "role": "President & CEO",
   "company": "Greater Memphis Chamber",
@@ -1567,7 +1620,8 @@
    "Medical Buyer",
    "Digital Health News",
    "https://hrtoday.in/",
-   "ET Edge Insights"
+   "ET Edge Insights",
+   "Exchange4Media"
   ]
  },
  {
