@@ -423,6 +423,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Andrew Murray",
+  "role": "CFO",
+  "company": "Albertsons Cos",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-10",
+  "headline": "Albertsons Cos. names Andrew Murray CFO",
+  "publisher": "Mass Market Retailers",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lRVR5NHFtX2pmQWU2SS04S1J3ZUUtTXhhSHZqSU9PMC1iTXhkcVdpeVZMWTE2M0hTTENLbE5INWtjZGEtYkpONXBSbl9OU1plMDN3Q0hzdEd5d3RBaFUzcWM4OVUyOEhpZE5kYkdDYkpOeFhRQ3luMVFfMA?oc=5",
+  "moved_from": "Fonterra",
+  "moved_from_source": "cross-reference",
+  "also_reported_by": []
+ },
+ {
   "person": "Indian-American Anjali Sud",
   "role": "CEO",
   "company": "SiriusXM",
@@ -1387,6 +1403,26 @@
   "also_reported_by": []
  },
  {
+  "person": "Madhavan Hariharan",
+  "role": "CEO & MD",
+  "company": "Birlasoft",
+  "movement": "Promotion",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-06",
+  "headline": "Birlasoft elevates Madhavan Hariharan to CEO & MD",
+  "publisher": "",
+  "link": "https://www.hrkatha.com/people/movement/birlasoft-elevates-madhavan-hariharan-to-ceo-md/",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "Rediff MoneyWiz",
+   "InvestyWise",
+   "BW Businessworld"
+  ]
+ },
+ {
   "person": "Zoher F. Kapasi",
   "role": "Provost",
   "company": "Thomas Jefferson University",
@@ -1822,26 +1858,6 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
- },
- {
-  "person": "Madhavan Hariharan",
-  "role": "CEO",
-  "company": "Birlasoft",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-11-06",
-  "headline": "Birlasoft appoints Madhavan Hariharan as CEO &amp; MD",
-  "publisher": "",
-  "link": "https://hr.economictimes.indiatimes.com/news/industry/birlasoft-appoints-madhavan-hariharan-as-chief-executive-officer-and-managing-director/135609972",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "Rediff MoneyWiz",
-   "InvestyWise",
-   "BW Businessworld"
-  ]
  },
  {
   "person": "Marco Pardi",
@@ -3012,7 +3028,8 @@
    "electronics.economictimes.indiatimes.com",
    "Reseller News",
    "https://internationalfinance.com/",
-   "varindia"
+   "varindia",
+   "Print21"
   ]
  },
  {
@@ -4089,6 +4106,26 @@
   "also_reported_by": []
  },
  {
+  "person": "Tom Schwenger",
+  "role": "CEO",
+  "company": "Omnicom Health’s marketing business",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-11-02",
+  "headline": "Omnicom Appoints Tom Schwenger as CEO of Omnicom Health Marketing",
+  "publisher": "Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY2RLemtGR2dXVVNzTm9jZkpIVUl2bmhaejlJaEFSdndDeGxiQmRFc0hrWE1ocWt4OVVHVldIcGRmRklKbnJNaVFIUzZoRDhUNEFTTk9GeGljT2Qyc19vYUZSQ1BvcGdiM1Y4MU1JYjZwR3BMSXNUSnhqZm9QNnllNGZTNGF2Sm4ycmdDaWZSMlY3SE9wRUU0eXRVaw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "Exchange4Media",
+   "https://marketingreport.one/",
+   "citybiz"
+  ]
+ },
+ {
   "person": "Sanjay Souza",
   "role": "Head",
   "company": "HDFC Bank’s business banking",
@@ -4142,25 +4179,6 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
- },
- {
-  "person": "Tom Schwenger",
-  "role": "CEO",
-  "company": "Omnicom Health",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "BFSI",
-  "region": "Global",
-  "date": "2026-11-02",
-  "headline": "Omnicom Appoints Tom Schwenger as CEO of Omnicom Health Marketing",
-  "publisher": "Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY2RLemtGR2dXVVNzTm9jZkpIVUl2bmhaejlJaEFSdndDeGxiQmRFc0hrWE1ocWt4OVVHVldIcGRmRklKbnJNaVFIUzZoRDhUNEFTTk9GeGljT2Qyc19vYUZSQ1BvcGdiM1Y4MU1JYjZwR3BMSXNUSnhqZm9QNnllNGZTNGF2Sm4ycmdDaWZSMlY3SE9wRUU0eXRVaw?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "https://marketingreport.one/",
-   "citybiz"
-  ]
  },
  {
   "person": "Cho Sung-hyun",
@@ -13118,6 +13136,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Andrew Murray",
+  "role": "CFO",
+  "company": "Fonterra",
+  "movement": "Resignation",
+  "role_group": "CFO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-10-19",
+  "headline": "Andrew Murray resigns as Fonterra’s CFO",
+  "publisher": "Dairy Business Middle East & Africa",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzFXY1V0Nm1RcFBrclJrTFpBZGZxYW5ITVBjY2tpOTdoWXRmcUhjRFFLS1FjY3RUTW1XM3o4T19hLXh3SjkxWHgwNEJWUndwTHhuMzlRUUwzVVVtT3pqSmRvb3lmRkJ6MFVRc1dwd3dYZFRValpLVnloM0Z5X0JCUUxSblAwQQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Andrew J. Silver",
   "role": "CFO",
   "company": "CRISPR Therapeutics (CRSP)",
@@ -13487,22 +13521,6 @@
   "headline": "Dr. Sajjan Rajpurohit Appointed Vice Chairman and Head of Clinical Administration at BLK-Max Super Speciality Hospital",
   "publisher": "Veloxx media",
   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaXVMY1NkbUxic1dyQk12SkxsYl9rbjJXRHJoMno5RUpnbGozZC0zdURMbmhQTFVkME0zdEZVN2VuS3psaDBuSHdUbnlNZmNzQVNiUkhKRnVsRUpPczVvNkR2TzNPMmZmbkhVSUJLYzZwOXRzU3N2aHg5dFozVnFHQmJadWMyaHFGR1h0RFIwNDBfNVk0Ukl6OFdUWFU3cF9Lc0E4eXlhc1JGTm5Ja2VYM1RHUXNrMHk3ZUFJaDNFRHRwX19mU1luXy1RYXdkMzB1Zm5rYTJTcUtYQQ?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
-  "person": "Andrew Murray",
-  "role": "CFO",
-  "company": "Fonterra",
-  "movement": "Resignation",
-  "role_group": "CFO",
-  "sector": "Healthcare",
-  "region": "Global",
-  "date": "2026-10-19",
-  "headline": "Andrew Murray resigns as Fonterra’s CFO",
-  "publisher": "Dairy Business Middle East & Africa",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzFXY1V0Nm1RcFBrclJrTFpBZGZxYW5ITVBjY2tpOTdoWXRmcUhjRFFLS1FjY3RUTW1XM3o4T19hLXh3SjkxWHgwNEJWUndwTHhuMzlRUUwzVVVtT3pqSmRvb3lmRkJ6MFVRc1dwd3dYZFRValpLVnloM0Z5X0JCUUxSblAwQQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -93646,6 +93664,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Ranjeeka Sachdev",
+  "role": "CHRO",
+  "company": "BMW Group India",
+  "movement": "Appointment",
+  "role_group": "CHRO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2025-07-19",
+  "headline": "Ranjeeka Sachdev appointed as Chief Human Resources Officer at BMW Group India",
+  "publisher": "hrtoday.in",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnlxTVBIa05FSmRmTmMyNldyVmhaWWRHMjhfRS1PU0pmXzhoVS1PRGQtLVVXbGo2MVN2ZE5OZ01TXzBJOUF6WW01VXJoSzdNeHVvQjY0cE9LRVBsYXFGX3RrX2FtNnBBY2h5ekJKNmo1N2ctdHJ1MTU1UXZZVjN4TTZaX0plOHVuWXdxYXlMM0RSbE0xVGkxSkVFeExuZFk?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Abhishek Tiwari",
   "role": "CEO",
   "company": "PGIM India Asset Management",
@@ -97114,6 +97148,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Rajnish Khare",
+  "role": "CDO",
+  "company": "Union Bank of India",
+  "movement": "Appointment",
+  "role_group": "CDO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2022-11-08",
+  "headline": "Union Bank of India names Rajnish Khare as its new Chief Digital Officer",
+  "publisher": "Elets BFSI",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3BPaUtvUnVJOGxFSVV3Zzl4TnVvN1RQalJicEVMTlFBZ1h6bF9MeFNuY2N2a3lrbzlFRmdKNFZlTUZtcEY5TVRreUJ3ODJXLUxvd2VIYzZOMk9LMEJtSHhqbTlLX2FrSTdDcXZsS0JWTmlrQkJadlh2c2NZelZISTh2YUZUTnpxNTd5eG1SWTdqM3ZYQXpHbUl2a3ZGYTVPTWpIRA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Shahin Fesharaki",
   "role": "Global Chief Scientific Officer",
   "company": "Lupin",
@@ -97497,6 +97547,22 @@
   "headline": "Milkbasket CEO Anant Goel Resigns; Reliance Executives Join As New Board Members",
   "publisher": "Inc42",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeWpkVzctUzdVbmVpREtseUpUVndCblJPaWlBd1U1R3FwZUxvWUxIVTY2RmJ5TzVMdTk0bWxaZy1qTUwtbDItNnUzTG9BbmtyTHhUR2pRZnhmamhvUDZoZk5qQlZFQ3VwVi1YNE8wVU1tVDZpOGpNTXhtX05zVmJ2N3RZa0ZkUUVhdkdkRDlxTzlNbGM?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Maninder Bali",
+  "role": "Head",
+  "company": "Vedantu",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2021-08-10",
+  "headline": "Vedantu appoints Maninder Bali as head of brand marketing",
+  "publisher": "ET BrandEquity",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejJ2ek92N1FvQy15NDBMZFJXYmdkUXVtbWFDRVFHWTFRTERaWndwSXRpZHBFU3RjV1JYR2tXTFBZMjZQX3RwQnU4TTNkREprUzZNeHVSb2RjWTlTM3RpcDZ3eW1kYXlMeDRZbzIxSTVkVnFRQ0RhZWFvMTNOYVh3WTV6MzM2d0JLS3hMV2tuUDY1Z0F2TzhMRkx0VW1lenpQNnVwYlFFVkYyblNuelF6OFBCVElwUy10WW1EanB6V1pOcF9mclY3djVxdnpEcGFLeVdEMNIB2gFBVV95cUxPZHR3Szd5cktIT3dtZmVXM0FUOVBaU3Z2OWR1aGxUczZfWGl0dFpMMmpXSTBZNnQ0bkw4UF93NjhEejZqYzBlenEzRjBTS0N6V3JtQ1NMTDFFcjh2UFoyVHZUU0hGVkFfcGdfWGhrX0o1TC03QzU3UlRxMS10Vm1EQl84WldibXFrX1RESWxES2I0ODZWY1ctNXd0c0N0aEgzc09iUl9yNUlHaXotWXplMmJoVlp1a2lqNW9hMXFmRkRzWlJyRHdhaXpReWQ2cy05aUpsNWp4THp1Zw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
