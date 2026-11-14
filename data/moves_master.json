@@ -328,6 +328,72 @@
   "also_reported_by": []
  },
  {
+  "person": "Gary Merrill",
+  "role": "CFO",
+  "company": "IonQ",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-13",
+  "headline": "IonQ Names Gary Merrill CFO and Thomas Austin CAO",
+  "publisher": "IonQ",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uRTB4YkZQb0IxVTQ1NmZ1UTJhdnJxcUhob3Z2Z2NkMTdZcFBnaG9EQ05ZN29DRHpOR3c3VGVVVGk1dGI5aUZGYlNrN211ejZtN29DX0x2QzBhLUpENkVkVXY0bElkeDNmVmI0RnlzYmIxblNpTVpzcVhiNA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "citybiz"
+  ]
+ },
+ {
+  "person": "Robert Davey",
+  "role": "Director",
+  "company": "NEIDL",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-13",
+  "headline": "Dr. Robert Davey Appointed Director of the NEIDL",
+  "publisher": "Boston University",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFZQVEF5V3NNMkVMOGI0REIzaENWMDZwa3BPdmx2Y2dLQ0V0clYtc1EyekJYRnFFVno4R24ySzdmd3JTTnZyRVVjcnotVExmZndHVV9LOHpQaFZiU3hNaVRFdGV3TTVmalBRZVM1X3lUZEFHUHQ0WW84N1lsM0VNS0pXU2tLcm5Q?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Matthew Callstrom",
+  "role": "President & CEO",
+  "company": "Mayo Clinic",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-11-13",
+  "headline": "Mayo Clinic names Dr. Matthew Callstrom next president and CEO",
+  "publisher": "Modern Healthcare",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYm1OVUxBZ2Y5NTMxQW1DM21aQlJMWHJLVEZvNDZmdjY1MjBrUHd2NURyRHlVZ21nOTUwaEtCMVk5NGtVRzdqWWp4elRIRE5kM3BmeHNJZVNKQWJoa1A1YlhtZkdDLWprR2dzZ3pZaDQ5U2tHYWlxTVVXZ3hYQmVIUGJ1Y3ItVk1NaDlwQUNkdGhydXBGaFViMmZ4NA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Tiffany Haynes",
+  "role": "President & CEO",
+  "company": "Weeks Medical Center",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-11-13",
+  "headline": "Weeks Medical Center Names Tiffany Haynes As Next President And CEO",
+  "publisher": "Caledonian Record",
+  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQUo3RElQZWo5VFE3Z09ObTk2R3pvVWZBUXFNY0JMZmc0ZlMxa2NPby1wZnlubmtJdGxXOTAzdk9ZcVN1bU5SbThaeHhkR2xNd1BqenNOSFgwbTBidUxQQnl5TDhwbWFnbTFHa1hsVUdyNXVxVzhNbV9mdFRTdkl3MFIyU3YtZnhKSF9BOVVyVHZ4SGdGSXFZcGIzaEw3UW9YZUlOeUVTQXBZbWpzWGN6QXBTMkpUTk5MckNGa3RhVkdodEd6UHdFQ0h3MDl1SnVzYTFXUno1aEhjNVU5ZUZ4VXZ4eWdPTmtMc0ZuYkFTM21SYUE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Suraj Singh",
   "role": "Head",
   "company": "Zee Studios Business",
@@ -560,8 +626,25 @@
    "THISDAYLIVE",
    "9to5Mac",
    "OnlineKhabar English News",
-   "iTMunch"
+   "iTMunch",
+   "WHEC.com"
   ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO",
+  "company": "A lesson for tech executives",
+  "movement": "Resignation",
+  "role_group": "CEO",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-12",
+  "headline": "'A lesson for tech executives': Nvidia CEO Jensen Huang resigns after affair with alleged Chinese spy",
+  "publisher": "Indian Startup News",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU1NQV1I5TDJRR0tUZ2czNTdxZm8wOGhmYU03NkcwcE5mZUhIZXZfUWI0amVJS1lYc2FBWjROYUJfZWQ1bmR1UVUzelVsQW9Wem41NXdDU2ZrVDByLXQzaG1ERXBiLUVkUmxjR2lzWEdnNjRvaUsxTDByS2VpTWVtOW5NSVo2bnNxa2htSnQtQWhSdXhkamdmWFRsTU1vZnljSGxRZzFrY0pRMXk2TFROVGlKZ2o5aUJaazJwSlRob2t1NmttQXlzdG03cGVDckpfS3R4QzNjS0hqQdIB2gFBVV95cUxPU1NQV1I5TDJRR0tUZ2czNTdxZm8wOGhmYU03NkcwcE5mZUhIZXZfUWI0amVJS1lYc2FBWjROYUJfZWQ1bmR1UVUzelVsQW9Wem41NXdDU2ZrVDByLXQzaG1ERXBiLUVkUmxjR2lzWEdnNjRvaUsxTDByS2VpTWVtOW5NSVo2bnNxa2htSnQtQWhSdXhkamdmWFRsTU1vZnljSGxRZzFrY0pRMXk2TFROVGlKZ2o5aUJaazJwSlRob2t1NmttQXlzdG03cGVDckpfS3R4QzNjS0hqQQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
  },
  {
   "person": "Colette Kress",
@@ -1009,6 +1092,22 @@
   "headline": "Moneybees Names Chief Legal Counsel Nancy Ocampo-Omadto as CEO",
   "publisher": "Fintech News Philippines",
   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wd1E4X25hRnVMZThSekhhTVhmaDJYdVYxelhBT1ZfV1I2WDZKcVlsTXZqZTF6d1NXU1VlVFRnbTdfRjh6TlYxRVRfQU5vNWF5VUM1cGh4QzRrNWdVS0ZJZUsxZjF3WWF0NldrN0xjZGhaX1F0TWw2U2VB?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Greta Wagner",
+  "role": "CEO",
+  "company": "HFA",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-11-12",
+  "headline": "HFA Names Greta Wagner CEO, Unveils 3-Year Vision",
+  "publisher": "Athletech News",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSkhYNmVIVFpHSFltZUdXd3M5cWN6aVg5anpYNU1Wb2F4dmxlLXdLZUhaYklkY0xveU5CMHhpSXM4WGJtbkRFUVpjdXc4UmEzejRsaHhabnVyV0pfQWNMQXpzd3ZRalhzbUR4ZTdRdlhDTFJnT3dJWnpuY09NbW5YRlZlSjNKMEM1eDR1ZW5XZDRqZkQ0WUQtdUhiVzV3dHAwbHpfTzN2RWF3dw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -5655,6 +5754,27 @@
   "also_reported_by": []
  },
  {
+  "person": "Kaveh Kahen",
+  "role": "President",
+  "company": "PerkinElmer’s Analytical and Testing Solutions Business",
+  "movement": "Appointment",
+  "role_group": "President",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-11-02",
+  "headline": "PerkinElmer Appoints Dr. Kaveh Kahen as President of Analytical & Testing Solutions Business",
+  "publisher": "Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVHZGVEZpb2RLRU5FcFZkVllwa2JGUmJGcURJZlhDVW0zZDhsdDdKVkhfcjhLbWlFN3VCR2gyYWFBb3Z0ZFV4eEU1Z2tuRGFXd05RV29lNEJrb3VvY1BwZVhDUkNHMzhmZ3Q5LVlwZERLLV9haFRHN2JRTnBfa0c4TXhqY19EVXYzTW9qZlQ4bnNlblA2SHRfbTd6YkY?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "Quality Assurance & Food Safety",
+   "Contract Pharma",
+   "citybiz",
+   "Pharmabiz.com"
+  ]
+ },
+ {
   "person": "Tom Schwenger",
   "role": "CEO",
   "company": "Omnicom Health’s marketing business",
@@ -5948,26 +6068,6 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
- },
- {
-  "person": "Kaveh Kahen",
-  "role": "President",
-  "company": "PerkinElmer",
-  "movement": "Appointment",
-  "role_group": "President",
-  "sector": "BFSI",
-  "region": "India",
-  "date": "2026-11-02",
-  "headline": "PerkinElmer Appoints Dr. Kaveh Kahen as President of Analytical & Testing Solutions Business",
-  "publisher": "Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVHZGVEZpb2RLRU5FcFZkVllwa2JGUmJGcURJZlhDVW0zZDhsdDdKVkhfcjhLbWlFN3VCR2gyYWFBb3Z0ZFV4eEU1Z2tuRGFXd05RV29lNEJrb3VvY1BwZVhDUkNHMzhmZ3Q5LVlwZERLLV9haFRHN2JRTnBfa0c4TXhqY19EVXYzTW9qZlQ4bnNlblA2SHRfbTd6YkY?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "Contract Pharma",
-   "citybiz",
-   "Pharmabiz.com"
-  ]
  },
  {
   "person": "Sankaraiah Rajagopal",
@@ -37187,22 +37287,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Harish Bharti",
-  "role": "CTO",
-  "company": "IBM",
-  "movement": "Promotion",
-  "role_group": "CTO",
-  "sector": "Corporate",
-  "region": "Global",
-  "date": "2026-09-16",
-  "headline": "IBM elevates Harish Bharti to CTO, Asia Pacific, IBM Consulting",
-  "publisher": "",
-  "link": "https://www.hrkatha.com/people/movement/ibm-elevates-harish-bharti-to-cto-asia-pacific-ibm-consulting/",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
   "person": "Hua Du",
   "role": "CEO",
   "company": "LYCRA Company",
@@ -37396,6 +37480,22 @@
   "headline": "BREAKING: Jason Vodicka appointed as WCMPA dean",
   "publisher": "The Rider News",
   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wVHlMb0ZpTXFaaHQzSWVrS2c3UXhfaDZ2VjMwanhwQmc4dmJCeDRYMXBTSk9DMmtxS0EwYmlIMlVKVlFwVkhNNnVvWmh5ZHQ0QUszZ1NIT0tkTDZrQm5ZaUM5YkNUOUctcFB5SzdENmh1UFhnamxsZE9ERGI?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Harish Bharti",
+  "role": "CTO",
+  "company": "IBM Consulting",
+  "movement": "Promotion",
+  "role_group": "CTO",
+  "sector": "Corporate",
+  "region": "Global",
+  "date": "2026-09-15",
+  "headline": "IBM Consulting appoints Harish Bharti as Chief Technology Officer for Asia Pacific",
+  "publisher": "Consultancy.asia",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWxCZHRoYzBBVlZubEFVZXhGaldmdmM5TnJqYk56STJ5Nl9oeWRMdXF4aUZyemxJRlpqSDFZT3dIWE15UWl5NURyZ1JsX0NCd2tEcEVxMGhDM0VhMFhCeUdXeGUybTdHeWxscHFHVlVDRUhiWjBOQkhlNDhhanZPQmJHYjRWTFowWUx2ZHg3WWcyM2JhSThHR1pXN1h3Q21jckFTckNNMUpEbUxBdFVFS01TOGhrRzlDTndYV0ln0gHDAUFVX3lxTFBBTmN5QTdTV1JqNTJ0Snk0THVFNldDcll3YWt3VEZ3S3NHa3ZXVE9YU2w3ZlBwUjZibmVDMnc1YXdjbkdfaTRxUXdhWE9WM2docmVhcjRSdk9pTmF4dkRFeDBYczc3Yk0wbmk4Vm9BenNkd2pxMmV1bkMwcnpEbTV2RVlyZ2tjdHd5YUQzdy1nZWFReTRuUEVjVnJTdlBKcHpLdmh4VnNWaVR5YlVzenR2V0xqejRpUzUzempyNk9BQlFWYw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -96247,6 +96347,22 @@
   "headline": "CII Northern Region appoints Sunjay Kapur as chairman",
   "publisher": "auto.economictimes.indiatimes.com",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWJTaGE3UmZoajRyaFZzbFpJVi13bHpJelZJQVFkaUF0QkFMcW43NWlwaTZpTk9oUU1XYWJUQzdkREhWZFhrTDRIT01mLVNkREt3eVdLeUlldWhnRjhVQlU5MlpEZU5CZHJZTm83YWVjSS14Q19leEJ0U0tzdV92VldHX3VMWkE3RjdMU1Fodk1wRE1BUmtabTdqYjlNNzJRQUxPV0RicDBpMnMyN05DUG9OR3l1aUJpZHlJ0gHAAUFVX3lxTE9PTks4Smx2U1FILUJYNl9PVDlyZmM3ZEF1VnZ3NEJSSHJIMTR0a2xCd0xQZHVwY3hfOUdmZjdyRHdxTU9YeVMzdlgwRWdDc2t5YmVhQ2ZLTjVnTFFFaE5sajhZdm5TekVFbzctM2VkUUJLWHpzbFUyOUxHMEt4U3AzaFg4dzdteHJGZGg0WW9OYm5SSlhFRXB6eTAycGRhX1lpUzVHX2UtSjVUcTc2WTB3WTJSQ1JvMUhIdE1pbi1adA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Alifiya Nalwala",
+  "role": "Group Head",
+  "company": "PhysicsWallah",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Education",
+  "region": "India",
+  "date": "2025-03-11",
+  "headline": "PhysicsWallah appoints Alifiya Nalwala as Group Head of Corp Comm & PR",
+  "publisher": "Exchange4Media",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQVZSamhlbXZReTM1VHcwZ0lfemRoZ2ZmbF9qWW5RMFVQZUJaaGgwc244Wm1taENmRmJSbDNhbGs3d1pqWUl4eU5rQzg3X29UaWFHWTY4dEk0LWpKcVVDY3RUZkdwajNkYm1WVWk2c1hKSGJBNHFyY3dBM3g3MHg3NGpCdnNKQkFiVnFfTWNmVzJmTGFZUHpOY2NXeUUxNmZuWG5XX1FHNW44YUxlYlk2NU9Ka1RPLTdnVkZTYlcteG1GNzVYLTJJWC10TnM0WE1TTE9ocG1NeUhwUUR4OUxOTA?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
