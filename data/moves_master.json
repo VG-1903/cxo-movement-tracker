@@ -176,6 +176,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Muhammad Shehryar Manzoor",
+  "role": "Acting Vice Chancellor",
+  "company": "National Skills University Islamabad",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-14",
+  "headline": "Muhammad Shehryar Manzoor Appointed Acting Vice Chancellor of National Skills University Islamabad",
+  "publisher": "UrduPoint",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRFJzSDNCajhqamFteVpfOXZSR3ZBeEMwS1VnRWpmdEUycXhnU3lOVzBDQmxTSG44anpVUkpnNFFGRUtzbVRFbmo0YXFzRWJXMmcwX2lQUXhHRjRFWGdSZm5lZWg1SklNcXBSci1rQUtkZ2E0b20ycFBFQnBWZ3BKalVqanNmRmVvdExoRHNTX3psd3FvNnBBYjJB?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Pratap Singh",
   "role": "MD & CEO",
   "company": "Fino Payments Bank - People Matters",
@@ -196,7 +212,8 @@
    "The Economic Times",
    "Daijiworld",
    "Moneycontrol.com",
-   "Storyboard18"
+   "Storyboard18",
+   "Adda247"
   ]
  },
  {
@@ -370,14 +387,16 @@
   "movement": "Appointment",
   "role_group": "CEO",
   "sector": "BFSI",
-  "region": "Global",
+  "region": "India",
   "date": "2026-11-13",
   "headline": "Richard Albrecht appointed CEO of Banque Richelieu Switzerland",
   "publisher": "Nice-Matin",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQm43OWlMZ3pFWGQ2RzViaDZYVlBEVWxKV0x1bFp6eFBFeGlkNG9aS3BmTlA2NGNNYS1nbW1iUHBMendEZENRakd4S3hiR3N6N0ZMNGZVdGdZQjJtbXpBX1BZeGpUaTc2MkpTQlA5SFlLdGwzNTNBTEhNRTQzWlNFWV90djloVmpHbnNMVUNjc19kV0FOZnhrZ2k1UmtjYURwdjZvZTRKV01sNGxzMko2ZjdlZ3l5am8?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": [],
+  "also_reported_by": [
+   "Elets BFSI"
+  ],
   "article_url": "https://bfsi.eletsonline.com/richard-albrecht-named-ceo-of-banque-richelieu-switzerland/"
  },
  {
@@ -743,6 +762,7 @@
   "also_reported_by": [
    "cfo.economictimes.indiatimes.com",
    "TradingView",
+   "Elets BFSI",
    "scanx.trade"
   ],
   "article_url": "https://bfsi.eletsonline.com/canara-hsbc-life-insurance-elevates-indu-swaroop-to-cfo/"
@@ -1332,7 +1352,8 @@
    "WHEC.com",
    "Al Jazeera",
    "The Earth News",
-   "thenational.co.za"
+   "thenational.co.za",
+   "The Mirror"
   ]
  },
  {
@@ -96028,7 +96049,8 @@
    "The Economic Times",
    "NewsBytes",
    "Indian Startup News",
-   "The Avenue Mail"
+   "The Avenue Mail",
+   "Inshorts"
   ]
  },
  {
