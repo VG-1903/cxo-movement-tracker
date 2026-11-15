@@ -128,6 +128,54 @@
   "also_reported_by": []
  },
  {
+  "person": "Chandra Shekar",
+  "role": "President",
+  "company": "Hetero",
+  "movement": "Promotion",
+  "role_group": "President",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-11-15",
+  "headline": "Hetero Promotes Dr. Chandra Shekar to President – R&D",
+  "publisher": "https://hrtoday.in/",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwZkYwYjRKaS1zVEFTOFdhcnZvbXRiTlhEekdDMHNSU1JyT1JOYkhKX1pxaFlBaXQ3MVN6d0hBZmllOEpvZF9mamM2QzRzc0toVHVabU5aak1KaF9GbDJ6Z1pFUE4tVFhrLXpTeVo1b1pGejEzY0NjUg?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jaimie Herbert",
+  "role": "CHRO",
+  "company": "Meritus Gas Partners",
+  "movement": "Appointment",
+  "role_group": "CHRO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-11-15",
+  "headline": "Meritus Gas Partners Appoints Jaimie Herbert as Chief Human Resources Officer",
+  "publisher": "https://hrtoday.in/",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ3g1TDJrV2ZEQXVtU3dWWW1jNjNtMEwwdjhIenluenlBTEtFbkFvM3hLY3lTaEFlNFQ3UldZUF84cFVvRzRTT2lQTHA2cFR5eGtqN1E3dTBqQ1RnWktCNXczM3dzY0hUVzFIYy0xejdpaXl3bUVyRkE3WmYxdmNXd2diOHFFQU01ZkMzU0ZHV0duOFRkaGJRZlZEWWx6QQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Charles Hung",
+  "role": "CEO",
+  "company": "CTF Life",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-11-15",
+  "headline": "CTF Life names Charles Hung as CEO",
+  "publisher": "Insurance Asia",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hUFp0OWdkZm41UG9YZWlOS1JoajJwWlRhNjVJWnlMTW5xa3ZEaGt2VW40RlI2MXBnV29rSE1RZ2ExUE9GSTQyWGRPa2U1NjQwYkIzSEI0RUxfLW0xc2xieENwc0tKNEc0eDZibEV1TTdTZkpYYmk3VVNoMmI?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Jensen Huang",
   "role": "CEO",
   "company": "​Third Alleged Relationship Surfaces Hours",
@@ -1128,7 +1176,8 @@
   "also_reported_by": [
    "Adgully",
    "iTMunch",
-   "KeenGamer"
+   "KeenGamer",
+   "IMPACT Magazine"
   ]
  },
  {
@@ -1582,6 +1631,7 @@
    "조선일보",
    "SAYS",
    "Outlook Respawn",
+   "IMPACT Magazine",
    "The Straits Times"
   ]
  },
