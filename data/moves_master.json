@@ -1,5 +1,85 @@
 [
  {
+  "person": "Professor Fiona Coulson",
+  "role": "Vice Chancellor & President",
+  "company": "Charles Darwin University",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-16",
+  "headline": "Charles Darwin University appoints Professor Fiona Coulson as Vice-Chancellor and President",
+  "publisher": "Medianet News Hub",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYmoweUxIVUVkYXhDdHl4NTR4dkJTUHFuRno4Rkd3X0ozQXlTbFlFbzhEdFp4dFlZd3Y5LWQ3LXljWVo5UF9pb2tIOW5tLUV1MUwwdmpkLUxLMWZMRG5PUk8xSGt1b1U1dG5DUmhXeHRWd0lSLUJLNVNTUWRUbkwwRHowbEJ5VXhPRlFweDgxNVA4N21FbURoOTlHNE1fR3lDMDJDWFo2UVRsc1JNZlI1QmFERzZuWHJ1SEtMTFZlWWtsZjA2NndlM0Z3aWxVek04QVN1azdR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Nimisha Nair",
+  "role": "Global Head",
+  "company": "ProHance",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-16",
+  "headline": "ProHance appoints Nimisha Nair as Global Head of Human Resources",
+  "publisher": "Adgully",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1FyMVNLQVB0SUMwakZzSFJpRl91VEh2YnBfM0F0YWx5QzVlb3QyRkRDU244LVdrc1BSaWxENEhoOFYyTEp4ZVQyaE9YTVlRWXpQRWxnZ1MyWl93YUg5ekFSNy14S2hQZ0g1bjRRQ0RKamVqWENfYm02a3phM0syZXRXSVVxanc5S0huZGlwS0YxdDJvUVNySTQxSU04ZW84?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Meghna Menon",
+  "role": "Head",
+  "company": "Unilever",
+  "movement": "Promotion",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-16",
+  "headline": "Unilever elevates Meghna Menon to head people experience (TA | people partner)",
+  "publisher": "HR Katha",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQalVUdmc5d1BPOGRXSG9RX0RFQUwxVW93SXp0R3FwX2tJQW11bkUya3R3MGlBa3I1REVIQ1oyR2lPSmV0Z3pVQ0JJWG8tTVJCMm1HdUlyZjBxU3lMbFlsR2xEQjBZOVYtRXRxUS04QVR3RWh1eHpGNmlkTS16QVFvM3NXc0JyWlBVY2FXR2sxRWZXaklfdEhiU3hnMGk2UWNoMmJ2NF9vajdhQl9XWVlGR2ptYno2UQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Arun Nambiar",
+  "role": "Head",
+  "company": "Uber Advertising",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-16",
+  "headline": "Uber Advertising appoints Arun Nambiar as Head of Agency, India",
+  "publisher": "Adgully",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZlI0ejU4SUhlY2VUbmZ0S0VuTW5mSjJiaVVudVlpbXItc1FwbDNRYjh2OHVHa09mcU91M2tveE9EQWFYWmdLV1hnQlFONkVUYkxDZnVDUDd6Q3RaNk1MeEY4SnN0Z0Mtd2dRdTM2dmttVkpUd2FnUFd4OWZvN3h3elVGUHZCMjFuUEUzODVXMkl3cTNDZGJibXc1RDFmdw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Biji Sankaranarayanan",
+  "role": "MD & CEO",
+  "company": "interim",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-11-16",
+  "headline": "Karnataka Bank shares in focus as Biji Sankaranarayanan takes charge as interim MD & CEO",
+  "publisher": "Business Today",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMFNUNlE4UFM3OVJOSnFhVzRSOVA1TXVDUHlOb3hCQVJVSUQyRC10ZDN1QW1pVWNLYXJBRnBqSDRKOGtnUUJwMlhMMWtDYXd2S3FqWTlNTzRQS1Nta2pGOXZXR0laTmQ1RXJpZEwybW80eXBRRlM4NFVaUTVyNFhqUm9nWVZzaEN0YTYwUEduUjE2Tkh5WDZVTWF5SGhHU0ZPbGFEVHZ4RXJObFNvWUxnQU95Z1hZM0dlS3YyUGxadDBOTThXRl9keE9BN0hPUXNEQXJHVmp0aUY0NkN2WThUR1lqRUp6SnFzckHSAe8BQVVfeXFMUG9XT2p5QzdPNG5tUG02MVZqTlpjbmc3eTY2alAzVXVXemhUdWg3UHhPdURxZGRXOXN1eEVUUzFjbENWZkplWGRzMkJTdnhNbFpaUGhMX1hhN19DQ3VCQTVvZHBGc1pPOXFwZndaa0NZNTJnZUlKWmNCSXpTTzd2RVdTa2NUMlIzMmNWWU5xRktRQldFaXc3eVBKNFJJZW1oSGt0MjVBTGlPYWlhZVhWdVRZSllDZG5IN0xYWTRVYlJSVHBkZ0xqejF1S0ZmZUZ2RmZfWDBlMmtUTkt5N3c0Mm1DcEFYOXRmekZ3VllLS1k?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Anand Shetty",
   "role": "CEO",
   "company": "Cadila Pharmaceuticals",
@@ -187,6 +267,22 @@
   "headline": "​Third Alleged Relationship Surfaces Hours After Nvidia CEO Jensen Huang Resigns",
   "publisher": "The 420.in",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObm5VcW8zRDBVeFdzOG5RVmRwOTAzTWlmTW51aTFDXzdKZHFjSDlTVDBCMzRDeWpiVGhfc1JrZk95X2tjV2JJUEtYV0JCbkx5djhmWHVHWFNlS0dyWld0YkZaM21IdDhwcHd3NnBkLWpNeWdud2I1R0VTM1BxTk9udERJSWE5TG5xemVTeF9OSVB3aU5rQkF0ejRvX1lQUEE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO",
+  "company": "Mystery Heart-Shaped Rose Wreath Arrives at Megaspeed Offices",
+  "movement": "Resignation",
+  "role_group": "CEO",
+  "sector": "Healthcare",
+  "region": "Global",
+  "date": "2026-11-14",
+  "headline": "Mystery Heart-Shaped Rose Wreath Arrives at Megaspeed Offices After Nvidia CEO Jensen Huang Resigns",
+  "publisher": "Wake Up Singapore",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tOUdKOGZWbWhaaG5wLUZhczZzNW9oeTB5MzBDVFZGY2dETTFXRjEzM3BEZnEzNXdYcDRHNTJvOEtEOUVwSml2X2o1M2Z1VGs4aURJTkJvdnlkOE9WbHBV?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -529,14 +625,16 @@
   "movement": "Appointment",
   "role_group": "CFO",
   "sector": "Corporate",
-  "region": "Global",
+  "region": "India",
   "date": "2026-11-13",
   "headline": "Cyient DLM appoints Suresh Narayan as new CFO",
   "publisher": "InvestyWise",
   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kbmJfbGI3Y1JndXQ1RVlKNEZMUFRZMnV3NERVX2dxNVRocXppV1g5U25WdngxdTdHLTd5eVpYeHlFaWF5RDZ3SHowc1d1UlR6a2NBS2FJLWczZUpoenpaRUdCYldHWjRGSDlwbg?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "scanx.trade"
+  ]
  },
  {
   "person": "Mohammed Turra",
@@ -1632,6 +1730,8 @@
    "SAYS",
    "Outlook Respawn",
    "IMPACT Magazine",
+   "BusinessMirror",
+   "NoobFeed",
    "The Straits Times"
   ]
  },
@@ -2358,7 +2458,8 @@
   "moved_from_source": "",
   "also_reported_by": [
    "Adgully",
-   "People Matters - HR News"
+   "People Matters - HR News",
+   "Exchange4Media"
   ]
  },
  {
@@ -68658,6 +68759,24 @@
   "also_reported_by": []
  },
  {
+  "person": "Banker Biji SS",
+  "role": "Executive Director",
+  "company": "Karnataka Bank",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-05-20",
+  "headline": "Karnataka Bank Appoints Veteran Banker Biji SS as Executive Director",
+  "publisher": "Elets BFSI",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbm1OSi1CMkxKMnp0SDZxLUZNRXNlVHZQRkRiQ01TN2NQcjlNQkw5ZlZHX2FqMkFfdWZEcV9JNlpHYnQtTTVCTmpXdEZ6dE4wZWZ2d0N0czU5bFJWOTBSMWdDbDlHQmx2Wm83NEMzX2xVa3ItdHk0NEVyeEMwSmg3WV9ieURscURScm1LcVNHVVpoZ3BZZHdReTNDcEhvVlE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "People Matters - HR News"
+  ]
+ },
+ {
   "person": "Satish Agarwal",
   "role": "CFO",
   "company": "Honeywell Automation",
@@ -68832,22 +68951,6 @@
   "headline": "EisnerAmper India Appoints Karthick Venkatakrishnan As Managing Director, Growth & Strategy",
   "publisher": "BW People",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaldPVU1YS0xWZzBHbUQtWnNObjlObVcxbXdtMmFzS3FkRXZNa1NkZW5LNWJZdHo1UkVicXUzMFptTFN5YTNHUFJZbjdMUWlmU0g4TGhhYzlCa0ZDSTJwT3FzUnE5OWtFQlBzM2xoMEp3T2NCdUx2V2FWMVFOUGtwWExmNXlPX0xRQ3hER1RwY3ZKZ01pc3dqNVdLckdTbkJvQzZ2VTdpN2ZSLTlvN2Vuam0yLXBkcWxZUVAzQW5JYXg5aHV3T3c?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
-  "person": "Banker Biji SS",
-  "role": "Executive Director",
-  "company": "Karnataka Bank",
-  "movement": "Appointment",
-  "role_group": "Board & Directors",
-  "sector": "BFSI",
-  "region": "India",
-  "date": "2026-05-20",
-  "headline": "Karnataka Bank Appoints Veteran Banker Biji SS as Executive Director",
-  "publisher": "Elets BFSI",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbm1OSi1CMkxKMnp0SDZxLUZNRXNlVHZQRkRiQ01TN2NQcjlNQkw5ZlZHX2FqMkFfdWZEcV9JNlpHYnQtTTVCTmpXdEZ6dE4wZWZ2d0N0czU5bFJWOTBSMWdDbDlHQmx2Wm83NEMzX2xVa3ItdHk0NEVyeEMwSmg3WV9ieURscURScm1LcVNHVVpoZ3BZZHdReTNDcEhvVlE?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -95766,7 +95869,8 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "Rediff MoneyWiz"
+   "Rediff MoneyWiz",
+   "Multibagg AI"
   ]
  },
  {
@@ -99332,13 +99436,15 @@
   "role_group": "President",
   "sector": "Pharma",
   "region": "India",
-  "date": "2022-12-09",
+  "date": "2022-12-08",
   "headline": "Lupin appoints Spiro Gavaris as President for US generics business",
   "publisher": "Express Pharma",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdDBRc2RtV3REeWl4UG9fUFlJR1l6Q3k1TklEd0ZJVnJPTmF4aU9sY3ZRMXNPYmlQM1JxWjl2Ymo2WEgtUEVVQTdoVDVsNG9EUEtsU0VVZHdNOTJYS212WGI1b2pKR2RBWXU2V3VSZE16TTNPR1JYX2k2ZVViWFFSYUc2SHFWNlZSOUlSdDFUNk5uNHYwQ0JEemcwMlM?oc=5",
   "moved_from": "",
   "moved_from_source": "",
-  "also_reported_by": []
+  "also_reported_by": [
+   "Lupin"
+  ]
  },
  {
   "person": "Arun Kumar Singh",
