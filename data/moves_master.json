@@ -1,5 +1,21 @@
 [
  {
+  "person": "Christine Morris",
+  "role": "CFO",
+  "company": "Enerflex",
+  "movement": "Appointment",
+  "role_group": "CFO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-19",
+  "headline": "Enerflex names Christine Morris as new CFO starting January 2027",
+  "publisher": "StreetInsider",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcFctOWladXVuT0VEdGlpektjZmdqU2tvM0xTYlo3Q2JDQTY2SjFXaTFNVUVleWxqR2QyZVVNb1h3NTRSbXdXTHJJTGZjRWxRalNTRzRucmtZZnFzMFphQjJLR2hGVjA5a1g3Z3BXc1BrOWUzd0tfVlRzX2o4Rk4yOFVBNzc2T0JkVjM4RU5uOEpPSmtKTTc1eEpGWHZSTWh0UW1vaE5pekZIcUZFMU9DdTg1dUZiejRDZU1hTEhKdWtJa3JsZ0E?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Michelle Yanez",
   "role": "CFO",
   "company": "Verde Resources",
@@ -165,22 +181,6 @@
    "The Financial Express",
    "Travel Daily News Asia-Pacific"
   ]
- },
- {
-  "person": "Udaya Kumar Hebbar",
-  "role": "MD & CEO",
-  "company": "Karnataka Bank",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "BFSI",
-  "region": "India",
-  "date": "2026-11-18",
-  "headline": "Karnataka Bank appoints Udaya Kumar Hebbar as MD & CEO for three years",
-  "publisher": "",
-  "link": "https://www.business-standard.com/companies/news/karnataka-bank-appoints-udaya-kumar-hebbar-md-ceo-three-years-126111800470_1.html",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
  },
  {
   "person": "Rashid Bashir",
@@ -455,6 +455,22 @@
   "headline": "Vishnu Kanth Gokul appointed Hungama’s CRO",
   "publisher": "Exchange4Media",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmgtVl9DZUg5aDZoZVQzR1hXZTRFOHYwZXBWclJzMnFNRXVRMk9udC1lYUtKMU1LeXBxckxXMFg4dmYxWnZucmVvS0RQOTA0QjZtWGZGMjFyOEVBQ2Y0S1FmQmtGTk9VRlVOa2ZtRW1kTW0yOUlOb2pCNGpPQzlnYjUtcjBLRFJYaWJ3MjRkeURvaUJ6b191clRDd0ZCRnh5VHpaYmROTEw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Trev Alberts",
+  "role": "Director",
+  "company": "athletic",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-18",
+  "headline": "University of Michigan students react to Texas A&M's Trev Alberts named athletic director",
+  "publisher": "CBS News",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWNZSGkyMUlxWEQyNkt2cmdIeEVkWlo4ZXhQa0hkYVpnRlJUUjJFdTJTcEp6eXlfMGxyUDJlMllsb2NmR3U2V1VmbmtlUm95MkxlWWk3LURSWUV2STR4emktSmNITEprRDZZckV4ZGNtVXNuNlVhMkpxMnk5TWgyOTkwSWZCMTlMRWVIVzdkMnF3czM2UGlKN0t4dDBpbnZfTHJJZ1duQWx4Zw?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -1860,6 +1876,24 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
+ },
+ {
+  "person": "Udaya Kumar Hebbar",
+  "role": "MD & CEO",
+  "company": "Karnataka Bank",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-11-16",
+  "headline": "Karnataka Bank appoints Udaya Kumar Hebbar as MD & CEO for three years",
+  "publisher": "",
+  "link": "https://www.business-standard.com/companies/news/karnataka-bank-appoints-udaya-kumar-hebbar-md-ceo-three-years-126111800470_1.html",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "India Business Trade"
+  ]
  },
  {
   "person": "Shobhit Jain",
