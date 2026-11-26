@@ -1,5 +1,37 @@
 [
  {
+  "person": "Professor Transform Aqorau",
+  "role": "Vice Chancellor",
+  "company": "USP",
+  "movement": "Appointment",
+  "role_group": "Academic Leadership",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-26",
+  "headline": "Professor Transform Aqorau appointed next USP Vice-Chancellor",
+  "publisher": "The Fiji Times",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDhUd0xkZGVnNFZkTHJUbF8yVHpNWDMyWHBxcVdXT2EwUlRaZE90ck9ZcTRrUGw5Y1hUOVBjai13aGszY015LWVXTlVfTmVfMFphYW1JWjZWTWw1Vmh6NTZ4MGtnLTdlR2pudTlsbVRNUUcyVHpybG5tUHJ6NXdlWnp0OUY3YlFfRUk4VHRIVXNma2xTdHc?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Stuart Green",
+  "role": "President & COO",
+  "company": "PurpleLab",
+  "movement": "Appointment",
+  "role_group": "COO",
+  "sector": "Pharma",
+  "region": "Global",
+  "date": "2026-11-26",
+  "headline": "Stuart Green Named President & Chief Operating Officer at PurpleLab",
+  "publisher": "https://hrtoday.in/",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObXJxRmozSUM1ajBxcVBEZlZXTnRfQVNncUttUzJmQWI3VG5ZVFFRME5lVHhOaTJRbDMwalM2cWl0XzRaY1hmUzNwQ200UmNKdnFiQTZUYzcxVnNpSGdHdkQxalVvLU1IRklzZkxPUXY3bUVGOThOS3c2MzBya0xRY1F6bmJvcUVXRldGc3ZR?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Michael Kreppel-Friedbichler",
   "role": "COO",
   "company": "AOP Health",
@@ -158,7 +190,13 @@
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": [
-   "The Financial Express"
+   "The Financial Express",
+   "Reuters",
+   "Adgully",
+   "Forbes India",
+   "CNBC TV18",
+   "Business Today",
+   "Bhaskar English"
   ]
  },
  {
@@ -286,6 +324,86 @@
   "headline": "Barun Gupta elevated to CEO of INDEVA Hotels & Resorts",
   "publisher": "ET TravelWorld",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd19iZmZZbktlc3JZLXQ4OC1zekhscUx3ZExDblpia1VUYTV4SDEyUm1ERUNzeklIc3hUYmtXZ2dSbzdBVzM5LTZOa2FzNVdLdVhidDI3d3FtSXVTX1YyQWNncE9VUC1YYmFzUG9kUHhtRXNxZVVBM1Nqb1FKOWxVbXQ5QWhReHBMeVB0blppeFVVRnFYRGxSNUtHMUdSWlc2OWVrLXV6NGs4TDROWEVjWm84b3U0dXlHQWlDTGlTQdIBvwFBVV95cUxQd19iZmZZbktlc3JZLXQ4OC1zekhscUx3ZExDblpia1VUYTV4SDEyUm1ERUNzeklIc3hUYmtXZ2dSbzdBVzM5LTZOa2FzNVdLdVhidDI3d3FtSXVTX1YyQWNncE9VUC1YYmFzUG9kUHhtRXNxZVVBM1Nqb1FKOWxVbXQ5QWhReHBMeVB0blppeFVVRnFYRGxSNUtHMUdSWlc2OWVrLXV6NGs4TDROWEVjWm84b3U0dXlHQWlDTGlTQQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Ballama Manu",
+  "role": "Chairman",
+  "company": "Former NRS",
+  "movement": "Resignation",
+  "role_group": "Chairman",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-11-25",
+  "headline": "Former NRS chairman Ballama Manu resigns from PZ Cussons board",
+  "publisher": "QED.NG",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbWl1X1I2c0ktNW5jR0xZbE5Wb2dTVHdqQldYV3JDcExLVWdBZ2tpS1daSEdpYXBCSkJWcldLeVo1MnZGSjY3elBWTXBCR1I4SjNtZFNxbzJEZE14cVpVZkgwVVdDS29QTHh6d0tSU0JwYmxHVXRIRlNVRzFWNEpSUmEtWHRyQlRFRGc?oc=5",
+  "moved_from": "NRS",
+  "moved_from_source": "headline",
+  "also_reported_by": []
+ },
+ {
+  "person": "William Best",
+  "role": "President & CEO",
+  "company": "Conestoga College",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-25",
+  "headline": "Conestoga College appoints William Best as new President and CEO",
+  "publisher": "CityNews Kitchener",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2tHUC00WTM0dXVZczF2NE9NcUJBS01vUXItZXdXWTdiUlMwRTZpY3RlS2ZySTF6X1N4eUxXRTVTaExuMzYwTXpBM2pZUGZza2tVU0Fyd2NzcXRaZHpteDNDUktDSGdEdF9NSmVqb1g0VUVHYVdJbTY5M3dabEUzYlpOa3Y4Z2ZqQmJkTzM3aUdDWkVHSVRLZFNPNTBVazhQUXVqOUpXc21UUQ?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Alon Sheinberg",
+  "role": "MD",
+  "company": "Dresner Partners",
+  "movement": "Appointment",
+  "role_group": "MD",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-25",
+  "headline": "Alon Sheinberg Joins Dresner Partners as Managing Director",
+  "publisher": "The Manila Times",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWERtZkdzaWdkaW5CWG9EV21KdnNOSE56eWRVSVNfODk5TDJ1dkpMZ0hQMWNFdXU0SHJyU3pRVnJJalVfSFpUU0NiN0xEMzhkOWFHNTM0bjctWTFId0xQdGs3cnhib0ttLXo4Z18xc0J1S1lwV0ROTnc4X21CSEFfaUd2R2FZOHM1XzBkTFV3UUxKbUc5cXR4Q190Q3JadmhvMXVoMGQ3QXZYYlA4NFdoZEVGVmxMSFJNUFotMmtfajNucy01dDV5SmdOb9IB0AFBVV95cUxPeEV0cG4tMzl6aUVFTmhXV01QVkFvWHQxclVra2FobTZfaHFPdWhNQnJKYW5IODFNNGY4d05mZmYwaTNHQzJwWGJta0dGaUNxSzA3YlZkVWNCMFQ2UWJGU0JueXJ2dExlVlVaVV83STdLRGduUm9BZDNTQzhocVZoVXM1Uk1Td3M5ZTJlMmhyU1V1Y3dtSFlXVmwyYy03dk5uVXdCOVV0N1pNVTZ3S0FJN0duTFZ1WjMzUGlPdDdvRFZldTg1QmcwQWZzWTNKTGlI?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Alon Sheinberg Managing",
+  "role": "Director",
+  "company": "Dresner Partners",
+  "movement": "Appointment",
+  "role_group": "Board & Directors",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-25",
+  "headline": "Dresner Partners Names Alon Sheinberg Managing Director",
+  "publisher": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVRXOXFpeXRydzBZUThMQ3RfSjlQOVNDNDJHRFZ1cGNiY1IwT25lUzBhTWtQMEQ5MGUwb2xCa3VPRGE0YmNLMDZybXJLaDVIekZaTXpyNjNIOGw4SWdfSktocmlvOE81Q1ZHVjNoWWdSNmYxMFNxQUZGLWlUaHF4ZzE0RzUzZmM0T3pwcEg0OGl5MW01d2Nkb1RXQ3lrNXVzdHFraE5XbzRVY28zZ1pXRg?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Shelley Estcourt",
+  "role": "Group CEO",
+  "company": "TASC",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Education",
+  "region": "Global",
+  "date": "2026-11-25",
+  "headline": "TASC appoints Shelley Estcourt as group CEO to lead expansion of African carbon project portfolio",
+  "publisher": "Africa Sustainability Matters",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTlVDczQtUnlhdnE1Nk1QOGc5MXAxeW9FbF8xeW5wR2o2NmtJNkp4bWJfZWlKU1B6bjdYakFrN3RHZ2xIRGNKZHRtVjRZZVA4elpXRGw5YWlFNkdadGFHemRiQmdlb0VGMGpMbk9XRWl1Z3A2VGh2eGNFX1ZyS2habUs0QS1YVHYxNXRWUF9YZGpLMHVIX21YM2xZUHVZdExjWXVyVERXTXotRlFVUmkwTV9xdG95RFFncno5S1EyeEc0Y2ZyaVZaOGx4SlY0TWlOUnN1MA?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -940,6 +1058,22 @@
   "also_reported_by": []
  },
  {
+  "person": "Andrew Lau",
+  "role": "CFO",
+  "company": "Rocket Doctor AI",
+  "movement": "Resignation",
+  "role_group": "CFO",
+  "sector": "BFSI",
+  "region": "Global",
+  "date": "2026-11-24",
+  "headline": "Rocket Doctor AI CFO Andrew Lau resigns",
+  "publisher": "TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUXNyUGp2Nlk5UXpncjNXa2tYbkJzVVdfa19yWk94OWZpN1MwNFVFV0VyZzc5dnlyWmlQUndvcjMxMmNDb2ktb0p6R0FJNFhFRXFmZDlkQ2VXVFBobk5UcWdhTGE5V3NrbXRCQjhQOUEtbUFTd21VUjZadW9xUWZqUkZlTFNZc3hMSzNoQnFFTFJSQmRfWU1yMFdiVkZYQ2Y3cmZqdw?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Gurpreet Dhillon",
   "role": "Dean",
   "company": "Interim College of IS&T",
@@ -974,7 +1108,8 @@
    "NDTV Profit",
    "People Matters - HR News",
    "Food Business Middle East & Africa",
-   "Storyboard18"
+   "Storyboard18",
+   "People Matters Global"
   ]
  },
  {
@@ -5945,6 +6080,38 @@
   "also_reported_by": []
  },
  {
+  "person": "Pratap Singh",
+  "role": "MD & CEO",
+  "company": "Fino Payments Bank - People Matters",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-11-13",
+  "headline": "RBI approves appointment of Pratap Singh as MD & CEO of Fino Payments Bank - People Matters",
+  "publisher": "People Matters - HR News",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd0NKOGxwU0lmU0w1dEZ4SDRUbWdsbHJBTE1xWGJsX3VTZ19ZcER0cC1Jbk9zYnJDVk1BSWxrZXQ4OWNRc3dMYkdQS1JsWnp1YkM0Q2ZSM2c3SE8wdk5kXzU3RTMzclVDa2E2Vm5sSm5QT1RoQVhGU01xcVozb0V0VGZYSE5ENy1OVnRpWEFpNnF2ZWdmYlVsWjAta0JhUDIwck5FN00tRkU0Mk5uNGowUWdPRG1IS1hySVllc0hDVWhkZE52Uzl5d0E4NA?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "TipRanks",
+   "Business Standard",
+   "BusinessLine",
+   "The Economic Times",
+   "Daijiworld",
+   "Moneycontrol.com",
+   "Storyboard18",
+   "Adda247",
+   "Elets BFSI",
+   "Rediff MoneyWiz",
+   "scanx.trade",
+   "Sahi",
+   "NewsBytes",
+   "ETHRWorld.com"
+  ],
+  "article_url": "https://bfsi.eletsonline.com/fino-payments-bank-names-pratap-singh-as-md-and-ceo/"
+ },
+ {
   "person": "Robert Davey",
   "role": "Director",
   "company": "NEIDL",
@@ -5996,37 +6163,6 @@
   "also_reported_by": [
    "WWD"
   ]
- },
- {
-  "person": "Pratap Singh",
-  "role": "MD & CEO",
-  "company": "Fino Payments Bank - People Matters",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "BFSI",
-  "region": "India",
-  "date": "2026-11-13",
-  "headline": "RBI approves appointment of Pratap Singh as MD & CEO of Fino Payments Bank - People Matters",
-  "publisher": "People Matters - HR News",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd0NKOGxwU0lmU0w1dEZ4SDRUbWdsbHJBTE1xWGJsX3VTZ19ZcER0cC1Jbk9zYnJDVk1BSWxrZXQ4OWNRc3dMYkdQS1JsWnp1YkM0Q2ZSM2c3SE8wdk5kXzU3RTMzclVDa2E2Vm5sSm5QT1RoQVhGU01xcVozb0V0VGZYSE5ENy1OVnRpWEFpNnF2ZWdmYlVsWjAta0JhUDIwck5FN00tRkU0Mk5uNGowUWdPRG1IS1hySVllc0hDVWhkZE52Uzl5d0E4NA?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "TipRanks",
-   "Business Standard",
-   "BusinessLine",
-   "The Economic Times",
-   "Daijiworld",
-   "Moneycontrol.com",
-   "Storyboard18",
-   "Adda247",
-   "Elets BFSI",
-   "Rediff MoneyWiz",
-   "scanx.trade",
-   "Sahi",
-   "NewsBytes"
-  ],
-  "article_url": "https://bfsi.eletsonline.com/fino-payments-bank-names-pratap-singh-as-md-and-ceo/"
  },
  {
   "person": "Associate Professor Ki Hyekyung",
@@ -6529,6 +6665,22 @@
   "article_url": "https://bfsi.eletsonline.com/ctf-life-names-charles-hung-as-ceo-succeeding-man-kit-ip/"
  },
  {
+  "person": "Suraj Singh",
+  "role": "Head",
+  "company": "Zee Studios Business",
+  "movement": "Appointment",
+  "role_group": "Business Heads",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-11-12",
+  "headline": "Suraj Singh takes charge as Zee Studios Business Head; eyes bigger multi-language film slate",
+  "publisher": "Fortune India",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDhZTVE4enhkRk1wN1F2MzVpYm9HSXRpeUt2MkU2RktOMnpXTUNuY0JMMG9EbzUyMm5jSGxkTm5oSUR6UW5lMUZBMU9VUEZibmlLTW5oam84T3NGajRJTG9LYzJVX19jYV9ISHNTeV82Mm02cHpJY21CZ0FXSEtZSy1NbnNwQWVLSllGamp6UHoxZzdGU3RHWE5ELV9ZVlZ3eU1aVGV4VVRYM0pVYjR2ZFBnN3dfUkhGdl9OUnhvWHVjOWJPaGhMYlNLVUVwMlQxVGxLdW9sTUnSAeYBQVVfeXFMTjkxdDZlcktvQVd6Z195cmIzY3hRclAxQUx5Zy1RVXFkX3VoWDMyRFdSUlR4U0lqYUY5dm9zOEZ5akxac3VWNDFua1BMSk40UzF1RlpFaks1RVFCMkkxXzBieWY3bm42R1FhbGFfRU92a0J4ZXhWSEYwQVdINDdJR3dGN3lUQ1k2WUxweE5VQnJ5MXViNUN4aWFuV0c4S1haOEd2ZjhRTGpiRFB5bTVjTWtZNzIycmNWQ0VvQl9XR1NtWHpiMlhPSlVEWDhZUGFnWkZDTnlzUmxhS3hGN1NMQVQxTzNLc2c?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
   "person": "Jensen Huang",
   "role": "CEO",
   "company": "Instant view",
@@ -6648,22 +6800,6 @@
   "headline": "University of Jos Appoints First Female Vice-Chancellor",
   "publisher": "Head Topics",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2phWXJITXdlLV9weVNicWtETmRDUVRSWkl6ZU5MSnNTY3M4Zkk3cDFhNmRiRGRmSXRFTGhYcjM0VEw3YlZPT2VHYlU0SU9GamJzVldNYTJqWjEwUTU5cHJIclA5eFMwZmpvNUtZV3hTUjVrM2hsNHR4UE9lRjFMY0x5eURFdEYtclJ0UXEyNmg2ZjFESlJOSkZfaw?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
-  "person": "Suraj Singh",
-  "role": "Head",
-  "company": "Zee Studios Business",
-  "movement": "Appointment",
-  "role_group": "Business Heads",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-11-12",
-  "headline": "Suraj Singh takes charge as Zee Studios Business Head; eyes bigger multi-language film slate",
-  "publisher": "Fortune India",
-  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDhZTVE4enhkRk1wN1F2MzVpYm9HSXRpeUt2MkU2RktOMnpXTUNuY0JMMG9EbzUyMm5jSGxkTm5oSUR6UW5lMUZBMU9VUEZibmlLTW5oam84T3NGajRJTG9LYzJVX19jYV9ISHNTeV82Mm02cHpJY21CZ0FXSEtZSy1NbnNwQWVLSllGamp6UHoxZzdGU3RHWE5ELV9ZVlZ3eU1aVGV4VVRYM0pVYjR2ZFBnN3dfUkhGdl9OUnhvWHVjOWJPaGhMYlNLVUVwMlQxVGxLdW9sTUnSAeYBQVVfeXFMTjkxdDZlcktvQVd6Z195cmIzY3hRclAxQUx5Zy1RVXFkX3VoWDMyRFdSUlR4U0lqYUY5dm9zOEZ5akxac3VWNDFua1BMSk40UzF1RlpFaks1RVFCMkkxXzBieWY3bm42R1FhbGFfRU92a0J4ZXhWSEYwQVdINDdJR3dGN3lUQ1k2WUxweE5VQnJ5MXViNUN4aWFuV0c4S1haOEd2ZjhRTGpiRFB5bTVjTWtZNzIycmNWQ0VvQl9XR1NtWHpiMlhPSlVEWDhZUGFnWkZDTnlzUmxhS3hGN1NMQVQxTzNLc2c?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -34555,6 +34691,24 @@
   "also_reported_by": []
  },
  {
+  "person": "Haryana DGP O P Singh",
+  "role": "CEO",
+  "company": "anti-drug body SANKALP",
+  "movement": "Appointment",
+  "role_group": "CEO",
+  "sector": "Pharma",
+  "region": "India",
+  "date": "2026-09-29",
+  "headline": "Former Haryana DGP O P Singh appointed CEO of new anti-drug body SANKALP",
+  "publisher": "Legend Officers",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdmFUWkgwQ2xQd3M3M2dEZ2I5RVRYTVhjcUVyODM3bnVlMEltM09vX1JrajduaE9OaTExUmtXQ1p4V2xoZ1BzbEYyM3VIakZaNmVvQjA0Z1Bua1NicDlJS2FZMHM3TnRoSlJpOTFjd1pnN1BBLTBUUENTNDVRX3h2b2lzSkxHcWs2RmhVSHZ3NXA3Q3BNUjZXcFJvMk9fSUstZFE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "thestatesman.com"
+  ]
+ },
+ {
   "person": "Ashis Kumar",
   "role": "MD & CEO",
   "company": "LIC Mutual Fund",
@@ -34574,24 +34728,6 @@
    "People Matters - HR News",
    "Fortune India",
    "afaqs!"
-  ]
- },
- {
-  "person": "Haryana DGP O P Singh",
-  "role": "CEO",
-  "company": "anti-drug body SANKALP",
-  "movement": "Appointment",
-  "role_group": "CEO",
-  "sector": "Pharma",
-  "region": "India",
-  "date": "2026-09-29",
-  "headline": "Former Haryana DGP O P Singh appointed CEO of new anti-drug body SANKALP",
-  "publisher": "Legend Officers",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdmFUWkgwQ2xQd3M3M2dEZ2I5RVRYTVhjcUVyODM3bnVlMEltM09vX1JrajduaE9OaTExUmtXQ1p4V2xoZ1BzbEYyM3VIakZaNmVvQjA0Z1Bua1NicDlJS2FZMHM3TnRoSlJpOTFjd1pnN1BBLTBUUENTNDVRX3h2b2lzSkxHcWs2RmhVSHZ3NXA3Q3BNUjZXcFJvMk9fSUstZFE?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "thestatesman.com"
   ]
  },
  {
@@ -44480,22 +44616,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Rajesh Jain",
-  "role": "President",
-  "company": "GAIL Global (Singapore) Pte",
-  "movement": "Appointment",
-  "role_group": "President",
-  "sector": "Corporate",
-  "region": "India",
-  "date": "2026-09-14",
-  "headline": "Rajesh Jain Takes Charge as President of GAIL Global (Singapore) Pte Limited",
-  "publisher": "hrtoday.in",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFhkODQ3cmM5eU42RVltanh1SVdEYlpZci14T1dDOHMwd05vYU95cmNTdEQtUDh5bkpoQkE4M0VXQXBGemVMX3ppampRWW11dlBmZ2NEWTdjbGdyMGMzNG5JU0s4b0xjR0lKcS1zckwtc1ZTODd4YXA4eE1xMG15cjV2bW02UnJwNG5VbzZHYU1feGcyZWpjXzhn?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": []
- },
- {
   "person": "Tata Steel’s Shubhra Singh",
   "role": "CHRO",
   "company": "TRF",
@@ -44525,6 +44645,22 @@
   "headline": "Retail India News: Da Milano Appoints Piyush Singh as CEO",
   "publisher": "Indian Retailer",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkNhUkMwbDdfUUQ5UHdyVmpzeUZqU25kZG9VVGtPVTRtRnhmT3BDb3l4OUdIMC1ncnhGU2pKT1h5OFFZWDdTM1QtX0lEcHZ4YVBOWklZdGh3MGVMMXExLUpWOWpCNGdNYjhCdEJ0X2UxaHA1OXBHMzNBZU9qdFdMdDhJb1BQSlBDdmdPVDc5QkVpbVE?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Rajesh Jain",
+  "role": "President",
+  "company": "GAIL Global (Singapore) Pte",
+  "movement": "Appointment",
+  "role_group": "President",
+  "sector": "Corporate",
+  "region": "India",
+  "date": "2026-09-14",
+  "headline": "Rajesh Jain Takes Charge as President of GAIL Global (Singapore) Pte Limited",
+  "publisher": "hrtoday.in",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFhkODQ3cmM5eU42RVltanh1SVdEYlpZci14T1dDOHMwd05vYU95cmNTdEQtUDh5bkpoQkE4M0VXQXBGemVMX3ppampRWW11dlBmZ2NEWTdjbGdyMGMzNG5JU0s4b0xjR0lKcS1zckwtc1ZTODd4YXA4eE1xMG15cjV2bW02UnJwNG5VbzZHYU1feGcyZWpjXzhn?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
@@ -54219,28 +54355,6 @@
   "also_reported_by": []
  },
  {
-  "person": "Tarun Rustagi",
-  "role": "CFO",
-  "company": "Canara HSBC Life Insurance",
-  "movement": "Resignation",
-  "role_group": "CFO",
-  "sector": "BFSI",
-  "region": "India",
-  "date": "2026-08-31",
-  "headline": "Canara HSBC Life Insurance CFO Tarun Rustagi Resigns Effective November 24",
-  "publisher": "whalesbook.com",
-  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLTk3Q0J6Q3lUQk9DbEdQT0lBaEFZRzFyNm5oSWRXZmxwRWkxVU92ZmdkVVJ2bWJIZWRXaGE4bDYtcnBKUmthdmpQUWZlTld0VzZXZ05xcDdxbmNDLXNpTnc0VlFjZjhoTWU3RWZVcmVvYlBYNk43QUg0a1Y2REJkNTFEOW9hOFotamczdlpfR1Q0VjJ2NlhEaTVTNXZlVHBZZ21PNmdVSGhBclY2OVdSME1YU3Y3LVBYRFBKOVo3SnFHelNwa19qSEs2aE1za3VCVDdZblI0bkdBSnFndkJJSWRyUnFmbjBLZzBVOFJYWk0?oc=5",
-  "moved_from": "",
-  "moved_from_source": "",
-  "also_reported_by": [
-   "scanx.trade",
-   "PSU Connect",
-   "The Financial Express",
-   "BusinessLine",
-   "Sahi"
-  ]
- },
- {
   "person": "Suryaveer Singh",
   "role": "CEO",
   "company": "Trance International Hotels & Resorts",
@@ -54272,6 +54386,28 @@
   "moved_from_source": "",
   "also_reported_by": [
    "exchange4media.com"
+  ]
+ },
+ {
+  "person": "Tarun Rustagi",
+  "role": "CFO",
+  "company": "Canara HSBC Life Insurance",
+  "movement": "Resignation",
+  "role_group": "CFO",
+  "sector": "BFSI",
+  "region": "India",
+  "date": "2026-08-31",
+  "headline": "Canara HSBC Life Insurance CFO Tarun Rustagi Resigns Effective November 24",
+  "publisher": "whalesbook.com",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLTk3Q0J6Q3lUQk9DbEdQT0lBaEFZRzFyNm5oSWRXZmxwRWkxVU92ZmdkVVJ2bWJIZWRXaGE4bDYtcnBKUmthdmpQUWZlTld0VzZXZ05xcDdxbmNDLXNpTnc0VlFjZjhoTWU3RWZVcmVvYlBYNk43QUg0a1Y2REJkNTFEOW9hOFotamczdlpfR1Q0VjJ2NlhEaTVTNXZlVHBZZ21PNmdVSGhBclY2OVdSME1YU3Y3LVBYRFBKOVo3SnFHelNwa19qSEs2aE1za3VCVDdZblI0bkdBSnFndkJJSWRyUnFmbjBLZzBVOFJYWk0?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": [
+   "scanx.trade",
+   "PSU Connect",
+   "The Financial Express",
+   "BusinessLine",
+   "Sahi"
   ]
  },
  {
@@ -70953,6 +71089,22 @@
   "headline": "Majdouline Fakih takes over as CEO of Saham Capital Gestion, opening a new cycle for asset management in Morocco",
   "publisher": "Capmad",
   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaGt4S2thSjFvUnhDbzNzbTN1aEVCVXByMkROTVAwNXgyTDFkWGZoY1BuWFVJaDZKd1J2dThYZjNrcEVIVGl4ZXBfeVVwS3c4MXlUaDZfMThmVWpER29JLWpKRTdyVk40WUNPX01DWHNjSDJqM1h4ekp0ZW5WeWtQSGg5LU5KZkhycWxqVmpiR1VZMGtGUVR6RVMtZkVZcjdjbVQ3WC1wZGNlS0NTS2NLT005YzVGb2d3QlhoUkdUaUt3R3JfV0NIOG52V2JpVk5LN2xaSjZn?oc=5",
+  "moved_from": "",
+  "moved_from_source": "",
+  "also_reported_by": []
+ },
+ {
+  "person": "Geetika Anand Gupta",
+  "role": "Group Chief Marketing Officer",
+  "company": "Kouzina Food Tech",
+  "movement": "Appointment",
+  "role_group": "CMO",
+  "sector": "Corporate",
+  "region": "Global",
+  "date": "2026-06-22",
+  "headline": "Kouzina Food Tech appoints Geetika Anand Gupta as group chief marketing officer",
+  "publisher": "ET HospitalityWorld",
+  "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZEllSWdwNkxTRkNHTjZENUgycHkyVmM0T2lwQm9WUkFUMEdMZnhUY0NyRTc1N1BvaUMtNjFiZGJ2c1NybElabTNvckNVaXV1WlYzZmgxdEFqVG5vdjVMRHc1djNIRmZ3WnMxbFNGV3lhOW1taEhvTDBkdk9mOUVUM0NlNEZLOFBxdW11MmNEVnJJSU1nT3ZEN1VvakttRGdHS2dVYnI3eTk5UHNoUm5faUFLSXJTUjdtTVcydmZFSFBISDd5NkFSbUc2UF9QSVNQLXk1c1JZWjZvVUdFSVFObWFQOEtlYXRSeGJlaXdwMzhsTUhsZy01VXZnOGwzMEh4ZFQ40gGIAkFVX3lxTE5YZEpPSjZWTWc3TDBGRXllT25lTFkzaF8wSWd1M2hKZnJ1ZW5pSlc1MUJVa21Wb2lYUzFucldhWFBiUXVLTnZTMy1aUGxkamY2cGRaa2FmaVlwQkEta0xzT09ObG9BLTM2bmNkSlpjME00ZDJnN0laeW5ueEJaZkg5STJMVjMyM25qOGYza1F0bHpWdVA4VmRpVmR3LTlYLUx1U3RVNkhQQlpzTTRCb0Vqb3N6R3paRHJNWF9ZMHhZb2pwWWstS0NWZGlxU25UREN4djFvREVxcjZLY1JOblRsSUdGdkprVG9CT0xwTDEzbVNPRlFBSlBCQzYyMXZoZFZFWjg4NU80UQ?oc=5",
   "moved_from": "",
   "moved_from_source": "",
   "also_reported_by": []
